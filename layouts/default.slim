@@ -11,8 +11,9 @@ html.govuk-template lang='en'
       == render '/partials/breadcrumbs.*'
 
       main#main-content.govuk-main-wrapper
-        h1 = item[:title] || 'Insert title here'
-
-        == yield
+        .govuk-grid-row
+          .govuk-grid-column-two-thirds
+            h1 = item[:title] || 'Insert title here'
+            == yield
 
     == render '/partials/footer.*'

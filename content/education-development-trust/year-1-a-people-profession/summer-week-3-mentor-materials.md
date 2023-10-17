@@ -25,7 +25,7 @@ Learn how to build effective working relationships, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Start the topic by asking the ECT for feedback on the pupil voice activity from the last topic:
 
@@ -36,7 +36,7 @@ The mentor should use these findings to reinforce the importance of trust, respe
 
 The findings of the pupil voice activity might be useful for Training topic 6.2.
 
-###Working with the SENCO (20 minutes)
+### Working with the SENCO (20 minutes)
 
 Direct the ECT’s attention to self-directed study materials Activity 6.4: Working with the SENCO.
 Ask the ECT to identify what they have learned from their visit to discuss the pupils they teach with their SENCO. In particular, discuss:
@@ -47,7 +47,7 @@ Ask the ECT to identify what they have learned from their visit to discuss the p
 - How the ECT can make explicit links to these to support their pupils<
 - Any approaches they have used to date, and the impact they have had for the pupils, and on their practice.
 
-###Working with the careers advisor and/or pastoral leader (20 minutes)
+### Working with the careers advisor and/or pastoral leader (20 minutes)
 
 A careers advisor and/or pastoral lead from school could be invited to come along to this part of the topic. In advance, mentors should:
 

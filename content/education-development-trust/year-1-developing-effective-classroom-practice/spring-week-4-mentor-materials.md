@@ -25,7 +25,7 @@ Learn how to provide opportunity for all pupils to experience success, by:
 
 ### Activities
 
-###Recognising that pupils are different (15 minutes)
+### Recognising that pupils are different (15 minutes)
 
 Guidance for mentors
 
@@ -57,7 +57,7 @@ Suggested dialogue for mentors: You will have completed Activity 4.3: Learning a
   - Pupils will have different levels of prior experience, which influences their learning
   - You want all pupils to succeed, and have high expectations of them all, so you need to take into consideration how you can best support all pupils
 
-####Considering barriers to learning:
+#### Considering barriers to learning:
 
 Suggested dialogue for mentors: Sometimes our pupils present certain behaviours, which inhibit their ability to learn. It is important that we get ‘under the skin’ of such behaviours to understand why they are happening. For each of the following, what might be the impact?
 
@@ -83,7 +83,7 @@ Some prompts:
 - Start each new topic by finding out what pupils already know and where there are gaps
 - Provide opportunities for some pupils to catch up in small groups.
 
-###Reflecting on your class’s needs (20 minutes)
+### Reflecting on your class’s needs (20 minutes)
 
 Read together the following information found within the self-directed study materials:
 
@@ -101,7 +101,7 @@ Ask the ECT to think about their class or a specific class if they teach multipl
   - Have you spoken to any colleagues to find out more about each pupil? If yes, what did you learn? If no, who could you ask?
   - Have you spoken to pupils’ parents? What has that revealed?
 
-###Adapting lessons ‘in the moment’ (20 minutes)
+### Adapting lessons ‘in the moment’ (20 minutes)
 
 Watch the video together from the self-directed study materials on ‘Assertive Monitoring’
 

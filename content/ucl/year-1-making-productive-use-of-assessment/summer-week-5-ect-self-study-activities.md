@@ -18,7 +18,7 @@ As you work through the activities in this week’s self-directed study session 
 
 As explained in the Research and Practice Summary, ‘efficiency’ refers to the reduction of waste. You can think of efficiency as having two key aspects in relation to assessment: time taken and impact on learning. The more efficient an approach is, the more impactful the time taken is for pupil learning. In relation to marking and feedback, ‘waste’ could relate to each of the factors in the table below. The table includes ways to improve efficiency, in each case:
 
-####Factor affecting overall efficiency: The amount of time teachers spend assessing pupils’ work and providing feedback.
+#### Factor affecting overall efficiency: The amount of time teachers spend assessing pupils’ work and providing feedback.
 
 ##### Improving efficiency
 
@@ -27,27 +27,27 @@ As explained in the Research and Practice Summary, ‘efficiency’ refers to th
 - Give feedback to pupils in small groups or as a class rather than individually.
 - Engage pupils in peer-assessment and/or self-assessment, where appropriate.
 
-####Factor affecting overall efficiency: The amount of time pupils take to make sense of, engage with and respond to feedback.
+#### Factor affecting overall efficiency: The amount of time pupils take to make sense of, engage with and respond to feedback.
 
 ##### Improving efficiency
 
 - Improve clarity and/or organisation of feedback so it clearly highlights guidance on how to improve and encourages further effort.
 - Reduce the volume of feedback given to avoid the chance of ‘the signal being lost in the noise’.
 
-####Factor affecting overall efficiency: The time lag between pupils completing a task and receiving feedback.
+#### Factor affecting overall efficiency: The time lag between pupils completing a task and receiving feedback.
 
 ##### Improving efficiency
 
 - Give feedback during lessons where possible, or as soon after the task is completed as possible.
 
-####Factor affecting overall efficiency: The consistency of messaging to pupils about what constitutes high-quality work and/or progress.
+#### Factor affecting overall efficiency: The consistency of messaging to pupils about what constitutes high-quality work and/or progress.
 
 ##### Improving efficiency
 
 - Be clear about success criteria before pupils begin working. Include models of high-quality work, where possible.
 - Regular planning and review among all colleagues working with pupils to standardise and moderate expectations.
 
-####Factor affecting overall efficiency: Impact on pupils’ learning.
+#### Factor affecting overall efficiency: Impact on pupils’ learning.
 
 ##### Improving efficiency
 

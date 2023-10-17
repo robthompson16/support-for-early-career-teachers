@@ -21,7 +21,7 @@ Learn how to build trusting relationships, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 In this first topic, the mentor should explain to the ECT the importance of beginning the mentor topics with a shared understanding of this module.
 
@@ -41,7 +41,7 @@ Make sure the following key points are covered in the discussion:
 
 If the ECT has not looked at the self-study materials yet, the mentor could work through the first activity with them now.
 
-###Building professional relationships (35 minutes)
+### Building professional relationships (35 minutes)
 
 Guidance for mentors:
 

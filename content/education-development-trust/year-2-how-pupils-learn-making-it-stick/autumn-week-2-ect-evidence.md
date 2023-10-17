@@ -101,7 +101,7 @@ It is recommended that pupils encounter new material on at least two separate oc
   to the content at spaced gaps.
 </span>
 
-###Spaced practice
+### Spaced practice
 
 Watch this video of a teacher talking about how they used spaced practice.
 

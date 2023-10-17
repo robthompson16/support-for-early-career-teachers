@@ -67,19 +67,19 @@ Choose one of the videos below to watch a teacher using precise praise.
 
 As you watch, notice how the teacher uses both acknowledgement (to highlight when their expectations have been met) and precise praise (to highlight pupil effort or progress).
 
-####Precise praise and acknowledgement - Early Years
+#### Precise praise and acknowledgement - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnpGwCjYCFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Precise praise and acknowledgement - Early Years [AD]](https://youtu.be/VDL0JJPlnBw)
 
-####Precise praise – Primary – Reach Academy
+#### Precise praise – Primary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fOhpOCVrYbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Precise praise – Primary [AD]](https://youtu.be/hhKtDCB-he8)
 
-####Acknowledgement and precise praise – Specialist setting - Ellen Tinkham School
+#### Acknowledgement and precise praise – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nirkX3ld9pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ Creating a calm and respectful classroom environment is a bedrock on which you c
 
 Research shows that teachers developing trusting relationships with pupils is critical for pupils’ enjoyment of school and for their academic progress. For example, [a 2015 PISA study](https://www.oecd-ilibrary.org/education/do-teacher-student-relations-affect-students-well-being-at-school_5js391zxjjf1-en;jsessionid=Tle2wVAsHg1cYXJtlp08_K89.ip-10-240-5-189) found that teacher-pupil relations are strongly associated with performance in mathematics as well as pupils’ happiness and sense of belonging at school.
 
-####Empathy-based classrooms – Bea Stevenson at Family Links
+#### Empathy-based classrooms – Bea Stevenson at Family Links
 
 Building effective relationships is easier when pupils believe that their feelings will be considered and understood. Listen to Bea Stevenson talk here about the role that respect and empathy play in this process and consider the following questions:
 

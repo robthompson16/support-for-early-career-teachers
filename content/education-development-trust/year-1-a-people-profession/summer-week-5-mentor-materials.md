@@ -18,7 +18,7 @@ Learn how to manage workload and wellbeing, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Pose the question: What has been learned from the discussion agreed in the last topic?
 
@@ -30,7 +30,7 @@ The mentor should support the ECT, e.g. by taking feedback to colleagues as appr
 
 The ECT will reflect again on how they protect time for rest and recovery at the end of the second year of the programme, so the mentor may wish to make some notes here to share with the ECT then to reflect on changes.
 
-###Managing workload and wellbeing: week-by-week (20 minutes)
+### Managing workload and wellbeing: week-by-week (20 minutes)
 
 Ask the ECT to identify the strategies that have worked well for them this year in relation to:
 
@@ -42,7 +42,7 @@ Ask the ECT how effective they have found these approaches to managing their wor
 
 Pose the question: How can you manage your time outside these slots to ensure your workload doesn’t become too arduous?
 
-###Managing workload and wellbeing: across the year (25 minutes)
+### Managing workload and wellbeing: across the year (25 minutes)
 
 Using [Handout 6.4](/assets/materials/edt-Block-6-mentor-handout-6.4.pdf), plot on the chart the key activities that create extra workload intensity throughout the year. This will depend on phase and subject but might include, e.g. parents’ evenings, report writing, exams, school productions, practical assessment points, sports events, etc.
 

@@ -101,25 +101,25 @@ pupils’ independence and answer the following questions:
 - how do they ensure all pupils are thinking, even if only to share their
   ideas with the class?
 
-####Forms of guided practice – Early Years at Reach Academy
+#### Forms of guided practice – Early Years at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/grrqvBA9lDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Early Years at Reach Academy [AD]](https://youtu.be/AuTNvUrHeOY)
 
-####Forms of guided practice – Primary at Reach Academy
+#### Forms of guided practice – Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EjejRnXwd4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Primary at Reach Academy [AD]](https://youtu.be/Vd0kDnWdm-Y)
 
-####Forms of guided practice – Secondary at Reach Academy
+#### Forms of guided practice – Secondary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbJhvKLRK5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Secondary at Reach Academy [AD]](https://youtu.be/LuABgJ7NQO4)
 
-####Forms of guided practice – Specialist setting - John Reed at Ellen Tinkham School
+#### Forms of guided practice – Specialist setting - John Reed at Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9A1F6OCGY_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -161,19 +161,19 @@ questions in your notepad:
 - what was the impact of shared writing on pupils’ engagement and learning?
 - how did the teacher maintain high expectations or address misconceptions?
 
-####Shared writing – Early Years - Bella Sidenius at Reach Academy
+#### Shared writing – Early Years - Bella Sidenius at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6v3OWqqLO8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Shared writing – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/fF5Z5TZYRhA)
 
-####Shared writing – Primary at Reach Academy
+#### Shared writing – Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wR38LtjSQG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Shared writing – Primary at Reach Academy [AD]](https://youtu.be/-wcQo6XpEus)
 
-####Shared writing – Secondary - Phil Fowkes at Reach Academy
+#### Shared writing – Secondary - Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNDodhg4tes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

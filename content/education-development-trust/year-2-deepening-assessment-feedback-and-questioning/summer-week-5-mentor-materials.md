@@ -18,7 +18,7 @@ Learn how to make marking manageable and effective, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Ask the ECT to reflect on the previous session.<
 
@@ -26,7 +26,7 @@ Ask the ECT to reflect on the previous session.<
 - How has it gone?
 - Is there anything you haven’t tried yet that you’d like to?
 
-###Written marking is just one form of feedback (25 minutes)
+### Written marking is just one form of feedback (25 minutes)
 
 Read the following to the ECT:
 
@@ -51,7 +51,7 @@ Look through the marked assessments and identify:
 
 Together, select the top three pieces of work and script questions the ECT could ask pupils to help them evaluate what good looks like.
 
-###Prioritise the highlighting of errors related to misunderstandings, rather than careless mistakes when marking (20 minutes)
+### Prioritise the highlighting of errors related to misunderstandings, rather than careless mistakes when marking (20 minutes)
 
 Errors related to misunderstandings are errors that stem from insecure knowledge or things pupils have misunderstood. For example, a pupil has mixed up the definition of simile and metaphor.
 

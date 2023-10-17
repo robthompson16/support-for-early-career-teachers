@@ -16,7 +16,7 @@ fewer questions and almost no process questions," Rosenshine (2012).
 
 Thinking back to what you learned in Block 2 about memory, you already know that learning happens when we are able to connect new knowledge to prior knowledge and present new concepts in easy to understand steps. Questions support both of these things. We can use them to check what pupils already know. We can use them to check that pupils are following our explanations and are ready for us to move on. And where they don’t understand, we can use questions to break these problematic concepts down further. They can also encourage pupils to think hard – a key factor in learning. With our prompting, pupils can be encouraged to articulate their understanding of key ideas, summarising and reformulating them in order to reinforce their knowledge.
 
-####Case study – using questions
+#### Case study – using questions
 In one classroom-based experimental study, one group of teachers was taught to follow
 the presentation of new material with lots of questions. They were taught to increase
 the number of factual questions and process questions they asked during this guided
@@ -25,12 +25,12 @@ practice.
 Test results showed that their students achieved higher scores than did
 students whose teachers did not receive the training.
 
-#####Factual questions
+##### Factual questions
 Tests pupils on their knowledge of key information,
 these questions have one correct answer. “What date did World War One begin?” “What
 is 3x5?” “What is one stage of the water cycle?”
 
-#####Process questions:
+##### Process questions:
 Tests pupils on their depth of knowledge and
 understanding. They require analysis/opinion from the pupil. “How does the reader
 feel about Lennie at this point in the novel?” “What is the best way to solve this
@@ -66,7 +66,7 @@ In addition to asking questions, the more effective teachers facilitated their s
 
 In broad terms, we can think of two main types of questioning: closed questions and open questions. When teachers ask a question with a relatively straightforward answer such as, “In the novel, did George shoot Lennie?”, this is considered a closed question. An open question typically elicits longer responses where students need to reflect and use more complex reasoning, such as “Was George justified in shooting Lennie?”. While it may be tempting to think that open questions are “better” than closed questions, both play an important role in the overall learning process.
 
-###Closed and open questions
+### Closed and open questions
 Closed questions can be useful for checking recall of facts or
 to check simple understanding. They can be asked at pace and keep pupils focused
 on the lesson.
@@ -81,7 +81,7 @@ Consider these questions:
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Screenshot-2020-08-18-at-09.11.10.png" alt="Image shows three speech bubbles containing the following questions:&lt;p>&lt;/p>a) has everybody understood&lt;p>&lt;/p>b) Charles Dickens wrote Great Expectations in 1860. Who was the Queen at that time?&lt;p>&lt;/p>c) What are the similarities and differences between verbs and adverbs" />
 </figure>
 
-###In your notepad
+### In your notepad
 Which of these questions provide the teacher with information that they can
 use to provide feedback?
 
@@ -176,8 +176,8 @@ Hinge questions often take the form of multiple-choice questions. Multiple-choic
 - Are written to focus on “troublesome” knowledge, i.e. things that pupils are known to find difficult or common misconceptions that pupils may hold.
 - Indicate both correct thinking and gaps in pupils’ knowledge or misconceptions.
 
-####Hinge question examples
-#####1. Science
+#### Hinge question examples
+##### 1. Science
 In which part of a daffodil does photosynthesis occur?
 
 <ol style="list-style-type: upper-alpha;">
@@ -190,7 +190,7 @@ In which part of a daffodil does photosynthesis occur?
 Photosynthesis occurs in the chloroplasts, which are found in green leaves and
 stems of plants. Pupils will need to understand that this is not restricted to
 the leaves (E) and that petals and roots do not contain chloroplasts (B/C).
-#####2. French
+##### 2. French
 Which of these translations is/are correct for the text below? L’été dernier, ma
 sœur avait un petit job donc elle est restée chez nous.
 <ol style="list-style-type: upper-alpha;">
@@ -206,7 +206,7 @@ stayed at our house. This checks that pupils have a good understanding of tense
 understand that "chez nous" means “our house”. It also checks that “petit job”
 is understood as a part-time job as opposed to the literal translation of a
 small job.
-#####3. History
+##### 3. History
 Which of these pairs of dates in ordinary numerals and Roman numerals is/are
 correct?
 <ol style="list-style-type: upper-alpha;">
@@ -275,7 +275,7 @@ We can scaffold, extend or challenge pupils’ thinking by reframing questions. 
 
 For pupils who need more support, more scaffolding is appropriate and the form is more likely to be a closed question; for those who need further stretch, we can ask open questions that encourage them to explore their answers further or respond to each other’s answers.
 
-####Example: forces
+#### Example: forces
 Pupils are going to be studying the topic “forces” and learning how balanced and
 unbalanced forces affect an object. This learning will then be built on to develop
 an understanding about Newton’s laws of motion, with quantitative approaches to calculating

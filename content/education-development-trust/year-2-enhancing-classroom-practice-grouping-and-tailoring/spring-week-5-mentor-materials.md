@@ -19,7 +19,7 @@ Learn how to meet the needs of individuals without creating unnecessary workload
 
 ### Activities
 
-###Activating prior knowledge (5 minutes)
+### Activating prior knowledge (5 minutes)
 
 Guidance for mentors:
 
@@ -35,7 +35,7 @@ Suggested dialogue for mentors:
 
 We know that adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils. Beyond this not being useful, it is also time consuming and onerous – something we want to avoid because you are already extremely busy! We are going to look today at ways in which we can meet the needs of individuals without adding unnecessary workload.
 
-###Meeting the needs of individuals without creating unnecessary workload (35 mins – Parts A, B and C)
+### Meeting the needs of individuals without creating unnecessary workload (35 mins – Parts A, B and C)
 
 Guidance to mentors:
 
@@ -46,7 +46,7 @@ Ask the ECT:
 - To explain what lesson(s) they have brought along.
 - Is this a lesson or lessons they developed or was it created by someone else, e.g. a member of the department?
 
-####Part A: Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge (15 minutes)
+#### Part A: Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge (15 minutes)
 
 Read the following together with the ECT. We know from modules 2 and 8 (‘How pupils learn’) that it is really important to connect any new content we plan to teach pupils with the knowledge they already have. We know that pupils process new information in their working memory, which is limited, and are able to do this better if they can connect it to knowledge housed within their long-term memory (schemas).
 
@@ -59,7 +59,7 @@ Ask the following questions:
 3. Are there any pupils in your class that would benefit from some pre-teaching? Who? What pre-teaching would they benefit from, e.g. a specific homework task that could be done in advance?
 4. Are there any existing resources that could be used to support any pre-teaching activity? Remember, we do not want to add significant amounts of time to planning.
 
-####Part B: Making use of well-designed resources (10 minutes)
+#### Part B: Making use of well-designed resources (10 minutes)
 
 Read the following to the ECT:
 
@@ -72,7 +72,7 @@ Ask the following questions:
 
 If ECTs have made many of the resources themselves, identify colleagues they could speak to who could share their resources.
 
-####Part C: Build in additional practice or remove unnecessary exposition (10 mins)
+#### Part C: Build in additional practice or remove unnecessary exposition (10 mins)
 
 Read the following to the ECT:
 
@@ -89,7 +89,7 @@ Guidance to mentors:
 
 The ECT could use questioning to work out who understands and who doesn't. The ECT then might pull the small group who don't to one side for an additional explanation and more examples, but for those that do – set them off. In this way, the ECT is not having to do lots of additional planning – they are responding and adapting in the moment.
 
-###Intervening within lessons (15 mins)
+### Intervening within lessons (15 mins)
 
 Guidance to mentors
 

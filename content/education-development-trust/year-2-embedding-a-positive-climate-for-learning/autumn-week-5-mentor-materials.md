@@ -27,7 +27,7 @@ Motivate pupils, by:
 
 ### Activities
 
-###Reflecting on learning (5 minutes)
+### Reflecting on learning (5 minutes)
 
 Ask the ECT to give two examples of how they have used rewards since the last topic.
 
@@ -37,7 +37,7 @@ Ask them:
 - What was the impact on the learning? How do you know?
 - Would you use it again?
 
-###Introducing challenging content (15 minutes)
+### Introducing challenging content (15 minutes)
 
 Read through the following together:
 
@@ -61,7 +61,7 @@ Ideas might include:
 
 Together, watch the video from this week's ECT self-study materials.
 
-###Supporting pupils to master challenging content (10 minutes)
+### Supporting pupils to master challenging content (10 minutes)
 
 Pose the question: How can you avoid superficial learning and focus on mastering challenging content?
 
@@ -74,7 +74,7 @@ Use the following follow-up questions as stimulus for the discussion. Mentors ma
 
 Together, identify an occasion when it would be helpful to provide feedback that supports mastery of challenging content, and script and practise a verbal response to a pupil’s work that praises the process of engaging in the task, rather than the outcome they achieve.
 
-###Motivating pupils through lesson content (20 minutes)
+### Motivating pupils through lesson content (20 minutes)
 
 Together read the extract below:
 

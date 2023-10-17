@@ -17,7 +17,7 @@ Learn How To make marking manageable and effective, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Discuss either the lesson observation, the video or ECT reflection agreed in the last topic.
 
@@ -25,7 +25,7 @@ Discuss either the lesson observation, the video or ECT reflection agreed in the
 - What could be better?
 - What will the ECT do next?
 
-###Record data only when it is useful for improving pupil outcomes (15 minutes)
+### Record data only when it is useful for improving pupil outcomes (15 minutes)
 
 Suggested dialogue for mentors:
 
@@ -69,7 +69,7 @@ Together, look through the ECT’s unit of work/sequence of learning. The ECT sh
 - If no, then the ECT should not record the data
 - If yes, then decide how the data will be recorded.
 
-###Preparing to work with a colleague (10 minutes)
+### Preparing to work with a colleague (10 minutes)
 
 Suggested dialogue for mentors:
 

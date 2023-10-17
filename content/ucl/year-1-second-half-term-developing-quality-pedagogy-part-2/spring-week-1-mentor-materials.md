@@ -86,7 +86,7 @@ Mr Andrews planned a Year 8 lesson on the ‘problems of living in a city’. Th
 
 Throughout the session, try to refer explicitly to the Learning Intentions and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session.
 
-###Review and Plan 5 mins
+### Review and Plan 5 mins
 
 - Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise
 - what they did
@@ -96,7 +96,7 @@ Throughout the session, try to refer explicitly to the Learning Intentions and e
 
 At the start of this module, you looked at all of the ‘learn how to’ statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others, they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
-###Theory to Practice 40 mins
+### Theory to Practice 40 mins
 
 In their self-directed study session, your mentee focused on a specific group of pupils or a class and planned a practical response for the following set of challenges:
 
@@ -118,7 +118,7 @@ Sharing of Practice:
 
 You are now going to challenge them to think harder while supporting them with practical strategies. Wherever possible, share your own research-informed strategies and those of other experienced or specialist colleagues. (Some hints are offered, but you may need to help your mentee to translate these into their own setting.)
 
-####Further challenge: Applying high expectations for all groups and ensuring that all pupils have access to a rich curriculum
+#### Further challenge: Applying high expectations for all groups and ensuring that all pupils have access to a rich curriculum
 
 ##### Practical suggestions
 
@@ -126,22 +126,22 @@ You are now going to challenge them to think harder while supporting them with p
 - Teaching the whole class, where you ‘teach to the top’ and scaffold so that all can achieve, means that all pupils should experience the same curriculum
 - Avoid signalling that you are giving ‘easier’ work to some pupils – use language like ‘my challenge for you is...’
 
-####Further challenge: Changing groups regularly, thus avoiding the perception that the groups are fixed
+#### Further challenge: Changing groups regularly, thus avoiding the perception that the groups are fixed
 
-#####Practical suggestions:
+##### Practical suggestions:
 
 - Remember the example of home and away groups in Week 5
 - Group by attainment, but only when you have a specific subject purpose
 - Change your table groupings or seating plan at least every half term
 
-####Further challenge: Ensuring that any groups based on attainment are subject specific
+#### Further challenge: Ensuring that any groups based on attainment are subject specific
 
-#####Practical suggestions
+##### Practical suggestions
 
 - Avoid grouping pupils according to your perceptions of their ‘fixed abilities’ or your expectations for their behaviour – doing so lowers expectations
 - If you teach a number of topics or subjects to the same class, avoid keeping the pupils in the same groups (if you group by attainment)
 
-###Next Steps 5 mins
+### Next Steps 5 mins
 
 Come to an agreement with your mentee as to how they will put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
 

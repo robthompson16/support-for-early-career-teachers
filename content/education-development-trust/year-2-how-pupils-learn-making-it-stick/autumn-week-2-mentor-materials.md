@@ -23,7 +23,7 @@ Learn how to increase likelihood of material being retained, by:
 
 ### Activities
 
-###Introducing module 8: Increasing the likelihood that material will be retained over time (20 minutes)
+### Introducing module 8: Increasing the likelihood that material will be retained over time (20 minutes)
 
 Guidance to mentors:
 
@@ -41,7 +41,7 @@ Some questions for discussion:
 - Do you have any examples where you have designed a learning experience or sequence of learning experiences that drew on the research of cognitive load, and pupils learnt successfully as a result?
 - What areas do you still feel like you need to work on related to this?
 
-###Understanding the evidence (20 minutes)
+### Understanding the evidence (20 minutes)
 
 Guidance to mentors:
 
@@ -77,7 +77,7 @@ What makes retrieval practice so effective in helping pupils to remember over ti
 - Active practice requires the pupil to do something, such as retrieving information from their memory.
 - It is important because passive practice has been shown to be less effective.
 
-###Reflecting on your own learning – planning regular review and practice of key ideas and concepts over time (10 minutes)
+### Reflecting on your own learning – planning regular review and practice of key ideas and concepts over time (10 minutes)
 
 The self-directed study materials focused on the importance of planning regular opportunities for pupils to practise and review material over time.
 

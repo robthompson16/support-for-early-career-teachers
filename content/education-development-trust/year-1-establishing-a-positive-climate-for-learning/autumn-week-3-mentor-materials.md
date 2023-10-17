@@ -35,7 +35,7 @@ In the previous topic the ECT planned and scripted a routine. Ask the ECT:
 - What did not go so well?
 - What would you improve or adapt for next time/other routines?
 
-###Demonstrating high expectations of behaviour (20 minutes)
+### Demonstrating high expectations of behaviour (20 minutes)
 
 Pose the question: How can you use positive reinforcement to demonstrate high expectations for behaviour?
 
@@ -46,7 +46,7 @@ Answers might include:
 - Keeps the environment positive
 - Encourage pupils to do the right thing.
 
-###Maintaining high behavioural expectations (20 minutes)
+### Maintaining high behavioural expectations (20 minutes)
 
 Use each of these scenarios in turn to identify how the school/department behaviour policy expects teachers to respond:
 

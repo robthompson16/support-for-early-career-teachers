@@ -24,7 +24,7 @@ Learn how to build on pupils’ prior knowledge, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Ask the ECT to share their reflections after teaching the lesson that they planned in the last topic.
 
@@ -32,7 +32,7 @@ Ask the ECT to share their reflections after teaching the lesson that they plann
 - What worked well?
 - Would they use this approach again?
 
-###Activating key ideas for the topic (15 minutes)
+### Activating key ideas for the topic (15 minutes)
 
 Explain to the ECT that the purpose of today’s topic is to explore the importance of prior knowledge for new learning. If you were about to start a lesson on animals of Africa, and share the fact that “aardvarks actually belong to the same clade of animals as elephants, called afrotheres”.
 
@@ -58,7 +58,7 @@ Prompts:
 - When planning to introduce new content, the teacher should think about what prior knowledge it links to and that their pupils already have so they plan for it.
 - The teacher could explicitly link new content to prior knowledge (e.g. by verbally making the link, showing an example, or using an activity which draws on the prior knowledge before teaching the new content).
 
-###Introducing new content (30 minutes)
+### Introducing new content (30 minutes)
 
 Ask the ECT to share an upcoming topic or lesson that they will be teaching. Plan together to:
 
@@ -67,7 +67,7 @@ Ask the ECT to share an upcoming topic or lesson that they will be teaching. Pla
 
 Use [Handout 2.2](/assets/materials/edt-Block-2-mentor-handout-2.2.pdf) to plan together.
 
-####1. Deciding how much information to introduce.
+#### 1. Deciding how much information to introduce.
 
 Complete the section ‘Prior Knowledge Context’ for this lesson, summarising the content to be covered.
 Some things to consider:
@@ -97,7 +97,7 @@ Pose the question: Based on the prior knowledge context, should you include all 
   - The difficulty of the new content (How complex is the content? Is it abstract or concrete? Abstract ideas will be more difficult therefore you should introduce less content)
   - How confident is the teacher in the prior knowledge? (Did they teach it themselves? Do they have strong evidence that pupils have secure prior knowledge? If not, choose less new content and spend longer on the prior knowledge needed).
 
-####2. Plan an explanation that links the new content to previously learnt material.
+#### 2. Plan an explanation that links the new content to previously learnt material.
 
 For the lesson, identify a new piece of content that they will be introducing. Together, script an explanation for how they will directly link the new content to previously learnt material.
 

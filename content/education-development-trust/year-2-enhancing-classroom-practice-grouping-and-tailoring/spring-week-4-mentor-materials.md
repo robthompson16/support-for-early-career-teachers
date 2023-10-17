@@ -21,7 +21,7 @@ Learn how to stimulate pupil thinking and check for understanding, by:
 
 ### Activities
 
-###Reflection on learning (10 minutes)
+### Reflection on learning (10 minutes)
 
 Ask your ECT about what group or paired work they have done in their lessons since the last topic.
 
@@ -32,7 +32,7 @@ Ask your ECT about what group or paired work they have done in their lessons sin
 
 Explain that in this topic you will be planning for effective collaboration or paired work. Even though the ECT is likely already grouping pupils and may have experienced good success with it, this topic will help to refine the practice and ensure that every group task is effective and leads to successful learning for pupils.
 
-###The factors that support effective collaborative or paired work (20 minutes)
+### The factors that support effective collaborative or paired work (20 minutes)
 
 Read the following:
 
@@ -80,7 +80,7 @@ For a lesson that is coming up, the ECT should plan with their mentor a group wo
 6. What resources will be provided to support the group work?
 7. How will the ECT monitor the group work?
 
-###Provide scaffolds for pupil talk to increase the focus and rigour of dialogue (20 minutes)
+### Provide scaffolds for pupil talk to increase the focus and rigour of dialogue (20 minutes)
 
 Look at [Handout 9.2](/assets/materials/edt-Block-9-mentor-handout-9.2.pdf) together, which gives a range of ideas for ways to scaffold pupil talk to increase the focus and rigour of dialogue.
 
@@ -90,7 +90,7 @@ Questions for discussion:
 2. Are there others you have tried that are not here?
 3. For a lesson that you have coming up, are there any strategies here that you could use? Which ones?
 
-###Reviewing this module (10 minutes)
+### Reviewing this module (10 minutes)
 
 Ask the ECT what they will do differently as a result of this topic? When will they do it by?
 

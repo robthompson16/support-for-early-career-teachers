@@ -33,7 +33,7 @@ Learn how to establish effective routines and expectations, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Welcome the ECT to the final mentor topic in this module. Offer praise where appropriate for the hard work undertaken in the module.
 
@@ -43,7 +43,7 @@ Ask the ECT who they observed, and with which focus. They may have completed mul
 
 Pose the question: Who did you choose to observe and why? What was the focus of the observation?
 
-###Question for reflection (25 minutes)
+### Question for reflection (25 minutes)
 
 Ask the ECT to reflect on the following questions related to their focus area of the observation(s):
 
@@ -52,7 +52,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What did you learn?
 - How did X affect the pupil’s learning?
 
-###Review of the module (25 minutes)
+### Review of the module (25 minutes)
 
 Use Activity 1.7 in the self-directed study materials to look through all the statements that have been covered by module 1. The ECT will have considered two key questions as part of this activity:
 

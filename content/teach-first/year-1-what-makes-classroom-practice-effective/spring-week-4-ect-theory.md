@@ -113,7 +113,7 @@ Providing pupils with a checklist for cognitive strategies acts as a scaffold to
 
 These questions should be modelled by you during guided practice using ‘Think Aloud’ but displaying or giving pupils a checklist during independent practice can support pupils to take ownership over their learning as they are required to monitor and check their work.
 
-####Checklists – Elizabeth Arkle at Extol Academy Trust
+#### Checklists – Elizabeth Arkle at Extol Academy Trust
 
 Listen to Elizabeth Arkle talk about how she uses checklists to scaffold pupils during independent practice.
 
@@ -250,13 +250,13 @@ practice. Consider the following questions and record your response in your note
   collaboration is successful?
 - what prior knowledge did the pupils need?
 
-####Collaborative practice – Early Years - Bethan Hughes at Reach Academy
+#### Collaborative practice – Early Years - Bethan Hughes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RgT8AYLLOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Collaborative practice – Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/Li2PfDr7Lyk)
 
-####Collaborative practice – Primary
+#### Collaborative practice – Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2DHaa1YISHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -270,7 +270,7 @@ the classroom and answer the following questions in your notebook:
 - how could you use collaboration in your classroom?
 - what steps would you need to take to make this successful?
 
-####Collaborative learning – using roles
+#### Collaborative learning – using roles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T714LRwSzoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -297,7 +297,7 @@ Collaborative learning is something that I ensure is at the heart of every lesso
 
 {/details}
 
-####Using groups of four for collaborative learning - Robert Gardner at Bishop Chadwick Catholic Education Trust
+#### Using groups of four for collaborative learning - Robert Gardner at Bishop Chadwick Catholic Education Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Q_h_eNOlAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -331,7 +331,7 @@ There are lots of different ways you can actually group students. I would tend t
 
 {/details}
 
-####Using multiple groupings during collaboration - Joseph Craven at Northern Education Trust
+#### Using multiple groupings during collaboration - Joseph Craven at Northern Education Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oMbiVyt2Hms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -360,7 +360,7 @@ Whilst it is important to provide scaffolds when first setting up independent pr
 
 Choose one of the videos below to listen as a teacher talks through an example of how they removed scaffolding over time to increase pupil independence.
 
-####Removing scaffolding in Primary maths - Debra Ridley at Extol Academy Trust
+#### Removing scaffolding in Primary maths - Debra Ridley at Extol Academy Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rC3NGjx-LFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -383,7 +383,7 @@ After independent practice, the pupils were able to be confident in multiplying 
 
 {/details}
 
-####Removing scaffolding in Secondary MFL - Joanna Macaulay at Northern Education Trust
+#### Removing scaffolding in Secondary MFL - Joanna Macaulay at Northern Education Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BIhJP3lg_38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -404,7 +404,7 @@ What is important to note in this example is that the principle of progression f
 
 {/details}
 
-####Removing scaffolding in Secondary history - Alex Fairlamb at Bishop Chadwick Catholic Education Trust
+#### Removing scaffolding in Secondary history - Alex Fairlamb at Bishop Chadwick Catholic Education Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52TAHDyMsPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -461,7 +461,7 @@ When planning independent practice remember to:
 
 Below are some additional resources that you might find useful in supporting your classroom practice:
 
-####The importance of independent practice - Primary
+#### The importance of independent practice - Primary
 
 Listen to Sharon Stevenson talk about the importance of independent practice in primary
 
@@ -482,7 +482,7 @@ It is important to review and discuss independent learning with pupils in order 
 
 {/details}
 
-####Independent practice in secondary - Joanna Macaulay at Northern Education Trust
+#### Independent practice in secondary - Joanna Macaulay at Northern Education Trust
 
 Listen to Joanna Macaulay talk about the importance of independent practice in secondary
 

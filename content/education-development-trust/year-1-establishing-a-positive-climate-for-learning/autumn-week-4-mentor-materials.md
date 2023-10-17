@@ -32,7 +32,7 @@ Learn how to build trusting relationships by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Revisit the ECT’s top five behavioural expectations from the previous topic. Ask them:
 
@@ -52,7 +52,7 @@ The mentor may want to cover:
 - Developing effective routines
 - Maintaining high expectations of pupils’ behaviour and learning.
 
-###Identifying problem areas (10 minutes)
+### Identifying problem areas (10 minutes)
 
 Ask the ECT to pick a class or a lesson in the week they are finding challenging and with the mentor go through the following list of questions:
 
@@ -73,17 +73,17 @@ Instructions:
 - Do pupils always follow your instructions?
 - When they don’t, why do you think that is?
 
-####How does this impact on pupil learning?
+#### How does this impact on pupil learning?
 
 From the answers to the above questions, identify one area the ECT would like to improve. This will become the focus of the rest of this topic.
 
-###Improving behaviour (30 minutes)
+### Improving behaviour (30 minutes)
 
 Take a look at the example action plan on [Handout 1.4](/assets/materials/edt-Block-1-mentor-handout-1.4.pdf). The teacher has identified a key issue and then used the table below to plan out action steps.
 
 From the area identified in the last activity, use the table to select an action step. Together, use the template to write an action plan to help the ECT’s class.
 
-####Issue: Problems with specific pupils
+#### Issue: Problems with specific pupils
 
 ##### Action to take
 
@@ -100,7 +100,7 @@ Speak to colleagues about pupils in the class
 - Gain information about the pupil from their tutor or another teacher.
 - Gain information from a more experienced teacher on how they deal with specific pupils/situations.
 
-####Issue: My pupils are not always following my instructions
+#### Issue: My pupils are not always following my instructions
 
 ##### Action to take
 
@@ -118,7 +118,7 @@ Ask a colleague to observe part of a lesson
 - Isolate a specific area to focus on
 - Gain specific feedback to develop your practice.
 
-####Issue: Problems with individual pupils/ineffective relationships with pupils
+#### Issue: Problems with individual pupils/ineffective relationships with pupils
 
 ##### Action to take
 
@@ -138,7 +138,7 @@ Contact parents/carers with positive news
 - Pupils will see that you care about them.
 - Pupils will feel supported.
 
-####Issue: Problems with specific pupils
+#### Issue: Problems with specific pupils
 
 ##### Action to take
 
@@ -157,7 +157,7 @@ Contact parents/carers to find out more information about a pupil’s individual
 - Finding out more information about individual pupils can help you understand their situation better
 - You will be able to support that pupil behaviourally and academically
 
-####Issue: Pupils do not always follow routines
+#### Issue: Pupils do not always follow routines
 
 ##### Action to take
 
@@ -175,7 +175,7 @@ Re-establish routines, especially for beginning the lesson and transition points
 - Routines need positive reinforcement and practice
 - This will demonstrate your high expectations of pupils.
 
-####Issue: Disruptive behaviour
+#### Issue: Disruptive behaviour
 
 ##### Action to take
 
@@ -193,7 +193,7 @@ Reminders of school policies
 - It is important to adhere to school policy
 - School policy is there to support you so draw on it when it is needed.
 
-####Issue: Disruptive behaviour
+#### Issue: Disruptive behaviour
 
 ##### Action to take
 
@@ -210,7 +210,7 @@ Using least intrusive interventions
 - Helps keep the environment positive
 - Can help address behavioural expectations.
 
-####Issue: Disruptive behaviour
+#### Issue: Disruptive behaviour
 
 ##### Action to take
 

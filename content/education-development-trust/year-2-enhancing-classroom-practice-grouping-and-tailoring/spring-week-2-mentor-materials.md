@@ -18,7 +18,7 @@ Learn that:
 
 ### Activities
 
-###Introducing module 9: Enhancing your classroom practice (20 minutes)
+### Introducing module 9: Enhancing your classroom practice (20 minutes)
 
 Guidance to mentors:
 
@@ -37,7 +37,7 @@ Some questions for discussion:
 - What areas do you feel you still need to work on?  
 
 
-###Understanding the evidence (20 minutes)
+### Understanding the evidence (20 minutes)
 
 Guidance to mentors:
 
@@ -74,7 +74,7 @@ How can you ensure that the homework you set pupils is of high quality and there
 - Include retrieval tasks in homework to increase cognitive benefit of the materials and therefore the usefulness of the task.
 - Provide just enough support so that pupils experience a high success rate when attempting challenging work (e.g. include a worked example or partially completed examples to support pupils).
 
-###Reflecting on your own practice – pupil grouping and homework (10 minutes)
+### Reflecting on your own practice – pupil grouping and homework (10 minutes)
 
 The self-directed study materials focus on pupil grouping and homework. Support the ECT to reflect on their own practice in relation to this area. Use the questions below to help identify successes and where development might be needed. The risk for new teachers is that they set up group and pair work, and set homework, just ‘because’. The mentor can help them to think through the purpose of group work and what successful group work achieves. The pupils enjoying the task or appearing engaged are not necessarily bad things, but nor are they a clear indicator that learning is taking place (see Coe’s ‘poor proxies for learning’). Equally, pupils completing homework diligently is not a good marker that it is improving learning.
 

@@ -23,7 +23,7 @@ Manage workload and wellbeing by:
 
 ### Activities
 
-###Reflecting on progress made (10 minutes)
+### Reflecting on progress made (10 minutes)
 
 In this final mentor topic of the programme, mentors should identify and share three to five areas of the ECT’s practice where they have improved over the last year. These should be a mixture of classroom-focused and contributions to the wider school culture. Mentors might include some of the activities the ECT themselves mentioned at the start of the last topic, and aspects such as:
 
@@ -45,7 +45,7 @@ These actions might include:
 
 ECTs will have already had an opportunity to reflect on their strengths and weaknesses in the previous topic so they should be prepared for this conversation; if they struggle, mentors should prompt this conversation with some suggestions for areas of development based on their knowledge of the ECTs’ strengths and weaknesses.
 
-###Seeking challenge, feedback and critique (15 minutes)
+### Seeking challenge, feedback and critique (15 minutes)
 
 Guidance for mentors:
 
@@ -63,7 +63,7 @@ Use the questions provided on [Handout 12.2](/assets/materials/edt-Block-12-ment
 
 At the end of this part of the topic, ECTs should have a list of five to ten named colleagues, peers and/or wider networks, which they will be able to draw on to help them to improve different aspects of their professional practice.
 
-###Protecting time for rest and recovery (15 minutes)
+### Protecting time for rest and recovery (15 minutes)
 
 Guidance for mentors:
 
@@ -85,7 +85,7 @@ Colleagues that could offer support might include:
 - Seeking guidance from their line manager around balancing commitments and using their non-teaching time effectively.
 - Mentors can also remind ECTs that external support is available, such as through the charity Education Support.
 
-###Next steps (20 minutes)
+### Next steps (20 minutes)
 
 Together, watch the video in this week's ECT self-study materials, which ends the programme by prompting ECTs to think about their next steps and further professional development.
 

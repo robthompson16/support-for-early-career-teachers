@@ -261,7 +261,7 @@ High-quality feedback is explicit about what is involved in achieving success in
 
 Done well, verbal feedback from teacher to pupil in class has the dual benefit of being both effective _and_ efficient. As it is given in the moment it also reduces “waiting time” between the mistake or error and the feedback the pupil receives. This means teachers are able to respond quickly with additional support to individuals as appropriate (Black et al., 2004; Gibson et al., 2015) and there is less chance of the pupil repeating the mistake and therefore reinforcing it.
 
-####Live marking
+#### Live marking
 
 Watch this video as a teacher sets a written task and, as pupils are working, circulates and offers feedback
 

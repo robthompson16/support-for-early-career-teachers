@@ -29,7 +29,7 @@ Look at the cartoon below which highlights this.
 
 It is important to maintain a positive, calm climate and we can do this through focusing on what we want to see pupils doing. Teachers can use both verbal and non-verbal prompts to communicate their expectations of behaviour to the pupils. It is also important that you give pupils an opportunity to adjust their behaviour before escalating things.
 
-####Verbal prompts
+#### Verbal prompts
 
 - Instructions
 - Praise
@@ -38,7 +38,7 @@ It is important to maintain a positive, calm climate and we can do this through 
 - Giving pupils choices
 - Reminders of school behaviour policy
 
-####Non-verbal prompts
+#### Non-verbal prompts
 
 - Smiling or frowning
 - Nodding or shaking head
@@ -110,7 +110,7 @@ Tom… [Tom is standing up and teacher gestures with her arm for him to sit down
 - How do they make their expectations clear?
 - What is the impact of this?
 
-###Teacher expectations can affect pupil outcomes
+### Teacher expectations can affect pupil outcomes
 
 We know that our beliefs can be very influential. What you believe your pupils to be capable of achieving will directly influence what they actually achieve (Murdock-Perriera & Sedlacek, 2018). The Pygmalion or ‘self-fulfilling prophecy’ research (Rosenthal et al.) in the 1960s showed that when teachers (but not their pupils) were told by researchers that a random group of their pupils had achieved high scores on an aptitude test, these pupils did better over the course of the year than the ‘ordinary’ pupils in their classes. In reality, the test was made up. Not knowing this, the teachers were shown to ask more questions, give more thinking time and provide more feedback to the pupils they believed to be more able. Clearly what you think of your pupils’ abilities and how you plan to meet their needs matters hugely. The higher the expectations you have of your pupils, the more you will push and challenge them and the more their outcomes will improve (Murdock-Perriera & Sedlacek, 2018).
 
@@ -218,7 +218,7 @@ Building positive relationships with the classes and individual pupils you teach
 
 To make a positive start, teachers need to get to know the pupils they teach, for example by using their names and modelling the respectful attitude they expect in return (Muijs & Reynolds, 2017).
 
-####Learning everyone's name
+#### Learning everyone's name
 
 Watch this video of a teacher explaining techniques they use to quickly remember pupils' names.
 

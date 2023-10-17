@@ -35,29 +35,29 @@ Note in your Learning Log the two or three key messages you are taking away for 
 
 Focus on a specific group of pupils or a class. Below are a set of ‘challenges’, for which you have to plan your practical response. You may want to dwell on some more than others. Some hints are given.
 
-####Challenge: What are the potential barriers to effective collaboration in your classroom?
+#### Challenge: What are the potential barriers to effective collaboration in your classroom?
 
-#####Hint:
+##### Hint:
 A learning need, behaviour, family, socio-economic?
 
-####Challenge: What specific guidance and support will you need to provide your pupils to ensure effective group work takes place?
+#### Challenge: What specific guidance and support will you need to provide your pupils to ensure effective group work takes place?
 
-#####Hint:
+##### Hint:
 Assign roles to your pupils or issue strict protocols
 
-####Challenge: How can you monitor the impact of your groupings on the engagement and motivation of pupils with specific educational needs?
+#### Challenge: How can you monitor the impact of your groupings on the engagement and motivation of pupils with specific educational needs?
 
-#####Hint:
+##### Hint:
 Monitor the engagement and motivation of a smaller group of pupils
 
-####Challenge: Can you build flexibility into your attainment groupings to avoid a fixed mindset being established?
+#### Challenge: Can you build flexibility into your attainment groupings to avoid a fixed mindset being established?
 
-#####Hint:
+##### Hint:
 Experiment with different types of within-class groupings, such as by near prior attainment, or by mixed prior attainment
 
-####Challenge: How will you adapt your teaching for those pupils who are learning at a different rate to others?
+#### Challenge: How will you adapt your teaching for those pupils who are learning at a different rate to others?
 
-#####Hint:
+##### Hint:
 Vary the attention you give to different pupils, the time you allow, the quantity you expect
 
 ### Next Steps: 5 mins

@@ -13,7 +13,7 @@ High-quality classroom talk is a powerful tool for learning (EEF, 2019). It can 
 - It enables you to assess pupils’ understanding to determine whether there is a need for additional instruction
 - It enables you to provide pupils the opportunity to practise what is being taught to consolidate and extend learning
 
-####The importance of questioning - Claire Stoneman
+#### The importance of questioning - Claire Stoneman
 
 In this section, you will explore how questioning can be used to check for pupil understanding and build learning. Start by listening to Claire Stoneman talk about using questioning as part of effective classroom practice and answer the questions in your notepad:
 
@@ -123,19 +123,19 @@ Watch one of the videos below of teachers assessing understanding of all pupils.
 - what did the teacher do as the result of the information gathered?
 - how did this support subsequent learning?
 
-####Check whole class understanding - Early Years
+#### Check whole class understanding - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILAK7ZJIAcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding – Early Years [AD]](https://youtu.be/https://youtu.be/-YUSIZ29tRg)
 
-####Check whole class understanding - Primary
+#### Check whole class understanding - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxJgFGzVW58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding - Primary [AD]](https://youtu.be/RvqCqcMMCe4)
 
-####Check whole class understanding - Secondary
+#### Check whole class understanding - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2cXXSKa0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -157,25 +157,25 @@ the following question and record your response in your notepad:
 
 - what impact does this have on pupils’ engagement and quality of response?
 
-####Wait time – Early Years - Bella Sidenius at Reach Academy
+#### Wait time – Early Years - Bella Sidenius at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bLi7IgZ1Ips" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Wait time – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/0607VPLAOjc)
 
-####Wait time – Primary at Reach Academy
+#### Wait time – Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8RlvU-C0yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Wait time – Primary at Reach Academy [AD]](https://youtu.be/-wGtvkAWc5E)
 
-####Wait time – Secondary - Phil Fowkes at Reach Academy
+#### Wait time – Secondary - Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be0r5-9TWT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Wait time – Secondary - Phil Fowkes at Reach Academy [AD]](https://youtu.be/c1AJi3ALiws)
 
-####Wait time – Specialist setting - Ellen Tinkham School
+#### Wait time – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKasQ9OYXTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -220,25 +220,25 @@ answers. Consider the following questions and record your response in your notep
 - how did the teacher respond to the partially complete answer?
 - what impact did this have on the pupil’s response?
 
-####Do not complete pupils’ answers – Early Years - Maria Craster at One Degree Academy
+#### Do not complete pupils’ answers – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EpHToIr5JQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Do not complete pupils’ answers – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/gbcRuyisUlU)
 
-####Do not complete pupils' answers - Primary
+#### Do not complete pupils' answers - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w9d8SyZzMtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Do not complete pupils' answers - Primary [AD]](https://youtu.be/zt3gtOdwomM)
 
-####Do not complete pupils' answers - Secondary
+#### Do not complete pupils' answers - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3KWumo1mI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Do not complete pupils' answers - Secondary [AD]](https://youtu.be/JsCtPhGuQbA)
 
-####Do not complete pupils' answers – Specialist setting - Ellen Tinkham School
+#### Do not complete pupils' answers – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMnpXnoDC3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -249,7 +249,7 @@ If you require an audio description over the video, please watch this version: [
 Listen to Robert Gardener talking through why he ensures he does not complete pupils’
 answers and an example of when he probed a pupil to provide more detail.
 
-####Do not complete pupils' answers - Robert Gardner at Bishop Chadwick Catholic Education Trust
+#### Do not complete pupils' answers - Robert Gardner at Bishop Chadwick Catholic Education Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHIYl_ZFJzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -399,25 +399,25 @@ Watch these videos of teachers challenging pupils with follow-up questions to ex
 - what type(s) of follow-up questions were used?
 - how did this impact pupils’ responses?
 
-####Ask follow-up questions – Early Years - Maria Craster at One Degree Academy
+#### Ask follow-up questions – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrVh0JSxnD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/8AIgnb4ssn0)
 
-####Ask follow-up questions - Primary at Reach Academy
+#### Ask follow-up questions - Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/StSpQViqrhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions - Primary at Reach Academy [AD]](https://youtu.be/L76nGADqy94)
 
-####Ask follow-up questions - Secondary at Reach Academy
+#### Ask follow-up questions - Secondary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1D122ip6wgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions - Secondary at Reach Academy [AD]](https://youtu.be/2jB0mtvcsg4)
 
-####Ask follow-up questions – Specialist setting - Ellen Tinkham School
+#### Ask follow-up questions – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJSv_UnTL9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -442,7 +442,7 @@ In the following week, you will then be observed using questioning to assess pup
 
 Below are some additional resources that you might find useful in supporting your classroom practice:
 
-####Scaffolding learning - Primary
+#### Scaffolding learning - Primary
 
 Listen to Katherine Fas talk about scaffolding, how she has used it to support pupils and how to gradually reduce it in Primary
 
@@ -475,7 +475,7 @@ The first thing I would say when removing scaffolds is, it’s really important 
 
 {/details}
 
-####Scaffolding learning - Secondary
+#### Scaffolding learning - Secondary
 Kelly Challis talks about scaffolding and why it is so important when planning, drafting and editing writing in Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SmtFQE8698I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

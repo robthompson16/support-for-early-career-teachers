@@ -21,7 +21,7 @@ Learn that:
 
 ### Activities
 
-###Introducing the module: what does it mean to be an ‘effective teacher’? (10 minutes)
+### Introducing the module: what does it mean to be an ‘effective teacher’? (10 minutes)
 
 Preparing for this module:
 
@@ -46,7 +46,7 @@ Read the following extract from Coe et al (2014) What makes great teaching ([Han
 
 Great teaching is defined as that which leads to improved student progress. We define effective teaching as that which leads to improved student achievement using outcomes that matter to their future success. Defining effective teaching is not easy. The research keeps coming back to this critical point: student progress is the yardstick by which teacher quality should be assessed. Ultimately, for a judgement about whether teaching is effective, to be seen as trustworthy, it must be checked against the progress being made by students.
 
-###Understanding the evidence (20 minutes)
+### Understanding the evidence (20 minutes)
 
 Guidance for mentors:
 
@@ -90,7 +90,7 @@ You completed Activity 4.2 of the self-directed study materials ‘Understanding
   - Learning is the ‘residue of thought’ (Willingham), i.e. what we are able to transfer to our long-term memory is information that is ‘learnt’.
   - We need to support pupils in transferring knowledge from their working memory to their long-term memory and practice is the way to do this.
 
-###Reflecting on your own practice (20 minutes)
+### Reflecting on your own practice (20 minutes)
 
 Becoming an ‘effective teacher’ can feel like a daunting task for. By this point in the year, they will already have had some successes and so this task should help them identify what they need to build on.
 

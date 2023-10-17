@@ -17,7 +17,7 @@ Learn how to develop as a professional by:
 
 ### Activities
 
-###Lesson observation discussion (10 minutes)
+### Lesson observation discussion (10 minutes)
 
 This topic will be an opportunity to look back at the year and reflect on successes and challenges. Reflect on the lesson observation agreed in the last topic. Discuss the conversation the ECT had with a colleague:
 
@@ -25,7 +25,7 @@ This topic will be an opportunity to look back at the year and reflect on succes
 - What did they learn?
 - What are their reflections on this?
 
-###Reflecting on progress made (20 minutes)
+### Reflecting on progress made (20 minutes)
 
 The ECT has covered the following professional development areas in the last year, which have all built on the previous year:
 
@@ -57,7 +57,7 @@ Discuss what steps the ECT has taken to get to where they are today. They might 
 
 Ask the ECT how they can continue to keep progressing.
 
-###Reflecting on professional development (25 minutes)
+### Reflecting on professional development (25 minutes)
 
 Guidance for mentors:
 
@@ -78,6 +78,6 @@ For each one, the ECT and the mentor should discuss:
 
 Ask the ECT if they can think of any other areas of practice they have worked on and discuss the same questions for these.
 
-###Next steps (5 minutes)
+### Next steps (5 minutes)
 
 In the final mentor topic, ECTs will be thinking about their steps moving forward. They should use this part of the topic to consider what areas they have most improved in. At the start of the next topic, the mentor will go through the areas they believe the ECT has most improved in.

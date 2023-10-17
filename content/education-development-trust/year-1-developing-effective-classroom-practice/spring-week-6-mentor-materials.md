@@ -50,7 +50,7 @@ Learn how to provide opportunity for all pupils to experience success, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Welcome the ECT to the final mentor topic in this module. Offer praise where appropriate for the hard word undertaken in the module.
 
@@ -64,7 +64,7 @@ Ask the ECT who they observed and with which focus. They may have completed more
 
 Pose the question: Who did you choose to observe and why? What was the focus of the observation
 
-###Reflection on observation(s) (20 minutes)
+### Reflection on observation(s) (20 minutes)
 
 Ask the ECT to reflect on the following questions related to their focus area of the observation(s)
 
@@ -72,7 +72,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What surprised you?
 - What did you learn?
 
-###Implications for practice (10 minutes)
+### Implications for practice (10 minutes)
 
 - How did X affect the pupil’s learning?
 
@@ -80,7 +80,7 @@ In light of the previous discussion, focus now on what the ECT will do as a cons
 
 Pose the question: What will you do differently in your practice as a consequence of this observation?
 
-###Review of the module (20 minutes)
+### Review of the module (20 minutes)
 
 Use the final activity in the self-directed study materials to look through all the statements that have been covered by module 3. The ECT will have considered two key questions as part of this activity:
 

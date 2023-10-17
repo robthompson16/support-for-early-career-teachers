@@ -127,7 +127,7 @@ It is imperative that you know, understand and are able to action the safeguardi
 
 As we have seen, many people in the school community can help you understand barriers and identify effective strategies for teaching pupils with SEND. In particular, the Special Educational Needs Co-ordinator (SENCO), has a vital role in leading schools’ approaches to supporting these pupils. As a teacher, you need to be proactive in establishing a working relationship with the SENCO.
 
-####Building effective relationships
+#### Building effective relationships
 
 Watch this video to hear a SENCO talk about their role.
 

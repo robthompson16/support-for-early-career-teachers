@@ -20,7 +20,7 @@ Learn how to avoid overloading working memory by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Ask the ECT to share an example of how they introduced a complex idea in smaller steps since the last topic.
 
@@ -28,7 +28,7 @@ Ask the ECT to share an example of how they introduced a complex idea in smaller
 - What worked well?
 - What will they do differently next time?
 
-###Introducing worked examples (10 minutes)
+### Introducing worked examples (10 minutes)
 
 Pose the question: What is a worked example?
 
@@ -48,7 +48,7 @@ Pose the question: What are the benefits of worked examples for helping pupils l
 - Pupils can focus on the steps as modelled in the worked example rather than trying to do it independently.
 - There is lots of evidence to show that pupils learn best when they alternate between worked examples, and completing similar problems independently (Pachler et al, 2007).
 
-###Creating some worked examples (30 minutes)
+### Creating some worked examples (30 minutes)
 
 Ask the ECT to share an upcoming topic or series of lessons that they will be teaching.
 

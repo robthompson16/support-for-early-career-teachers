@@ -70,7 +70,7 @@ You should always follow your school’s behaviour policy. This is designed to e
 
 For example, your school policy may be for pupils to line up in silence outside the door before each lesson. Your own classroom routine for the start of the lesson needs to align with the school policy, so you should plan to be outside the door to bring the pupils into the classroom, supporting the school in ensuring a smooth start to each lesson and maximising learning time. Following this, you need to teach your pupils your expected routine for beginning the lesson. Sometimes this will require you to think carefully about how to align what you want with what happens in the wider school.
 
-####Teacher and mentor discussion on routines
+#### Teacher and mentor discussion on routines
 
 Watch this video of a teacher and their mentor talking about a routine they want to implement and finding a way of working with the school policy with the help of their mentor.
 

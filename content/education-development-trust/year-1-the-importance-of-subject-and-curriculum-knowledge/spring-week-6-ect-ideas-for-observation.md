@@ -42,7 +42,7 @@ previous_path: "/education-development-trust/year-1-the-importance-of-subject-an
 
 ### Observation focus: addressing misconceptions
 
-####Possible focus during the observation:
+#### Possible focus during the observation:
 
 - What misconceptions did the teacher anticipate?
 - How did they deal with them?

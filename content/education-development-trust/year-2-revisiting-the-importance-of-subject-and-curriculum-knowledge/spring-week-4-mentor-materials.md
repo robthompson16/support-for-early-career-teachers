@@ -17,11 +17,11 @@ Learn how to develop fluency, by:
 
 ### Activities
 
-###Reviewing lesson observation (5 minutes)
+### Reviewing lesson observation (5 minutes)
 
 Discuss the lesson observation agreed in the last topic. What was successful? What could be better? What will the ECT do next?
 
-###Reflecting on prior learning (10 minutes)
+### Reflecting on prior learning (10 minutes)
 
 Recap the learning from the previous topic.
 
@@ -52,7 +52,7 @@ Can you name three specific ways that you do this in your lessons?
 - Ask questions explicitly about how the work links to the big ideas of the subject.
 - Preview material – tell pupils what they are going to learn about and how it links to what they already know/big ideas of the subject.
 
-###Develop pupils’ fluency (35 minutes)
+### Develop pupils’ fluency (35 minutes)
 
 Guidance to mentors:
 

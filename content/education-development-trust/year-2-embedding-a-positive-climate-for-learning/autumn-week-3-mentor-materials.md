@@ -20,7 +20,7 @@ Learn how to motivate pupils by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Discuss the lesson observation agreed in the last topic.
 
@@ -28,7 +28,7 @@ Discuss the lesson observation agreed in the last topic.
 - What could be better?
 - What will the ECT do next?
 
-###Using rewards to motivate pupils (20 minutes)
+### Using rewards to motivate pupils (20 minutes)
 
 Ask the ECT to describe what they have learned from the self-directed study materials about the link between rewards and pupil motivation. If they have not engaged with this yet, read the following definitions and then ask the ECT to give some examples of the types of rewards they use/are used in your school.
 
@@ -82,7 +82,7 @@ Discussion might include:
 
 Ask the ECT what they can take from this into their practice.
 
-###Developing intrinsic motivation in your pupils (15 minutes)
+### Developing intrinsic motivation in your pupils (15 minutes)
 
 Pose the question: What approaches do we use in school to support pupils develop their intrinsic motivation?
 
@@ -136,7 +136,7 @@ I am really proud of the effort you put into preparing for your test. I know the
 
 The mentor should share examples of when they have seen pupils experiencing similar things, including what they said and did to support and motivate them.
 
-###Providing opportunities for pupils to articulate their long-term goals (10 minutes)
+### Providing opportunities for pupils to articulate their long-term goals (10 minutes)
 
 Pose the question: What can be gained from pupils knowing and being able to articulate their goals?
 

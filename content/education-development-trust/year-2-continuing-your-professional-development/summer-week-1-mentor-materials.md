@@ -21,7 +21,7 @@ Build effective working relationships by:
 
 ### Activities
 
-###Supporting individual colleagues and working as part of a team (15 minutes)
+### Supporting individual colleagues and working as part of a team (15 minutes)
 
 Guidance to mentors:
 
@@ -49,7 +49,7 @@ Support the ECT to identify how they can do this, including areas of practice wh
 - Leading on the development of schemes of work or similar
 - Sharing experiences of working successfully with a group of pupils with colleagues.
 
-###Contributing to the wider school culture (20 minutes)
+### Contributing to the wider school culture (20 minutes)
 
 Share the following statement for the group to discuss: Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school is part of building effective relationships.
 
@@ -84,7 +84,7 @@ Pose the question: Which aspects of the wider school culture you would like to c
 
 Together, identify one or two aspects of the school culture that ECTs will contribute to, when and how they will do this, such as who they will talk to and/or whose permission they need to get started, and when this will happen. If appropriate, mentors should offer to broker any conversations needed with colleagues.
 
-###Participating in wider networks (20 minutes)
+### Participating in wider networks (20 minutes)
 
 Guidance to mentors:
 

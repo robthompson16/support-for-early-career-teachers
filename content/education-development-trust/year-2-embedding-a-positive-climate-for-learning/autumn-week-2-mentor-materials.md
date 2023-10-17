@@ -18,7 +18,7 @@ Learn how to communicate a belief in the academic potential of all pupils by:
 
 ### Activities
 
-###Looking back and setting the scene (15 minutes)
+### Looking back and setting the scene (15 minutes)
 
 Suggested dialogue for mentors:
 
@@ -57,7 +57,7 @@ How are success and motivation linked?
 
 Pupil success leads to increased motivation. If a pupil achieves success in your lessons and can experience and enjoy the feeling of succeeding, they are likely to be motivated to work hard and strive for further success. By offering opportunities for all pupils to achieve success we can motivate pupils to want to work hard and learn.
 
-###Using intentional and consistent language that promotes challenge and aspiration (20 minutes)
+### Using intentional and consistent language that promotes challenge and aspiration (20 minutes)
 
 Share and discuss the following statement with the ECT:
 
@@ -106,7 +106,7 @@ Consider:
 - How to show pupils that they will need to work hard?
 - What specific words to include to show challenge and aspiration?
 
-###Making mistakes and learning from them are part of the daily routine (20 minutes)
+### Making mistakes and learning from them are part of the daily routine (20 minutes)
 
 Positive language can help support pupils to realise learning is a process that requires effort and some inevitable set-backs on the way to success.
 

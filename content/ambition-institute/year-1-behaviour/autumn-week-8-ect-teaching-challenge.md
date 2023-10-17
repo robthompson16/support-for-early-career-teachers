@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-8-ect-reflect"
 ---
 
-
 Ms Sterling notices that, while pupils are willing to attempt class work, when they perceive tasks to be too hard this leads to off-task behaviour – including getting distracted and sometimes distracting others. How can she make learning more manageable, supporting pupils to persist at tasks?
 
 ## Key idea
@@ -48,14 +47,13 @@ While teachers provide pupils with temporary ‘scaffolds’, it is important th
 
 While good task and lesson design can help pupils to focus, ultimate responsibility for a pupil’s behaviour rests with the pupil, not with the teacher. If a pupil is unfocused, a teacher may wish to consider whether a change to the task design might avoid this in future. But this does not mean that the solution to pupils’ lack of focus is always the teacher’s lesson design.
 
-
-
 ### Key takeaways
-Ms Sterling can make learning more manageable for pupils by understanding
-  that:
-- when academic demands are not well matched to pupil capabilities, pupils’ working memory can become overloaded, causing them to stop trying or go off-task 
-- introducing new material in steps, building on prior knowledge and using guides and scaffolds all help to avoid overloading pupils’ working memory and make it more likely that pupils will stay on-task
 
+Ms Sterling can make learning more manageable for pupils by understanding
+that:
+
+- when academic demands are not well matched to pupil capabilities, pupils’ working memory can become overloaded, causing them to stop trying or go off-task
+- introducing new material in steps, building on prior knowledge and using guides and scaffolds all help to avoid overloading pupils’ working memory and make it more likely that pupils will stay on-task
 
 ### Further reading
 
@@ -63,8 +61,6 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 
 {details}
 References.
-
-
 
 <span style="font-weight: 400;">
   Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great

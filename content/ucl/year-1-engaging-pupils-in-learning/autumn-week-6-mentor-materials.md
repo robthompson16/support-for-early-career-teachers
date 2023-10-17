@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Subject knowledge and key concepts
 
 ### Learning intentions
@@ -27,17 +26,15 @@ In your mentor session last week, you supported your mentee in mapping how key c
 
 In this session you will broaden this consideration of key concepts and skills to look at the curriculum, focusing on a longer period of time. For early years and primary teachers, it might be appropriate to choose a specific subject area (e.g. literacy, numeracy, science etc.) for the class that your mentee teaches. In secondary schools and beyond, it might be more appropriate to look at an entire Key Stage or examination specification within a specialist subject. This session aims to further identify the essential concepts and skills within a specific area and how these build up within a curriculum. Furthermore, this session seeks to identify areas of subject and curriculum knowledge that ECTs might still need to develop, and to draw on your experience as a mentor in guiding your mentee how to go about this.
 
-
-
 ### Research and practice summary
 
 Focus on key knowledge and building powerful analogies: Key Stage 3 Curriculum overview for a History department
 
 This is a history department’s plan for how to help teachers and pupils build powerful analogies for the subject across a key stage. Aside from this, they also teach the standard units from the National Curriculum. Keep it in mind as you read this week’s Research and Practice Summary.
 
-Year 7: 
+Year 7:
 
-- What is ‘history’ and what is it not? Introduction to the subject at secondary school.Trip to local history museum in spring term, looking at artefacts from Roman to modern era.                                                                                                                                                                                     
+- What is ‘history’ and what is it not? Introduction to the subject at secondary school.Trip to local history museum in spring term, looking at artefacts from Roman to modern era.
 
 Year 8:
 
@@ -51,7 +48,7 @@ Year 9:
 - Oral history project related to WW2. Pupils interview local guests in school.
 - Black History Month competition, run by Year 9 for the whole school.
 - Why choose GCSE history/careers in history.
-                                                                                                                                                                   
+
 In developing mastery, it is important that the curriculum is carefully sequenced, so that pupils learn foundational concepts first – concepts that are needed in order to understand more complex information. Examples of foundational concepts include learning the alphabet and phonetic sounds in literacy; learning to count, add and subtract in mathematics; and learning about cells and atoms in science. Over time, building up foundational understanding can help pupils develop confidence in their ability to recall relevant information while their knowledge gradually becomes more complex, and external support (or scaffolding) is gradually withdrawn.
 
 To help your pupils to master foundational concepts, you should:
@@ -84,7 +81,6 @@ The pupils’ understanding of how to ‘be a historian’ builds progressively 
 
 Throughout, the department collaborates to deepen their own subject knowledge, for example in areas of local, Black and LGBT history.
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions, and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the review and plan sections of this session.
@@ -93,11 +89,11 @@ Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session, which was to plan learning which combined opportunities to develop critical thinking and transfer, while expressing something important about the values inherent in the subject. Ask your mentee to summarise:
 
-    a. what they did
+   a. what they did
 
-    b. the impact of this on pupil learning (including how they are evaluating this)
+   b. the impact of this on pupil learning (including how they are evaluating this)
 
-    c. what they will do going forward to build on these actions
+   c. what they will do going forward to build on these actions
 
 2. Clarify the Learning Intentions for this session with your mentee
 
@@ -111,72 +107,55 @@ Last week, your mentee thought in depth about one topic. The topic will have bee
 
 1. Discuss with mentor
 
-    With your mentee, discuss why your chosen subject ‘really matters’. Why do you feel that it is deserving of the space given to it in the school curriculum?
+   With your mentee, discuss why your chosen subject ‘really matters’. Why do you feel that it is deserving of the space given to it in the school curriculum?
 
-    To guide your discussion, use these prompts. Don’t aim to cover all prompts, but focus on those which are most relevant to your mentee, the phase in which they teach and the subject being discussed.
+   To guide your discussion, use these prompts. Don’t aim to cover all prompts, but focus on those which are most relevant to your mentee, the phase in which they teach and the subject being discussed.
 
-    a. Develop a list of key concepts and skills within your chosen area together. It might help to first consider the parent discipline(s) from which the subjects are derived (e.g. literacy in English derives from English language; school geography also draws on geology, environmental science, urban planning, etc.)
+   a. Develop a list of key concepts and skills within your chosen area together. It might help to first consider the parent discipline(s) from which the subjects are derived (e.g. literacy in English derives from English language; school geography also draws on geology, environmental science, urban planning, etc.)
 
-    - What might be learnt at university about this discipline (or skill/development goal)?
-    - What is cutting edge within this area which has perhaps not been brought into school curricula yet? (e.g. recent advances in space exploration, the release of a new music album, the design features of a new smartphone)
-    - What makes your mentee (and you as a mentor) passionate about this area?
+   - What might be learnt at university about this discipline (or skill/development goal)?
+   - What is cutting edge within this area which has perhaps not been brought into school curricula yet? (e.g. recent advances in space exploration, the release of a new music album, the design features of a new smartphone)
+   - What makes your mentee (and you as a mentor) passionate about this area?
 
-    b. To help with this task you might use further internet research, for example, by looking at university subject department websites or any professional associations and societies associated with the subject (e.g. the Royal Geographical Society, Historical Association, Institute of Physics)
+   b. To help with this task you might use further internet research, for example, by looking at university subject department websites or any professional associations and societies associated with the subject (e.g. the Royal Geographical Society, Historical Association, Institute of Physics)
 
-    c. Together with your mentee now try to define the nature of the subject that you are focusing on: how does it provide students with knowledge about the world, or ways of acting within it? (For example, art can provide representations of the world, but it can also challenge, provoking thought and emotion. Mathematics also provides a language with which to describe the world, but it goes further in that it allows us to see patterns that we might not otherwise be aware of, because it is an internally coherent language. Physical education teaches pupils about recreation, but also teamwork, health and the human body, drawing on both the experience of accomplished sportspersons and scientific study.)
+   c. Together with your mentee now try to define the nature of the subject that you are focusing on: how does it provide students with knowledge about the world, or ways of acting within it? (For example, art can provide representations of the world, but it can also challenge, provoking thought and emotion. Mathematics also provides a language with which to describe the world, but it goes further in that it allows us to see patterns that we might not otherwise be aware of, because it is an internally coherent language. Physical education teaches pupils about recreation, but also teamwork, health and the human body, drawing on both the experience of accomplished sportspersons and scientific study.)
 
 2. Practical activity
 
-    Within any area of learning there are stories and analogies, illustrations, examples, explanations and demonstrations which convey the important knowledge and skills. Some of these may have come up when you were discussing progression over the last two weeks.
+   Within any area of learning there are stories and analogies, illustrations, examples, explanations and demonstrations which convey the important knowledge and skills. Some of these may have come up when you were discussing progression over the last two weeks.
 
-    Either
+   Either
 
-    1. If you feel that you arrived at a reasonable definition for the nature of the subject that you are discussing, now spend time listing the activities and explanations which already convey this to students within your curriculum. How do students come to understand the nature of this subject? How can teachers support this further? (e.g. if you are teaching art, are there opportunities for your pupils to go beyond painting a ‘good’ picture, so that they make art that ‘says’ something? In maths, do you invite your pupils to see the mathematical patterns that occur around them?)
+   1. If you feel that you arrived at a reasonable definition for the nature of the subject that you are discussing, now spend time listing the activities and explanations which already convey this to students within your curriculum. How do students come to understand the nature of this subject? How can teachers support this further? (e.g. if you are teaching art, are there opportunities for your pupils to go beyond painting a ‘good’ picture, so that they make art that ‘says’ something? In maths, do you invite your pupils to see the mathematical patterns that occur around them?)
 
-        Or
+      Or
 
-    2. If consideration of the nature of the subject under discussion was challenging (and indeed this often is), then instead spend some time focusing on a key concept or skill. List the activities and explanations that allow understanding of this to build up across a year.
+   2. If consideration of the nature of the subject under discussion was challenging (and indeed this often is), then instead spend some time focusing on a key concept or skill. List the activities and explanations that allow understanding of this to build up across a year.
 
 3. Collaborative planning
 
-    Conveying the nature of a subject is a complex thing and develops throughout a pupil’s education. For example, in Key Stage 1 we might indicate that science is about testing predictions, whereas by Key Stage 4 we might hope that pupils also recognise that some scientists do purely theoretical work, and that predictions follow that. As such, it is worthwhile mapping how a pupil’s understanding of a subject (or key concept/skill) develops over a whole key stage, or at least across a year. The history department in the example above did a version of this. Now it’s your turn. Draw a table of how the nature of a subject, concept or skill might differ over different times within your school curriculum.
+   Conveying the nature of a subject is a complex thing and develops throughout a pupil’s education. For example, in Key Stage 1 we might indicate that science is about testing predictions, whereas by Key Stage 4 we might hope that pupils also recognise that some scientists do purely theoretical work, and that predictions follow that. As such, it is worthwhile mapping how a pupil’s understanding of a subject (or key concept/skill) develops over a whole key stage, or at least across a year. The history department in the example above did a version of this. Now it’s your turn. Draw a table of how the nature of a subject, concept or skill might differ over different times within your school curriculum.
 
 Here is a brief example from Key Stage 3 science that might help get you started
 
 ###Curriculum point: Entry to Year 7
 
-
-
 ####How is science characterised?
 
 Science involves experiments, testing hypotheses. Biology, Physics and chemistry are together.
 
-
-
-
 ###Curriculum point: Enrichment Week
-
-
 
 ####How is science characterised?
 
 Science helps solves real-world problems and is related to technology and politics.
 
-
-
-
 ###Curriculum point: Year 9
-
-
 
 ####How is science characterised?
 
 There are specialist areas of science that people focus upon in teams. These teams collaborate and peer review is important. We broadly divide biology, physics and chemistry, although there are lots of overlaps.
-
-
-
-
-
 
 Next Steps 5 mins
 
@@ -191,4 +170,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
 
 Finally, remind your mentee that they have an online ECT training session next week. This will focus on the same area of the Early Career Framework as this session, and will allow them to share their ideas about the key concepts and skills, as well as the nature of the subject chosen, with other ECTs. They should therefore bring the materials developed over the last few sessions to this: the list of key concepts and skills, topic overview and consideration of activities through which the nature of a subject is conveyed.
-

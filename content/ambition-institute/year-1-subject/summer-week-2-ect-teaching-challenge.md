@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-2-ect-reflect"
 ---
 
-
 Ms Andrews is increasingly confident in managing behaviour and motivating students to participate in lessons. This gives her more time to think about lessons. She wants to ensure she is making the best use of the limited time she has with pupils: how can her planning best ensure pupils learn?
 
 ## Key idea
@@ -44,14 +43,13 @@ This approach allows her to organise her lessons around a narrative structure of
 
 While schools establish what they will teach informed by the National Curriculum, teachers are always doing curricular thinking, as they find new and better ways to teach the school’s curriculum. Their thinking then informs future revisions of the curriculum. Gaining this knowledge of how pupils learn a subject takes time. A new teacher would not be expected to achieve this depth immediately: the usefulness of these categories is in knowing what to think about in planning, and what to ask colleagues. High-quality curricular resources may also embody these forms of knowledge, for example textbooks or colleagues’ shared resources aligned to the school curriculum.
 
-
-
 ### Key takeaways
-Ms Andrews can begin to make a difference to pupils by:
-- planning backwards from specific, ambitious goals for knowledge, skills and values: the learning goals set out in the curriculum 
-- using her knowledge of the subject and topic and how pupils learn it to break big goals into smaller, more manageable ones and to sequence these goals 
-- organising the lesson into a sequence of meaningful steps towards her learning
 
+Ms Andrews can begin to make a difference to pupils by:
+
+- planning backwards from specific, ambitious goals for knowledge, skills and values: the learning goals set out in the curriculum
+- using her knowledge of the subject and topic and how pupils learn it to break big goals into smaller, more manageable ones and to sequence these goals
+- organising the lesson into a sequence of meaningful steps towards her learning
 
 ### Further reading
 
@@ -59,7 +57,6 @@ Coe, R., Aloisi, C., Higgins, S., & Major, L. E. (2014). What makes great teachi
 
 {details}
 References.
-
 
 Ball, D. L., Thames, M. H., &amp; Phelps, G. (2008). Content knowledge for teachers: What makes it special? _Journal of Teacher Education._ <a href="http://bit.ly/ecf-bal" target="_blank" rel="noopener">bit.ly/ecf-bal</a>
 
@@ -76,4 +73,3 @@ Willingham, D. T. (2009) _Why don’t students like school?_ San Francisco, CA: 
 Young, M., Lambert, D., Roberts, C. &amp; Roberts, M. (2014). _Knowledge and the Future School: curriculum and social justice._ London: Bloomsbury.
 
 {/details}
-

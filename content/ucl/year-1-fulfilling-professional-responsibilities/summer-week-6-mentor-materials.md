@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 6"
 ---
 
-
 ## Revisiting professional development
 
 ### Learning intentions
@@ -20,11 +19,9 @@ Develop as a professional, by:
 
 - Engaging in professional development focused on developing an area of practice with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice.
 
-
 ### Topic introduction
 
 In the ECT training session at the beginning of this module, your mentee considered some important aspects of what it means to be (a) professional and approaches to managing their professional development over time. This has been expanded through subsequent sessions in the module. In this week’s self-directed study session, your mentee has the opportunity to revisit their thinking around professional development and opportunities to continue their development over time. In this ECT mentor meeting, you will further explore these opportunities with your mentee.
-
 
 ### Meeting activities
 
@@ -83,4 +80,3 @@ To make this effective, you could:
 Next Steps: 5 mins
 
 Note the date of your next mentor meeting. This will be the final ECT mentor meeting of this programme for Year 1. In this meeting you will review your ECT’s progress this year and look ahead to Year 2 of the programme.
-

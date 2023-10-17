@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/spring-week-4-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -25,7 +24,7 @@ Reflect on your classroom practice since the start of the year. Look at the bull
 - Thinking in similar ways for different tasks
 - Set myself as an example of a learner
 - Self-target setting
-- Monitor how they do homework 
+- Monitor how they do homework
 
 Be ready to share your thoughts with your mentor and to talk about one or two examples of how you have supported metacognition and self-regulated learning.
 
@@ -57,4 +56,3 @@ Review a series of homework tasks you have previously set. It would be useful to
 ### Next Steps: 5 mins
 
 Be ready to share this, and your other learning from this session, with your mentor in your next meeting with them.
-

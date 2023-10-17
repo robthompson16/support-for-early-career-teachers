@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-12-ect-reflect"
 ---
 
-
 Ms Mahrez has been working hard on conveying high expectations in her classroom, encouraging pupils to try hard and be open to challenge. However, she still occasionally struggles with low-level disruption and worries that her expectations may be unrealistic. On the other hand, when she looks at experienced colleagues’ classrooms, they seem to achieve better behaviour and learning from the same pupils. What role do high expectations play in pupil success and how can Ms Mahrez build a classroom that consistently delivers high expectations?
 
 ## Key idea
@@ -55,14 +54,12 @@ Being an effective teacher requires strong knowledge of effective instruction an
 
 Conveying and upholding high expectations takes significant teacher effort and time. Improvements in pupil attitudes to learning may not be immediately visible, and there may be steps backwards as well as forwards. Ms Mahrez may feel like her colleagues’ classrooms work as if by magic, but she needs to understand there is no shortcut. Her consistent efforts to support pupil success, and helping them understand the process behind this, is the best way she can support pupils in her classroom and set them up for success beyond it.
 
-
-
 ### Key takeaways:
-- high expectations are achieved through learning environments which demand lots from pupils but also ensure they experience success 
-- experiencing success improves pupil effort, confidence and motivation 
-- pupils can improve their self-regulation and so their behaviour and learning 
-- teachers who promote academic success also make pupil success beyond the classroom more likely
 
+- high expectations are achieved through learning environments which demand lots from pupils but also ensure they experience success
+- experiencing success improves pupil effort, confidence and motivation
+- pupils can improve their self-regulation and so their behaviour and learning
+- teachers who promote academic success also make pupil success beyond the classroom more likely
 
 ### Further reading
 
@@ -70,7 +67,6 @@ Chetty, R., Friedman, J. N., & Rockoff, J. E. (2014). Measuring the Impacts of T
 
 {details}
 References.
-
 
 Chetty, R., Friedman, J. N., &amp; Rockoff, J. E. (2014). Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood. American Economic Review, 104(9), 2633–2679. <a href="http://bit.ly/ecf-che" target="_blank" rel="noopener">bit.ly/ecf-che</a>
 
@@ -99,4 +95,3 @@ Wubbels, T., Brekelmans, M., den Brok, P., Wijsman, L., Mainhard, T., &amp; van 
 E. T. Emmer, E. Sabornie, C. Evertson, &amp; C. Weinstein (Eds.). Handbook of classroom management: Research, practice, and contemporary issues (2nd ed. 363–386). New York, Routledge.
 
 {/details}
-

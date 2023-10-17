@@ -17,17 +17,15 @@ High-quality classroom talk is a powerful tool for learning (EEF, 2019). It can 
 
 In this section, you will explore how questioning can be used to check for pupil understanding and build learning. Start by listening to Claire Stoneman talk about using questioning as part of effective classroom practice and answer the questions in your notepad:
 
-* when might you use questioning in a lesson?
-* what are Sherrington’s (2019) ‘relevant instructional procedures’ of
-    questioning?
-* how do you think questioning links to effective explanations and modelling?
+- when might you use questioning in a lesson?
+- what are Sherrington’s (2019) ‘relevant instructional procedures’ of
+  questioning?
+- how do you think questioning links to effective explanations and modelling?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SvRXqL3G7Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Muijs and Reynolds tell us that due to its importance, questioning is one of the most widely studied elements in teaching research. Questioning is a crucial element of effective instruction and can be used throughout the lesson. For example, it may be used during retrieval practice, which might occur at the beginning of a lesson. Questioning can also be used during an explanation or during modelling to gauge whether information has been understood. Questioning is a vital and flexible tool at any part of a lesson.
 
@@ -37,18 +35,18 @@ Questioning is essential to great teaching and should be interactive and respons
 2. Ask students to explain what they have learned
 3. Check the response of all students
 4. Provide systematic feedback and corrections
-So questioning helps us do a lot. It's essential to be a good questioner as a teacher
-and again it needs lots and lots of practice. Our questions can help us gauge many
-things, from how well the pupils understand, to whether we need to reteach something,
-to whether pupils have understood a complex concept. We need to ask loads of questions
-and involve loads of pupils. We may need to take more time in a lesson to explain
-something further if our questioning has shown us that pupils don't really get it.
-Questioning enables us to be responsive teachers and to act on the information we
-glean from our pupils. Questioning is really key and, as Rosenshine found, less successful
-teachers ask fewer questions and almost no process questions. There's an array of
-questioning strategies that you can employ in your teaching. It's worth focusing
-on a few and practicing them until you're more comfortable and they come more naturally.
-Practice is key.
+   So questioning helps us do a lot. It's essential to be a good questioner as a teacher
+   and again it needs lots and lots of practice. Our questions can help us gauge many
+   things, from how well the pupils understand, to whether we need to reteach something,
+   to whether pupils have understood a complex concept. We need to ask loads of questions
+   and involve loads of pupils. We may need to take more time in a lesson to explain
+   something further if our questioning has shown us that pupils don't really get it.
+   Questioning enables us to be responsive teachers and to act on the information we
+   glean from our pupils. Questioning is really key and, as Rosenshine found, less successful
+   teachers ask fewer questions and almost no process questions. There's an array of
+   questioning strategies that you can employ in your teaching. It's worth focusing
+   on a few and practicing them until you're more comfortable and they come more naturally.
+   Practice is key.
 
 In this session you'll explore how to check pupils’ understanding by asking pupils a number of different questions and gaining feedback about what they understand. As Rosenshine and Sherrington emphasize, this reinforces the need to present material in small steps. If there's too much at once then errors and misconceptions will potentially occur more frequently. Therefore chunked explanations supported by models and reinforced by regular questioning and checking for understanding is vital.
 
@@ -86,18 +84,16 @@ Pupils are likely to give a passive response for a number of possible reasons:
 
 To avoid asking rhetorical questions that don’t give accurate detail about pupil understanding, you should ask carefully chosen questions that are directly linked to the material you are teaching.
 
-
-
 ### Reflection
+
 Have you asked pupils a self-report question in a recent lesson?
 
 If so, consider the following questions and record your answer in your notepad:
 
-* what was the pupils’ response?
-* did it help you to check pupil understanding accurately?
-* what could you have asked instead that would be a better assessment of pupil
-    understanding?
-
+- what was the pupils’ response?
+- did it help you to check pupil understanding accurately?
+- what could you have asked instead that would be a better assessment of pupil
+  understanding?
 
 ## Check whole class understanding
 
@@ -119,20 +115,17 @@ It is important you ask pupils to show you their answer _in unison_ to prevent t
 
 Once pupils have revealed their answer, you should target certain pupils and ask them to explain why they have given or chosen that answer, especially if pupils have given a mixed response. This will highlight where misconceptions have formed which you can then directly address.
 
-
-
 ### What does this look like in practice?
+
 Watch one of the videos below of teachers assessing understanding of all pupils. Consider the following questions and record your response in your notebook:
 
-* how did the teacher gather evidence of learning from all pupils?
-* what did the teacher do as the result of the information gathered?
-* how did this support subsequent learning?
-
+- how did the teacher gather evidence of learning from all pupils?
+- what did the teacher do as the result of the information gathered?
+- how did this support subsequent learning?
 
 ####Check whole class understanding - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILAK7ZJIAcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding – Early Years [AD]](https://youtu.be/https://youtu.be/-YUSIZ29tRg)
 
@@ -140,13 +133,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxJgFGzVW58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Check whole class understanding - Primary [AD]](https://youtu.be/RvqCqcMMCe4)
 
 ####Check whole class understanding - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2cXXSKa0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding - Secondary [AD]](https://youtu.be/2Z8PQCvjeEE)
 
@@ -160,15 +151,15 @@ Therefore, when asking questions, it is important you leave thinking time betwee
 - By naming the pupil _after_ asking the question, you encourage _all_ pupils to be ready with an answer because they don’t know who you will call upon
 
 ### What does this look like in practice?
+
 Watch these videos of a teacher providing pupils with enough wait time. Consider
 the following question and record your response in your notepad:
 
-* what impact does this have on pupils’ engagement and quality of response?
+- what impact does this have on pupils’ engagement and quality of response?
 
-####Wait time – Early Years - Bella Sidenius at Reach Academy 
+####Wait time – Early Years - Bella Sidenius at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bLi7IgZ1Ips" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Wait time – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/0607VPLAOjc)
 
@@ -176,13 +167,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8RlvU-C0yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Wait time – Primary at Reach Academy [AD]](https://youtu.be/-wGtvkAWc5E)
 
-####Wait time – Secondary - Phil Fowkes at Reach Academy 
+####Wait time – Secondary - Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be0r5-9TWT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Wait time – Secondary - Phil Fowkes at Reach Academy [AD]](https://youtu.be/c1AJi3ALiws)
 
@@ -190,9 +179,7 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKasQ9OYXTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Wait time – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/2Ps1bEcI3vM)
-
 
 ## Extending and challenging pupils
 
@@ -207,15 +194,13 @@ One way to ensure you maintain high expectations of pupil responses is to ensure
 
 Often teachers, unknowingly, complete or ‘round-up’ pupils' incomplete answers and then reward the pupil for their answer even though it wasn’t entirely their response.
 
-
-
 ### Example
+
 Teacher: How do I know that the answer will be an integer if I divide 1230 by 10?
 
 Pupil: Because it ends in a zero.
 
 Teacher: Right. 1230 ends in a zero meaning it is a multiple of 10.
-
 
 The teacher has added extra information but still indicated the pupil gave the correct response. The consequence is that pupils believe they are right and fully understand when they may not.
 
@@ -228,16 +213,16 @@ The best way to avoid doing this is to ensure _you_ know what a good answer woul
 Ways you can further probe a pupil’s thinking will be explored in the following section.
 
 ### What does this look like in practice?
+
 Watch these videos to watch how teachers probe pupils to provide more detail in their
 answers. Consider the following questions and record your response in your notepad:
 
-* how did the teacher respond to the partially complete answer?
-* what impact did this have on the pupil’s response?
+- how did the teacher respond to the partially complete answer?
+- what impact did this have on the pupil’s response?
 
 ####Do not complete pupils’ answers – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EpHToIr5JQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Do not complete pupils’ answers – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/gbcRuyisUlU)
 
@@ -245,13 +230,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w9d8SyZzMtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Do not complete pupils' answers - Primary [AD]](https://youtu.be/zt3gtOdwomM)
 
 ####Do not complete pupils' answers - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3KWumo1mI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Do not complete pupils' answers - Secondary [AD]](https://youtu.be/JsCtPhGuQbA)
 
@@ -259,10 +242,10 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMnpXnoDC3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Do not complete pupils' answers – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/axORC2uYll4)
 
 ### Reflection
+
 Listen to Robert Gardener talking through why he ensures he does not complete pupils’
 answers and an example of when he probed a pupil to provide more detail.
 
@@ -270,10 +253,8 @@ answers and an example of when he probed a pupil to provide more detail.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHIYl_ZFJzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Teacher questioning is a very powerful tool in the classroom. One of the key aims of teacher questioning is to increase accountability or create accountability for all students in the room, and to generate a learning environment that is high challenge for all students, and that is regardless of their ability, we want to create that sense of challenge. Probing for more detail is one thing that we can do that helps us to achieve that goal, so using further questioning, further probing.
 
@@ -281,42 +262,40 @@ This is about us, as teachers, having high expectations of all students in the r
 
 There are a number of ways that we can do that in the lesson:
 
-- We can further probe, so we can ask further questions, we can pose further questions to reshape the answer 
-- Using wait time is important as well, so once we've posed a question, if we just wait for a moment, that allows a student time to articulate their thoughts, to shape their response 
+- We can further probe, so we can ask further questions, we can pose further questions to reshape the answer
+- Using wait time is important as well, so once we've posed a question, if we just wait for a moment, that allows a student time to articulate their thoughts, to shape their response
 - Also, we can, if we've posed a question, we can ask other students and they can then support the original student; so, for example, the student gives a half-formed answer, an inaccurate answer, we leave that student for a moment, and then we question other students around the room. That allows the student, the original student, time to reformulate, to reflect, to listen to other students, and helps to push them to give a better answer.
-So, in a recent lesson (I'm an English teacher) on _Macbeth_, we were
-looking at some close analysis of a speech by Lady Macbeth. A student that I
-questioned about the speech gave an incorrect or a partially correct answer
-about a crucial plot event in the play. They indicated that Lady Macbeth “puts
-the blame on someone else for what Macbeth does”. Now, this is partially
-correct, this answer, I just wanted more from the student. So what I did was I
-asked the student to reread the speech that we were looking at, the speech in
-question by Lady Macbeth where this plot detail is elaborated on by Lady Macbeth
-to Macbeth. Once the student had done that, I began to further probe, so I
-unpicked that speech with them, the key parts of the speech. So I was asking
-questions, for instance, such as:
+  So, in a recent lesson (I'm an English teacher) on _Macbeth_, we were
+  looking at some close analysis of a speech by Lady Macbeth. A student that I
+  questioned about the speech gave an incorrect or a partially correct answer
+  about a crucial plot event in the play. They indicated that Lady Macbeth “puts
+  the blame on someone else for what Macbeth does”. Now, this is partially
+  correct, this answer, I just wanted more from the student. So what I did was I
+  asked the student to reread the speech that we were looking at, the speech in
+  question by Lady Macbeth where this plot detail is elaborated on by Lady Macbeth
+  to Macbeth. Once the student had done that, I began to further probe, so I
+  unpicked that speech with them, the key parts of the speech. So I was asking
+  questions, for instance, such as:
 - “What did Lady Macbeth do with the bloody daggers?”
 - “Why did she do that?”
 - “What was the impact of those actions once Duncan’s body was discovered?”
-As I say, I really wanted to push the student to give a more full, a more
-complete answer. After thiat, I then returned to that key original question
-about who Lady Macbeth intentionally frames for Duncan’s murder, so this probing
-made sure that the student eventually got to a fuller, more rounded out, fleshed
-out answer.
+  As I say, I really wanted to push the student to give a more full, a more
+  complete answer. After thiat, I then returned to that key original question
+  about who Lady Macbeth intentionally frames for Duncan’s murder, so this probing
+  made sure that the student eventually got to a fuller, more rounded out, fleshed
+  out answer.
 
 As teachers, I think it is sometimes tempting to accept poorly formed, maybe even inaccurate answers. Maybe we want to appear encouraging to students, for instance, or to we want to maintain the flow of the lesson, the pace of the lesson. But the issue with that is that we can’t allow these misconceptions or even errors to become embedded – that's the danger if we don’t challenge them. So we must always challenge, we must insist on challenging incorrect or partially formed answers.
 
 {/details}
 
-
-
 ### Reflection
-Describe an example of when you rounded up a pupil’s answer. 
+
+Describe an example of when you rounded up a pupil’s answer.
 
 Explain why you think
 you did it, what impact this had on pupil understanding and what you could have asked
 instead.
-
 
 ## Ask follow-up questions
 
@@ -340,9 +319,8 @@ By doing this, you are:
 
 Below is an example of what this might look like in practice:
 
-
-
 ### Example of asking how or why questions
+
 Teacher: What is the perimeter of the square?
 
 Pupil: 20 metres.
@@ -359,14 +337,13 @@ Teacher: So…
 
 Pupil: So, all the sides are 5 metres and 4 times 5 equals 20.
 
-
 Here, the teacher has pushed the pupil to reveal their deeper understanding by asking ‘how’ questions. It has helped the pupil make links with other knowledge, enabling them to provide a comprehensive answer.
 
 ## Ask for another way to answer
 
 Sometimes there is more than one way to give an answer. You can check pupil understanding by asking them to give another way of solving a problem or explaining their reasoning.
 
-Teacher: Fill in the blanks: __+ __ = 4
+Teacher: Fill in the blanks: **+ ** = 4
 
 Pupil: Three plus one equals four
 
@@ -374,7 +351,7 @@ Teacher: Can you think of another way to make four?
 
 Pupil: Another way to make four is two plus two.
 
-Teacher: What if one was the first number in the equation? 1 + __ = 4
+Teacher: What if one was the first number in the equation? 1 + \_\_ = 4
 
 Pupil: One plus three equals four.
 
@@ -415,17 +392,16 @@ By doing this, you are joining up pupils’ learning and connecting new learning
 
 ## What does this look like in practice?
 
-There are many ways you can extend pupils’ understanding when they present correct answers. 
+There are many ways you can extend pupils’ understanding when they present correct answers.
 
 Watch these videos of teachers challenging pupils with follow-up questions to extend their understanding. Whilst watching, consider the following questions and then record your response in your notepad:
 
-* what type(s) of follow-up questions were used?
-* how did this impact pupils’ responses?
+- what type(s) of follow-up questions were used?
+- how did this impact pupils’ responses?
 
 ####Ask follow-up questions – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrVh0JSxnD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/8AIgnb4ssn0)
 
@@ -433,13 +409,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/StSpQViqrhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Ask follow-up questions - Primary at Reach Academy [AD]](https://youtu.be/L76nGADqy94)
 
 ####Ask follow-up questions - Secondary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1D122ip6wgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions - Secondary at Reach Academy [AD]](https://youtu.be/2jB0mtvcsg4)
 
@@ -447,9 +421,7 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJSv_UnTL9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Ask follow-up questions – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/4glyxn2r2S0)
-
 
 ## Summary
 
@@ -476,24 +448,22 @@ Listen to Katherine Fas talk about scaffolding, how she has used it to support p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MjSJTt_Elso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Scaffolding is a term that refers to a variety of instructional techniques and resources that are used to move pupils toward stronger understanding and, ultimately, greater independence in the learning process.
 
 Three key things that have supported me across the curriculum to scaffold learning are:
 
-- Worked examples, sometimes known as WAGOLLs, which stands for ‘What A Good One Looks Like’ 
+- Worked examples, sometimes known as WAGOLLs, which stands for ‘What A Good One Looks Like’
 - Checklists
 - Thinking aloud
-Worked examples or WAGOLLs are brilliant resources that demonstrate the final outcome
-expected to pupils. They can be used to model the skills and standards expected through
-shared or guided writing, or they can simply be shared with your pupils who might
-find it challenging when conceptualising the expected outcome of a task. These WAGOLLs
-can then be displayed as a visual prompt for learners to access throughout the sequence
-of lessons and support them in magpie-ing ideas for their own work.
+  Worked examples or WAGOLLs are brilliant resources that demonstrate the final outcome
+  expected to pupils. They can be used to model the skills and standards expected through
+  shared or guided writing, or they can simply be shared with your pupils who might
+  find it challenging when conceptualising the expected outcome of a task. These WAGOLLs
+  can then be displayed as a visual prompt for learners to access throughout the sequence
+  of lessons and support them in magpie-ing ideas for their own work.
 
 Checklists are amazing. Giving pupils a checklist of criteria to meet when answering a question or completing a task is a really simple but massively effective way of scaffolding. A checklist provides a visual prompt and gives pupils an idea of how many steps they need to take in order to be successful, as well as the order in which they should take them.
 
@@ -510,10 +480,8 @@ Kelly Challis talks about scaffolding and why it is so important when planning, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SmtFQE8698I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 If there is one thing which I used constantly with all of my learners when I was teaching it was scaffolds.  Now these could range from structured frameworks for accessing and for exploring written text to a mind map for ideas which are to be developed into a body of text. Scaffolds don't make the content easier, they create access to that content and help pupils, particularly those with literacy difficulties, to demonstrate the richness of their answers on paper.
 

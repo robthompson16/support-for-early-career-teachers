@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Worked examples
 
 ### Intended outcomes
@@ -17,14 +16,9 @@ Learn that:
 
 Learn how to avoid overloading working memory by:
 
-- Breaking complex material into smaller steps (e.g. using partially completed examples to focus pupils on the specific steps)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+- Breaking complex material into smaller steps (e.g. using partially completed examples to focus pupils on the specific steps)
 
 ### Activities
-
-
-
-
-
 
 ###Reflecting on learning (10 minutes)
 
@@ -64,20 +58,16 @@ Use the following guidelines and look at Handout 2.6 for examples.
 
 - Worked examples should be either fully completed or partially completed examples.
 - The ECT should annotate their worked example to show each step and explain how they solved the problem or task.
-                                                                                                                                                                                                                                                                                                                                                       
 
 ### Planning for action
-
-
 
 Together, agree how the ECT will use the worked examples.
 
 For example, they might:
 
 - Start a lesson with a worked example, ask pupils to complete similar problems on their own.
- - Set a homework with worked examples followed by independent questions.
+- Set a homework with worked examples followed by independent questions.
 
 The ECT has 60 minutes from the self-directed study time to carry out observations of colleagues or be observed linked to the key themes in this module. Discuss with the ECT whether they have planned this time yet or if they need guidance to decide who to observe and what the focus should be- see Activity 2.6 in the self-directed study materials.
 
-They will feedback on who they observed and what they learnt in the next topic.            
-
+They will feedback on who they observed and what they learnt in the next topic.

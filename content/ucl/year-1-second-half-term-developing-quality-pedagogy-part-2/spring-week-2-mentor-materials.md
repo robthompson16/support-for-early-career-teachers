@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-
-## Building on pupils’ prior knowledge through formative assessment 
+## Building on pupils’ prior knowledge through formative assessment
 
 ### Learning intentions
 
@@ -23,7 +22,6 @@ Meet individual needs without creating unnecessary workload by:
 
 - reframing questions to provide greater scaffolding or greater stretch.
 
-
 ### Topic introduction
 
 In the last few self-directed study sessions, your mentee extended their knowledge of how flexible grouping can impact upon pupil achievement. They have considered how flexible grouping helps pupils to access work at the right level of challenge and enables effective interventions to take place.
@@ -31,7 +29,6 @@ In the last few self-directed study sessions, your mentee extended their knowled
 In their most recent self-study session, they have considered how establishing pupils’ prior knowledge is an essential part of teaching, that different pupils have differing levels of prior knowledge and that this affects the rate at which they learn. Your mentee experimented with scripting parts of their lesson, so as to help them to embed formative assessment: they will bring this script with them to your session.
 
 In this session, you will help your mentee build on this activity by focusing on its practical implications. You will assist them in refining activities and approaches to be tried in the classroom: start by helping them explore their current practice and clarifying the ways in which the research might help to develop their impact on pupil success. Key goals for the session include helping them to understand a) why identifying prior knowledge is an essential classroom practice and b) how to identify the needs of individual pupils and support them effectively through formative assessment strategies.
-
 
 ### Meeting activities
 
@@ -51,8 +48,8 @@ Rehearsal
 
 Your mentee has scripted some lines that they can use with their class when deploying formative assessment strategies to understand and build upon pupils’ prior knowledge. They had 3 different pupils in mind. Ask them now to rehearse these with you. This was the grid they used.
 
-| Parts of the lesson              | Ideas for your script                                                                                        |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Parts of the lesson                  | Ideas for your script                                                                                            |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | Introducing learning intentions      | Who can tell me what our learning intentions mean?                                                               |
 | Asking and responding to questions   | Would someone like to agree with C’s answer there and give a reason?                                             |
 | Giving instructions                  | Now that you have heard the instruction from me, tell your partner in your own words what it is I want you to do |
@@ -96,4 +93,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

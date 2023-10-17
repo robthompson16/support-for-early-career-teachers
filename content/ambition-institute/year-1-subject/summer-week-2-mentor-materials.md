@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 2"
 ---
 
-
 ## Planning backwards from learning goals
 
 ### Select a development area
@@ -13,21 +12,20 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Learning goals and end points
 
-#### Focused development area   
+#### Focused development area
 
-- Teacher, with the support of a colleague, identifies achievable and demonstrable learning goals linked to the knowledge and skills pupils need. 
+- Teacher, with the support of a colleague, identifies achievable and demonstrable learning goals linked to the knowledge and skills pupils need.
 - Teacher, with the support of a colleague, accesses and reviews subject resources to ensure that learning goals relate to the ambitious learning outcomes for the longer-term curriculum.
 
 ### Development area 2: Planning backwards from learning goals
 
-#### Focused development area   
+#### Focused development area
 
-- Teacher, with the support of a colleague, reviews the learning goals for a lesson and identifies the knowledge and skills required to meet them. 
+- Teacher, with the support of a colleague, reviews the learning goals for a lesson and identifies the knowledge and skills required to meet them.
 - Teacher, with the support of a colleague, ensures lessons contain the knowledge and skills in the learning goals and these are sequenced to build towards the learning goals.
 
 {details}
 Example precise target: Teacher, with the support of a colleague, ensures lessons contain the knowledge and skills in the learning goals and these are sequenced to build towards the learning goals.
-
 
 - **Not doing it at all:** With the help of a colleague review and, if necessary, edit upcoming lesson plans to ensure the tasks address all of the knowledge and skills encapsulated in the learning goals for the lesson.
 - **Doing it but needs some improvement:** With the help of a colleague review and, if necessary, edit upcoming lesson plans to change or omit tasks that do not cover the knowledge and skills encapsulated in the learning goals for the lesson.
@@ -37,9 +35,9 @@ Example precise target: Teacher, with the support of a colleague, ensures lesson
 
 ### Development area 3: Linking tasks and learning goals
 
-#### Focused development area   
+#### Focused development area
 
-- Teacher, with the support of a colleague, accesses and reviews subject materials to understand how tasks build pupils' knowledge and skills towards the learning goals for a lesson. 
+- Teacher, with the support of a colleague, accesses and reviews subject materials to understand how tasks build pupils' knowledge and skills towards the learning goals for a lesson.
 - Teacher, with the support of a colleague, accesses and reviews subject materials to understand how to adapt task content to efficiently build pupils' knowledge and skills so they can meet the learning goals for a lesson.
 
 ### Observe
@@ -61,5 +59,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Draw explicit links between new content and end points in the subject.
 - Build in additional practice or removing unnecessary expositions.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

@@ -22,13 +22,10 @@ Watch the video of either Emily (Primary and Secondary) or Maria (Early Years) t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2JV2Oh2ORQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Developing pupils' knowledge throughout a scheme of work – Emily Maule
 
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   Scaffolding builds pupils’ skills and confidence and helps them to realise
@@ -79,25 +76,19 @@ Video transcript.
 </span>
  {/details}
 
-
 ### Video script - How have you developed pupils’ knowledge over the course of the scheme of work?
-
 
 The final version of this video will be available from spring 2021, as the publication of this programme was fast-tracked in response to disruptions to this year’s initial teacher training.
 
-
- One of the wonderful, but challenging, things about the EYFS is that there is no statutory knowledge that children have to acquire by the age of five. There are some common themes that you will see occurring in most settings e.g. Traditional Tales. Again, it is important to refer to the guidance and see what needs to be taught. For this series of lessons, I not only wanted to support pupils’ English development but also link that to their development of Understanding the World, specifically, “they know about similarities and differences between themselves and others, and among families, communities and traditions.” It was important, therefore, to provide opportunities to explore both the text itself and the context within which it was written. I chose this this text due to the large proportion of Ghanaian students within my class group and was fortunate enough to be able to draw upon their families’ experiences who provided support and personal accounts of the country and its culture.&nbsp; For a large proportion of students, this topic, along with most others, presented them with new ideas and information that they hadn’t previously encountered; some of them were slightly more abstract. It was therefore really important to ensure that there were as many concrete examples as possible in this story. In the context of ‘The Leopard’s Drum’ we used music to explore the ‘huge, magnificent drum’ and share ideas as to why it would have been so popular among the other animals. Creating opportunities to make these cross curricular links also extended the children’s schema enabling more chances for retrieval and recall. This was also done by sharing videos and images of Ghana itself to explore animals in their natural habitat which was useful as we had previously studied ‘Handa’s Surprise’ which had some similar animals as characters but provided opportunities to compare and contrast two African countries.&nbsp; One of the key objectives of this lesson series was to be able to re-tell the story. There was therefore a lot of scaffolding that was put in place at the start of the week i.e. a story map. This scaffolding empowered students with the confidence they needed initially, and then as the week went on, I gradually removed the scaffold until all students were able to confidently retell the story independently. 
-
-
+One of the wonderful, but challenging, things about the EYFS is that there is no statutory knowledge that children have to acquire by the age of five. There are some common themes that you will see occurring in most settings e.g. Traditional Tales. Again, it is important to refer to the guidance and see what needs to be taught. For this series of lessons, I not only wanted to support pupils’ English development but also link that to their development of Understanding the World, specifically, “they know about similarities and differences between themselves and others, and among families, communities and traditions.” It was important, therefore, to provide opportunities to explore both the text itself and the context within which it was written. I chose this this text due to the large proportion of Ghanaian students within my class group and was fortunate enough to be able to draw upon their families’ experiences who provided support and personal accounts of the country and its culture.&nbsp; For a large proportion of students, this topic, along with most others, presented them with new ideas and information that they hadn’t previously encountered; some of them were slightly more abstract. It was therefore really important to ensure that there were as many concrete examples as possible in this story. In the context of ‘The Leopard’s Drum’ we used music to explore the ‘huge, magnificent drum’ and share ideas as to why it would have been so popular among the other animals. Creating opportunities to make these cross curricular links also extended the children’s schema enabling more chances for retrieval and recall. This was also done by sharing videos and images of Ghana itself to explore animals in their natural habitat which was useful as we had previously studied ‘Handa’s Surprise’ which had some similar animals as characters but provided opportunities to compare and contrast two African countries.&nbsp; One of the key objectives of this lesson series was to be able to re-tell the story. There was therefore a lot of scaffolding that was put in place at the start of the week i.e. a story map. This scaffolding empowered students with the confidence they needed initially, and then as the week went on, I gradually removed the scaffold until all students were able to confidently retell the story independently.
 
 ### Reflection
 
 Review your scheme of work, considering the questions below:
 
-* with a focus on your learning objectives, where do you need to build in
-      time for teacher input, guided practice and independent practice?
-* where would it be helpful to interleave concrete examples and non-examples
-      to support pupils’ understanding of an abstract concept?
+- with a focus on your learning objectives, where do you need to build in
+  time for teacher input, guided practice and independent practice?
+- where would it be helpful to interleave concrete examples and non-examples
+  to support pupils’ understanding of an abstract concept?
 
-Prepare to share your evolving scheme of work with your mentor. 
-
+Prepare to share your evolving scheme of work with your mentor.

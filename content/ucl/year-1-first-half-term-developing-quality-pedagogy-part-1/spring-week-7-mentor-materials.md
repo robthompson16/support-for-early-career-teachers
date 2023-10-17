@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 7"
 ---
 
-
 ## Understanding the role of key professionals in helping to meeting the needs of all learners
 
 ### Learning intentions
@@ -21,14 +20,11 @@ And provide opportunity for all pupils to experience success, by:
 
 - making effective use of teaching assistants
 
-
-
 ### Topic introduction
 
 So far in this module, your mentee has focused on planning well-structured lessons. In your last meeting, you will have discussed with them their degree of competence (unconscious or conscious) in relation to planning and teaching well-structured lessons.
 
 In this session, you will help your mentee build on their understanding of planning, focusing in more detail on how to break content down for different pupils. You will focus on the need to locate the education of children with SEND within inclusive policy and practice, with an emphasis on improving the whole learning environment and the combination of teaching and learning processes applicable to all children. This is an approach that should serve to prevent some children from needing to be identified as having special educational needs.
-
 
 ### Research and practice summary
 
@@ -65,7 +61,6 @@ Jordan was much more focused as a result of being able to verbalise his ideas, u
 
 Sarah could easily see that Jordan needed extra help, but she relied on her colleague – the SENCO – to give her expert advice and to direct her to appropriate strategies in the SEND Code of Practice. Sarah does not have a TA; she instead identified a buddy who could share ideas orally with Jordan. Sarah knows that it would be better still if she were able to choose different buddies to work with Jordan (so they don’t become stuck themselves).
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session.
@@ -77,7 +72,6 @@ Clarify the Learning Intentions for this session with your mentee.
 At the start of this module, you looked at all of the ‘learn how to’ statements for Standard 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others they will want more practice, and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
 Theory to Practice 40 mins
-
 
 Rehearsal
 
@@ -107,8 +101,6 @@ To support this action planning, you could refer to:
 - how you arrange time and plan with your TA (if you have one) - e.g. you may have PPA time together or collaborate during staff training days
 - protocols your school may already have in place for staff co-working
 
-
-
 Next Steps 5 mins
 
 Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
@@ -118,4 +110,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

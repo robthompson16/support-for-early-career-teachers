@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-8-ect-reflect"
 ---
 
-
 Ms Sims understands that several strategies contribute to effective instruction. But sometimes, when considering how to use these strategies in combination, she notices that she is unsure how they fit together. When does pupil misunderstanding mean she should use more teacher talk? When do pupils need more practice? Is there an overall model of instruction which can help her review her lessons to decide if her instruction is supporting pupils to learn as effectively as they can?
 
 ## Key idea
@@ -49,14 +48,13 @@ I-We-You offers valuable guidance for sequencing learning, but it is not a rule:
 
 The expertise reversal effect (Kalyuga, 2007) means that as pupils gain knowledge and skills, too much support can stop them using what they already know. As a result, it is important that teachers check for understanding to ensure they are not ‘over-scaffolding' learning, withdrawing support as appropriate.
 
-
-
 ### Key takeaways
-Ms Sims can be more confident her instruction is effective if she understands that:
-- explicit teaching of knowledge and skills can help form effective mental models 
-- effective instruction is underpinned by what we know about how pupils learn and checking this through effective assessment 
-- effective instruction often uses the I-We-You model to introduce new material in steps, using concrete examples and worked examples, gradually withdrawing support and promoting independent practice with a high success rate, both within lessons and over time
 
+Ms Sims can be more confident her instruction is effective if she understands that:
+
+- explicit teaching of knowledge and skills can help form effective mental models
+- effective instruction is underpinned by what we know about how pupils learn and checking this through effective assessment
+- effective instruction often uses the I-We-You model to introduce new material in steps, using concrete examples and worked examples, gradually withdrawing support and promoting independent practice with a high success rate, both within lessons and over time
 
 ### Further reading
 
@@ -65,24 +63,22 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 {details}
 References.
 
-
 Christodoulou, D. (2017). _Making Good Progress: The Future of Assessment for Learning_. Oxford: OUP.
 
 Coe, R. (2013). Improving Education: A triumph of hope over experience. _Centre for Evaluation and Monitoring. Durham University, UK._ <a href="http://bit.ly/ecf-coe2" target="_blank" rel="noopener">bit.ly/ecf-coe2</a>
 
 Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). _What makes great teaching. Review of the underpinning research_. Durham University. <a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">bit.ly/ecf-coe</a>
 
-Kalyuga, S. (2007) Expertise reversal effect and its implications for learner-tailored instruction. _Educational Psychology Review_, _19_(4), 509-539.
+Kalyuga, S. (2007) Expertise reversal effect and its implications for learner-tailored instruction. *Educational Psychology Review*, *19*(4), 509-539.
 
-Lemov, D. (2015). _Teach Like a Champion 2.0_ (2<sup>nd</sup> ed.). San Francisco: Jossey-Bass.
+Lemov, D. (2015). *Teach Like a Champion 2.0* (2<sup>nd</sup> ed.). San Francisco: Jossey-Bass.
 
 Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, M., &amp; Metcalfe, J. (2007). Organizing Instruction and Study to Improve Student Learning. _US Department of Education._<a href="http://bit.ly/ecf-pas" target="_blank" rel="noopener">bit.ly/ecf-pas</a>
 
 Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. _American Educator_, 36(1), 12–20. <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">bit.ly/ecf-ros</a>
 
-Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. _Journal of Applied Research in Memory and Cognition_, 5(4), 360-367.
+Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. *Journal of Applied Research in Memory and Cognition*, 5(4), 360-367.
 
-Wittwer, J., &amp; Renkl, A. (2010) .How Effective are Instructional Explanations in Example-Based Learning? A Meta-Analytic Review. _Educational Psychology Review_, _22_(4), 393–409.
+Wittwer, J., &amp; Renkl, A. (2010) .How Effective are Instructional Explanations in Example-Based Learning? A Meta-Analytic Review. *Educational Psychology Review*, _22_(4), 393–409.
 
 {/details}
-

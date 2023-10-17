@@ -4,12 +4,11 @@ heading: "Behaviour"
 caption: "Year 1"
 ---
 
-
 In this module you'll cover:
 
-* how to establish an effective learning environment
-* how to effectively manage behaviour
-* the importance of holding and promoting high expectations for all pupils
+- how to establish an effective learning environment
+- how to effectively manage behaviour
+- the importance of holding and promoting high expectations for all pupils
 
 ## Week 1: module overview and contracting
 
@@ -45,7 +44,7 @@ Explores effective routines, the role of classroom environment and its connectio
 
 ## Week 3: instructions
 
-Shares role of high-quality instructions and how to plan and reinforce them. 
+Shares role of high-quality instructions and how to plan and reinforce them.
 
 Duration: 40 minutes.
 
@@ -55,13 +54,13 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Shares role of high-quality instructions and how to plan and reinforce them. 
+Shares role of high-quality instructions and how to plan and reinforce them.
 
 [View mentor materials](/ambition-institute/year-1-behaviour/autumn-week-3-mentor-materials)
 
 ## Week 4: directing attention
 
-Examines monitoring and reinforcing expectations with praise, voice and movement(s). 
+Examines monitoring and reinforcing expectations with praise, voice and movement(s).
 
 Duration: 40 minutes.
 
@@ -71,13 +70,13 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Examines monitoring and reinforcing expectations with praise, voice and movement(s). 
+Examines monitoring and reinforcing expectations with praise, voice and movement(s).
 
 [View mentor materials](/ambition-institute/year-1-behaviour/autumn-week-4-mentor-materials)
 
 ## Week 5: low-level disruption
 
-Focuses on managing low-level disruption to learning and how to maintain a positive environment. 
+Focuses on managing low-level disruption to learning and how to maintain a positive environment.
 
 Duration: 40 minutes.
 
@@ -87,13 +86,13 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Focuses on managing low-level disruption to learning and how to maintain a positive environment. 
+Focuses on managing low-level disruption to learning and how to maintain a positive environment.
 
 [View mentor materials](/ambition-institute/year-1-behaviour/autumn-week-5-mentor-materials)
 
 ## Week 6: consistency
 
-Explores how teacher consistency builds a positive learning environment. 
+Explores how teacher consistency builds a positive learning environment.
 
 Duration: 40 minutes.
 
@@ -103,13 +102,13 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Explores how teacher consistency builds a positive learning environment. 
+Explores how teacher consistency builds a positive learning environment.
 
 [View mentor materials](/ambition-institute/year-1-behaviour/autumn-week-6-mentor-materials)
 
 ## Week 7: positive learning environment
 
-Focuses on the classroom culture required for pupils to learn effectively. 
+Focuses on the classroom culture required for pupils to learn effectively.
 
 Duration: 40 minutes.
 
@@ -119,7 +118,7 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Focuses on the classroom culture required for pupils to learn effectively. 
+Focuses on the classroom culture required for pupils to learn effectively.
 
 [View mentor materials](/ambition-institute/year-1-behaviour/autumn-week-7-mentor-materials)
 
@@ -202,4 +201,3 @@ Duration: 40 minutes.
 Looks at how teachers can uphold high expectations by ensuring pupils are supported to achieve classroom success over time.
 
 [View mentor materials](/ambition-institute/year-1-behaviour/autumn-week-12-mentor-materials)
-

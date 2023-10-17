@@ -16,28 +16,28 @@ Here we see the inferences they make from the range of evidence they collected. 
 
 When reading these case studies, you will need to take account of your own pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-
-
 ### Case study A: Grouping pupils effectively
+
 #### Andy’s approach to grouping pupils effectively in Year 1
+
 Andy devised this evaluative question:
 
-* how can I use group activities over two half-terms to improve the engagement
+- how can I use group activities over two half-terms to improve the engagement
   and attainment of my Year 1 pupils?
 
 After making small adjustments to his inquiry to account for pupils’ feedback,
 he was able to draw these insights from the deliberate evidence:
-- his pupil grouping interventions have largely been effective
-- a small number of the mixed attainment groupings have proven problematic 
-- by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers 
-- by using the same method every literacy lesson for a term, extending this to numeracy after one half-term and switching between mixed and near attainment groupings, he has given the children many opportunities to practise working with others, and therefore to get better at doing so over time 
-- several of his pupils have become much more confident in working with a wider range of peers 
-- his TA, who had been working in Key Stage 1 for many years, feels the class have made much faster progress than other classes she has known
-From the wider emergent (overhead and unexpected) evidence, Andy made these
-inferences:
-- he overheard his pupils say things like ‘I used to not like working with X, but now I like it’ – the new pupil grouping is having the desired effect 
-- his Year 1s overall made unexpectedly rapid progress with the accuracy of their mark making. The new pupil grouping improved the pupils socially and in their written literacy
 
+- his pupil grouping interventions have largely been effective
+- a small number of the mixed attainment groupings have proven problematic
+- by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers
+- by using the same method every literacy lesson for a term, extending this to numeracy after one half-term and switching between mixed and near attainment groupings, he has given the children many opportunities to practise working with others, and therefore to get better at doing so over time
+- several of his pupils have become much more confident in working with a wider range of peers
+- his TA, who had been working in Key Stage 1 for many years, feels the class have made much faster progress than other classes she has known
+  From the wider emergent (overhead and unexpected) evidence, Andy made these
+  inferences:
+- he overheard his pupils say things like ‘I used to not like working with X, but now I like it’ – the new pupil grouping is having the desired effect
+- his Year 1s overall made unexpectedly rapid progress with the accuracy of their mark making. The new pupil grouping improved the pupils socially and in their written literacy
 
 ### The impact the inquiry has had on Andy’s beliefs and professional relationships
 
@@ -59,37 +59,37 @@ The inquiry involved Andy working more productively with his TA. He is now much 
 
 8.7 Engaging in high-quality professional development can help teachers improve.
 
-
-
 ### Case study B: Modelling and scaffolding
+
 #### Vashti’s use of modelling and scaffolds to support writing in Year 4
+
 To ensure she was developing her practice effectively, Vashti devised this
 evaluative inquiry question:
 
-* how can I use ‘speaking sentences’ well, over the space of two terms, to
-    reduce the prevalence of basic errors in written literacy among pupils with
-    a Speech, Language and Communication Need (SpLCN) in Year 4?
-  
+- how can I use ‘speaking sentences’ well, over the space of two terms, to
+  reduce the prevalence of basic errors in written literacy among pupils with
+  a Speech, Language and Communication Need (SpLCN) in Year 4?
+
 After making small adjustments to her inquiry because her pupils were still
 often mis-spelling high frequency words, she was able to draw these insights
 from the deliberate evidence:
 
-* drawing conclusions about what pupils have learned by looking
-at patterns of performance over a number of assessments. For example, appreciating that assessments
-draw inferences about learning from performance
-* 5 of the 6 target SpLCN pupils have made significant progress in the
-    summative writing assessment
-* providing sufficient opportunity for pupils to consolidate
-and practise applying new knowledge and skills
-* several pupils are able to describe how they have benefited from using the
-    laminated sheet and the speaking activity to organise their thinking and
-    their writing
+- drawing conclusions about what pupils have learned by looking
+  at patterns of performance over a number of assessments. For example, appreciating that assessments
+  draw inferences about learning from performance
+- 5 of the 6 target SpLCN pupils have made significant progress in the
+  summative writing assessment
+- providing sufficient opportunity for pupils to consolidate
+  and practise applying new knowledge and skills
+- several pupils are able to describe how they have benefited from using the
+  laminated sheet and the speaking activity to organise their thinking and
+  their writing
 
 Reflecting on her findings, Vashti drew the following interim conclusion for her
 own teaching:
 
-* classroom talk, combined with scaffolding resources, can be a powerful
-    driver for improving written literacy among pupils with SpLCN in Year 4
+- classroom talk, combined with scaffolding resources, can be a powerful
+  driver for improving written literacy among pupils with SpLCN in Year 4
 
 She realised that she should continue with this approach to supporting her
 pupils’ writing, but keep a careful eye on the successful use of the scaffold,
@@ -97,28 +97,27 @@ so her pupils could still succeed when she withdrew it.
 
 From the wider emergent (overhead and unexpected) evidence, Vashti made these inferences:
 
-* she overheard several of the non-SpLCN pupils, but who also have other
-    additional needs, say that the ‘speaking sentences’ approach made them much
-    more confident when writing – the approach can work with all pupils who have
-    additional needs
-* unexpectedly, the oracy of the SpLCN pupils also improved markedly over the
-    period – scaffolds which reduce basic errors in one area of literacy may
-    also have a similar effect in others
+- she overheard several of the non-SpLCN pupils, but who also have other
+  additional needs, say that the ‘speaking sentences’ approach made them much
+  more confident when writing – the approach can work with all pupils who have
+  additional needs
+- unexpectedly, the oracy of the SpLCN pupils also improved markedly over the
+  period – scaffolds which reduce basic errors in one area of literacy may
+  also have a similar effect in others
 
 She inferred that this was because she had learned better how to:
 
-* model and require high-quality oral language, recognising that
-it underpins the development of reading and writing. For example, requiring pupils to respond
-to questions in full sentences, making use of relevant technical vocabulary
-* teaching different forms of writing by modelling planning, drafting
-and editing
-* use modelling, explanations and scaffolds, acknowledging that
-novices need more structure early in a domain
-* provide sufficient opportunity for pupils to consolidate and
-practise applying new knowledge and skills
-* provide scaffolds for pupil talk to increase the focus and rigour
-of dialogue
-
+- model and require high-quality oral language, recognising that
+  it underpins the development of reading and writing. For example, requiring pupils to respond
+  to questions in full sentences, making use of relevant technical vocabulary
+- teaching different forms of writing by modelling planning, drafting
+  and editing
+- use modelling, explanations and scaffolds, acknowledging that
+  novices need more structure early in a domain
+- provide sufficient opportunity for pupils to consolidate and
+  practise applying new knowledge and skills
+- provide scaffolds for pupil talk to increase the focus and rigour
+  of dialogue
 
 ### The impact the inquiry has had on Vashti’s beliefs, workload and professional relationships
 
@@ -142,72 +141,71 @@ She has also saved on her workload because she has learned that:
 
 5.4 Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
 
-
-
 ### Case study C: Making marking manageable
+
 #### Louise’s new approach to marking in Secondary History
+
 To ensure she was developing her practice effectively, Louise devised this
 evaluative inquiry question:
 
-* how can I implement codes and verbal feedback well, so that my Year 9
-    History pupils are able to correct misconceptions and make progress, and I
-    am able to reduce the amount of time I spend marking?
+- how can I implement codes and verbal feedback well, so that my Year 9
+  History pupils are able to correct misconceptions and make progress, and I
+  am able to reduce the amount of time I spend marking?
 
 Louise noticed that some of her pupils didn’t seem to understand how they were
-supposed to respond to the coded feedback. 
+supposed to respond to the coded feedback.
 
 After making small adjustments to her
 inquiry she was able to draw these insights from the deliberate evidence:
 
-* reduce the opportunity cost of marking by using codes and verbal
-feedback
-* she was able to cut the marking time for a set of books from 2 hours to 30
-    minutes
-* her two Year 9 classes (one experimental, one control group) achieved a very
-    similar distribution of scores in a summative written assessment
-* her pupils in the experimental group had not encountered any significant
-    problems as a result of the new way of marking
-* give whole-class feedback so they know what they need to do
-to improve and have the time to do it
-* she practised giving whole-class feedback, having created a standard slide,
-    which reminded her to give specific feedback and 15 minutes a lesson to do
-    it
+- reduce the opportunity cost of marking by using codes and verbal
+  feedback
+- she was able to cut the marking time for a set of books from 2 hours to 30
+  minutes
+- her two Year 9 classes (one experimental, one control group) achieved a very
+  similar distribution of scores in a summative written assessment
+- her pupils in the experimental group had not encountered any significant
+  problems as a result of the new way of marking
+- give whole-class feedback so they know what they need to do
+  to improve and have the time to do it
+- she practised giving whole-class feedback, having created a standard slide,
+  which reminded her to give specific feedback and 15 minutes a lesson to do
+  it
 
 Based on these findings, Louise made the following tentative claims from her
 inquiry:
 
-* using codes/verbal feedback does not detrimentally affect pupil progress,
-    compared with a standard written marking approach
-* on average, using codes/verbal feedback saves the teacher about an hour a
-    week, per teaching class, compared with a standard written marking approach
-* having reviewed her practice in this way, she will use this insight to now apply
-the same principles of verbal feedback and minimal marking to her Year 7 and
-Year 8 classes, while monitoring the impact of that on her pupils and herself.
+- using codes/verbal feedback does not detrimentally affect pupil progress,
+  compared with a standard written marking approach
+- on average, using codes/verbal feedback saves the teacher about an hour a
+  week, per teaching class, compared with a standard written marking approach
+- having reviewed her practice in this way, she will use this insight to now apply
+  the same principles of verbal feedback and minimal marking to her Year 7 and
+  Year 8 classes, while monitoring the impact of that on her pupils and herself.
 
 From the wider emergent (overheard and unexpected) evidence, Louise made these inferences:
 
-* she overheard several high prior attaining girls in her experimental Year 9
-    class say that they preferred the new form of feedback, because they
-    received it much more quickly. Pupils don’t necessarily ‘miss’ having their
-    work marked all of the time
-* she overheard a few pupils in her control Year 9 class say they heard what
-    she was doing in her other class, and ‘why can’t we have that?’ Verbal and
-    coded feedback might be popular with pupils
-* expectedly, she saved time on marking. Unexpectedly, she used that gained
-    time to prepare better lessons. Reducing unnecessary marking can have an
-    overall positive impact on her teaching
+- she overheard several high prior attaining girls in her experimental Year 9
+  class say that they preferred the new form of feedback, because they
+  received it much more quickly. Pupils don’t necessarily ‘miss’ having their
+  work marked all of the time
+- she overheard a few pupils in her control Year 9 class say they heard what
+  she was doing in her other class, and ‘why can’t we have that?’ Verbal and
+  coded feedback might be popular with pupils
+- expectedly, she saved time on marking. Unexpectedly, she used that gained
+  time to prepare better lessons. Reducing unnecessary marking can have an
+  overall positive impact on her teaching
 
 She inferred that this was because she had learned better how to:
 
-* focus on specific actions for pupils and provide time for pupils
-to respond to feedback
-* appreciate that pupils’ responses to feedback can vary depending
-on a range of social factors. For example, the message the feedback contains
-* use verbal feedback during lessons in place of written feedback
-after lessons where possible
-* reduce the opportunity cost of marking. For example, by using abbreviations
-and codes in written feedback
-
+- focus on specific actions for pupils and provide time for pupils
+  to respond to feedback
+- appreciate that pupils’ responses to feedback can vary depending
+  on a range of social factors. For example, the message the feedback contains
+- use verbal feedback during lessons in place of written feedback
+  after lessons where possible
+- reduce the opportunity cost of marking. For example, by using abbreviations
+  and codes in written feedback
 
 ### The impact the inquiry has had on Louise’s beliefs and workload
 
@@ -227,40 +225,38 @@ She has also saved on her workload because she has learned that:
 
 6.7 Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
 
-
-
 <h3 style="text-align: left;">Case study D: Questioning</h3>
 #### Mo’s use of direction and elaboration to improve questioning in GCSE PE
 To ensure he was developing his practice effectively, Mo devised this evaluative
 inquiry question:
 
-* how can I best adapt the way I ask questions, implemented every lesson for
-    one term, to improve the quality and amount of talk among Pupil Premium
-    girls in Y11 GCSE PE?
+- how can I best adapt the way I ask questions, implemented every lesson for
+  one term, to improve the quality and amount of talk among Pupil Premium
+  girls in Y11 GCSE PE?
 
 After extending his approach to his other classes, he was able to draw these
 insights from the deliberate evidence:
 
-* include a range of types of questions in class discussions to
-extend and challenge pupils
-* he saw much more evidence of high-quality questioning in his second filmed
-    lesson
-* all 16 pupils were asked a question at some point in the lesson
-* prompt pupils to elaborate when responding to questioning
-to check that a correct answer stems from secure understanding
-* all were asked follow-up questions to help them elaborate on their thinking
-* there was a change in the books of the Pupil Premium girls during the
-    inquiry period. Their written responses were far more articulate and
-    well-structured, reflecting the discussions they had had in class
-* provide appropriate wait time between question and response
-where more developed responses are required
-* all were given sufficient wait time
-* the pupils liked the fact that he gave them time to prepare an answer before
-    calling on them
+- include a range of types of questions in class discussions to
+  extend and challenge pupils
+- he saw much more evidence of high-quality questioning in his second filmed
+  lesson
+- all 16 pupils were asked a question at some point in the lesson
+- prompt pupils to elaborate when responding to questioning
+  to check that a correct answer stems from secure understanding
+- all were asked follow-up questions to help them elaborate on their thinking
+- there was a change in the books of the Pupil Premium girls during the
+  inquiry period. Their written responses were far more articulate and
+  well-structured, reflecting the discussions they had had in class
+- provide appropriate wait time between question and response
+  where more developed responses are required
+- all were given sufficient wait time
+- the pupils liked the fact that he gave them time to prepare an answer before
+  calling on them
 
 Based on this, Mo made the following tentative claim from his inquiry so far:
 
-* responsive questioning is a useful tool for improving the quality of talk and
+- responsive questioning is a useful tool for improving the quality of talk and
   writing among Pupil Premium girls in Year 11 GCSE PE
 
 And because he had developed his questioning practice to this extent, Mo decided
@@ -268,22 +264,21 @@ to apply the same approaches to his other classroom-based lessons.
 
 From the wider emergent (overheard and unexpected) evidence, Mo made these inferences:
 
-* he overheard pupils outside of his focus group comment on his new approach
-    to questioning. ‘Sir makes us think much harder these days’ – this approach
-    can work for all, not just some, pupils
-* a colleague in the staffroom told him he had heard about Mo’s approach to
-    questioning, and asked for more information. Doing an inquiry about an
-    aspect of teaching can improve collaborative relationships with colleagues
-* the Pupil Premium girls also improved with their practical PE work. Although tempted, Mo could not infer from that that his approach to
-    questioning improves their sporting skills
+- he overheard pupils outside of his focus group comment on his new approach
+  to questioning. ‘Sir makes us think much harder these days’ – this approach
+  can work for all, not just some, pupils
+- a colleague in the staffroom told him he had heard about Mo’s approach to
+  questioning, and asked for more information. Doing an inquiry about an
+  aspect of teaching can improve collaborative relationships with colleagues
+- the Pupil Premium girls also improved with their practical PE work. Although tempted, Mo could not infer from that that his approach to
+  questioning improves their sporting skills
 
 He inferred that this was because he had learned better how to:
 
-* plan activities around what you want pupils to think hard about
-* contribute positively to the wider school culture and
-develop a feeling of shared responsibility for improving the lives of all pupils
-within the school
-
+- plan activities around what you want pupils to think hard about
+- contribute positively to the wider school culture and
+  develop a feeling of shared responsibility for improving the lives of all pupils
+  within the school
 
 ### The impact the inquiry has had on Mo’s beliefs and professional relationships
 

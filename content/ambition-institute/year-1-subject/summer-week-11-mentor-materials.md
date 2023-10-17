@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 11"
 ---
 
-
 ## Adapting lessons to meet pupils' needs
 
 ### Select a development area
@@ -13,21 +12,20 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Efficient feedback to meet needs
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher uses whole-class or group feedback where possible to address common misconceptions, gaps in knowledge and errors the class are making. 
+- Teacher uses whole-class or group feedback where possible to address common misconceptions, gaps in knowledge and errors the class are making.
 - Teacher prioritises re-addressing core knowledge gaps during feedback.
 
 ### Development area 2: Targeted support and challenge
 
-#### Focused development area     
+#### Focused development area
 
 - Teacher plans additional support for pupils they anticipate may benefit from it.
 - Teacher ensures pupils who show they have understood core content are able to apply their understanding and be challenged.
 
 {details}
 Example precise target: Teacher plans additional support for pupils they anticipate may benefit from it.
-
 
 - **Not doing it at all:** Identify pupils who are likely to require additional support with understanding core knowledge and skills and plan time for them to have additional practice with your support.
 - **Doing it but needs some improvement:** Plan how you might rephrase the question you have asked or provide a prompt for pupils who need additional support.
@@ -37,9 +35,9 @@ Example precise target: Teacher plans additional support for pupils they anticip
 
 ### Development area 3: Adapting teaching over time
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher plans time efficiently into future lessons to address patterns of misconceptions, gaps in knowledge and errors made by pupils in assessments. 
+- Teacher plans time efficiently into future lessons to address patterns of misconceptions, gaps in knowledge and errors made by pupils in assessments.
 - Teacher plans effective ways to tackle patterns of misconceptions, gaps in knowledge and errors made by pupils.
 
 ### Observe
@@ -63,5 +61,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Reframe questions to provide greater scaffolding or greater stretch.
 - Consider carefully whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

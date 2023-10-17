@@ -29,9 +29,9 @@ This module comprises 12 topics sequenced to work through the foundations of eff
 
 ### Making it work
 
-The features of effective instruction can vary slightly depending on the subject(s), phase(s) or community you teach. In addition, there are some elements of instruction, like the school teaching and learning policy, that you will have limited control over. 
+The features of effective instruction can vary slightly depending on the subject(s), phase(s) or community you teach. In addition, there are some elements of instruction, like the school teaching and learning policy, that you will have limited control over.
 
-This is why it’s important that you work with subject and phase specialists in your school to help you identify the best ways to apply your learning. You have the responsibility to take ownership of your professional development and make it work, but also the right to support. 
+This is why it’s important that you work with subject and phase specialists in your school to help you identify the best ways to apply your learning. You have the responsibility to take ownership of your professional development and make it work, but also the right to support.
 
 Talking to your colleagues and your mentor about the ideas and practices you encounter, as well as seeking their assistance, challenge, feedback and critique, will help you to better understand what ‘good’ looks like for your particular context.
 
@@ -82,7 +82,6 @@ An important factor in successful learning is memory, which can be thought of as
   </figcaption>
 </figure>
 
-
 The main components in this model are:
 
 - working memory which acts as the conduit between the information we attend to in our environment and our long-term memory (Sweller, 2016). It is also where we hold information we are thinking about in the moment (Willingham, 2009). It has a limited capacity: we can only think about a few things (two or three) at once (Cowan, 2008)
@@ -90,9 +89,9 @@ The main components in this model are:
 
 #### Mental models
 
-Simply giving pupils knowledge is not enough. Ms Brophy needs to make the knowledge useable, for example by connecting new knowledge to existing pupil knowledge. 
+Simply giving pupils knowledge is not enough. Ms Brophy needs to make the knowledge useable, for example by connecting new knowledge to existing pupil knowledge.
 
-Mental models -- sometimes referred to as schema -- are how we all organise our knowledge. They are an internal representation of concepts (for example Earth) or a set of interrelated concepts (for example the circulatory system) (Chi, 2009). 
+Mental models -- sometimes referred to as schema -- are how we all organise our knowledge. They are an internal representation of concepts (for example Earth) or a set of interrelated concepts (for example the circulatory system) (Chi, 2009).
 
 Mental models are subject and topic specific, so to be successful Ms Brophy will also need to consider how to develop and convey subject knowledge to her pupils in the Subject module.
 
@@ -100,35 +99,35 @@ Mental models are subject and topic specific, so to be successful Ms Brophy will
 
 Teachers can change pupils’ capabilities and understanding by increasing the knowledge in pupil long-term memory and constructing useful and well organised mental models (Sweller et al., 1998). However, when teaching, Ms Brophy notices that some of her pupils struggle when being introduced to new material. A key reason for this may be that their working memories are being overloaded.
 
-The capacity of our working memory is limited. Complex activities that place a heavy burden on either processing or storage capacity can place excessive demands on working memory and are therefore likely overload the system, resulting in task failure (Gathercole et al., 2006). 
+The capacity of our working memory is limited. Complex activities that place a heavy burden on either processing or storage capacity can place excessive demands on working memory and are therefore likely overload the system, resulting in task failure (Gathercole et al., 2006).
 
-Cognitive load refers to the amount of effort needed to process information in working memory (Sweller et al., 1998). 
+Cognitive load refers to the amount of effort needed to process information in working memory (Sweller et al., 1998).
 
 Teachers like Ms Brophy need to manage the cognitive load pupils experience so that they can learn efficiently. She needs to ensure pupils experience enough new material to learn effectively but not too much, otherwise pupils working memory will become overloaded. She can do this through the instructional decisions she makes.
 
 #### Drawing on prior knowledge
 
-One way which Ms Brophy can manage the cognitive load her pupils experience is by drawing on their prior knowledge. 
+One way which Ms Brophy can manage the cognitive load her pupils experience is by drawing on their prior knowledge.
 
 The more prior knowledge pupils hold, the easier it is for them to process new information. Prior knowledge also plays a role in the development of their mental models, as pupils’ existing knowledge influences how new knowledge is stored and organised (Deans for Impact, 2015).
 
-Where prior knowledge is weak, pupils are more likely to develop misconceptions (Simonsmeier et al., 2018). This particularly applies if new ideas are not introduced in manageable steps. Ms Brophy knows that pupils will have different levels of prior knowledge and many will also hold misconceptions. 
+Where prior knowledge is weak, pupils are more likely to develop misconceptions (Simonsmeier et al., 2018). This particularly applies if new ideas are not introduced in manageable steps. Ms Brophy knows that pupils will have different levels of prior knowledge and many will also hold misconceptions.
 
 On the other hand, as pupil knowledge develops, teachers needs to reduce the support pupils receive, as support can get in the way of pupils using existing knowledge (Sweller et al., 1998). Therefore, Ms Brophy will need to consider how much prior knowledge pupils have when making instructional decisions.
 
 #### Mitigating extraneous load
 
-Because working memory has a limited capacity, Ms Brophy needs to be intentional in how she introduces and explains content to her pupils. 
+Because working memory has a limited capacity, Ms Brophy needs to be intentional in how she introduces and explains content to her pupils.
 
 Extraneous load refers to ways in which instruction can make processing information unhelpfully challenging for pupils (for example, giving complicated instructions to pupils who have limited prior knowledge, or redundant support to pupils who already have sufficient knowledge; Sweller, 2016). Ms Brophy can reduce extraneous load through the instructional decisions she makes.
 
 #### Explicit teaching
 
-As we have seen, in order to ensure her pupils learn effectively, when making decisions about her instruction Ms Brophy needs to consider the limits of pupil memory. The knowledge Ms Brophy wants to teach is complex – in Subject she will consider how to develop her subject knowledge and what habits might support her to plan her own lessons. 
+As we have seen, in order to ensure her pupils learn effectively, when making decisions about her instruction Ms Brophy needs to consider the limits of pupil memory. The knowledge Ms Brophy wants to teach is complex – in Subject she will consider how to develop her subject knowledge and what habits might support her to plan her own lessons.
 
 Initially, she should work with her mentor to get shared schemes of work and lesson plans to help her to identify and sequence relevant knowledge. For pupils to successfully learn this material, she needs to explicitly teach her pupils (Sweller, 2016).
 
-Explicit teaching is a heavily ‘guided’ approach to orchestrating learning (EEF, 2017), in contrast to just letting pupils attempt to ‘discover’ new ideas by themselves. In general, less guided approaches to learning, such as discovery learning, have been shown to be ineffective (Coe et al., 2014). This doesn’t mean the teacher simply tells or lectures pupils; it can also include activities and discussion, as long as the relevant information is explicitly provided and practised. 
+Explicit teaching is a heavily ‘guided’ approach to orchestrating learning (EEF, 2017), in contrast to just letting pupils attempt to ‘discover’ new ideas by themselves. In general, less guided approaches to learning, such as discovery learning, have been shown to be ineffective (Coe et al., 2014). This doesn’t mean the teacher simply tells or lectures pupils; it can also include activities and discussion, as long as the relevant information is explicitly provided and practised.
 
 Successful explicit teaching breaks down learning, and provides pupils with the support needed to think successfully about content by taking into account:
 
@@ -175,11 +174,11 @@ Effective practice supports automaticity and overlearning where pupils can compl
 
 #### Homework
 
-Homework can improve pupil outcomes, particularly for older pupils. But to be effective it needs to be of high quality and relevant to what is being taught in class (EEF, 2018). 
+Homework can improve pupil outcomes, particularly for older pupils. But to be effective it needs to be of high quality and relevant to what is being taught in class (EEF, 2018).
 
-Considering the link to the instructional sequence above could increase the chance of homework being successful. For example, asking pupils to do further practise of something which has been taught in class, or perhaps reading with a parent to introduce a new idea that will be built upon in class. 
+Considering the link to the instructional sequence above could increase the chance of homework being successful. For example, asking pupils to do further practise of something which has been taught in class, or perhaps reading with a parent to introduce a new idea that will be built upon in class.
 
-Making the purpose of the homework clear to pupils, ensuring that pupils have the resources to complete homework independently or that parents have the capacity to support homework effectively, are also likely to increase chances of success. 
+Making the purpose of the homework clear to pupils, ensuring that pupils have the resources to complete homework independently or that parents have the capacity to support homework effectively, are also likely to increase chances of success.
 
 It is also important that pupils get feedback on their homework. On the other hand, regular homework unconnected to class learning is less likely to be effective (EEF, 2018).
 
@@ -193,24 +192,23 @@ As Ms Brophy improves at explicit teaching and develops her subject knowledge, v
 
 Throughout the Instruction module Ms Brophy needs to keep two questions in mind:
 
-* how can my instructional decisions best support pupil learning?
-* how can I best support a high pupil success rate?
+- how can my instructional decisions best support pupil learning?
+- how can I best support a high pupil success rate?
 
 #### Nuances and caveats
 
 A common misconception is that I-We-You should only be used in individual lessons. In fact, I-We-You can be used several times within a lesson, or spread over longer instructional sequences.
 
-
-
 ### Key takeaways
-Ms Brophy can make better instructional decision by understanding that:
-- learning is a lasting change in pupil capabilities and understanding - if nothing is remembered, nothing has been learned 
-- effective instruction takes pupil working and long-term memory into account 
-- effective instruction involves explicitly teaching the knowledge and skills pupils need in small steps, ensuring a high success rate. Retrieval and practice help them remember what they have learnt 
-- the ‘I-We-You' model is a useful rule of thumb for instructional decisions 
-- pupils learn at different rates and have different levels of prior knowledge, so effective teachers guide practice and adapt instruction and pupil grouping to provide further support for these pupils 
-- once explicit teaching has been mastered, instruction can be further refined through developing questioning, talk and feedback
 
+Ms Brophy can make better instructional decision by understanding that:
+
+- learning is a lasting change in pupil capabilities and understanding - if nothing is remembered, nothing has been learned
+- effective instruction takes pupil working and long-term memory into account
+- effective instruction involves explicitly teaching the knowledge and skills pupils need in small steps, ensuring a high success rate. Retrieval and practice help them remember what they have learnt
+- the ‘I-We-You' model is a useful rule of thumb for instructional decisions
+- pupils learn at different rates and have different levels of prior knowledge, so effective teachers guide practice and adapt instruction and pupil grouping to provide further support for these pupils
+- once explicit teaching has been mastered, instruction can be further refined through developing questioning, talk and feedback
 
 #### Further reading
 
@@ -218,7 +216,6 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 
 {details}
 References.
-
 
 Black, P., &amp; Wiliam, D. (2009). Developing the theory of formative assessment. _Educational Assessment, Evaluation and Accountability,_ 21(1), 5-31.
 
@@ -257,4 +254,3 @@ Wittwer, J., &amp; Renkl, A. (2010). How Effective are Instructional Explanation
 Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco: Jossey-Bass.
 
 {/details}
-

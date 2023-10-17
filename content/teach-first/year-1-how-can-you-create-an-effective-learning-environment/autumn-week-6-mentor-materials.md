@@ -4,16 +4,15 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Observation discussion - build pupils’ intrinsic motivation to engage with the lesson
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Observation
 
-### Outcome: 
+### Outcome:
 
 To have planned and practised using strategies that build pupils’ intrinsic motivation to engage with the lesson.
 
@@ -40,4 +39,3 @@ Work with your teacher to plan and practise how to ensure a high level of engage
 3. How can you develop a positive learning environment where it’s safe to make mistakes? What impact might this have on pupils’ learning?
 4. Do you teach any pupils who are disengaged with their learning? If so, what strategies could you implement to increase their motivation?
 5. How can your expectations impact upon pupils’ outcomes?
-

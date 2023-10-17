@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-subject/summer-week-5-ect-teaching-challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JwK0rUM-5z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Chloe Wardle
+
 We want pupils to use what they learn in lots of different ways. We want them to
 develop complex mental models so that they can use them beyond the classroom, but
 learning something new takes time. Before we ask pupils to apply what they have learned
 we need to ensure that they have acquired it securely in the first place. Acquiring
 knowledge takes repeated exposure across a sequence of learning.
+
 ### Presenter main
+
 Before applying knowledge on their own or in different contexts, pupils need to gain
 knowledge in the first place. This takes time and effort. For example, pupils need
 to know the rules for applying speech marks before applying them accurately in story
@@ -37,11 +37,15 @@ The next step in the journey from acquisition to application is to check pupil u
 Ultimately, we want pupils to apply what they learn in many different contexts; this enables them to solve problems and to think critically. In order to do this, pupils need to have a secure understanding of knowledge within the subject area they've been asked to think critically about.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of checking for how securely pupils acquired
 some content. As you watch, pay particular attention to how the coach does the following:
-- Identifies essential concepts, knowledge, skills and principles of the subject and provides opportunity for all pupils to learn and master these critical components 
+
+- Identifies essential concepts, knowledge, skills and principles of the subject and provides opportunity for all pupils to learn and master these critical components
 - Sequences lessons so that pupils secure foundational knowledge before encountering more complex content
+
 ### Exemplification: Ambition Institute coach
+
 Imagine that I am teaching a year 5 science lesson. The topic is adaptations and
 we're looking at how plants and animals have adapted to extreme environments.
 Now in the first lesson, I introduced the concept of the food chain, the key
@@ -54,10 +58,11 @@ understanding of the content and embeds the ideas into their long-term memory.
 I'm going to ask questions and pupils will show me their answers on whiteboards
 and this is a routine that is now really well-established. And I want to check
 that pupils know the following:
-- To know that a producer is a living thing that produces its own food from sunlight 
-- To know that a consumer is a living thing that doesn’t make its own food and gets its energy from eating either plants or animals 
+
+- To know that a producer is a living thing that produces its own food from sunlight
+- To know that a consumer is a living thing that doesn’t make its own food and gets its energy from eating either plants or animals
 - To know that a primary consumer eats the producer
-_"Okay, so the last time we did some work on this, we did some thinking about food chains. Now food chains are an energy transfer from one species to another and all living things need energy for growth and for health. Now we're just going to check some of your knowledge on that before we build on it with new content and so we're going to do a retrieval quiz._
+  _"Okay, so the last time we did some work on this, we did some thinking about food chains. Now food chains are an energy transfer from one species to another and all living things need energy for growth and for health. Now we're just going to check some of your knowledge on that before we build on it with new content and so we're going to do a retrieval quiz._
 
 _In a moment, you're going to see some questions on the board. There'll be three options to choose from, one of those will be correct. So you're going to have A, B and C and only one will be correct. To show me what you're thinking, I want you to write down the letter on the whiteboard of the response that you think is the correct answer. And then I will count down as usual from three, two, one, and then say, show me._
 
@@ -104,20 +109,21 @@ When designing the questions I considered some of the misconceptions that were c
 By checking for gaps in knowledge or misconceptions, and then addressing them, I can increase the chance of pupils' success in future learning.
 
 ### Presenter key ideas
+
 In this video, we have explored why it is important that pupils acquire knowledge
 before teachers ask them to apply it and some of the ways in which teachers can tell
 that knowledge is secure. Before we finish, take a moment to read over the key ideas
 that we have covered. Which of the following ideas do you think that the example
 best illustrates?
-- Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components 
-- Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content 
+
+- Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components
+- Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content
 - Balancing exposition, repetition, practice and retrieval of critical knowledge and skills
+
 ### Presenter summary
+
 Learning something new takes time. We need to be patient and allow for lots of
 opportunities to practice because this hard work will be worth it. Acquiring
 knowledge securely helps pupils to apply it in lots of different ways.
 
-
-
 {/details}
-

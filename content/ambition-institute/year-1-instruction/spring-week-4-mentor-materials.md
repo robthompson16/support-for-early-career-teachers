@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
 ## Prior knowledge
 
 ### Select a development area
@@ -13,15 +12,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Understanding pupils’ prior knowledge
 
-#### Focused development area     
+#### Focused development area
 
 - Teacher checks for pupils' prior knowledge before introducing new information.
-- Teacher addresses gaps they find in prior knowledge before introducing new information. 
+- Teacher addresses gaps they find in prior knowledge before introducing new information.
 - Teacher uses information about pupils' prior knowledge to ensure they introduce new learning in a manageable way.
 
 {details}
 Example precise target: Teacher checks for pupils' prior knowledge before introducing new information.
-
 
 - **Not doing it at all:** Plan and deliver a question(s) that enables you to check for pupils' prior knowledge.
 - **Doing it but needs some improvement:** Plan and deliver a set of question(s) that enable you to check for gaps in pupils' prior knowledge.
@@ -29,23 +27,21 @@ Example precise target: Teacher checks for pupils' prior knowledge before introd
 
 {/details}
 
-
 ### Development area 2: Activating pupils’ prior Knowledge
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher designs a task to activate pupils’ prior knowledge. 
-- Teacher checks for pupils' understanding of the links between their prior knowledge and new information, addressing confusion.            
+- Teacher designs a task to activate pupils’ prior knowledge.
+- Teacher checks for pupils' understanding of the links between their prior knowledge and new information, addressing confusion.
 
 ### Development area 3: Addressing gaps in pupils’ prior knowledge
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher plans to explicitly address gaps in prior knowledge before introducing the new learning. 
-- Teacher ensures pupils no longer have gaps in prior knowledge before introducing the new learning.                                                                                                  
+- Teacher plans to explicitly address gaps in prior knowledge before introducing the new learning.
+- Teacher ensures pupils no longer have gaps in prior knowledge before introducing the new learning.
 
 ### Observe
-
 
 Consider the following questions based on a short (approximately 15 minute) observation of your teacher.
 
@@ -66,4 +62,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Structure tasks and questions to enable the identification of knowledge gaps
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

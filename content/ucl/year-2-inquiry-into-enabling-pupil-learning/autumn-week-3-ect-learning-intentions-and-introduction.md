@@ -13,10 +13,11 @@ next_path: "/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-3-ect-r
 
 ### Learning Intentions for this session
 
-####In addition to your personal focus, you will learn that:                                                                                  
-- Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.                            
-- Teachers are key role models, who can influence the attitudes, values and behaviours of their pupil.                                
-- Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.                       
+####In addition to your personal focus, you will learn that:
+
+- Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
+- Teachers are key role models, who can influence the attitudes, values and behaviours of their pupil.
+- Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
 - Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment.
 - A predictable and secure environment benefits all pupils but is particularly valuable for pupils with special educational needs.
 
@@ -26,19 +27,18 @@ At the start of term, you reviewed your development needs in relation to Standar
 
 This week, in advance of your mentor meeting, you should use your self-study time to define what your normal practice is like in this area and collect evidence of the impact of your practice upon your pupils.
 
-
-
 ### A note on evidence and workload
-Schools are already data-rich environments. 
+
+Schools are already data-rich environments.
 
 Practitioner inquiries, first of all,
 make use of what we call here ‘naturally occurring’ evidence. They are in the pupils’
 work and the ECT’s assessment of it. They are in the words and reactions of the pupils
-and what the ECT has heard or seen of this. 
+and what the ECT has heard or seen of this.
 
 When we refer to evidence-collection,
 in the main, we mean: look at what the pupils have done, and listen to what they
-are saying. 
+are saying.
 
 A practitioner inquiry invites you to be more systematic about how you
 do this looking and listening, so you might deliberately ask a few questions of a

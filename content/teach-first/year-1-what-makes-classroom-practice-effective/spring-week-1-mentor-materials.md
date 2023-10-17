@@ -4,17 +4,15 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-
 ## Observation discussion - effective explanations
 
 ### Teaching techniques to focus feedback on
 
-
-### Interaction: 
+### Interaction:
 
 Observation
 
-### Outcome: 
+### Outcome:
 
 To have planned and practised effective explanations.
 
@@ -38,10 +36,10 @@ Work with your teacher to support them in developing area(s) of effective explan
 
 <p>1. If focusing on breaking down complex ideas or tasks into smaller steps using ‘Name the Steps’, you should ask your teacher to consider the following questions:</p>
 
-- What knowledge am I assuming the pupils have?  
-- Why have I chosen the steps that I have? Would it be beneficial to break them down further?  
-- Even after breaking down the concept, am I introducing too much in one go and risking overloading my pupils? If so, what can I do?  
- 
+- What knowledge am I assuming the pupils have?
+- Why have I chosen the steps that I have? Would it be beneficial to break them down further?
+- Even after breaking down the concept, am I introducing too much in one go and risking overloading my pupils? If so, what can I do?
+
 <p>2. If focusing on combining a verbal explanation with a relevant graphical representation, you should ask your teacher to consider the following points:</p>
 
 - Which part of their explanation would benefit from a verbal explanation and relevant graphical representation?
@@ -60,4 +58,3 @@ Work with your teacher to support them in developing area(s) of effective explan
 3. Why is it important to teach information in small steps? What resources can you draw upon to support you in doing this?
 4. How can you make the steps in a process memorable for pupils? E.g. Name them, use mnemonics, link to memorable stories
 5. Why are worked and partially completed examples useful? When might you use them?
-

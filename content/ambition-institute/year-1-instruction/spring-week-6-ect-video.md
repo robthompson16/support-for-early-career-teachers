@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-6-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54W9PmYJZlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena Moore
+
 Learning involves lots of interaction between teachers and pupils. We can't simply
 tell our pupil something and assume that they'll learn it. Instead teachers need
 to regularly say to themselves: I've taught them something, but have they understood
 it? If pupils haven't understood something, how can I fix it? They need to ask lots
 of questions to explore what their pupils know and adapt their teaching based on
 what they find out.
+
 ### Presenter main
+
 Adaptive teaching is where teachers identify what pupils know and can do and adapt
 their teaching in response. Adapting teaching helps to ensure that instruction and
 support are tailored to the particular needs of pupils. Pupils are likely to learn
@@ -32,16 +32,16 @@ In order to adapt teaching effectively, teachers need to take steps both before 
 - What do I know about my pupils?
 - What do I know about the content I am teaching?
 - How might I adapt my teaching?
-When answering the question, “what do I know about my pupils?” teachers should consider
-whether they have any pupils with special educational needs or disabilities in their
-class. Pupils with special educational needs or disabilities are likely to require
-additional supports. Teachers should work with colleagues, families and pupils to
-identify potential barriers to learning in advance. Another way of responding to
-the question, “what do I know about my pupils?” is to look at reliable assessment
-data. A task carried out at the end of the previous lesson might give teachers a
-useful indication of what relevant prior knowledge their pupils have. Teachers shouldn't
-answer this question through guesswork or assumptions. Adaptive teaching shouldn't
-lead to teachers setting lower expectations for some pupils.
+  When answering the question, “what do I know about my pupils?” teachers should consider
+  whether they have any pupils with special educational needs or disabilities in their
+  class. Pupils with special educational needs or disabilities are likely to require
+  additional supports. Teachers should work with colleagues, families and pupils to
+  identify potential barriers to learning in advance. Another way of responding to
+  the question, “what do I know about my pupils?” is to look at reliable assessment
+  data. A task carried out at the end of the previous lesson might give teachers a
+  useful indication of what relevant prior knowledge their pupils have. Teachers shouldn't
+  answer this question through guesswork or assumptions. Adaptive teaching shouldn't
+  lead to teachers setting lower expectations for some pupils.
 
 To answer the question, “what do I know about the content I am teaching?” teachers can identify the key knowledge and skills that they want their pupils to get right, where their pupils might go wrong and how they will check pupil understanding during the lesson. It's a good idea to ask a colleague who's taught the content before about common misconceptions. As teachers get to know their subject and pupils, they will be able to make better predictions about specific content that some pupils may need support with.
 
@@ -54,12 +54,16 @@ So far, we have thought about what teachers can do before a lesson to adapt thei
 Responding to pupil needs shouldn't mean creating 30 different worksheets for 30 different pupils. Re-explaining something, providing another example or asking another question are quick and effective strategies that teachers shouldn't overlook. Working out the best way to respond on the spot isn't easy and it's something that teachers get better at over time as they get to know their pupils and their subject. But the more you've thought about how you will respond in advance, the better you'll be able to do so in the moment.
 
 ### Presenter exemplification framing
+
 In this example you will see an Ambition coach model how to check that pupils understand
 a key concept within a lesson before moving on. As you watch, pay particular attention
 to how they do the following:
-- Structures tasks and instructions to enable the identification of knowledge gaps and misconceptions 
+
+- Structures tasks and instructions to enable the identification of knowledge gaps and misconceptions
 - Adapts the lesson to address gaps in knowledge and misconception whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations
+
 ### Exemplification: Ambition Institute coachI want you to imagine that I'm
+
 teaching a year seven maths lesson on fractions.  Pupils have been asked to add
 the fractions from the board and to select the correct solution from the choices
 available. So this is the problem.
@@ -109,16 +113,18 @@ Secondly, I checked for understanding across the whole class. By using multiple 
 Finally, I asked individual pupils questions that would require them to think through how they got to the answer that they did, supporting them to realize their error. The key to this model is the fact that I had anticipated where the pupils may go wrong and I have planned what my response would be. If I know what I'm looking for, I can spot it more quickly and then I can focus my efforts on giving a really high-quality response instead of working one out on the spot.
 
 ### Presenter key ideas
+
 In this video we have looked at some of the ways in which teachers can identify what
 pupils know and how they might respond. Which of the following ideas do you think
 that the example illustrated the best?
-- Structure tasks and instructions to enable the identification of knowledge gaps and misconceptions 
+
+- Structure tasks and instructions to enable the identification of knowledge gaps and misconceptions
 - Include a range of types of questions to extend and challenge pupils
 - Adapt the lesson to address gaps in knowledge and misconception whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations
+
 ### Presenter summary
+
 Learning something new isn't a linear process. It won't look the same for all
 pupils. Learning requires a regular back and forth between the teacher and the
 pupil to check how it's going. Teachers need to identify what pupils are
-thinking and adapt their teaching in response.  {/details}
-
-
+thinking and adapt their teaching in response. {/details}

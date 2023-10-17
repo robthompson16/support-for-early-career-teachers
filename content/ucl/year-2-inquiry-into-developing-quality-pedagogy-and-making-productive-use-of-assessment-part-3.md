@@ -4,19 +4,17 @@ heading: "First half-term: inquiry into developing quality pedagogy and making p
 caption: "Year 2"
 ---
 
-
 In this module you'll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
 
 ## Week 1: inquiry progress - considering the fuller range of emergent evidence
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss one of your development areas.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
-Use the materials below to consider emergent evidence regarding the ECT's practitioner inquiry. 
+Use the materials below to consider emergent evidence regarding the ECT's practitioner inquiry.
 
 [View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-1-mentor-materials)
 
@@ -32,33 +30,31 @@ Duration: 45 minutes.
 
 ### Mentors
 
-There are no mentor activities this week. 
+There are no mentor activities this week.
 
 [View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-2-mentor-materials)
 
 ## Week 3: the impact your enquiry has had on you - planning to present
 
-There are no self-study materials this week. Instead, you will meet your mentor to discuss the impact your inquiry has had on you. 
+There are no self-study materials this week. Instead, you will meet your mentor to discuss the impact your inquiry has had on you.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
-Use the materials below as a platform to discuss the impact their inquiry has had on them. 
+Use the materials below as a platform to discuss the impact their inquiry has had on them.
 
 [View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-3-mentor-materials)
 
 ## Week 4
 
-There are no activities this week. 
+There are no activities this week.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
-There are no activities this week. 
+There are no activities this week.
 
 [View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-4-mentor-materials)
 
@@ -66,12 +62,10 @@ There are no activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this module's practitioner inquiry.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
 This week the ECT should meet you to present their findings from this module's practitioner inquiry.
 
 [View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-5-mentor-materials)
-

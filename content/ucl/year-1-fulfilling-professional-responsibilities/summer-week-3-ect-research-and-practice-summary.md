@@ -21,7 +21,7 @@ Research evidence can be a very useful tool for helping you to improve. However,
 Instead, it is more appropriate to begin by a careful examination of what your priorities are for improvement and then to see how the ‘tool’ (in this case, the tablet) can help you focus on these priorities. Three factors that can inform this prioritisation include:
 
 - Personal reflection – reflecting on your progress as a teacher, and recognising strengths and weaknesses in your practice, is an important first step. Ideally, you will supplement this with other sources of information
-- Colleagues – can provide invaluable insights through constructive challenge and feedback. For this to be constructive, it is important that it happens within an open and trusting working environment where the emphasis is simply on getting better 
+- Colleagues – can provide invaluable insights through constructive challenge and feedback. For this to be constructive, it is important that it happens within an open and trusting working environment where the emphasis is simply on getting better
 - Networks – collaborating with wider networks of colleagues can help to inform your priorities as well as wider professional development. These networks may focus on different topics, but subject networks beyond your own school may be particularly beneficial to help develop your subject and pedagogical knowledge
 
 Reflecting on your experiences as a teacher is an important way of improving. However, it is critical to recognise the limitations in our own assessment of situations – especially those in which we are personally engaged. For instance, a surprising finding from many tests of approaches to teaching – where the impact of an approach is compared to similar schools continuing as normal – is that there is often a mismatch between teachers’ perceptions of interventions and the overall findings of the research. Teachers are typically much more positive about interventions than the test results are.
@@ -55,12 +55,12 @@ Unfortunately, it is not particularly useful to try to answer the question ‘wh
 
 The table below summarises some common questions that you might want to answer alongside some of the types of research that can answer those questions. Notably, Stephen was wrong: randomised controlled trials are not suitable for every research question. They are very good at answering questions about the effectiveness of different approaches to teaching, but they are less suitable to answering other questions. Equally, case studies can provide rich insights, but – alone – they have limited use for answering questions related to impact.
 
-| Research question | Randomised controlled trial | Case study | Survey | Interview | Systematic review |
-|-|-|-|-|-|-|
-| Is this approach likely to improve pupils’ learning? | ✓ |   |   |   | ✓ |
-| Is this approach right for our school? |   |  ✓ |  ✓ |  ✓ |  |
-| How does this approach improve learning? |   |  ✓ |   |  ✓ | ✓ |
-| What do pupils think about the new approach? |   |  ✓ |  ✓ |  ✓ |  |
+| Research question                                    | Randomised controlled trial | Case study | Survey | Interview | Systematic review |
+| ---------------------------------------------------- | --------------------------- | ---------- | ------ | --------- | ----------------- |
+| Is this approach likely to improve pupils’ learning? | ✓                           |            |        |           | ✓                 |
+| Is this approach right for our school?               |                             | ✓          | ✓      | ✓         |                   |
+| How does this approach improve learning?             |                             | ✓          |        | ✓         | ✓                 |
+| What do pupils think about the new approach?         |                             | ✓          | ✓      | ✓         |                   |
 
 ### Bringing it all together
 

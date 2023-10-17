@@ -80,12 +80,9 @@ For example
 
 In your notepad, reflect on your practice…
 
-
-
 ### In your notepad
+
 - which idea(s) for practice did you try?
 - what did you do?
 - what happened?
 - what will you do next?
-
-

@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Autumn week 1"
 ---
 
-
-## Module audit 
+## Module audit
 
 ### Mentor materials content
 
@@ -19,7 +18,7 @@ Learning Intentions for this session
 
 - to use the [ECT audit for Module 6](/assets/materials/ucl-01_Module-6-Audit.pdf) (which is a continuation of the Module 1 audit) as a stimulus for discussion around the mentee’s current knowledge and practice in relation to Module 6 (ECF standards 1 & 7)
 
--  to carry out a repeat audit, supporting the mentee to make accurate judgements of their current knowledge and practice
+- to carry out a repeat audit, supporting the mentee to make accurate judgements of their current knowledge and practice
 
 - to agree with the mentee areas for particular focus for an exploratory practitioner inquiry, to run throughout Module 6
 
@@ -77,4 +76,3 @@ Agree with your mentee how you will use the outcomes from the audit to inform yo
 In particular, give attention to those statements where your mentee considers their knowledge or practice to be ‘emerging’ and share some examples of how the programme will support them in moving to ‘developing’ and then on to ‘secure’.
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-
 ## Module audit
 
 ### Learning intentions
@@ -14,7 +13,6 @@ Your ECT will learn how to:
 - use the [Module 3 ECT audit](/assets/materials/ucl-01_Module-3-Audit.pdf) as a stimulus for discussion around your mentee’s current knowledge and practice in relation to Module 3 (ECF standards 4 and 5)
 - support your mentee to make accurate judgements of their current knowledge and practice
 - agree with your mentee areas for particular focus in relation to Module 3.
-
 
 ### Topic introduction
 
@@ -31,13 +29,11 @@ You will need to brief the mentee in advance of the session so that they have ac
 - a selection of pupils’ work
 - notes from independent reading and professional learning activities
 
-
 ### Research and practice summary
 
 Research and Practice Summary
 
 There is no Research and Practice Summary for this session, in which you are working with your mentee to audit their current knowledge and practice in relation to the Early Career Framework. Research and practice summaries in subsequent sessions will support you and your mentee to continue their learning in relation to this content.
-
 
 ### Meeting activities
 
@@ -76,4 +72,3 @@ Agree with your mentee how you will use the outcomes from the audit to inform yo
 In particular, give attention to those statements where the mentee considers their knowledge/practice to be ‘emerging’ and share some examples of how the programme will support them in moving to ‘developing’ and then on to ‘secure’.
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

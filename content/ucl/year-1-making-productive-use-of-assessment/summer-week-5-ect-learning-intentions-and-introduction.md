@@ -13,14 +13,14 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-5-ect-re
 
 ### Learning Intentions for this session
 
-####You will learn that: 
+####You will learn that:
 
-- Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload. 
+- Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
 
-####You will learn how to make marking manageable and effective, by:       
-                                                                                                                                                       
-- Recording data only when it is useful for improving pupil outcomes.                                                                                                                                 - Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (e.g. using whole class feedback or well supported peer- and self-assessment). 
-- Using verbal feedback during lessons in place of written feedback after lessons where possible.                                                                                                 - Understanding that written marking is only one form of feedback.                                                                                                                                    - Reducing the opportunity cost of marking (e.g. by using abbreviations and codes in written feedback).                                                                                               - Prioritising the highlighting of errors related to misunderstandings, rather than careless mistakes when marking.                                                                                   
+####You will learn how to make marking manageable and effective, by:
+
+- Recording data only when it is useful for improving pupil outcomes. - Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (e.g. using whole class feedback or well supported peer- and self-assessment).
+- Using verbal feedback during lessons in place of written feedback after lessons where possible. - Understanding that written marking is only one form of feedback. - Reducing the opportunity cost of marking (e.g. by using abbreviations and codes in written feedback). - Prioritising the highlighting of errors related to misunderstandings, rather than careless mistakes when marking.
 
 ## Introduction
 

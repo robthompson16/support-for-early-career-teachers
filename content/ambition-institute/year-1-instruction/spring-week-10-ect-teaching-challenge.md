@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-10-ect-reflect"
 ---
 
-
 Mr Aswin feels confident he can lead I-We-You (Lemov, 2015) sequences and help pupils access and practise complex content. However, he notices that pupils are getting used to being ‘spoon fed’ and are quite dependent on him to do the ‘hard thinking’ before they get to independent practice. How can his instruction transfer more of the thinking onto pupils earlier in the learning sequence?
 
 ## Key idea
@@ -55,14 +54,13 @@ Mr Ashwin could also use questioning to encourage pupils to share answers with t
 
 Great questioning is often delivered on the spot by experienced teachers and is the product of deep knowledge of their subject and their pupils. This knowledge takes time to acquire so, to be as effective, newer teachers can plan out some of their key questions in advance.
 
-
-
 ### Key takeaways
-To use questioning to support pupil thinking, Mr Ashwin needs to understand that:
-- questioning has many purposes for teachers, including checking pupil understanding, breaking down problems and extending and challenging pupil thinking 
-- pupils need enough knowledge, guidance and thinking time to produce quality answers 
-- questioning underpins quality pupil classroom talk, especially in the ‘We do’ part of instruction
 
+To use questioning to support pupil thinking, Mr Ashwin needs to understand that:
+
+- questioning has many purposes for teachers, including checking pupil understanding, breaking down problems and extending and challenging pupil thinking
+- pupils need enough knowledge, guidance and thinking time to produce quality answers
+- questioning underpins quality pupil classroom talk, especially in the ‘We do’ part of instruction
 
 ### Further reading
 
@@ -70,7 +68,6 @@ Black, P., Harrison, C., Lee, C., Marshall, B., & Wiliam, D. (2004). _Working in
 
 {details}
 References.
-
 
 Black, P., &amp; Wiliam, D. (2009). Developing the theory of formative assessment. _Educational Assessment, Evaluation and Accountability_, _21_(1), pp.5-31.
 
@@ -93,4 +90,3 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. _American Educator, 36_(1), 12–20. <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">bit.ly/ecf-ros</a>
 
 {/details}
-

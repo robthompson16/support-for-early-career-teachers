@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-
 ## Planning learning effectively
 
 ### Intended outcomes
@@ -16,11 +15,9 @@ Learn how to plan effective lessons, by:
 - Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain
 - Enabling critical thinking and problem solving by first teaching the necessary foundational content knowledge
 
-
-
 ### Activities
 
-### Introduction to the topic (5 minutes)  
+### Introduction to the topic (5 minutes)
 
 Explain that the focus of today’s mentor topic is what the ECT can do to plan lessons effectively. It will focus on two key statements of the ECF:
 
@@ -35,13 +32,12 @@ Guidance for mentors: <br>
 
 - The ideas here build on what was learned in module 2 – How pupils learn.
 
-Ask: 
+Ask:
 
+What does it mean to be a novice?
 
-What does it mean to be a novice? 
-
--  A person who is new or inexperienced
--  Novices have incomplete or underdeveloped schemata to draw on
+- A person who is new or inexperienced
+- Novices have incomplete or underdeveloped schemata to draw on
 
 What does it mean to be an expert?
 
@@ -53,8 +49,7 @@ Why is this relevant to your classroom?
 - It is relevant because our pupils tend to be novices or return to novice status every time we teach them something new. We need to support them to become experts.
 - We need to develop their schemata so that they can have more prior knowledge to draw on.
 
-
-The process of moving from novice to expert: (IMAGE MISSING ON HERE) 
+The process of moving from novice to expert: (IMAGE MISSING ON HERE)
 
 ### Modelling, explanations and scaffolds to support novices – understanding what each is (10 minutes)
 
@@ -109,18 +104,8 @@ Now, for a lesson that the ECT is going to teach soon, use the blank lesson plan
 - How will you explain the key ideas or knowledge?
 - What scaffolds will you provide to help pupils achieve the learning objective?
 
-
-
-
-
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-
-### Planning for action 
+### Planning for action
 
 Agree with the ECT when they are going to teach the lesson that they focused on in the previous part of the topic. Ask them to note down some reflections that they can bring to the next topic.
 
-In the next topic you will be looking at effective teacher expositions. You might ask the ECT to be aware when they are delivering an exposition (that is they are presenting information from the front). Ask them to consider whether it was planned or in response to the learning in the classroom and how well they thought the exposition helped pupils learn.                                                                                                                                                                                                                                                         
-
+In the next topic you will be looking at effective teacher expositions. You might ask the ECT to be aware when they are delivering an exposition (that is they are presenting information from the front). Ask them to consider whether it was planned or in response to the learning in the classroom and how well they thought the exposition helped pupils learn.

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Structured reflection upon the ect’s module 8 inquiry and the alterations to their teaching
 
 ### Mentor materials content
@@ -283,11 +282,11 @@ Help your mentee to reflect on their progress with implementing the alteration t
 
 These might be useful questions to ask:
 
-| In relation to…                                                 | What’s going well, or not so well? |
-| ------------------------------------------------------------------------- | -------------------------------------------- |
-| how you are implementing the change to your practice                |                                              |
-| how you are gathering evidence of impact on your pupils or yourself |                                              |
-| how your pupils are responding                                      |                                              |
+| In relation to…                                                     | What’s going well, or not so well? |
+| ------------------------------------------------------------------- | ---------------------------------- |
+| how you are implementing the change to your practice                |                                    |
+| how you are gathering evidence of impact on your pupils or yourself |                                    |
+| how your pupils are responding                                      |                                    |
 
 Collaborative Planning
 
@@ -299,12 +298,12 @@ You might find it helpful to look again at what the teachers did in the four cas
 
 For example, returning to our four case studies
 
-|                                                                                           |                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| To group his pupils more effectively                                                | Considering the factors that support effective collaboration; changing groups regularly; and ensuring that, when based on attainment, they are for subject reasonsLook back at the further adjustments that Andy made                                                                                    |
+|                                                                                     |                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| To group his pupils more effectively                                                | Considering the factors that support effective collaboration; changing groups regularly; and ensuring that, when based on attainment, they are for subject reasonsLook back at the further adjustments that Andy made                                                                              |
 | To improve her pupils’ writing using modelling and scaffolds                        | Modeling high-quality oral language, and the processes of planning, drafting and editing in writing.\*\*Giving novice learners more scaffolds and models at early stages; and removing these as they become more confident and successful\*\*Look back at the further adjustments that Vashti made |
-| To make her marking more manageable                                                 | Working with colleagues to discover alternative efficient approaches; using verbal feedback in place of written feedback; and reducing the opportunity costs of markingLook back at the further adjustments that Louise made                                                                             |
-| To use questioning to stimulate his pupils to think, talk and write more in lessons | Including a range of question types; providing enough wait time; reframing questions; and prompting pupils to elaborateLook back at the further adjustments that Mo made                                                                                                                                 |
+| To make her marking more manageable                                                 | Working with colleagues to discover alternative efficient approaches; using verbal feedback in place of written feedback; and reducing the opportunity costs of markingLook back at the further adjustments that Louise made                                                                       |
+| To use questioning to stimulate his pupils to think, talk and write more in lessons | Including a range of question types; providing enough wait time; reframing questions; and prompting pupils to elaborateLook back at the further adjustments that Mo made                                                                                                                           |
 
 ---
 
@@ -312,8 +311,8 @@ Observe a Colleague
 
 Your next mentor meeting, in week 7, will be split between a focused observation of your mentee and a feedback meeting. Use the time now to agree:
 
-|                  |                 |                               |
-| ---------------- | --------------- | ----------------------------- |
+|        |       |                     |
+| ------ | ----- | ------------------- |
 | Class: | Date: | Time within lesson: |
 
 Focus: This should be to allow you to gather further evidence for the inquiry. E.g. you might concentration on…
@@ -339,4 +338,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your observation in week 7 (which should be about 20 minutes) and of the feedback session following it (about 30 minutes).
-

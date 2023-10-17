@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-6-ect-reflect"
 ---
 
-
 Mr Jones has worked to identify and convey the key ideas in each topic to his pupils. However, he wants pupils to develop more than a basic, inflexible knowledge of the facts: he wants them to develop sophisticated mental models of the subject which allow them to apply what they have learnt to new and complex problems. How can he support his pupils to develop the kind of mental model which makes this deep thinking possible?
 
 ## Key idea
@@ -49,14 +48,13 @@ Transfer and critical thinking are both hard: neither of them come naturally –
 
 Pupils cannot exercise critical thinking without a strong knowledge of the thing about which they are being invited to think critically: teachers are unlikely to experience success if they teach critical thinking skills in isolation or expect pupils to transfer knowledge from one context to another without practice and models.
 
-
-
 ### Key takeaways
+
 Mr Jones can promote deep thinking by:
-- seeing deep thinking as an extension of pupils’ mental models of the subject 
+
+- seeing deep thinking as an extension of pupils’ mental models of the subject
 - helping pupils access knowledge more flexibly
 - showing pupils how to apply knowledge to new problems and contexts and supporting them to practise this
-
 
 ### Further reading
 
@@ -64,7 +62,6 @@ Willingham, D. (2002). Inflexible Knowledge: The First Step to Expertise. _Ameri
 
 {details}
 References.
-
 
 Bailin, S., Case, R., Coombs, J. &amp; Daniels, L. (1999). Conceptualizing critical thinking. _Journal of Curriculum Studies, 31_(3), 285-302.
 
@@ -77,4 +74,3 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 Willingham, D. (2002). Inflexible Knowledge: The First Step to Expertise. _American Educator_. <a href="https://www.aft.org/periodical/american-educator/winter-2002/ask-cognitive-scientist-inflexible-knowledge" target="_blank" rel="noopener">https://www.aft.org/periodical/american-educator/winter-2002/ask-cognitive-scientist-inflexible-knowledge</a>
 
 {/details}
-

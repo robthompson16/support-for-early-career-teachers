@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 3"
 ---
 
-
 ## The impacts upon the ect of their inquiry - planning to present
 
 ### Mentor materials content
@@ -59,11 +58,11 @@ After making small adjustments to his inquiry to account for pupils’ feedback,
 
 - by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers
 
-4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
+  4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 
 - by using near attainment grouping in every literacy lesson for a term, and extending this to numeracy lessons after one half-term - and by switching from near attainment to mixed attainment groupings for other topics - he has given the children many opportunities to practise working with others, and therefore to get better at doing so over time
 
-4.10. How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+  4.10. How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 
 - a small number of the mixed attainment groupings have proven problematic
 
@@ -392,8 +391,8 @@ What format should they choose?
 
 You might leave this up to them, but different formats have different advantages:
 
-| Format         | Advantages                                                                                       |
-| -------------------- | ------------------------------------------------------------------------------------------------------ |
+| Format         | Advantages                                                                                 |
+| -------------- | ------------------------------------------------------------------------------------------ |
 | Written report | Easily convertible to a blogpostCan be shared later in a staff bulletin                    |
 | Poster         | Can be displayed later in the staffroom to inspire othersMakes good use of visual evidence |
 | PowerPoint     | Can be shared later at a staff CPD eventMakes good use of visual evidence                  |
@@ -407,4 +406,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note that the next session is the final one, in 2 weeks’ time, where your mentee will present the final outcomes of their Module 8 inquiry.
-

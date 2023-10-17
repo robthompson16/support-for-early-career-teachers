@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 6"
 ---
 
-
 ## Promoting deep thinking
 
 ### Select a development area
@@ -13,15 +12,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Planning tasks for deep thinking
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher, with the support of a colleague, identifies the essential knowledge, skills and concepts they want pupils to think deeply about and plans for them to be revisited with added complexity, e.g. by removing scaffolding or introducing more elements. 
+- Teacher, with the support of a colleague, identifies the essential knowledge, skills and concepts they want pupils to think deeply about and plans for them to be revisited with added complexity, e.g. by removing scaffolding or introducing more elements.
 - Teacher plans a range of questions that get pupils to think with increasing complexity once they have the relevant subject knowledge.
 - Teacher plans to explain abstract concepts using concrete examples, drawing links and alternating between concrete and abstract, until the concrete examples can be faded and the abstract concept is understood.
 
 {details}
 Example precise target: Teacher plans a range of questions that get pupils to think with increasing complexity once they have the relevant subject knowledge.
-
 
 - **Not doing it at all:** When pupils have the relevant subject knowledge, increase the complexity of their thinking by planning or adapting questions that enable them to practise and retrieve knowledge, skills and concepts.
 - **Doing it but needs some improvement:** When pupils have the relevant subject knowledge, plan a set of questions that increase in complexity, e.g. by increasing the amount of knowledge, skills or concepts pupils need to use and/or retrieve.
@@ -31,19 +29,18 @@ Example precise target: Teacher plans a range of questions that get pupils to th
 
 ### Development area 2: Variation
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher uses a range of examples and non-examples to support pupils to understand concepts. 
-- Teacher supports pupils to use knowledge and skills across a range of contexts and problems to help pupils apply existing knowledge in new situations and to new questions when they have the relevant subject knowledge.                                                                                                                                                                                                                                                                                                             
+- Teacher uses a range of examples and non-examples to support pupils to understand concepts.
+- Teacher supports pupils to use knowledge and skills across a range of contexts and problems to help pupils apply existing knowledge in new situations and to new questions when they have the relevant subject knowledge.
 
 ### Development area 3: Supporting deeper thinking
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher plans questions and follow-up questions that support pupils to think more effortfully about essential concepts, knowledge and skills. 
-- Teacher gives pupils time to formulate a response to questions that require deep thinking. 
-- Teacher gives pupils time to rehearse their thoughts and responses when questions require deep thinking.                                                                                                                                                                                                                                                                         
-
+- Teacher plans questions and follow-up questions that support pupils to think more effortfully about essential concepts, knowledge and skills.
+- Teacher gives pupils time to formulate a response to questions that require deep thinking.
+- Teacher gives pupils time to rehearse their thoughts and responses when questions require deep thinking.
 
 ### Observe
 
@@ -66,5 +63,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Use concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples), slowly withdrawing concrete examples and drawing attention to the underlying structure of problems.
 - Include a range of types of questions in class discussions to extend and challenge pupils (e.g. by modelling new vocabulary or asking pupils to justify answers) and provide appropriate wait time between question and response where more developed responses are required.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

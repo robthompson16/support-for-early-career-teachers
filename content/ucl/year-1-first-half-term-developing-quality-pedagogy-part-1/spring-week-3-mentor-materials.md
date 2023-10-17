@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 3"
 ---
 
-
-## Introducing new material in steps using exposition and questioning 
+## Introducing new material in steps using exposition and questioning
 
 ### Learning intentions
 
@@ -26,7 +25,6 @@ Stimulate pupil thinking and check for understanding by:
 - including a range of types of questions in class discussions to extend and challenge pupils (e.g. by modelling new vocabulary or asking pupils to justify answers)
 - providing appropriate wait time between question and response where more developed responses are required
 
-
 ### Topic introduction
 
 In their self-directed study session earlier this week, your mentee extended their knowledge of how to introduce new material in steps, making links to pupils’ prior knowledge, with an emphasis on expositions(explanations). They also focused on using questioning for different purposes in order for pupils to secure knowledge and understanding. Your mentee also either created a lesson plan for the coming week or observed a colleague, where they carefully considered expositions and questioning when introducing new material to pupils.
@@ -44,7 +42,6 @@ And to learn how to*:*
 4h. Use concrete representations of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples).
 
 In this session, you will help your mentee build on this activity, focusing in more detail on its practical implications. You will assist them by reviewing the activity in their self-directed study – a choice of either independent planning or observing a colleague. Key goals for the session include helping them to understand a) how effective teachers introduce new ideas and b) that questioning is an essential tool for teachers.
-
 
 ### Meeting activities
 
@@ -120,4 +117,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

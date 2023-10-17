@@ -45,4 +45,3 @@ _5o. Ensuring that any groups based on attainment are subject specific._
 _8j. Sharing the intended lesson outcomes with teaching assistants ahead of lessons._
 
 _8k. Ensuring that support provided by teaching assistants in lessons is additional to, rather than a replacement for, support from the teacher._
-

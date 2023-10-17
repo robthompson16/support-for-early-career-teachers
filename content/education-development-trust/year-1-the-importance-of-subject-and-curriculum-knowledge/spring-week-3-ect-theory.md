@@ -5,15 +5,15 @@ previous_path: "/education-development-trust/year-1-the-importance-of-subject-an
 ---
 
 Learning to read and write is an essential skill for modern life, yet a
-  surprising fraction of adults in OECD countries have not yet mastered the
-  basics... literacy problems are particularly serious in England, where younger
-  adults perform no better than older ones... Poor literacy also drives low
-  social mobility, since children from disadvantaged backgrounds are more likely
-  to start school with lower literacy skills.
+surprising fraction of adults in OECD countries have not yet mastered the
+basics... literacy problems are particularly serious in England, where younger
+adults perform no better than older ones... Poor literacy also drives low
+social mobility, since children from disadvantaged backgrounds are more likely
+to start school with lower literacy skills.
 
 How can this situation be improved? There is a solid evidence base that
-  teachers and teaching methods can matter both for literacy… and for learning
-  outcomes more generally.
+teachers and teaching methods can matter both for literacy… and for learning
+outcomes more generally.
 
 Language provides the foundation of thinking and learning. Literacy is the ability to read, write, speak and listen in a way that lets us communicate effectively and make sense of the world (National Literacy Trust, 2020). Without good literacy skills, a pupil will struggle to access the curriculum and hence be unable to learn effectively. This might show itself as:
 
@@ -31,25 +31,25 @@ Consequently, it is important that all teachers have a clear understanding of th
 ### An introduction to phonics
 
 Phonics is a way of teaching children how to read and write. It helps children
-  hear, identify and use different sounds that distinguish one word from another
-  in the English language. 
+hear, identify and use different sounds that distinguish one word from another
+in the English language.
 
 Written language can be compared to a code, so knowing the sounds of
-  individual letters and how these letters sound when they’re combined will help
-  children decode words as they read. 
+individual letters and how these letters sound when they’re combined will help
+children decode words as they read.
 
 Understanding phonics will also help children know which letters to use when
-  they are writing words. 
+they are writing words.
 
 The most widely used approach associated with the teaching of reading in which
-  phonemes (sounds) associated with particular graphemes (letters) are
-  pronounced in isolation and blended together (synthesised). For example,
-  children are taught to take a single-syllable word such as cat apart to its
-  three letters, pronounce a phoneme for each letter in turn /k/, /æ/, /t/ and
-  blend the phonemes together to form a word.
+phonemes (sounds) associated with particular graphemes (letters) are
+pronounced in isolation and blended together (synthesised). For example,
+children are taught to take a single-syllable word such as cat apart to its
+three letters, pronounce a phoneme for each letter in turn /k/, /æ/, /t/ and
+blend the phonemes together to form a word.
 
 Therefore, synthetic phonics is an explicit, organised and sequenced approach, as
-    opposed to phonics used incidentally or on a “when-needed” basis.
+opposed to phonics used incidentally or on a “when-needed” basis.
 
 ### Video
 
@@ -73,8 +73,6 @@ A teacher explaining what systematic synthetic phonics is and why it is effectiv
 
 {details}
 Video script.
-
-
 
 <span style="font-weight: 400;">
   [Pupils on the mat with their classroom teacher who has a whiteboard with a
@@ -113,7 +111,6 @@ Video script.
 </span>
  {/details}
 
-
 ####Systematic synthetic phonics
 
 Watch this video of a literacy expert explaining systematic synthetic phonics programmes.
@@ -122,11 +119,8 @@ Watch this video of a literacy expert explaining systematic synthetic phonics pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_MDygeyv464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">Literacy expert:</span>
 
@@ -189,48 +183,38 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 
 #### Approach: Reciprocal Reading
 
-
 ##### What is the approach?
-- This is the explicit practice of four core skills used for comprehension (predict, clarify, question, summarise). 
-- As they read, students are invited to stop and practise these reading roles. 
-- This can be built into any text and can be practised in whole class settings or ideally in small groups.Examples- Predictor: what do you predict will happen next? 
-- Summariser: what has happened so far? 
-- Clarifier: what does this word mean? 
-- Questioner: what questions do you have?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
+- This is the explicit practice of four core skills used for comprehension (predict, clarify, question, summarise).
+- As they read, students are invited to stop and practise these reading roles.
+- This can be built into any text and can be practised in whole class settings or ideally in small groups.Examples- Predictor: what do you predict will happen next?
+- Summariser: what has happened so far?
+- Clarifier: what does this word mean?
+- Questioner: what questions do you have?
 
+##### How do I make it work effectively?
 
-
-
-##### How do I make it work effectively? 
-- Explain clearly to pupils, modelling it first yourself. 
-- Give students feedback on their predictions, summaries, clarifications and questions. 
-- Highlight the process. - Prepare some sentence stems for each. 
-- Choose a text which is suitable for the level. 
+- Explain clearly to pupils, modelling it first yourself.
+- Give students feedback on their predictions, summaries, clarifications and questions.
+- Highlight the process. - Prepare some sentence stems for each.
+- Choose a text which is suitable for the level.
 - Use this approach regularly so pupils build up their skills.
-
-
 
 #### Approach: Story Mapping
 
+##### What is the approach?
 
-##### What is the approach?       
-- This can be used for any “story”, fiction or nonfiction, e.g. the “story” of the water cycle, or Jekyll and Hyde. 
-- Teacher considers the text and key elements they want to draw attention to (e.g. characters, plot, setting, themes). - Teacher introduces the text and provides each pupil with a blank story map. 
-- As they read, pupils complete the sections on their story map – teacher can prompt with questions (e.g. what happened first?). 
-- The class might review their story maps together to share ideas and make sure everyone has completed theirs with the key information.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+- This can be used for any “story”, fiction or nonfiction, e.g. the “story” of the water cycle, or Jekyll and Hyde.
+- Teacher considers the text and key elements they want to draw attention to (e.g. characters, plot, setting, themes). - Teacher introduces the text and provides each pupil with a blank story map.
+- As they read, pupils complete the sections on their story map – teacher can prompt with questions (e.g. what happened first?).
+- The class might review their story maps together to share ideas and make sure everyone has completed theirs with the key information.
 
+##### How do I make it work effectively?
 
-
-
-
-##### How do I make it work effectively? 
-- Complete a whole-class story map to model the approach. 
-- Pupils create their own story maps for homework. 
-- Use part-complete story maps as a scaffold for some pupils. 
-- Prompt pupils with lots of questions, “What did you notice?”, “Where could this go on our story map?” 
-
-
+- Complete a whole-class story map to model the approach.
+- Pupils create their own story maps for homework.
+- Use part-complete story maps as a scaffold for some pupils.
+- Prompt pupils with lots of questions, “What did you notice?”, “Where could this go on our story map?”
 
 ### Writing
 
@@ -238,39 +222,29 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 
 #### Approach: Paired Writing
 
+##### What is the approach?
 
-##### What is the approach?  
 - App
 
-
-
-
-
 ##### How do I make it work effectively?
-- Pair students up in different ways, e.g. by ability. 
-- Model the planning stage. 
+
+- Pair students up in different ways, e.g. by ability.
+- Model the planning stage.
 - The writing task builds on previous knowledge, e.g. from last lesson.
-
-
 
 #### Approach: Shared Writing
 
+##### What is the approach?
 
-##### What is the approach?  
-- Teacher acts as the scribe, writing or typing on the board or flipchart as the pupils give ideas. 
-- Class works together to make suggestions for what to write and co-creates a model. 
+- Teacher acts as the scribe, writing or typing on the board or flipchart as the pupils give ideas.
+- Class works together to make suggestions for what to write and co-creates a model.
 - Teacher uses questioning throughout to encourage involvement, challenge ideas and ask students to explain why they are suggesting something (process).
 
-
-
-
-
 ##### How do I make it work effectively?
-- Every pupil has four talk cards. Ask everyone to “spend” their cards by making four contributions to the task. 
+
+- Every pupil has four talk cards. Ask everyone to “spend” their cards by making four contributions to the task.
 - Pupils may want to write along, or share the co-written model after, or leave it visible as they write their own version.
-- Ask a pupil to tally contributions from the class under “ideas” and “edits”. 
-
-
+- Ask a pupil to tally contributions from the class under “ideas” and “edits”.
 
 ### Oral language skills
 
@@ -278,43 +252,33 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 
 #### Approach: Sentence stems to support discussion
 
+##### What is the approach?
 
-##### What is the approach? 
-- Decide in advance of the lesson what you want pupils to talk about and what key language you would like them to use. 
-- Prepare some sentence stems for this. 
+- Decide in advance of the lesson what you want pupils to talk about and what key language you would like them to use.
+- Prepare some sentence stems for this.
 - During the lesson, invite pupils to discuss an idea or concept using the sentence stems. For example:- General: I agree with…; However…; Based on… we can conclude… - Content specific: I think the character is feeling… because…; The data shows a relationship between… and…
 
-
-
-
-
 ##### How do I make it work effectively?
-- Provide sentence stems for everybody or use as a scaffold to support some pupils. 
-- Model the use of sentence stems. 
-- Prepare a bank of common sentence stems for display. 
-- Sentence stems help pupils speak in full sentences. 
+
+- Provide sentence stems for everybody or use as a scaffold to support some pupils.
+- Model the use of sentence stems.
+- Prepare a bank of common sentence stems for display.
+- Sentence stems help pupils speak in full sentences.
 - Use this approach regularly so pupils' talk improves over time.
-
-
 
 #### Approach: Think, pair, share
 
-
 ##### What is the approach?
-- Teacher poses a question to the class. 
-- Pupils have a few minutes to think about their response (maybe jotting down some notes). 
-- Teacher asks pupils to share their initial ideas with a pair and practise their answer. 
-- Teacher asks a few pupils to share with the whole class. 
 
-
-
-
+- Teacher poses a question to the class.
+- Pupils have a few minutes to think about their response (maybe jotting down some notes).
+- Teacher asks pupils to share their initial ideas with a pair and practise their answer.
+- Teacher asks a few pupils to share with the whole class.
 
 ##### How do I make it work effectively?
-- Use sentence stems to help pupils structure their answers. 
+
+- Use sentence stems to help pupils structure their answers.
 - Giving practice time helps pupils to feel more confident.
-
-
 
 ### Language and vocabulary
 
@@ -322,58 +286,49 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 
 #### Approach: Explicit teaching (Robust vocabulary instruction)
 
-
 ##### What is the approach?
-- Teacher identifies tier 2 and tier 3 vocabulary in their subject (see below). 
-- Teacher introduces the new word and provides a student friendly definition (e.g. simple language such as “Abolish means to get rid of something or end it.”). 
-- Teacher uses the word in context (e.g. “The United States abolished slavery in 1865.”). 
-- Teacher provides opportunities for multiple exposures (e.g. by sharing a variety of examples: My goal is to abolish world poverty. Should we have a debate on whether to abolish taxes?). 
+
+- Teacher identifies tier 2 and tier 3 vocabulary in their subject (see below).
+- Teacher introduces the new word and provides a student friendly definition (e.g. simple language such as “Abolish means to get rid of something or end it.”).
+- Teacher uses the word in context (e.g. “The United States abolished slavery in 1865.”).
+- Teacher provides opportunities for multiple exposures (e.g. by sharing a variety of examples: My goal is to abolish world poverty. Should we have a debate on whether to abolish taxes?).
 - Teacher provides opportunity for repeated practice of newly learned vocabulary in talk, writing and reading (e.g. pupils use the new vocabulary in their next task).
 
-
-
-
-
 ##### How do I make it work effectively?
-- Identify important vocabulary to teach explicitly, i.e that which pupils will encounter often or which are foundational to the subject. 
+
+- Identify important vocabulary to teach explicitly, i.e that which pupils will encounter often or which are foundational to the subject.
 - Always provide lots of opportunities for pupils to use the new vocabulary, e.g. in sentence stems. Pupils have only “learned” a new word when they can recognise it orally, when written, and can write it and use it verbally themselves. - Revisit the new vocabulary in spaced intervals and interleave where possible.
-
-
 
 #### Approach: Knowledge organisers
 
-
 ##### What is the approach?
-- Teacher creates an empty knowledge organiser for pupils to use over a topic. 
-- Each time the pupils encounter a new or important word, they add it to their knowledge organiser. 
+
+- Teacher creates an empty knowledge organiser for pupils to use over a topic.
+- Each time the pupils encounter a new or important word, they add it to their knowledge organiser.
 - Sections might include: the word, a definition, examples of it being used, synonyms.
 
-
-
-
-
 ##### How do I make it work effectively?
-- Create one of these for yourself to map all of the vocabulary pupils need to learn in the topic. 
-- Co-create a vocabulary knowledge organiser with the class.  
 
-
+- Create one of these for yourself to map all of the vocabulary pupils need to learn in the topic.
+- Co-create a vocabulary knowledge organiser with the class.
 
 ### Why is teaching vocabulary important and what is tiered vocabulary?
 
 A wide and varied vocabulary is a key aspect of literacy. Knowing what words
-  mean ensures that pupils can comprehend meaning – the more words they know,
-  the more they will understand about a topic or be able to infer from a text. A
-  robust vocabulary supports all aspects of communication: listening, speaking,
-  reading and writing. There are some words which pupils will learn through
-  hearing them repeated often (such as “no” and “cat”) and others which will
-  need to be explicitly taught through systematic vocabulary instruction. We
-  call these tier 2 and tier 3 words.
+mean ensures that pupils can comprehend meaning – the more words they know,
+the more they will understand about a topic or be able to infer from a text. A
+robust vocabulary supports all aspects of communication: listening, speaking,
+reading and writing. There are some words which pupils will learn through
+hearing them repeated often (such as “no” and “cat”) and others which will
+need to be explicitly taught through systematic vocabulary instruction. We
+call these tier 2 and tier 3 words.
 </span>
-- Tier 1: Words of everyday speech, familiar to most children.&nbsp; 
-- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability. 
+
+- Tier 1: Words of everyday speech, familiar to most children.&nbsp;
+- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
-<b>Examples</b>
-<span style="font-weight: 400;"> </span>
+  <b>Examples</b>
+  <span style="font-weight: 400;"> </span>
 
 <span style="font-weight: 400;">
   Examples of tier 1 words are: book, hill, talk, cat, yellow. 
@@ -415,9 +370,8 @@ Watch this video of a teacher running a reciprocal reading group and consider th
 {details}
 Video script.
 
-
-
 ### A Year 3 reading group, four students and one adult reading _The Tiger Who Came to Tea._
+
 <span style="font-weight: 400;">
   Teacher: “Before we start reading this book, Joe would you like to predict
   what the text is about? Remember to explain why you are making your
@@ -533,18 +487,14 @@ Video script.
 {details}
 References.
 
-
-
 Education Endowment Foundation (2018) _Preparing for Literacy Guidance Report_. [Online] Accessible from:<a href="about:blank"> https://educationendowmentfoundation.org.uk/public/files/Preparing_Literacy_Guidance_2018.pdf</a>
 
-Gilbert, L., Teravainen, A., Clark, C., and Shaw, S. (2018) _Literacy & Life Expectancy: An evidence review exploring the link between life expectancy in England through health and economic factors._ National Literacy Trust from <a href="about:blank">https://cdn.literacytrust.org.uk/media/documents/National*Literacy_Trust*-_Literacy_and_life_expectancy_report.pdf</a>
+Gilbert, L., Teravainen, A., Clark, C., and Shaw, S. (2018) *Literacy & Life Expectancy: An evidence review exploring the link between life expectancy in England through health and economic factors.* National Literacy Trust from <a href="about:blank">https://cdn.literacytrust.org.uk/media/documents/National*Literacy_Trust*-\_Literacy_and_life_expectancy_report.pdf</a>
 
 Machin, S., McNally, S., &amp; Viarengo, M. (2018) Changing how literacy is taught: Evidence on synthetic phonics. _American Economic Journal: Economic Policy_, 10(2), 217–241. <a href="about:blank">https://doi.org/10.1257/pol.20160514</a>.
 
 Scott, C. E., McTigue, E. M., Miller, D. M., &amp; Washburn, E. K. (2018) The what, when, and how of preservice teachers and literacy across the disciplines: A systematic literature review of nearly 50 years of research. _Teaching and Teacher Education_, _73_, 1–13. <a href="about:blank">https://doi.org/10.1016/j.tate.2018.03.010</a>.
 
-*Shanahan, T. (2005) _The National Reading Panel Report: Practical Advice for Teachers_. Accessible from:<a href="about:blank"> https://files.eric.ed.gov/fulltext/ED489535.pdf</a>.
-
+\*Shanahan, T. (2005) _The National Reading Panel Report: Practical Advice for Teachers_. Accessible from:<a href="about:blank"> https://files.eric.ed.gov/fulltext/ED489535.pdf</a>.
 
 {/details}
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-
 ## Giving high-quality feedback
 
 ### Learning intentions
@@ -32,7 +31,6 @@ Your mentee will have considered their feedback practice by looking at previous 
 
 This session can build on your mentee’s self-study activity and focus in more detail on its practical implications, such as how to scaffold effective self-assessment and peer-assessment. In this session, you will help your mentee understand the importance of skilled feedback and why developing skills of self-assessment and self-regulation are important to the learning process.
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions, and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan sections of this session.
@@ -41,9 +39,9 @@ Review: 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
 
-    - what they did
-    - the impact of this on pupil learning (including how they are evaluating this)
-    - what they will do going forward to build on these actions
+   - what they did
+   - the impact of this on pupil learning (including how they are evaluating this)
+   - what they will do going forward to build on these actions
 
 2. Clarify the Learning Intentions for this session with your mentee.
 
@@ -110,4 +108,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

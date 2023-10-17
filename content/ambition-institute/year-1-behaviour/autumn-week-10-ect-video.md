@@ -6,11 +6,8 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-10-ect-teaching-cha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akOyC9epHEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <h3 class="p1">
   <span class="s1">Presenter intro: Peps McCrea</span>
@@ -34,6 +31,7 @@ When you're confident that pupils have understood your expectations, there's sti
 Setting up independent practice requires a lot of thought. You need to explicitly teach your expectations. It might be easy to assume your pupils should know what is expected of them, but they may well not. Or they simply might've forgotten. Although we call it independent practice, that doesn't mean that teachers don't play an active role. Teachers need to actively monitor and support pupils to enable them to work on their own.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of how to establish behavioural expectations
 for independent practice. As you watch focus on the following:
 
@@ -41,6 +39,7 @@ for independent practice. As you watch focus on the following:
 - Monitors pupil work during lessons, including checking for misconceptions
 
 ### Exemplification: Ambition Institute coach
+
 If we want pupils to focus on their learning and do well during independent
 practice, we need to establish clear guidelines. I'm going to model how to share
 behavioural expectations before independent work and how to support them to stay
@@ -77,6 +76,7 @@ During the independent work, I circulated and made sure that most of the time I 
 Independent work is critical for pupil learning. However, in order for it to be successful, teachers must be sure that pupils have the knowledge and skills required for the task, be clear on their behavioural expectations before pupils start and circulate to keep pupils on track.
 
 ### Presenter key ideas
+
 In this video, we have looked at how to support pupil behaviour during independent
 practice so that we can help them to stay focused. Now read through the key ideas.
 Which of these ideas does the example illustrate the best?
@@ -86,7 +86,8 @@ Which of these ideas does the example illustrate the best?
 - Monitor pupil work during lessons, including checking for misconceptions
 
 ### Presenter summary
+
 Independent practice is a skill that pupils need to be shown how to do well. Our
 pupils need support and practice to get the most out of it. When we get this
 right pupils are able to do some of their best thinking on their own and
-strengthen their understanding in the process.  {/details}
+strengthen their understanding in the process. {/details}

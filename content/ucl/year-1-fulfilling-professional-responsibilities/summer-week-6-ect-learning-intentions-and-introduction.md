@@ -19,6 +19,7 @@ You will learn that:
 You will learn how to:
 
 Develop as a professional, by:
+
 - Engaging in professional development focused on developing an area of practice with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice.
 
 ## Introduction

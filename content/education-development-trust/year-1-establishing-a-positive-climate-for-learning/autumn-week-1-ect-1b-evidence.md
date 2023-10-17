@@ -19,10 +19,9 @@ Look at the cartoon below which highlights this.
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-1.2.1-Calm-vs-chaotic-Opt-1-3.png" alt="=“”" />
 </figure>
 
-
 | Avoid this                                                                                                                 | Try this                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| What the teacher should avoid, and things they should try to avoid saying                                              | What the teacher should try to do, and how they might say it                                                          |
+| What the teacher should avoid, and things they should try to avoid saying                                                  | What the teacher should try to do, and how they might say it                                                              |
 | Avoid questions that you don’t need to know the answer to. “Why are you out of your seat?”                                 | Focus on what pupils are doing and what they are expected to do. “We put our hands up when we want to answer a question.” |
 | Avoid questions that you don’t need to know the answer to. "Can you please stop talking?"                                  | Give clear instructions about what is expected. “We hang our coats on the hooks so that nobody trips up.”                 |
 | Avoid telling pupils what they should not be doing. "Don’t call out."                                                      | Focus on the behaviour rather than the individual. “Some pupils are using the sink area well.”                            |
@@ -31,21 +30,22 @@ Look at the cartoon below which highlights this.
 It is important to maintain a positive, calm climate and we can do this through focusing on what we want to see pupils doing. Teachers can use both verbal and non-verbal prompts to communicate their expectations of behaviour to the pupils. It is also important that you give pupils an opportunity to adjust their behaviour before escalating things.
 
 ####Verbal prompts
+
 - Instructions
-- Praise 
-- Saying “Thank you” 
-- Reinforcement 
-- Giving pupils choices 
+- Praise
+- Saying “Thank you”
+- Reinforcement
+- Giving pupils choices
 - Reminders of school behaviour policy
 
 ####Non-verbal prompts
 
-- Smiling or frowning 
-- Nodding or shaking head 
-- Eye contact 
-- Hand signals like thumbs up 
-- Position in the room 
-- Silent speaking – mouthing “thank you” or “no” to a pupil 
+- Smiling or frowning
+- Nodding or shaking head
+- Eye contact
+- Hand signals like thumbs up
+- Position in the room
+- Silent speaking – mouthing “thank you” or “no” to a pupil
 - Turning a pupil’s book to the right page
 
 While pupils should have a clear understanding of our general expectations for their behaviour, this should be reinforced for specific activities. When giving task instructions we need to make it clear to pupils what we want them to do and the behaviour we expect to see as they complete the task. Being crystal clear about our expectations will support our pupils in knowing exactly what to do.
@@ -72,10 +72,8 @@ It is important that we tell pupils our behavioural expectations when they compl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVnct2vAMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video script.
-
 
 NARRATION
 
@@ -105,14 +103,12 @@ Tom… [Tom is standing up and teacher gestures with her arm for him to sit down
 
 {/details}
 
-
-
 ### In your notepad
+
 - What does the teacher in the video say?
 - What does the teacher do?
 - How do they make their expectations clear?
 - What is the impact of this?
-
 
 ###Teacher expectations can affect pupil outcomes
 
@@ -138,46 +134,45 @@ This doesn’t mean that you should have low expectations. You should set learni
 
 What this looks like in practice:
 
-* model to pupils how to set a specific long-term goal, by sharing your own
-* demonstrate how goals should be actionable
-* sensitively increase or decrease the challenge and aspiration of pupils’ goals 
-* support pupils in setting a timeline and a method of recording progress
-* teach pupils the rationale behind setting their own goals. A goal that they set for themselves can be more empowering than one imposed by somebody else
+- model to pupils how to set a specific long-term goal, by sharing your own
+- demonstrate how goals should be actionable
+- sensitively increase or decrease the challenge and aspiration of pupils’ goals
+- support pupils in setting a timeline and a method of recording progress
+- teach pupils the rationale behind setting their own goals. A goal that they set for themselves can be more empowering than one imposed by somebody else
 
 #### State the outcomes you want to see
 
 What this looks like in practice:
 
-* avoid statements phrased in negative terms. Use ‘do’ instead of ‘don’t’; ‘can’ instead of ‘can’t’
+- avoid statements phrased in negative terms. Use ‘do’ instead of ‘don’t’; ‘can’ instead of ‘can’t’
 
 #### Consistently communicate that pupils are improving and are capable of improving
 
 What this looks like in practice:
 
-* praise effort. “You showed perseverance in that task, well done”
-* acknowledge small improvements and draw attention to them
-* encourage pupils when they get stuck: “You can’t do this right now but if you try X I think you will be able to”
-* acknowledge mistakes as part of learning
+- praise effort. “You showed perseverance in that task, well done”
+- acknowledge small improvements and draw attention to them
+- encourage pupils when they get stuck: “You can’t do this right now but if you try X I think you will be able to”
+- acknowledge mistakes as part of learning
 
 #### Show all pupils that you believe they are capable of achieving success
 
 What this looks like in practice:
 
-* use positive language with pupils: “I am really impressed at the way you used quotes to support your ideas” 
-* tell pupils when tasks are challenging and explain the purpose in this                            
+- use positive language with pupils: “I am really impressed at the way you used quotes to support your ideas”
+- tell pupils when tasks are challenging and explain the purpose in this
 
 #### Highlight successes of all pupils
 
 What this looks like in practice:
 
-* ensure that you are praising and highlighting successes of all pupils, not just a select few
-* give pupils opportunities to showcase excellent work and ensure that all pupils take part                                 
+- ensure that you are praising and highlighting successes of all pupils, not just a select few
+- give pupils opportunities to showcase excellent work and ensure that all pupils take part
 
 Look at the following example of a teacher helping a pupil set a challenging goal.
 
-
-
 ### Example
+
 Pupil: I want to get better at reading.
 
 Teacher: Ok so let’s have a think about how you are going to achieve that. If I want to get better at something, I know that I need to practise that skill. For example, I really want to learn how to bake bread, so I am going to have a go at doing that every weekend. Would practice help you here?
@@ -212,13 +207,10 @@ Teacher: Great. Should we check in again next week and see how you are getting o
 
 Pupil: Yes, that sounds good.
 
-
-
-
 ### In your notepad
+
 - How does the teacher support the pupil to set a challenging goal?
 - What sort of language does the teacher use to show high expectations?
-
 
 ### Effective relationships are integral to a positive classroom environment
 
@@ -234,31 +226,27 @@ Listen to the strategies the teacher uses to learn names quickly and consider wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SYNHvXhubk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 One of the first things you can do to create a positive relationship with your pupils in a new class is to address them by name so that they feel respected and included.
 
 Of course, in order to do that, you need to learn and remember their names, which can be challenging. Here are a few techniques I use to make sure I learn my pupils’ names as quickly as possible:
 
-- In the first lesson, I ask pupils to tell me something about themselves to give me a sense of who they are. This works best if I refer to that piece of information when I next address them by name. 
-- In the first few lessons, I ask each pupil to display a name card on their desk so that I can use their names every time I speak to them, from the first minute of the first lesson. 
-- I make sure I look at pupils’ faces when I speak to them to help establish an association between names and faces. 
+- In the first lesson, I ask pupils to tell me something about themselves to give me a sense of who they are. This works best if I refer to that piece of information when I next address them by name.
+- In the first few lessons, I ask each pupil to display a name card on their desk so that I can use their names every time I speak to them, from the first minute of the first lesson.
+- I make sure I look at pupils’ faces when I speak to them to help establish an association between names and faces.
 - I use a fixed seating plan because I find that knowing where in the room to expect a name and a face to be serves as a helpful memory aid.
-Those are the techniques I find helpful but of course there are others. The important
-thing is not to leave it to chance, but to plan how you are going to make it easy
-for yourself to remember pupils’ names.  {/details}
-
-
+  Those are the techniques I find helpful but of course there are others. The important
+  thing is not to leave it to chance, but to plan how you are going to make it easy
+  for yourself to remember pupils’ names. {/details}
 
 ### In your notepad
+
 - What is the impact of learning names quickly?
 - What strategies does the teacher use to learn pupils’ names quickly?
 - Which do you already use?
 - Are there any strategies you could lift and use in your practice?
-
 
 While knowing the name of each pupil is a good start, it is clearly not enough! Every interaction you have with your pupils is important as it is these interactions that build relationships. Pupils spend about a third of their waking hours in school during most weeks in the year (PISA, 2015), which means that teachers can become key role models within their pupils’ lives (Johnson et al., 2016) and help pupils form ideas about what it means to be ‘a good person’. This is clearly an important responsibility; you are probably asking yourself how you can best go about it.
 
@@ -275,85 +263,81 @@ It is particularly important that you respond quickly to any instances of bullyi
 
 The following table shares some of the ways you can build and maintain a culture of trust and respect with your pupils. Read through the suggestions and answer the questions that follow.
 
-### Strategies to use 
+### Strategies to use
 
 Learn names quickly:
 
-* Use name cards at the beginning of term. 
-* Use a seating plan and refer to it.
+- Use name cards at the beginning of term.
+- Use a seating plan and refer to it.
 
 Treat pupils with respect:
 
-* Be polite in interactions with pupils. 
-* Avoid using sarcasm or humour at pupils’ expense. 
-* Deal with issues individually and privately when possible (see the section on behaviour)
+- Be polite in interactions with pupils.
+- Avoid using sarcasm or humour at pupils’ expense.
+- Deal with issues individually and privately when possible (see the section on behaviour)
 
 Get to know pupils as individuals:
 
-* Talk to pupils. 
-* Talk to colleagues. 
-* Talk to their families and carers. 
-* Take an interest in what pupils tell you about their lives. 
-* Be attentive. 
-* Take an interest in pupils’ extra-curricular activities when appropriate. 
+- Talk to pupils.
+- Talk to colleagues.
+- Talk to their families and carers.
+- Take an interest in what pupils tell you about their lives.
+- Be attentive.
+- Take an interest in pupils’ extra-curricular activities when appropriate.
 
 Support pupils and show them that they are listened to:
 
-* Deal with problem behaviour when it arises (see the section on behaviour). 
-* Notice when pupils seem upset or disengaged and take a moment, at an appropriate time, to talk to them.
+- Deal with problem behaviour when it arises (see the section on behaviour).
+- Notice when pupils seem upset or disengaged and take a moment, at an appropriate time, to talk to them.
 
 Know who to contact with any safeguarding concerns:
 
-* Find out who the safeguarding lead in your school is. 
-* Familiarise yourself with your school’s safeguarding policy.    
+- Find out who the safeguarding lead in your school is.
+- Familiarise yourself with your school’s safeguarding policy.
 
 Demonstrate a love of learning:
 
-* Be enthusiastic about the content you are teaching. 
-* Tell your pupils why you love the subject or topic they are learning. 
+- Be enthusiastic about the content you are teaching.
+- Tell your pupils why you love the subject or topic they are learning.
 
 Involve all pupils in lessons:
 
-* Ask questions to all pupils. 
-* Try to ensure every pupil has spoken in your lesson at least once (this can be answering a question to you when you circulate, answering a question in front of the class, offering a suggestion when asked, or any other form of appropriate talking).
+- Ask questions to all pupils.
+- Try to ensure every pupil has spoken in your lesson at least once (this can be answering a question to you when you circulate, answering a question in front of the class, offering a suggestion when asked, or any other form of appropriate talking).
 
 Respond consistently to pupil behaviour:
 
-* Always follow the rules and routines you have established. 
-* Treat all pupils equally. 
-* Always be consistent.
-* Always follow through on rewards/sanctions.
+- Always follow the rules and routines you have established.
+- Treat all pupils equally.
+- Always be consistent.
+- Always follow through on rewards/sanctions.
 
 Respond quickly to any behaviour or bullying that threatens emotional safety:
 
-* Deal quickly and firmly with any incidents of bullying. 
-* Refer behaviour to relevant members of staff. 
-* Follow the school behaviour policy.      
+- Deal quickly and firmly with any incidents of bullying.
+- Refer behaviour to relevant members of staff.
+- Follow the school behaviour policy.
 
 Be positive:
 
-* Start each lesson in a positive way. 
-* Give meaningful praise often.
-
-
+- Start each lesson in a positive way.
+- Give meaningful praise often.
 
 ### In your notepad
-- What are three positive impacts of having good relationships with pupils? 
-- Which strategies do you feel that you already use successfully? In which areas do you feel you could improve? 
+
+- What are three positive impacts of having good relationships with pupils?
+- Which strategies do you feel that you already use successfully? In which areas do you feel you could improve?
 - What steps will you take to do this?
 
-
-
-
 ### Remember:
+
 Focusing on maintaining clear routines, building positive relationships and keeping
 your expectations of all pupils high will reduce the need for behaviour interventions.
 The more time and energy you put into laying the foundations for a positive climate
-for learning, the less likely it will be that pupils will misbehave. 
+for learning, the less likely it will be that pupils will misbehave.
 
 {details}
 References.
-
 
 Allen, JP, Pianta, R.C., Gregory, A., Mikami, A.Y. &amp; Lun, J. (2011) An interaction-based approach to enhancing secondary school instruction and student achievement. Science 333(6045):1034-1037 <a href="https://doi.org/10.1126/science.1207998">https://doi.org/10.1126/science.1207998</a>.
 
@@ -394,4 +378,3 @@ Willingham, D. T. (2009) Why don’t students like school? San Francisco, CA: Jo
 Wubbels, T., Brekelmans, M., den Brok, P., Wijsman, L., Mainhard, T. &amp; van Tartwijk, J. (2014) Teacher-student relationships and classroom management. In E. T. Emmer, E. Sabornie, C. Evertson &amp; C. Weinstein (Eds.). Handbook of classroom management: Research, practice, and contemporary issues (2nd edn, pp. 363–386). New York, NY: Routledge.
 
 {/details}
-

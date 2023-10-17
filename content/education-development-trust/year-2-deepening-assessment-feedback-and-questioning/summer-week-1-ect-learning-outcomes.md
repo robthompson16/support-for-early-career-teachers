@@ -11,4 +11,3 @@ next_path: "/education-development-trust/year-2-deepening-assessment-feedback-an
 | Learn that                                                                                |
 | ----------------------------------------------------------------------------------------- |
 | 6.6 Over time, feedback should support pupils to monitor and regulate their own learning. |
-

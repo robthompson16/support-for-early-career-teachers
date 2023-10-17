@@ -8,31 +8,29 @@ previous_path: "/education-development-trust/year-1-the-importance-of-subject-an
 
 You probably have a good idea of what we mean by curriculum already, but it is worth noting that there are different definitions. The Early Career Framework states:
 
-* a school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
+- a school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
 
 A similar definition that a lot of schools will look to is that of Ofsted (Ofsted working definition of curriculum, 2018). The Ofsted definition states that a curriculum is a framework for:
 
-* setting out the aims of a programme of education, including the knowledge and understanding to be gained at each stage
-* translating that framework over time into a structure and narrative within an institutional context
-* evaluating what knowledge and understanding pupils have gained against expectations
+- setting out the aims of a programme of education, including the knowledge and understanding to be gained at each stage
+- translating that framework over time into a structure and narrative within an institutional context
+- evaluating what knowledge and understanding pupils have gained against expectations
 
 One of the real strengths of education in England is that schools have a great deal of freedom to set their own curricula. As a result, there are very different visions for education within schools, although all are based around the same national framework for a broad and balanced curriculum.
 
 Before we consider the evidence in this area, take a minute to write down some ideas about what this looks like in your school. You will have a chance to discuss this with your mentor in your first meeting for this Block.
 
-
-
 ### In your notepad
+
 As you work this through activity try to answer the following questions:
 
-* what is your school’s broad vision for education?
-* what are the outcomes of this vision and how are the outcomes described in
-    terms of pupils’ lives and their results?
-* how does this vision translate into your school’s curriculum choices? For
-    example, what subjects does your school offer, or is the learning organised
-    into general themes? What does this look like in your department and in
-    your classroom?
-
+- what is your school’s broad vision for education?
+- what are the outcomes of this vision and how are the outcomes described in
+  terms of pupils’ lives and their results?
+- how does this vision translate into your school’s curriculum choices? For
+  example, what subjects does your school offer, or is the learning organised
+  into general themes? What does this look like in your department and in
+  your classroom?
 
 While schools interpret the national curriculum, further interpretation happens at department, phase and classroom levels. It is usually teachers who are responsible for the selection, sequencing and pacing of subject knowledge, skills and concepts into forms suitable for teaching, such as schemes of work, topic plans and individual lesson plans. As an Early Career Teacher, you may not yet have much control over the “big picture” curriculum in your school but translating that into your lesson planning over time is well within your scope. The more secure your subject knowledge, the more effective you will be at doing this.
 
@@ -51,8 +49,6 @@ We will look at both these points in more detail in the next section. For now, l
 
 In the example below, the teacher responds to a correct answer by expanding beyond superficial understanding of a concept. Why do you think the teacher did this?
 
-
-
 ### Detailed explanation example
 
 Teacher: “What is 45 x 10?”
@@ -65,35 +61,32 @@ always true. When you multiply by 10, all of the numbers move up a place value a
 so the 5 units becomes 50. The zero indicates no units. If you multiply 0.3 by 10,
 the answer would be 3 units. There won’t be a zero on the end.”
 
-
 The teacher uses their secure subject knowledge to pick up a potential pitfall that might lead to mistakes. This aspect of subject knowledge develops over time and comes with experience. Spending time talking to more experienced colleagues specifically about the misconceptions which pupils will experience in a given area is almost always time well spent. The teacher leaves nothing to chance – they are completely explicit in the way they teach the concept.
 
 Where there is a fundamental idea or concept which you have identified for pupils to master, the most beneficial approach for pupils is to teach them it explicitly. As you can see from this example, when a teacher is explicit and clearly directs pupils to the knowledge and skills needed in a particular subject area, they help to structure the acquisition of new learning, including how to use the language of the subject (Muijs & Reynolds, 2017). This is where secure subject knowledge will support you in motivating and teaching effectively; you will be able to break concepts down and model these in a way that will support all pupils.
 
-
-
 ### What do we mean by explicit teaching?
+
 Explicit teaching involves the teacher introducing new material in a careful sequence,
 taking care to explain new concepts in a structured way. It involves explanation,
 modelling and practice.
 
 Explicit teaching might include:
 
-* explicitly teaching key vocabulary pupils will need to access the topic
-* drawing explicit links between new content and the core concepts and
-    principles in the subject
-* modelling answers or processes on the board
-* carefully pacing explanations with appropriate use of questioning and
-    practice time
-* using a variety of examples and non-examples
-* guiding pupil practice and providing sufficient time for practice and review
-* helping pupils when they make errors
+- explicitly teaching key vocabulary pupils will need to access the topic
+- drawing explicit links between new content and the core concepts and
+  principles in the subject
+- modelling answers or processes on the board
+- carefully pacing explanations with appropriate use of questioning and
+  practice time
+- using a variety of examples and non-examples
+- guiding pupil practice and providing sufficient time for practice and review
+- helping pupils when they make errors
 
 Presenting new material in small steps with opportunities to practise after each
 step is effective, especially if the teacher assists the pupils as they practise
 to scaffold their learning, such as through questioning or further explanations (Rosenshine,
-2012). 
-
+2012).
 
 ## Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed
 
@@ -127,65 +120,58 @@ Because background knowledge is so important, it is also likely that pupils will
 
 There are many types of critical thinking tasks (such as comparing, classifying, judging) which are cognitively demanding but don’t aid schema building. Unless the background knowledge is secure, more complex critical thinking tasks may actually _detract_ from learning. In the examples below, Teacher A assumes that their pupils will be able to engage critically with a text in the same way as an expert (such as the teacher). Teacher B takes a different approach. Why is this more likely to be effective?
 
-
-
 ### Critical thinking example
 
 #### Example A:
 
 A teacher wants pupils to read a historical source and to examine its
-      validity. 
+validity.
 
 The teacher hands out the source at the start of the lesson and asks
-      pupils to complete the task.
+pupils to complete the task.
 
 Pupils read the source in small groups and prepare their ideas to share
-      with the group.
+with the group.
 
 Each group shares with the class but their responses are not well
-      developed, focusing on things like how difficult it was to read the
-      handwriting and understand the language of Elizabethan writers.
+developed, focusing on things like how difficult it was to read the
+handwriting and understand the language of Elizabethan writers.
 
 ### Example B:
 
 Before the lesson, the teacher identifies that for pupils to be successful
-      analysing the usefulness of a text they need to know certain information
-      about the period.
+analysing the usefulness of a text they need to know certain information
+about the period.
 
 The teacher starts the lesson with a quick recall quiz on prior knowledge
-      linked to the period, including the names of people and important dates.
-      The teacher follows up with some targeted questions to check
-      understanding.
+linked to the period, including the names of people and important dates.
+The teacher follows up with some targeted questions to check
+understanding.
 
- The teacher explicitly models the skills needed when examining a source
-      for reliability, and together the class creates a checklist of questions
-      to ask such as: Who wrote the source? Can they be trusted? Why? 
+The teacher explicitly models the skills needed when examining a source
+for reliability, and together the class creates a checklist of questions
+to ask such as: Who wrote the source? Can they be trusted? Why?
 
 The teacher hands out the historical source and pupils work in small
-      groups to answer the pre-agreed questions.
+groups to answer the pre-agreed questions.
 
 Pupils share back to the rest of the class, comparing and building on each
-      other’s answers to each of the pre-agreed questions.
-
-
-
+other’s answers to each of the pre-agreed questions.
 
 ### In your notepad
+
 As you work this through activity try to answer the following questions:
 
-* which task supports critical thinking?
-* how? What steps does the teacher take?
-* how could you adapt this for your class?
-
+- which task supports critical thinking?
+- how? What steps does the teacher take?
+- how could you adapt this for your class?
 
 {details}
 References.
 
-
-
 Bailin, S., Case, R., Coombs, J. R., &amp; Daniels, L. B. (1999) Common misconceptions of critical thinking. _Journal of Curriculum Studies_, _31_(3), 269‒283.
 
-Ball, D. L., Thames, M. H., &amp; Phelps, G. (2008) Content knowledge for teachers: What makes it special? _Journal of Teacher Education,_2008 59: 389 DOI: 10.1177/0022487108324554 [Online] Accessible from:<a href="about:blank"> https://www.math.ksu.edu/~bennett/onlinehw/qcenter/ballmkt.pdf</a>.
+Ball, D. L., Thames, M. H., &amp; Phelps, G. (2008) Content knowledge for teachers: What makes it special? \_Journal of Teacher Education,\_2008 59: 389 DOI: 10.1177/0022487108324554 [Online] Accessible from:<a href="about:blank"> https://www.math.ksu.edu/~bennett/onlinehw/qcenter/ballmkt.pdf</a>.
 
 Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014) _What makes great teaching. Review of the underpinning research_. Durham University: UK. Available at:<a href="about:blank"> http://bit.ly/2OvmvKO</a>
 
@@ -209,6 +195,4 @@ Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that 
 
 Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. _Educational Researcher_, 15(2), 4‒14.
 
-
 {/details}
-

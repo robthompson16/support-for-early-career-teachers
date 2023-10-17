@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 9"
 ---
 
-
 ## Scaffolding
 
 ### Select a development area
@@ -13,23 +12,23 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: State and explain steps
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher breaks down learning or tasks into specific, memorable, manageable steps for pupils to follow. 
-- Teacher checks and identifies where pupils may struggle most and provides extra support and guidance to support. 
-- Teacher models applying the steps to a task and demonstrating the process to take so pupils can apply this knowledge to similar contexts.     
-                                                                                                                               
+- Teacher breaks down learning or tasks into specific, memorable, manageable steps for pupils to follow.
+- Teacher checks and identifies where pupils may struggle most and provides extra support and guidance to support.
+- Teacher models applying the steps to a task and demonstrating the process to take so pupils can apply this knowledge to similar contexts.  
+
+
 ### Development area 2: Scaffolding
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher explains new concepts by starting with the simplest explanation and providing concrete examples. 
-- Teacher models the thought process when completing tasks so pupils understand the process behind completing the task and have the key points available to use when doing it independently. 
+- Teacher explains new concepts by starting with the simplest explanation and providing concrete examples.
+- Teacher models the thought process when completing tasks so pupils understand the process behind completing the task and have the key points available to use when doing it independently.
 - Teacher checks pupil understanding, particularly of challenging content, and adds in extra support in the form of explanations and examples in a way that best suits the needs of the class.
 
 {details}
 Example precise target: Teacher checks pupil understanding, particularly of challenging content, and adds in extra support in the form of explanations and examples in a way that best suits the needs of the class.
-
 
 - **Not doing it at all:** Review a task and pre-emptively identify the areas of the task pupils may find particularly challenging. Plan an explanation or an example that would support pupils with one of these challenging areas.
 - **Doing it but needs some improvement:** Circulate and specifically check on pupils' progress on the task, paying particular attention to areas you have identified as challenging and deliver an additional explanation or an example to support the pupils who are struggling.
@@ -37,13 +36,12 @@ Example precise target: Teacher checks pupil understanding, particularly of chal
 
 {/details}
 
-
 ### Development area 3: Removing scaffolding
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher checks pupils' understanding of the key learning is sound before removing scaffolding so they have just enough support. 
-- Teacher explicitly articulates high academic expectations of pupils in explaining, modelling and encouraging them to remove scaffolds at the appropriate time to make their learning more effortful.                                                                                                                                                                         
+- Teacher checks pupils' understanding of the key learning is sound before removing scaffolding so they have just enough support.
+- Teacher explicitly articulates high academic expectations of pupils in explaining, modelling and encouraging them to remove scaffolds at the appropriate time to make their learning more effortful.
 
 ### Observe
 
@@ -66,4 +64,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Reframe questions to provide greater scaffolding or greater stretch.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 3"
 ---
 
-
 ## Module interim audit
 
 ### Mentor materials content
@@ -137,4 +136,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, which will be in two weeks’ time. You will check on your mentee’s progress with their inquiry, and invite them to look for any negative consequences of the alterations to their practice.
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-
 ## Engaging with parents, carers and families
 
 ### Learning intentions
@@ -22,7 +21,6 @@ Build effective working relationships, by:
 ### Topic introduction
 
 Last week you saw the importance of working effectively with teaching assistants. This week your mentee will explore how they can work effectively with parents, carers and families to support pupils’ motivation, behaviour and academic success.
-
 
 ### Research and practice summary
 
@@ -101,7 +99,6 @@ As James’ first parents’ evening approached for his Year 9 classes, he spoke
 
 James used these approaches to make the most of parents’ evening. He was helped by the work he had recently been doing about working more effectively and efficiently. Initially, he was very nervous and tended to do most of the talking, but found he got a lot more from parents' evenings when he asked questions of parents, rather than just telling them about how their children were doing in class.
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the learning intentions, and encourage your mentee to record key points in their learning log. Tailor your use of the theory to practice activities below in response to the review and plan sections of this session.
@@ -161,4 +158,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these actions
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

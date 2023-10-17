@@ -8,13 +8,12 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-5-ect-se
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-
-
 ### Case study: part 1
 
 #### Reducing the opportunity cost of marking
+
 Sara stretched her stiff neck and arms and put down her pen. Finally, she had finished
-marking her pupils’ books. 
+marking her pupils’ books.
 
 After hours of carefully annotating each piece of work,
 she was fed up with highlighting common errors and writing the same comments again
@@ -22,12 +21,11 @@ and again. It was clear to Sara where she needed to focus her teaching in the ne
 lesson to address pupils’ learning needs, but she was just too tired to get started
 on planning this now. The lesson would have to wait.
 
-What could Sara have done differently in this situation? 
+What could Sara have done differently in this situation?
 
 How could she make
-  more efficient use of her time to assess pupils’ work, respond to this in her
-  teaching and give pupils feedback?
-
+more efficient use of her time to assess pupils’ work, respond to this in her
+teaching and give pupils feedback?
 
 Efficiency can be thought of as ‘the reduction of waste’. The most common resource wasted in teaching is time, leading to an overall increase in teachers’ workloads and negatively impacting learning. Reducing wasted time is a key priority for teachers and school leaders.
 
@@ -47,16 +45,15 @@ An important strategy for maximising efficiency when marking is to prioritise th
 
 Mistakes are usually accidental – the pupil could identify and self-correct the mistake if prompted to. Errors can be more serious for learning because they arise from a lack of knowledge or misunderstanding. Although it can be tempting to point out to pupils the full range of mistakes across a task, this has two potentially negative consequences - the time it takes you to mark and the chance of overwhelming pupils with comments across their work. Aim to focus feedback on errors relating to the core concepts of the lesson. To reinforce the importance of good literacy across all subjects, you might correct the first three mistakes of general spelling, punctuation and grammar in a piece of work, then focus only on errors related to misunderstandings in the rest of the task. A general prompt to proof-read work carefully might be useful if careless mistakes are a common occurrence, but the focus of your feedback time can then be dedicated to securing and deepening pupils’ understanding of the concepts most central to their learning.
 
-
-
 ### Case study: part 2
 
 #### Using codes to improve Sara’s approach to marking
-What could Sara do differently in the situation described above? 
+
+What could Sara do differently in the situation described above?
 
 Rather than spend
 time repeatedly writing individual comments in pupils’ books, Sara could note the
-common comments across her pupils’ work and capture these as a set of codes. 
+common comments across her pupils’ work and capture these as a set of codes.
 
 In the same way that ‘SPaG’ is often used as a code to indicate the need to address spelling,
 punctuation or grammar, other codes can be used to represent common subject- or phase-specific
@@ -67,11 +64,11 @@ in their work mean.
 
 Using codes in your teaching:
 
-* what comments do you often find yourself making on your pupils’ work?
-* can you group these comments into categories that are helpful for making
-      sense of the type of feedback being given? For example, presentation (e.g.
-      underlining titles, writing clearly), subject-specific assessment criteria
-      (e.g. English AO2 – effect on reader), conventions of the subject (e.g.
-      describing scientific experiments, drawing graphs, safe use of equipment)
-* what codes would usefully capture these comments for your pupils in your
-      context, relevant to your specialism?
+- what comments do you often find yourself making on your pupils’ work?
+- can you group these comments into categories that are helpful for making
+  sense of the type of feedback being given? For example, presentation (e.g.
+  underlining titles, writing clearly), subject-specific assessment criteria
+  (e.g. English AO2 – effect on reader), conventions of the subject (e.g.
+  describing scientific experiments, drawing graphs, safe use of equipment)
+- what codes would usefully capture these comments for your pupils in your
+  context, relevant to your specialism?

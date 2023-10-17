@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 3"
 ---
 
-
 ## Applying good assessment practice in the classroom
 
 ### Learning intentions
@@ -23,14 +22,11 @@ Check prior knowledge and understanding during lessons, by:
 - Prompting pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding.
 - Monitoring pupil work during lessons, including checking for misconceptions
 
-
-
 ### Topic introduction
 
 In their self-directed study session earlier this week, your mentee extended their knowledge of applying good assessment practice in the classroom. They explored how good assessment helps teachers avoid the pitfalls of being influenced by other factors when making assessments of their pupils. This included being aware of how the examples that Robert Coe terms ‘Poor Proxies for Learning’ may affect accurate judgements of learning.
 
 In this session, you will help your mentee build on this activity, focusing in more detail on its practical implications. You will discuss with your mentee their plan for classroom activities intended to make more accurate assessments of pupils, especially those where they are finding it complex to understand what the pupils know and can do. You will do this while identifying and avoiding common pitfalls in assessment practice.
-
 
 ### Meeting activities
 
@@ -40,9 +36,9 @@ Review: 5 mins
 
 1. Start this session by briefly following up on the actions that your mentee set at the end of last week’s session. Ask your mentee to summarise:
 
-    - what they did
-    - the impact of this on pupil learning (including how they are evaluating this)
-    - what they will do going forward to build on these actions
+   - what they did
+   - the impact of this on pupil learning (including how they are evaluating this)
+   - what they will do going forward to build on these actions
 
 2. Clarify the Learning Intentions for this session with your mentee.
 
@@ -68,11 +64,11 @@ Discuss with mentor / sharing of practice – discuss with your mentee:
 
 1. How they might use assessments in their phase/specialism at the beginning of new topics as a way of checking for prior knowledge/skill and pre-existing misconceptions. Share examples of your practice as appropriate to support this discussion.
 
-    You might find it helpful to draft with your mentee a list of the most common misconceptions that you have encountered in your teaching, if you are experienced in the same phase/specialism as your mentee. If you work in a different phase/specialism, you may wish to seek input for this activity from a suitably experienced colleague.
+   You might find it helpful to draft with your mentee a list of the most common misconceptions that you have encountered in your teaching, if you are experienced in the same phase/specialism as your mentee. If you work in a different phase/specialism, you may wish to seek input for this activity from a suitably experienced colleague.
 
 2. How to plan and use carefully structured questions during lessons that surface pupils’ thinking and enable the teacher to accurately identify knowledge gaps and misconceptions. Explore how hinge questions and elaboration might be used in the mentee’s phase and specialism to support assessment and therefore pupils’ learning. Share examples of your practice as appropriate to support this discussion.
 
-    As above, you may find it helpful to seek input from a suitably experienced colleague if you work in a different phase / specialism to your mentee.
+   As above, you may find it helpful to seek input from a suitably experienced colleague if you work in a different phase / specialism to your mentee.
 
 ---
 
@@ -94,4 +90,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

@@ -4,12 +4,11 @@ heading: "Second half-term: revisiting the importance of subject and curriculum 
 caption: "Year 2"
 ---
 
-
 In this module you'll focus on how you can use your in-depth understanding of the subjects you teach to strengthen your pupils' knowledge.
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning. 
+Go through the module introduction to see what you’ll be learning.
 
 Duration: 5 minutes.
 
@@ -34,16 +33,15 @@ Duration: 30 minutes.
 
 ### Mentors
 
-There are no mentor activities for this topic. 
+There are no mentor activities for this topic.
 
 [View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-1-mentor-materials)
 
 ## Week 2: complex mental models
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -53,25 +51,21 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 ## Week 3: establishing secure knowledge
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic. 
-
-
+There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
 Duration: 60 minutes.
 
-
 ### Mentors
 
-There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT. 
+There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT.
 
 [View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-mentor-materials)
 
 ## Week 4: strengthening pupils' subject knowledge
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -83,8 +77,8 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 20 minutes.
 
@@ -99,10 +93,9 @@ Use the materials below to help you plan a discussion with the ECT about this to
 
 ## Week 6: review of the module
 
-Your mentor should arrange a catch-up with you to discuss what you have learnt during this module. 
+Your mentor should arrange a catch-up with you to discuss what you have learnt during this module.
 
 Duration: 30 minutes.
-
 
 ### Mentors
 
@@ -112,7 +105,7 @@ Use the materials below to help you plan a discussion with the ECT about what th
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future. 
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 5 minutes.
 
@@ -123,4 +116,3 @@ Duration: 5 minutes.
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
 
 [View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-0-mentor-materials)
-

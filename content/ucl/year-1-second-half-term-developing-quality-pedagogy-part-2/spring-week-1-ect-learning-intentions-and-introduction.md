@@ -11,7 +11,7 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 
 ## Learning Intentions for this session
 
-You will learn that:                                                                                                                                                                                                                           
+You will learn that:
 
 - Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 - Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.

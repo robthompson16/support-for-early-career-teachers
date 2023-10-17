@@ -43,24 +43,22 @@ Examples of times you might to do this:
 
 You could either do this on the board or using a visualiser.
 
-
-
-
-
 ### Modelled example
+
 Look at the following modelled example which has been broken down into sections to help you.
 
 #### Task
+
 Mason and Jasmine have £5 between them. Mason has 90p more than Jasmine.
-How much money does Jasmine have? 
+How much money does Jasmine have?
 
 Okay so this is a tricky one. So firstly I need to think about how we have
-  solved equations like this before and choose the best strategy. I know that
-  word problems can often be solved by expressing them as equations….so I am
-  going to start with writing out the problem as an algebraic equation. 
+solved equations like this before and choose the best strategy. I know that
+word problems can often be solved by expressing them as equations….so I am
+going to start with writing out the problem as an algebraic equation.
 
 Has this helped me? Yes, it now looks like the type of problem I’m familiar
-  with. I can now have a go at working it out.
+with. I can now have a go at working it out.
 
 So £5 is 500p which will be easier to work with.
 
@@ -73,14 +71,13 @@ So I know that one of the answers is 205.
 Now I need to add the extra 90 to 205. 205+90=295
 
 To check my answers I can put my answers into the word problem to see if they
-  work.
+work.
 
 So now I know that:
 
 Jasmine has £2.05
 
 Mason has £2.95
-
 
 #### Develop mnemonics and memorable stories
 
@@ -114,16 +111,14 @@ It would be useful to talk to colleagues in your subject/phase to see if there a
 
 Another strategy is to use a memorable story to help pupils remember something complicated. For example, you could link a sequence of events to familiar sequences from your life (e.g. walking around your house).
 
-
-
 ### In your notepad
+
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?
 
 ## Area 2: Practice makes perfect
 
@@ -188,16 +183,14 @@ Doing this encourages pupils to try to remember information which supports trans
 
 Give pupils a slip of paper, ‘a ticket’, at the end of the lesson. On the ticket should be a series of questions (around 2 or 3) about what they have learned that lesson. In order to be able to ‘exit’ the lesson, they need to complete the ticket. This encourages pupils to reflect on what they’ve learned and actively process it.
 
-
-
 ### In your notepad
+
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?
 
 ## Area 3: Adapt your teaching
 
@@ -290,13 +283,10 @@ Ideas for challenging might include:
 
 You do not need to create distinct tasks for different pupils. Think about how you can provide support to pupils so that they can all achieve and reach a high standard.
 
-
-
 ### In your notepad
+
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?

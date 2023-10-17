@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-subject/summer-week-8-ect-teaching-challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GQ60a-SsVhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Harry Fletcher-Wood
+
 Showing pupils what an example of good looks like gives them a clear goal to aim
 for, but just showing it on its own is not enough. Teachers need to identify the
 precise features that make the example effective. We need to break it down for our
 pupils. Academic expectations need to be clear, concrete, and specific if we want
 our pupils to meet them.
+
 ### Presenter main
+
 Knowing what success looks like helps pupils to achieve, particularly when the teachers
 point out the details within a successful piece of work. Concrete examples help to
 covey complicated concepts to pupils. They also help pupils to see what good looks
@@ -32,11 +32,15 @@ When teachers present models, they need to direct pupils' attention to the impor
 If you know what a good example looks like, you're more likely to carry out a task well.
 
 ### Presenter exemplification framing
+
 In the next example, you'll see a model of how to share academic expectations. As
 you watch, pay attention to the following key ideas:
-- Sets tasks that stretch pupils, but which are achievable, within a challenging curriculum 
+
+- Sets tasks that stretch pupils, but which are achievable, within a challenging curriculum
 - Narrates thought processes when modelling to make explicit how experts think
+
 ### Exemplification: Ambition Institute Coach
+
 Imagine I'm teaching a year seven Geography lesson. We've been looking at the
 impact of transnational corporations on Nigeria's development and I want them to
 answer a question that summarizes their learning through a case study of the
@@ -63,16 +67,19 @@ Second, I narrated my thought process out loud to show pupils how experts think.
 Finally, I drew attention to some of the features of the example that made it good. In particular, I stressed that the evidence that I select needs to match with my overall point. Again, this is something that experts who know how to construct a good argument would do instinctively, but in order to develop expertise, it helps if we identify the specific knowledge and skills that it is made up of. Providing a model of an excellent response does not remove all of the cognitive effort required. This isn't about getting pupils to copy. Pupils will still have to think about the content carefully when writing their own response. The purpose of the model is to help to guide their thinking and, in doing this, it increases the likelihood of success.
 
 ### Presenter key ideas
+
 In this video, we've explored the importance of showing pupils what a model of success
 looks like, ensuring that we set our expectation high. Before we finish, take a moment
 to read over the key ideas in the video. Which of the following ideas do you think
 the example illustrated the best?
-- Setting tasks that stretch pupils, but which are achievable, within a challenging curriculum 
-- Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain 
+
+- Setting tasks that stretch pupils, but which are achievable, within a challenging curriculum
+- Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain
 - Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)
+
 ### Presenter summary
+
 We all want our pupils to do well, both in school and future life. In order to
 achieve academic success, we need to show them what success looks like. Sharing
 academic expectations through strong examples can transform their understanding
-and achievement.  {/details}
-
+and achievement. {/details}

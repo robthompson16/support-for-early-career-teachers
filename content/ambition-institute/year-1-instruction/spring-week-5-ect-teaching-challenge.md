@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-5-ect-reflect"
 ---
 
-
 Ms Thomas is confident about what her pupils should learn. However, when she tries to convey new content to pupils, she struggles to keep their attention: if she gives a quick explanation, she gets lots of questions and confusion, but if she goes into a lot of detail, she fears pupils will stop listening. How can Ms Thomas most efficiently support her pupils’ thinking when conveying new ideas in her lessons, and get a sense of whether pupils have understood?
 
 ## Key idea
@@ -49,15 +48,14 @@ In the opening problem, Ms Thomas also wanted to ensure that her pupils understo
 
 While guided instruction through modelling is more effective for novices than other forms of instruction, removing cognitive supports as pupils gain expertise is vital. Where pupils already have a strong understanding of how to solve a problem, worked examples may distract them from a process which they are capable of completing independently (Pashler et al., 2007).
 
-
-
 ### Key takeaways
-Ms Thomas's expositions will better match pupil needs if she understands:
-- the importance of preventing pupil overload by first building on prior knowledge 
-- the ‘I-We-You' approach helps her to ensure she manages pupil thinking and working memory effectively 
-- using concrete and abstract examples, modelling, and worked examples in expositions supports pupils when introducing new concepts and processes 
-- checking pupil understanding prior to letting them practise independently can be a powerful approach
 
+Ms Thomas's expositions will better match pupil needs if she understands:
+
+- the importance of preventing pupil overload by first building on prior knowledge
+- the ‘I-We-You' approach helps her to ensure she manages pupil thinking and working memory effectively
+- using concrete and abstract examples, modelling, and worked examples in expositions supports pupils when introducing new concepts and processes
+- checking pupil understanding prior to letting them practise independently can be a powerful approach
 
 ### Further reading
 
@@ -65,7 +63,6 @@ Deans for Impact (2015). _The Science of Learning._ [bit.ly/ecf-dea1](http://bit
 
 {details}
 References.
-
 
 Deans for Impact (2015). _The Science of Learning._ <a href="http://bit.ly/ecf-dea1" target="_blank" rel="noopener">bit.ly/ecf-dea1</a>
 
@@ -80,4 +77,3 @@ Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. 
 Wittwer, J., &amp; Renkl, A. (2010). How Effective are Instructional Explanations in Example-Based Learning? A Meta-Analytic Review. _Educational Psychology Review,_ 22(4), 393–409. <a href="http://bit.ly/ecf-wit." target="_blank" rel="noopener">bit.ly/ecf-wit</a>
 
 {/details}
-

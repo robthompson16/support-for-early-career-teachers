@@ -41,10 +41,8 @@ How does it inform his approach?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbPElQN4ZIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Before I meet my new class, I go through the data available from the previous teacher. This tells me some information, such as who used to arrive late every day or who has an EHC plan in place. I like to talk to the teacher if possible, as well to get their take on the class, and if there was a teaching assistant who worked in the classroom last year they usually have some great information. If I know before the end of the year which class I am taking, I find it really helpful to look at samples of their work from the end of the year. This shows me what they could do and where there may be gaps in their prior knowledge.
 
@@ -79,7 +77,6 @@ The pupils have all been given the same task. This is not because the pupils are
 
 {details}
 Video script.
-
 
 The teacher starts by giving an explanation of the task that the pupils are going to do. All pupils have the same task. It is not obvious from the video what the range of ability is within the classroom. The teacher lets the class know how many minutes they have to complete the task.
 
@@ -121,11 +118,11 @@ Learning styles theory was popular in education for some time with many people b
 
 What is true is that learners are different from each other, and that these differences can affect their performance.
 
- In claiming that learning styles do not exist, we are not saying that all
-  learners are the same. Rather, we assert that a certain number of dimensions
-  (ability, background knowledge, interest) vary from person to person and are
-  known to affect learning. The emphasis on learning styles, we think, often
-  comes at the cost of attention to these other important dimensions (Willingham, 2010).
+In claiming that learning styles do not exist, we are not saying that all
+learners are the same. Rather, we assert that a certain number of dimensions
+(ability, background knowledge, interest) vary from person to person and are
+known to affect learning. The emphasis on learning styles, we think, often
+comes at the cost of attention to these other important dimensions (Willingham, 2010).
 
 Things to watch out for:
 

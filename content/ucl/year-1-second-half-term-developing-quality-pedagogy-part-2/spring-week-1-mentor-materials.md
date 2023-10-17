@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-
 ## Using groupings to support specific needs
 
 ### Learning intentions
@@ -17,13 +16,11 @@ Group pupils effectively, by:
 - changing groups regularly, avoiding the perception that groups are fixed
 - ensuring that any groups based on attainment are subject specific
 
-
 ### Topic introduction
 
 In their self-study session earlier this week, your mentee extended their knowledge of teaching pupils with special educational needs. They considered where to access the information they needed to inform planning and explore the range of strategies that can be deployed when teaching pupils who experience barriers to learning. Alongside this, they also considered the importance of grouping pupils effectively.
 
 In this session, you will analyse how your mentee responded to a number of challenges posed in their self-directed study session to do with adapting their teaching and groupings to meet the needs of their pupils with specific needs. You will help them to refine their responses.
-
 
 ### Research and practice summary
 
@@ -85,8 +82,6 @@ Mr Andrews planned a Year 8 lesson on the ‘problems of living in a city’. Th
 - Using easy visual prompts gave Molly an extra step in embedding the information. Using these regularly across a series of lessons and gradually taking the visual prompts away, ensured Molly could transfer this information more easily into her long-term memory.
 - Mr Andrews is prepared to give Molly this specific type of support because he is aware that she learns at a different rate to most of the other pupils in the class.
 
-
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session.
@@ -125,22 +120,13 @@ You are now going to challenge them to think harder while supporting them with p
 
 ####Further challenge: Applying high expectations for all groups and ensuring that all pupils have access to a rich curriculum
 
-
-
-
 ##### Practical suggestions
 
 - Avoid setting different learning objectives for different pupils – these may signal low expectations for some pupils
 - Teaching the whole class, where you ‘teach to the top’ and scaffold so that all can achieve, means that all pupils should experience the same curriculum
-- Avoid signalling that you are giving ‘easier’ work to some pupils – use language like ‘my challenge for you is...’ 
-
-
-
+- Avoid signalling that you are giving ‘easier’ work to some pupils – use language like ‘my challenge for you is...’
 
 ####Further challenge: Changing groups regularly, thus avoiding the perception that the groups are fixed
-
-
-
 
 #####Practical suggestions:
 
@@ -148,20 +134,12 @@ You are now going to challenge them to think harder while supporting them with p
 - Group by attainment, but only when you have a specific subject purpose
 - Change your table groupings or seating plan at least every half term
 
-
-
-
 ####Further challenge: Ensuring that any groups based on attainment are subject specific
-
-
 
 #####Practical suggestions
 
 - Avoid grouping pupils according to your perceptions of their ‘fixed abilities’ or your expectations for their behaviour – doing so lowers expectations
 - If you teach a number of topics or subjects to the same class, avoid keeping the pupils in the same groups (if you group by attainment)
-
-
-
 
 ###Next Steps 5 mins
 
@@ -172,4 +150,3 @@ Come to an agreement with your mentee as to how they will put their learning fro
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, during which you will check on your mentee’s progress.
-

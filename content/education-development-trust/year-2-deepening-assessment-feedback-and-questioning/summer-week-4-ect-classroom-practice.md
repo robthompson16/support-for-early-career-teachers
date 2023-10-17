@@ -48,15 +48,11 @@ For a lesson you have coming up, plan in a peer-assessment activity. Write a set
 
 In the lesson, mark one piece of work together as a class using the success criteria to model its use.
 
-
-
 ### In your notepad
 
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?

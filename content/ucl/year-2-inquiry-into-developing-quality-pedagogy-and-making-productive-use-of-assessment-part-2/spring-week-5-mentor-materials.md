@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Inquiry progress - checking for negative consequences
 
 ### Mentor materials content
@@ -366,12 +365,12 @@ To mitigate any negative consequences of their teaching or their inquiry, you sh
 
 You might find it helpful to look again at what the teachers did in the four case studies.
 
-|                                                                                                                                |                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| To group his pupils more effectively, Andy looked at these areas of the ECF                                              | Considering the factors that support effective collaboration; changing groups regularly; and ensuring that, when based on attainment, they are for subject reasonsLook back at the further adjustments that Andy made                                                                                    |
+|                                                                                                                          |                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| To group his pupils more effectively, Andy looked at these areas of the ECF                                              | Considering the factors that support effective collaboration; changing groups regularly; and ensuring that, when based on attainment, they are for subject reasonsLook back at the further adjustments that Andy made                                                                      |
 | To improve her pupils’ writing using modelling and scaffolds, Vashti looked at these areas of the ECF                    | Modeling high-quality oral language, and the processes of planning, drafting and editing in writing.Giving novice learners more scaffolds and models at early stages; and removing these as they become more confident and successfulLook back at the further adjustments that Vashti made |
-| To make her marking more manageable, Louise looked at these areas of the ECF                                             | Working with colleagues to discover alternative efficient approaches; using verbal feedback in place of written feedback; and reducing the opportunity costs of markingLook back at the further adjustments that Louise made                                                                             |
-| To use questioning to stimulate his pupils to think, talk and write more in lessons, Mo looked at these areas of the ECF | Including a range of question types; providing enough wait time; reframing questions; and prompting pupils to elaborateLook back at the further adjustments that Mo made                                                                                                                                 |
+| To make her marking more manageable, Louise looked at these areas of the ECF                                             | Working with colleagues to discover alternative efficient approaches; using verbal feedback in place of written feedback; and reducing the opportunity costs of markingLook back at the further adjustments that Louise made                                                               |
+| To use questioning to stimulate his pupils to think, talk and write more in lessons, Mo looked at these areas of the ECF | Including a range of question types; providing enough wait time; reframing questions; and prompting pupils to elaborateLook back at the further adjustments that Mo made                                                                                                                   |
 
 Depending on the severity of any negative consequences, now may also be the time to think about either scaling up, or scaling back, the scope of your mentee’s inquiry. Think:
 
@@ -392,4 +391,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 Note that next week is an ECT Training session, where your mentee will learn about how to present and share their inquiry findings.
 
 In the week following, in your next mentor meeting, you will consider other forms of emergent evidence.
-

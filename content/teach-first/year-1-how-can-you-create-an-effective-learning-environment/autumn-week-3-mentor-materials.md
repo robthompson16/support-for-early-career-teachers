@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## Observation discussion - giving precise praise and acknowledgement to pupils
 
 ### Teaching techniques to focus feedback on
@@ -34,8 +33,7 @@ Work with your teacher to plan and practise giving precise praise and acknowledg
 
 ### Key questions and talking points
 
-1. Why is praise so important in the classroom and what makes it effective? 
+1. Why is praise so important in the classroom and what makes it effective?
 2. What is the difference between acknowledgment and praise?
-3. Discuss the school’s policy regarding contacting parents and carers as part of praise. 
+3. Discuss the school’s policy regarding contacting parents and carers as part of praise.
 4. What strategies could you use to share pupil’s success with their parents? What impact might this have on both the parent’s engagement with the school and the pupil’s motivation?
-

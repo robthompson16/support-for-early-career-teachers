@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## Motivating pupils
 
 ### Intended outcomes
@@ -12,23 +11,23 @@ caption: "Autumn week 3"
 The intended outcomes of this topic are for Early Career Teachers to:
 Learn that:
 
--  Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward)
+- Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward)
 
 Learn how to motivate pupils by:
 
 - Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school
-- Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+- Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.
 
 ### Activities
 
 ###Reflecting on learning (10 minutes)
 
-Discuss the lesson observation agreed in the last topic. 
+Discuss the lesson observation agreed in the last topic.
 
-- What was successful? 
+- What was successful?
 - What could be better?
 - What will the ECT do next?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
 ###Using rewards to motivate pupils (20 minutes)
 
 Ask the ECT to describe what they have learned from the self-directed study materials about the link between rewards and pupil motivation. If they have not engaged with this yet, read the following definitions and then ask the ECT to give some examples of the types of rewards they use/are used in your school.
@@ -36,7 +35,7 @@ Ask the ECT to describe what they have learned from the self-directed study mate
 Intrinsic motivation: from internal sources, such as the pure enjoyment of task engagement.
 Extrinsic motivation: from external sources such as receiving financial compensation.
 
-Recap on the learning: 
+Recap on the learning:
 
 As teachers we need to understand our pupils and find out what motivates them. Rewards offer the potential of either a negative or positive effect in the classroom and we need to consider carefully how we use these.
 
@@ -85,7 +84,7 @@ Ask the ECT what they can take from this into their practice.
 
 ###Developing intrinsic motivation in your pupils (15 minutes)
 
-Pose the question: What approaches do we use in school to support pupils develop their intrinsic motivation? 
+Pose the question: What approaches do we use in school to support pupils develop their intrinsic motivation?
 
 What do you do in your lessons?
 
@@ -168,6 +167,7 @@ In doing this, the ECT might want to:
 Pose the question: How can you build opportunities for pupils to articulate their goals?
 
 Talk the ECT through the following ways they could build in opportunities for pupils to articulate their goals:
+
 - Share the long-term learning objectives of their scheme of work with pupils
 - Plan in time for pupils to create learning goals
 - Communicate the goals for each lesson so these are tangible to pupils
@@ -190,16 +190,15 @@ Pose the following questions:
 
 1. What are two things we can do to ensure rewards have a positive impact?
 
-    - Using them infrequently
-    - Making them unexpected
-    - Using them to encourage desired behaviour
-    - Using them for a specific reason.
+   - Using them infrequently
+   - Making them unexpected
+   - Using them to encourage desired behaviour
+   - Using them for a specific reason.
 
 2. What are two of the risks we should try to avoid when using rewards?
 
-    - Giving them too regularly
-    - Rewarding pupils for tasks they should enjoy
-    - Making them expected.
+   - Giving them too regularly
+   - Rewarding pupils for tasks they should enjoy
+   - Making them expected.
 
-Ask the ECT to consider how they are going to use rewards in their practice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-
+Ask the ECT to consider how they are going to use rewards in their practice.

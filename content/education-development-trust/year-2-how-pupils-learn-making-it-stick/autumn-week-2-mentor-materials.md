@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 2"
 ---
 
-
 ## Setting the scene, and planning regular practice and reviews of material
 
 ### Intended outcomes
@@ -20,7 +19,7 @@ Learn that:
 
 Learn how to increase likelihood of material being retained, by:
 
-- Planning regular review and practice of key ideas and concepts over time.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+- Planning regular review and practice of key ideas and concepts over time.
 
 ### Activities
 
@@ -41,7 +40,7 @@ Some questions for discussion:
 
 - Do you have any examples where you have designed a learning experience or sequence of learning experiences that drew on the research of cognitive load, and pupils learnt successfully as a result?
 - What areas do you still feel like you need to work on related to this?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
 ###Understanding the evidence (20 minutes)
 
 Guidance to mentors:
@@ -50,14 +49,14 @@ The ECT should have read the ‘Understanding the evidence’ section of the sel
 
 In this portion of the mentor topic, the mentor will be asking questions to check the ECT’s understanding of what they have read.
 
-Suggested dialogue for mentors: 
+Suggested dialogue for mentors:
 
-You completed Activity 8.2 of the self-directed study materials ‘Understanding the evidence’ in relation to helping pupils to retain the learning over time. Let’s discuss your response to the questions to check your understanding of that material. 
+You completed Activity 8.2 of the self-directed study materials ‘Understanding the evidence’ in relation to helping pupils to retain the learning over time. Let’s discuss your response to the questions to check your understanding of that material.
 
 Why is it important that pupils remember what they have learnt?
 
 - If pupils forget everything they learn, they will never have learnt anything!
-- Learning happens when the new content or material has moved to their long-term memory. 
+- Learning happens when the new content or material has moved to their long-term memory.
 - Once in the long-term memory it can be remembered or called upon when it is needed. This will be useful when learning new content, so pupils can build on prior knowledge.
 
 What is practice testing and what impact does it have?
@@ -88,13 +87,11 @@ Ask the ECT:
 - Can you give an example of when you have done this with a key idea or concept?
 - How did it go?
 - When did you check whether pupils had retained the information?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 ### Planning for action
 
-The next topic will be on how to deal with challenging work. 
+The next topic will be on how to deal with challenging work.
 
 Ask the ECT to bring an example of challenging work that they will be asking pupils to do in future lesson. The mentor may need to clarify that by challenging it should not be something their pupils can do already.
 
-Ask the ECT whether there is anything in particular they did not understand from the evidence, which they would like to explore in more depth during future mentor topics. Try to take this into consideration when inviting other colleagues or deciding which examples to use.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-
+Ask the ECT whether there is anything in particular they did not understand from the evidence, which they would like to explore in more depth during future mentor topics. Try to take this into consideration when inviting other colleagues or deciding which examples to use.

@@ -11,13 +11,13 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 
 ## Learning Intentions for this session
 
-| You will learn that:                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You will learn that:                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 5.3 Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.                                                 |
 | 5.4 Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils. |
 
-| You will learn how to:                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| You will learn how to:                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
 | 5h. Make use of well-designed resources (e.g., textbooks).                                                                            |
 | 5i. Plan to connect new content with pupils' existing knowledge or provide additional pre-teaching if pupils lack critical knowledge. |
 | 5j. Build in additional practice or remove unnecessary expositions.                                                                   |

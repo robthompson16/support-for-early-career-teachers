@@ -61,4 +61,3 @@ In this module you'll build on your existing knowledge to develop further practi
 ### [Second half-term: continuing your professional development](/education-development-trust/year-2-continuing-your-professional-development)
 
 In the final module you will learn how professional development can help you improve your practice.
-

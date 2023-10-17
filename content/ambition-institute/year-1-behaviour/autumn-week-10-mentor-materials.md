@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 10"
 ---
 
-
 ## Independent practice
 
 ### Select a development area
@@ -13,37 +12,34 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Establishing clear expectations for independent practice
 
-#### Focused development area   
+#### Focused development area
 
-- Teacher explains to pupils the importance of independent practice and their behavioural expectations for independent practice. 
-- Teacher ensures pupils know what to do during independent practice as well as the conditions to work in. 
+- Teacher explains to pupils the importance of independent practice and their behavioural expectations for independent practice.
+- Teacher ensures pupils know what to do during independent practice as well as the conditions to work in.
 - Teacher supports pupils to turn the expectations for independent practice into a routine by keeping certain expectations the same and having pupils practise them.
 
 ### Development area 2: Ensuring pupils understand expectations
 
-#### Focused development area   
+#### Focused development area
 
-- Teacher checks that pupils understand the instructions and behavioural expectations before they begin independent practice. 
+- Teacher checks that pupils understand the instructions and behavioural expectations before they begin independent practice.
 - Teacher models to pupils the behaviours and steps to take during independent practice when they think pupils may struggle.
 
 {details}
 Example precise target: Teacher checks that pupils understand the instructions and behavioural expectations before they begin independent practice.
 
-
 - **Not doing it at all:** Ask pupils to repeat back the instructions for the independent task to check they have understood what to do.
 - **Doing it but needs some improvement:** Ask pupils to repeat back the instructions for the independent task including the behaviours that are expected of them and what to do if they are stuck.
 - **Doing it well and needs some stretch:** If a pupil asked cannot tell you the instructions for the task or behaviour expectations, have a peer state them and return to the initial pupil to repeat them.
 
-
 {/details}
-
 
 ### Development area 3: Circulate to check
 
-#### Focused development area   
+#### Focused development area
 
-- Teacher is clear on the behaviours they need to check for when circulating the classroom and phrases these as visible and positive behaviours. 
-- Teacher pre-emptively circulates to check pupils are meeting their expectations and acknowledges where pupils are doing so. 
+- Teacher is clear on the behaviours they need to check for when circulating the classroom and phrases these as visible and positive behaviours.
+- Teacher pre-emptively circulates to check pupils are meeting their expectations and acknowledges where pupils are doing so.
 - Teacher supports pupils to meet behaviour expectations, e.g. using non-verbal reminders for a pupil or a whole class reset if there are lots of pupils who need reminding.
 
 ### Observe
@@ -66,5 +62,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Create and explicitly teach routines in line with the school ethos that maximise time for learning.
 - Reinforce routines.
 
-Next, meet with your teacher to work through the ‘Feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘Feedback’ stage of instructional coaching.

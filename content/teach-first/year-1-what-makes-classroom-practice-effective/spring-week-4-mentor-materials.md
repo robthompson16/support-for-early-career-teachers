@@ -4,16 +4,15 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
 ## Observation discussion - guided and independent practise
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Observation
 
-### Outcome: 
+### Outcome:
 
 To have practised planning guided and independent practise.
 
@@ -40,4 +39,3 @@ Work with your teacher to support them to improve their guided practice and inde
 4. Why is it important to remove scaffolds over time, when pupils are ready?
 5. How could you expose potential pitfalls?
 6. How could you use homework as a form of practice? N.B: Homework can improve pupil outcomes, particularly for older pupils, but it is likely that the quality of homework and its relevance to main class teaching is more important than the amount set.
-

@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-12-ect-teaching-c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N9hffpMI6cI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena Moore
+
 We all want our pupils to improve, and high-quality, specific feedback shows pupils
 how to get better. There are many ways in which teachers can give effective feedback,
 and they don't have to take up a huge amount of time. Verbal feedback in lessons
 can be effective, but when it's planned and delivered well, pupils will know how
 to act from the feedback you give them. Good feedback helps pupils to move from where
 they are now, to where you want them to be.
+
 ### Presenter main
+
 Feedback is about sharing information with pupils to change either their effort or
 the goals of their work. This can be specific to the task, the areas of learning
 or to do with pupils' self-regulation. Effective feedback shows pupils what success
@@ -48,12 +48,16 @@ So far, we've talked about how teachers can support pupils to get the best out o
 Another way to make the best use of your time is to prioritize feedback that will benefit the majority of the class. That means checking if pupils hold common misconceptions, as well as identifying trends in pupil work. Good feedback can have a significant impact on pupil learning, but it's unlikely that you'll be able to respond to every single thing that your pupils have done in a lesson. Giving effective feedback involves focusing on the things that pupils can do to make the most impact on their learning.
 
 ### Presenter exemplification framing
+
 In the next example, you will see an Ambition Institute coach model a way of giving
 verbal feedback to the whole class. As you watch, pay attention to how they do the
 following:
+
 - Focuses on common misconceptions
 - Provides specific actions for pupils, and enough time for pupils to respond to feedback
+
 ### Exemplification: Ambition Institute coach
+
 In this example, I'm going to model how we can give whole class feedback to
 address misconceptions and provide specific actions for pupils to improve. Now,
 this is a year nine RE class, who have been studying Christian beliefs. They've
@@ -75,16 +79,20 @@ So let's focus on a couple of features within this model. First, I prioritized g
 Second, I gave pupils a specific action to improve their work. They had to identify how they had cited evidence from the Bible, and make sure that they had done so correctly. Pupils then had time to act on feedback in the lesson, with sentence starters to help them to be accurate. You'll notice how my feedback was brief and to the point, and I delivered it in a neutral tone. I want pupils to act on my feedback quickly, and recognize that this is something that all learners need to do to improve.
 
 ### Presenter key ideas
+
 In this video, we've considered how feedback can support pupil learning, and some
 of the ways in which teachers can deliver feedback effectively. Before we finish,
 take a moment to reflect on the key ideas of the video. Which of the following ideas
 do you think the example illustrated the best?
-- Being aware of common misconceptions and discussing with experienced colleagues how to help pupils master important concepts 
-- Focusing on specific actions for pupils and providing time for pupils to respond to feedback 
-- Using verbal feedback during lessons in place of written feedback after lessons where possible 
+
+- Being aware of common misconceptions and discussing with experienced colleagues how to help pupils master important concepts
+- Focusing on specific actions for pupils and providing time for pupils to respond to feedback
+- Using verbal feedback during lessons in place of written feedback after lessons where possible
 - Thinking carefully about how to ensure feedback is specific and helpful when using peer- or self-assessment
+
 ### Presenter summary
+
 Feedback is one of the most important tools that we have as a teacher. It can
 have a profound and positive impact on our pupils. Proper implementation can
 give pupils the support they need and encourage them to ultimately monitor their
-own learning.  {/details}
+own learning. {/details}

@@ -4,12 +4,11 @@ heading: "Instruction"
 caption: "Year 1"
 ---
 
+In this module you'll cover:
 
-In this module you'll cover: 
-
-* the link between effective instruction and pupil learning
-* the elements of explicit instruction and the ‘I-we-you’ model as a useful way of approaching this
-* how instruction can support more effective pupil thinking
+- the link between effective instruction and pupil learning
+- the elements of explicit instruction and the ‘I-we-you’ model as a useful way of approaching this
+- how instruction can support more effective pupil thinking
 
 ## Week 1: module overview and re-contracting
 
@@ -93,7 +92,7 @@ Explores the challenge(s) when introducing new information and how modelling, ex
 
 ## Week 6: adapting teaching
 
-Focuses on how effective instruction requires adapting teaching to support and challenge all pupils. 
+Focuses on how effective instruction requires adapting teaching to support and challenge all pupils.
 
 Duration: 40 minutes.
 
@@ -103,7 +102,7 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Focuses on how effective instruction requires adapting teaching to support and challenge all pupils. 
+Focuses on how effective instruction requires adapting teaching to support and challenge all pupils.
 
 [View mentor materials](/ambition-institute/year-1-instruction/spring-week-6-mentor-materials)
 
@@ -173,7 +172,7 @@ Looks at how effective questions can deepen and extend pupil thinking.
 
 ## Week 11: classroom talk
 
-Explores how classroom talk can help to develop pupils’ mental models. 
+Explores how classroom talk can help to develop pupils’ mental models.
 
 Duration: 40 minutes.
 
@@ -183,7 +182,7 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Explores how classroom talk can help to develop pupils’ mental models. 
+Explores how classroom talk can help to develop pupils’ mental models.
 
 [View mentor materials](/ambition-institute/year-1-instruction/spring-week-11-mentor-materials)
 
@@ -202,4 +201,3 @@ Duration: 40 minutes.
 Examines the link between teacher questions, feedback for pupils and responsive instruction.
 
 [View mentor materials](/ambition-institute/year-1-instruction/spring-week-12-mentor-materials)
-

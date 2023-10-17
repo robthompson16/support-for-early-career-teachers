@@ -39,4 +39,3 @@ _8g. Seeking ways to support individual colleagues and working as part of a team
 _8h. Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling._
 
 _8n. Understanding the right to support (e.g. to deal with misbehaviour)._
-

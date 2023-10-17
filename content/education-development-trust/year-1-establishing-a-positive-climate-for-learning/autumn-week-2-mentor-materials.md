@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 2"
 ---
 
-
 ## Establishing and reinforcing routines
 
 ### Intended outcomes
@@ -13,15 +12,14 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
- -  Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment
+- Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment
 
 Learn how to establish effective routines and expectations by:
 
 - Creating and explicitly teaching routines in line with the school ethos that maximise time for learning (e.g. setting and reinforcing expectations about key transition points)
- - Reinforcing routines (e.g. by articulating the link between time on task and success)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+- Reinforcing routines (e.g. by articulating the link between time on task and success)
 
 ### Activities
-
 
 ### Using routines (15 minutes)
 
@@ -29,18 +27,19 @@ Pupils need to be taught what is expected of them in the classroom, and it is th
 
 Discuss the implications for this for the ECT. Have they been able to do this up to now? What has worked well? What have been the challenges?
 
-Together, compile a list of the key moments in a lesson when a routine is useful in teaching pupils how to behave. 
+Together, compile a list of the key moments in a lesson when a routine is useful in teaching pupils how to behave.
 
 These may include:
+
 - Entering the classroom
-- Starts and ends of lessons 
+- Starts and ends of lessons
 - Starting and finishing work
--Transitions between activities or places in the learning environment
+  -Transitions between activities or places in the learning environment
 - Taking out and putting away resources
 - Whole class teaching and discussion
 - Undertaking common classroom activities
 
-Mentors should choose one of these, explain the routine they use in their teaching, and describe how they establish, reinforce and remind pupils of the routine.     
+Mentors should choose one of these, explain the routine they use in their teaching, and describe how they establish, reinforce and remind pupils of the routine.
 
 ### Establishing effective routines (30 minutes)
 
@@ -52,12 +51,11 @@ To support the ECT in choosing an appropriate routine to focus on use the follow
 - Why does this routine matter to you and to your pupils?
 - How will this routine lead to improved learning?
 
-Together, write and practise a script for establishing this routine in the classroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Together, write and practise a script for establishing this routine in the classroom.
 
 ### Planning for action
 
 Agree with the ECT:
 
 - When they will teach the routine scripted in this topic.
-- Who they will observe with a focus on ‘Establishing routines’. Decide when this will happen and what they will look for.      
-
+- Who they will observe with a focus on ‘Establishing routines’. Decide when this will happen and what they will look for.

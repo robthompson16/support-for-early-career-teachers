@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-11-ect-reflect"
 ---
 
-
 Mr Jones is using formative assessment regularly and becoming increasingly skilled in analysing what he learns from it. He is confident he can identify the knowledge gaps and misconceptions pupils face. However, he is uncertain how best to adapt lessons to meet pupils’ needs. Should he create tailored activities and resources for individual pupils? How can he meet pupils’ individual needs efficiently?
 
 ## Key idea
@@ -48,15 +47,14 @@ An ongoing dilemma for Mr Jones will be when to review a topic and when to carry
 
 Another dilemma for Mr Jones is whether to give pupils feedback. As pupils benefit from accessing material several times to learn it (Pashler et al, 2007; Dunlosky et al., 2013), it will often be more efficient to use strategies like modelling content, not least as written feedback adds to teacher workload leading to learning gains, especially if it is not acted upon (Gibson et al, 2015; EEF, 2016).
 
-
-
 ### Key takeaways
+
 In considering how to adapt his teaching to meet pupils’ needs, Mr Jones needs to
 know that:
-- the value of formative assessment is in allowing teachers to understand and respond to pupil needs 
-- targeting learning styles is ineffective and individualised tasks for all pupils are prohibitively time-consuming 
-- adaptations should focus on the misconceptions and knowledge gaps identified, particularly when they are common to many pupils
 
+- the value of formative assessment is in allowing teachers to understand and respond to pupil needs
+- targeting learning styles is ineffective and individualised tasks for all pupils are prohibitively time-consuming
+- adaptations should focus on the misconceptions and knowledge gaps identified, particularly when they are common to many pupils
 
 ### Further reading
 
@@ -64,7 +62,6 @@ Black, P., Harrison, C., Lee, C., Marshall, B., & Wiliam, D. (2004). Working ins
 
 {details}
 References.
-
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, Supplement, 14(1), 4-58.
 
@@ -87,4 +84,3 @@ Speckesser, S., Runge, J., Foliano, F., Bursnall, M., Hudson-Sharp, N., Rolfe, H
 Steenbergen-Hu, S., Makel, M.C. &amp; Olszewski-Kubilius, P., 2016. What one hundred years of research says about the effects of ability grouping and acceleration on K–12 students’ academic achievement: Findings of two second-order meta-analyses. Review of Educational Research, 86(4), 849-899.
 
 {/details}
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## What is evidence telling us about the effects upon their pupils of how the early career teacher sets high expectations and manages behaviour effectively?
 
 ### Mentor materials content
@@ -176,8 +175,8 @@ It is likely that you will agree with your mentee that there is some useful alte
 
 For example, returning to our two case studies
 
-|                                                                                                            |                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                      |                                                                                                         |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | To communicate a belief in the academic potential of all pupils (e.g., 1.1,1.2, 1.3, 1a, 1a, 1c, 1d) | A multifaceted approach to setting high expectationsLook back in the case study for what Sam did        |
 | To establish effective routines and expectations. E.g. 7h, 7e, 7i, 7j, 7c, 7a, 7f                    | A multifaceted approach to managing behaviour effectivelyLook back in the case study for what Meera did |
 
@@ -189,10 +188,10 @@ Finally, you will decide what evidence your mentee would need to collect to tell
 
 Here is a useful way to visualise this:
 
-| What I hope to see (e.g.)                                                                                           | How I would know it (e.g.)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What I hope to see (e.g.)                                                                                               | How I would know it (e.g.)                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Because I set high expectations, all my pupils believe in their own academic potential                                  | Improved progress data (you might see this over time)Pupil work – completion, quality, meeting of ambitious success criteria, sense of pride (you might see this in the short term)Pupil response – they accept challenge, they perseverePupil voice – ‘Can I get my mum to help me with this at home?’ ‘I like it when you point out how I can improve my work.’ ‘It doesn’t bother me when I make a mistake, because it helps me know what to do next.’ |
-| Because I have developed a positive, predictable and safe environment for my pupils, I now manage behaviour effectively | Fewer behaviour points/more merits on the data management system (you might see this over time)Pupil response – they understand instructions, there is less low-level disruption and minimal threatening behaviourPupil voice – ‘I feel safe.’ ‘Miss deals with low-level behaviour quickly and with little fuss.’ ‘I always understand what Miss wants me to do in lesson.’                                                                                    |
+| Because I have developed a positive, predictable and safe environment for my pupils, I now manage behaviour effectively | Fewer behaviour points/more merits on the data management system (you might see this over time)Pupil response – they understand instructions, there is less low-level disruption and minimal threatening behaviourPupil voice – ‘I feel safe.’ ‘Miss deals with low-level behaviour quickly and with little fuss.’ ‘I always understand what Miss wants me to do in lesson.’                                                                              |
 
 Your mentee will try to implement this change, collect the evidence and report back to you in your final mentor meeting of this module in week 5.
 
@@ -207,4 +206,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 Note the date of your next mentor meeting, which will be the last of this module, when your mentee will present their inquiry findings.
 
 Finally, remind your mentee that their next session is an ECT Training session next week.
-

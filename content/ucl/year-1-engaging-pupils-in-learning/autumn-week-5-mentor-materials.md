@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 5"
 ---
 
-
 ## Curriculum and subject knowledge
 
 ### Learning intentions
@@ -30,7 +29,6 @@ In their self-directed study session earlier this week, your mentee considered t
 
 In this session you will help your mentee to develop their topic and more broadly consider the way that school curricula are structured. This will involve taking the outline developed and considering how key concepts build up, how concrete examples support abstraction of key principles, and how a curriculum is resourced within your setting.
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions, and encourage your mentee to record key points in their Learning Log below. Tailor your use of the Theory to Practice activities below in response to the review and plan sections of this session.
@@ -39,11 +37,11 @@ Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session, which was to plan a lesson which retained core knowledge but also introduced values important to your mentee. Ask your mentee to summarise:
 
-    a. what they did
+   a. what they did
 
-    b. the impact of this on pupil learning (including how they are evaluating this)
+   b. the impact of this on pupil learning (including how they are evaluating this)
 
-    c. what they will do going forward to build on these actions
+   c. what they will do going forward to build on these actions
 
 2. Clarify the Learning Intentions for this session with your mentee
 
@@ -57,21 +55,21 @@ Your mentee had the exemplification of Rachel’s Year 6 PE lesson (above) to he
 
 1. Analyse artefacts
 
-    Discuss with your mentee the topic planning that they devised in their self-directed study this week.
+   Discuss with your mentee the topic planning that they devised in their self-directed study this week.
 
-    To support your discussion of their plan, ask your mentee to articulate their thinking on the questions below. (And help them to extend and refine their thinking with the prompts that follow.)
+   To support your discussion of their plan, ask your mentee to articulate their thinking on the questions below. (And help them to extend and refine their thinking with the prompts that follow.)
 
-    a. What are the key knowledge and skills within this topic? (And how could you communicate these to your pupils?)
+   a. What are the key knowledge and skills within this topic? (And how could you communicate these to your pupils?)
 
-    b. What educational values are supported within this topic? (And why are these important to you?)
+   b. What educational values are supported within this topic? (And why are these important to you?)
 
-    c. How does the topic draw on understanding of prior knowledge to sequence the content within the lessons (and any home learning), including key points of assessment? (Is their prior knowledge secure? Are they making common errors still?)
+   c. How does the topic draw on understanding of prior knowledge to sequence the content within the lessons (and any home learning), including key points of assessment? (Is their prior knowledge secure? Are they making common errors still?)
 
-    d. How are critical skills and transfer considered within the planning? (And can you use a rule-of-thumb like EAR to help develop schema?)
+   d. How are critical skills and transfer considered within the planning? (And can you use a rule-of-thumb like EAR to help develop schema?)
 
 2. Collaborative planning
 
-    Support your mentee in developing their topic understanding and planning a bit further. At this stage it is best if you draw on existing school resources (e.g. textbooks, and shared resources developed by experienced colleagues) to do this.
+   Support your mentee in developing their topic understanding and planning a bit further. At this stage it is best if you draw on existing school resources (e.g. textbooks, and shared resources developed by experienced colleagues) to do this.
 
 To support your collaborative planning, you could follow these stages:
 
@@ -92,4 +90,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
 
 Finally, remind your mentee that they do not have another Self-directed Study session in this module.
-

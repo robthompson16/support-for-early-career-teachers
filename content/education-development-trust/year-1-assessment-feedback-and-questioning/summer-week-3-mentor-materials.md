@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 3"
 ---
 
-
 ## Assessing prior knowledge
 
 ### Intended outcomes
@@ -13,8 +12,8 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn how to check prior knowledge and understanding during lessons, by:
 
-- Using assessments to check for prior knowledge and pre-existing misconceptions. 
-- Structuring tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+- Using assessments to check for prior knowledge and pre-existing misconceptions.
+- Structuring tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions).
 
 ### Activities
 
@@ -25,7 +24,7 @@ Discuss the lesson observation agreed in the last topic.
 - What was successful?
 - What could be better?
 - What will the ECT do next?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
 ### Assessment to check prior knowledge (10 minutes)
 
 Pose the question: what are some of the assessment activities you can use to check prior knowledge?
@@ -42,7 +41,7 @@ Answers might include:
 Thinking about an upcoming lesson, create an activity that will check prior knowledge. You can use one of the suggestions above.
 
 What will the ECT do with the information they gather from this? What decisions will it inform?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
 ### Assessment to check for pre-existing misconceptions (15 minutes)
 
 Ask the ECT to select a topic they will be teaching next. Together (or with the help of a subject specialist) list all the potential misconceptions that could come up. Use the example below to help you:
@@ -63,49 +62,23 @@ Answers might include:
 - Predicting misconceptions will allow us to address them before they become an issue.
 - We need to correct misconceptions before they influence the way pupils think of new knowledge.
 
-
 Look at the following example:
 
 ####Potential misconception: thinking the nucleus is the brain of the cell.
 
-
- 
-
 #####Assessment which will check understanding:  
 Pupils will answer a multiple choice exit ticket to identify misconception.
 
-
-
-
-
- 
-
 #####Decision this will support
- I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
-
-
-
+I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
 
 ####Potential misconception: not recognising or being able to explain that the cell membrane and cell wall are different things.
 
-
- 
-
-#####Assessment which will check understanding: 
+#####Assessment which will check understanding:
 Hinge question during the lesson.
-
-
-
-
-
- 
 
 #####Decision this will support:
 I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
-
-
-
-
 
 The ECT should select one misconception from their list and decide how they are going to check pupils' understanding of this. Together with the mentor they should plan the assessment.
 
@@ -131,35 +104,36 @@ Together, identify strategies which can support pupils who give the wrong answer
 - What questions would help them unpick their thinking?
 
 Together, consider how to check whether the misconception is evident in work the pupils undertake after the use of the question.
+
 - What follow up task or questions will you ask pupils to complete?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
 ### Checking understanding (5 minutes)
 
 The ECT should have a go at the following multiple-choice quiz. There may be more than one correct answer for each question.
 
 Why is it important to check prior knowledge?
 
-A. To identify what pupils know already 
-B. To check understanding 
-C. To link new knowledge to existing schema 
+A. To identify what pupils know already
+B. To check understanding
+C. To link new knowledge to existing schema
 
 When should we consider the misconceptions pupils might hold?
 
-A. In the planning stage 
-B. While teaching key concepts 
-C. After teaching the key concepts 
+A. In the planning stage
+B. While teaching key concepts
+C. After teaching the key concepts
 
 Name three ways you can check pre-existing misconceptions.
 
-A. Exit tickets, hinge questions, do now activities 
-B. Closed questions, exit tickets, multiple-choice questions 
-C. Multiple-choice quiz, re-teaching, exit tickets                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+A. Exit tickets, hinge questions, do now activities
+B. Closed questions, exit tickets, multiple-choice questions
+C. Multiple-choice quiz, re-teaching, exit tickets
 
 ### Planning for action
 
 Agree when the ECT will teach the lesson for which they have planned the assessment to identify misconceptions, and, if possible, arrange for the mentor to observe part or all of the lesson with a focus on identifying misconceptions
 
-Alternatively, the ECT could record the part of the lesson to share with their mentor or write down their reflections after teaching it.             
+Alternatively, the ECT could record the part of the lesson to share with their mentor or write down their reflections after teaching it.
 
 ## Extending pupils
 
@@ -174,7 +148,7 @@ Learn how to check prior knowledge and understanding during lessons, by:
 
 Learn how to provide high quality feedback, by:
 
-- Focusing on specific actions for pupils and providing time for pupils to respond to feedback.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+- Focusing on specific actions for pupils and providing time for pupils to respond to feedback.
 
 ### Activities
 
@@ -190,8 +164,9 @@ Answers might include:
 - If we know what pupils understand and know, we can plan accordingly.
 - We need to know what misconceptions pupils hold so we can address these.
 - To activate prior knowledge.
-- To support pupils to make connections.        
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+- To support pupils to make connections.  
+
+
 ### Supporting pupils to elaborate on their responses (10 minutes)
 
 Read together the extract of a teacher talking about how she supports pupils to elaborate on their responses.
@@ -204,13 +179,13 @@ Read together the extract of a teacher talking about how she supports pupils to 
 
 These are example stems that could be given to pupils to support them to elaborate on their responses:
 
-How are \_\_\_\_\_\_\_ and  \_\_\_\_\_\_\_  alike?
+How are \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_ alike?
 
 What is the main idea of \_\_\_\_\_\_\_?
 
-What are the strengths and weaknesses of \_\_\_\_\_\_\_? 
+What are the strengths and weaknesses of \_\_\_\_\_\_\_?
 
-Compare  \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_ with regard to \_\_\_\_\_\_\_.
+Compare \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_ with regard to \_\_\_\_\_\_\_.
 
 What do you think causes \_\_\_\_\_\_\_?
 
@@ -226,8 +201,8 @@ What do still not understand about \_\_\_\_\_\_\_
 
 Rosenshine (2012)
 
-Pose the question: can you come up with some more stems that are relevant to your subject area and/or a lesson you plan to teach in the near future? 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Pose the question: can you come up with some more stems that are relevant to your subject area and/or a lesson you plan to teach in the near future?
+
 ### Monitoring pupil work during lessons (25 minutes)
 
 One way that you can check prior knowledge and understanding during lessons is to monitor pupils' work. This can be done using ‘live marking’ as a strategy. Together, watch the video from the self-directed study materials.
@@ -318,18 +293,17 @@ They should plan:
 - How will they plan in time for pupils to respond to this feedback?
 - How will pupils respond?
 
-The ECT might want to make a structured responding to feedback sheet for the pupil to use. See [Handout 5.5](/assets/materials/edt-Block-5-mentor-handout-5.5.pdf) for an example.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+The ECT might want to make a structured responding to feedback sheet for the pupil to use. See [Handout 5.5](/assets/materials/edt-Block-5-mentor-handout-5.5.pdf) for an example.
 
 ### Planning for action
 
 The ECT should write down two things they will take into their practice from the learning in the topic today.
 
-The next topic covers high-quality classroom talk and questioning. The ECT will need to bring to the topic an example of a lesson they have taught or one they have planned to teach soon which has an element of classroom talk in it. 
+The next topic covers high-quality classroom talk and questioning. The ECT will need to bring to the topic an example of a lesson they have taught or one they have planned to teach soon which has an element of classroom talk in it.
 
 Examples of classroom talk could be:
 
 - Paired talk activities
 - Group talk activities
 - Discussion activities
-- Teacher questioning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-
+- Teacher questioning.

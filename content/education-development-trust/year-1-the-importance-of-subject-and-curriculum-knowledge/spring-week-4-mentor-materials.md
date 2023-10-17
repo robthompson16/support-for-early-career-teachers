@@ -4,14 +4,13 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
 ## Uncovering pupil misconceptions
 
 ### Intended outcomes
 
 The intended outcomes of this topic are for Early Career Teachers to:
 
-Learn that: 
+Learn that:
 
 - Anticipating common misconceptions within a particular subject is also an important aspect of curricular knowledge; working closely with colleagues to develop an understanding of likely misconceptions is valuable
 
@@ -35,7 +34,7 @@ In the previous mentor topic, ECTs developed an activity to connect learning (fi
 - Would you use it again? Why?
 - Did it help the pupils to connect their learning? How do you know?
 - Have you thought of any other ways you might make links to prior learning for upcoming lessons? Can you give me some details?
-                                                                                                                                                                                                                                                                                                                                                                                                                             
+
 ### Uncovering pupils misconceptions in your subject (30 minutes)
 
 Guidance to mentors:
@@ -44,14 +43,14 @@ Guidance to mentors:
 - In this part of the topic the mentor will help the ECT to learn that anticipating common misconceptions within a subject is an important part of curricular knowledge and working with an experienced colleague is a valuable activity. They will also learn how to become aware of common misconceptions and how to support students in overcoming them.
 - Agree with the ECT that ‘common misconceptions’ in the statement refers to the views or opinions pupils develop regularly that are based on faulty thinking or understanding.
 - In the interests of time, it will be important to narrow down the focus, for example:
-    - For secondary school teachers, focusing on one subject (e.g. humanities teachers might teach a range, so focus on just say history) in one key phase or year group (e.g. Key Stage 3 or Year 7)
-    - For primary teachers, focusing on one subject area (e.g. literacy) within the year group they work with
-    - For special schools, focusing on a particular subject and/or phase or a particular group of pupils
-    - For post-16, focusing on one topic or unit within a subject
-    - For Early Years, focusing on communication and language development.
-    - It will be useful to narrow the focus even further to a single topic. It may be beneficial for the ECT to select a topic they will be teaching next, for example:
-    - KS3 Physics – the teaching of forces
-    - KS4 English Literature – poetry anthology.
+  - For secondary school teachers, focusing on one subject (e.g. humanities teachers might teach a range, so focus on just say history) in one key phase or year group (e.g. Key Stage 3 or Year 7)
+  - For primary teachers, focusing on one subject area (e.g. literacy) within the year group they work with
+  - For special schools, focusing on a particular subject and/or phase or a particular group of pupils
+  - For post-16, focusing on one topic or unit within a subject
+  - For Early Years, focusing on communication and language development.
+  - It will be useful to narrow the focus even further to a single topic. It may be beneficial for the ECT to select a topic they will be teaching next, for example:
+  - KS3 Physics – the teaching of forces
+  - KS4 English Literature – poetry anthology.
 
 The ECT should have the opportunity to ‘interview’ an experienced colleague from their subject area. The ECT needs to find out two crucial pieces of information:
 
@@ -75,7 +74,7 @@ After the interview, ask the ECT the following questions:
 - What did you learn from the interview?
 - Was there anything that surprised you?
 - Is there anything you will do differently in your practice as a consequence?
-                                                                                                                                                                                                                                                                                                                                                                                                    
+
 ### Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed (15 mins)
 
 Guidance to mentors:
@@ -84,7 +83,7 @@ This section of the topic is for the ECT to learn how to encourage pupils to sha
 
 - The mentor will use questioning in this section of the topic. There are possible answers listed. Share these or at least ensure that the ECT’s answers are in line with them.
 
-Pose the question: why might pupils not share the things they are confused about? 
+Pose the question: why might pupils not share the things they are confused about?
 
 Possible answers (not exhaustive):
 
@@ -92,7 +91,7 @@ Possible answers (not exhaustive):
 - Fear of getting it wrong and being embarrassed.
 - They do not understand what they do not know.
 
-Pose the question: why is it important to encourage pupils to share their early thoughts when teaching them a new concept/piece of knowledge/skill? 
+Pose the question: why is it important to encourage pupils to share their early thoughts when teaching them a new concept/piece of knowledge/skill?
 
 Possible answers (not exhaustive):
 
@@ -100,7 +99,7 @@ Possible answers (not exhaustive):
 - So that pupils get used to the idea of linking learning to prior knowledge/skills.
 - So that pupils get used to the idea that they can share their thoughts before they are fully formed and/or definitely correct.
 
-Pose the question: thinking about the area of your subject we have just been discussing [with colleague X] what kind of questions or strategies could you use that would encourage pupils to share their emerging understanding and points of confusion? 
+Pose the question: thinking about the area of your subject we have just been discussing [with colleague X] what kind of questions or strategies could you use that would encourage pupils to share their emerging understanding and points of confusion?
 
 Possible answers (not exhaustive):
 
@@ -111,7 +110,7 @@ Possible answers (not exhaustive):
 - Can you explain why you think that? (Narration of thought process can uncover faulty thinking, which might have led to a misconception)
 - Easy ways to signal misunderstanding, which are low stakes, such as showing thumbs up/down or putting a red, amber or green card on their desk. There is more on this in module 5 e.g. using multiple choice or hinge questions.
 
-Pose the question: when and how can you show encouragement for pupils who do share their emerging understanding and points of confusion? 
+Pose the question: when and how can you show encouragement for pupils who do share their emerging understanding and points of confusion?
 
 Possible answers (not exhaustive):
 
@@ -119,7 +118,7 @@ Possible answers (not exhaustive):
 - Avoid only praising correct answers, but actively encourage and praise those who contribute even if their answers are incorrect as it provides an opportunity to address a misconception.
 - You could use your school reward system, such as merits and postcards home.
 
-Pose the question: if you uncover misconceptions through this process, what could you do about it? 
+Pose the question: if you uncover misconceptions through this process, what could you do about it?
 
 Possible answers (not exhaustive):
 
@@ -138,8 +137,7 @@ The ECT should spend time between now and the next topic collecting analogies, i
 - Observations of other teachers (such as during Activity 4.5 in the self-directed study materials)
 - Asking colleagues in their department, phase team or wider faculty
 - Textbooks
- - Resources, such as lesson plans created by other teachers
+- Resources, such as lesson plans created by other teachers
 - Wider networks.
 
-They can use [Handout 4.5](/assets/materials/edt-Block-4-mentor-handout-4.5.pdf) to collate their findings.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-
+They can use [Handout 4.5](/assets/materials/edt-Block-4-mentor-handout-4.5.pdf) to collate their findings.

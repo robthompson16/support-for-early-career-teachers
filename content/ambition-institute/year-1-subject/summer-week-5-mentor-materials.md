@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 5"
 ---
 
-
 ## Acquisition before application
 
 ### Select a development area
@@ -13,16 +12,15 @@ Consider the development areas for this topic(below). Then make a note of the ar
 
 ### Development area 1: Planning for acquisition
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher links new material to pupils' existing prior knowledge. 
+- Teacher links new material to pupils' existing prior knowledge.
 - Teacher plans to secure critical knowledge, skills and concepts before they are applied or more complex content is encountered.
-- Teacher, with the support of a colleague, plans to use powerful ways to convey knowledge, skills and concepts to pupils. 
+- Teacher, with the support of a colleague, plans to use powerful ways to convey knowledge, skills and concepts to pupils.
 - Teacher introduces abstract concepts in the form of concrete examples and explains the link between them.
 
 {details}
 Example precise target: Teacher plans to secure critical knowledge, skills and concepts before they are applied or more complex content is encountered.
-
 
 - **Not doing it at all:** Plan to introduce critical knowledge and skills or check pupils know them before having pupils apply them or encounter more complex content.
 - **Doing it but needs some improvement:** Plan for pupils to have multiple exposures to critical knowledge and skills before they apply them or encounter more complex content.
@@ -32,19 +30,19 @@ Example precise target: Teacher plans to secure critical knowledge, skills and c
 
 ### Development area 2: Checking for acquisition
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher plans times into the lesson when they will check pupils have understood the critical knowledge and skills they need before they apply them. 
-- Teacher, with the support of a colleague, plans and checks whether pupils have gaps, errors or misconceptions in their understanding of the knowledge and skills before they apply them. 
+- Teacher plans times into the lesson when they will check pupils have understood the critical knowledge and skills they need before they apply them.
+- Teacher, with the support of a colleague, plans and checks whether pupils have gaps, errors or misconceptions in their understanding of the knowledge and skills before they apply them.
 - Teacher addresses gaps in knowledge, errors or misconceptions related to the knowledge or skills before increasing complexity for pupils.
 
 ### Development area 3: Independent practice for application
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher uses an activity for application of previously taught material. 
-- Teacher plans to guide pupils to apply previously taught material so they experience success. 
-- Teacher uses guides or scaffolds to help pupils apply previously taught material independently and removes them when pupils are achieving a high degree of success.                                                                                                                                              
+- Teacher uses an activity for application of previously taught material.
+- Teacher plans to guide pupils to apply previously taught material so they experience success.
+- Teacher uses guides or scaffolds to help pupils apply previously taught material independently and removes them when pupils are achieving a high degree of success.
 
 ### Observe
 
@@ -69,5 +67,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Provide sufficient opportunity for pupils to consolidate and practise applying new knowledge and skills.
 - Work with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

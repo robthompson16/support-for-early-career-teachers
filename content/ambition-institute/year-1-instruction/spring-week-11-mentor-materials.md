@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 11"
 ---
 
-
 ## Classroom talk
 
 ### Select a development area
@@ -13,37 +12,35 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Positive habits for classroom talk
 
-#### Focused development area     
-                                                                                                                                                                                                                                                                                                                                                                                                                                              
-- Teacher establishes and communicates clear expectations for how pupils are to behave during classroom discussions. 
+#### Focused development area
+
+- Teacher establishes and communicates clear expectations for how pupils are to behave during classroom discussions.
 - Teacher explains and models the habits of an effective whole-class discussion.
-- Teacher supports all pupils to maintain effective habits of whole-class discussion.  
+- Teacher supports all pupils to maintain effective habits of whole-class discussion.
 
 {details}
 Example precise target: Teacher explains and models the habits of an effective whole-class discussion.
-
 
 - **Not doing it at all:** Plan and deliver an explanation for pupils that states what they should do during a whole-class discussion e.g. watch the person speaking, listen and think about what their response will be.
 - **Doing it but needs some improvement:** Plan and deliver a model to pupils that shows them what they should be doing during a whole-class discussion e.g. modelling the level of attentiveness to the person speaking and thinking aloud the thought process pupils might have in deciding if they want to agree, challenge or build on another pupil's response.
 - **Doing it well and needs some stretch:** Plan and deliver an explanation of a memorable framework for whole-class discussions that captures the habits of effective whole-class discussion and model how it should be used.
 
 {/details}
-                                                                                                                                                            
 
 ### Development area 2: Pair talk
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher ensures pupils are equipped with the knowledge and support to engage in meaningful pair talk that moves them towards a particular learning goal. 
-- Teacher clearly articulates what pupils need to be discussing during pair talk and what they are expected to be able to feedback on afterwards. 
+- Teacher ensures pupils are equipped with the knowledge and support to engage in meaningful pair talk that moves them towards a particular learning goal.
+- Teacher clearly articulates what pupils need to be discussing during pair talk and what they are expected to be able to feedback on afterwards.
 - Teacher gives clear instructions so pupils begin and end paired discussion in the most efficient way.
-                                     
+
 ### Development area 3: Group talk
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher ensures pupils are equipped with the knowledge and support to engage in meaningful group talk that moves them towards a particular learning goal. 
-- Teacher gives pupils manageable, specific and sequential instructions about what the group discussion will entail and the conditions in which the group work will be carried out. 
+- Teacher ensures pupils are equipped with the knowledge and support to engage in meaningful group talk that moves them towards a particular learning goal.
+- Teacher gives pupils manageable, specific and sequential instructions about what the group discussion will entail and the conditions in which the group work will be carried out.
 - Teacher purposefully circulates to gauge when to provide guidance or scaffolds and when to stretch pupils.
 
 ### Observe
@@ -67,4 +64,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Model and require high-quality oral language, recognising that spoken language underpins the development of reading and writing.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

@@ -8,11 +8,8 @@ This video outlines what you will cover in this Block.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FsOuLuiSls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">Our memory can be a fickle thing. </span>
 
@@ -41,11 +38,11 @@ Video transcript.
 <span style="font-weight: 400;"> that is the science of learning </span>
 <span style="font-weight: 400;">‒</span>
 <span style="font-weight: 400;">
-  
-  has come a long way in the past 30 years. Research into the functioning of the
-  mind and the brain have greatly enhanced our understanding of learning,
-  memory, intelligence and emotion, all of which have fundamental implications
-  for education.
+
+has come a long way in the past 30 years. Research into the functioning of the
+mind and the brain have greatly enhanced our understanding of learning,
+memory, intelligence and emotion, all of which have fundamental implications
+for education.
 </span>
 
 <span style="font-weight: 400;">
@@ -83,23 +80,24 @@ Video transcript.
 </span>
 
 <span style="font-weight: 400;">Well, there are a few reasons:</span>
-- It might be that you didn’t have any secure prior knowledge to connect the new learning to and so the new information has nothing to tether it to a schema in your long-term memory. 
-- It could be that you weren’t paying attention or actively engaging with the new material ‒ such as that colleague’s name when they introduced themselves. 
+
+- It might be that you didn’t have any secure prior knowledge to connect the new learning to and so the new information has nothing to tether it to a schema in your long-term memory.
+- It could be that you weren’t paying attention or actively engaging with the new material ‒ such as that colleague’s name when they introduced themselves.
 - Another reason might be that there were too many bits of new information in your working memory for you to deal with. We call this “cognitive overload”.
-<span style="font-weight: 400;">
+  <span style="font-weight: 400;">
   All of this is really important to remember when you are introducing new
   content to pupils. Pupils are constantly encountering new material. It might
   seem surprising to you, but pupils’ working memory can easily become
   overloaded and when that happens, no learning will take place. The same
   applies if pupils do not pay enough attention to the thing being taught, or if
   their prior knowledge is either insufficient or
-</span>
-<i>
+  </span>
+  <i>
   <span style="font-weight: 400;">not</span>
-</i> <i>
+  </i> <i>
   <span style="font-weight: 400;">activated</span>
-</i>
-<span style="font-weight: 400;"> before encountering the new content.</span>
+  </i>
+  <span style="font-weight: 400;"> before encountering the new content.</span>
 
 <span style="font-weight: 400;">
   Luckily, what cognitive science has taught is that there are some
@@ -135,4 +133,3 @@ Video transcript.
   ask your mentor what that colleague’s name is!
 </span>
  {/details}
-

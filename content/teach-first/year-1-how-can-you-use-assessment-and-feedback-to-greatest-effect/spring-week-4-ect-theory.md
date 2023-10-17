@@ -10,10 +10,8 @@ next_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-great
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j50iFojlCUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 In defining feedback, and this does sound obvious, but something has to happen first. Like the way bats or whales tend to use sound to listen to the echoes: sonic use. So, feedback is a reaction, it's a consequence of the performance.
 
@@ -26,18 +24,18 @@ There's also physical feedback, the learners pick up on the nods and the winks a
 - What are you trying to achieve?
 - Why?
 - So how is this best achieved?
-However, feedback can have three effects on receivers, they can be:
+  However, feedback can have three effects on receivers, they can be:
 - positive
 - negative, or indeed it can be
 - neutral
-To have a positive effect, learners need to know where they are in their learning
-– what are the next steps, or possible steps, and some indication of how to get there.
-In other words, it works best if it is focused on confirming what is being done –
-is it right, or clearly indicates what needs to be done, with some indication of
-what can be achieved, where the learner needs to go next? This raises questions about
-the method and style of feedback. It's often seen as desirable to give praising feedback,
-but be cautious, it's likely to be well received and often engender motivation when
-it's genuine, but it's sometimes difficult to maintain.  {/details}
+  To have a positive effect, learners need to know where they are in their learning
+  – what are the next steps, or possible steps, and some indication of how to get there.
+  In other words, it works best if it is focused on confirming what is being done –
+  is it right, or clearly indicates what needs to be done, with some indication of
+  what can be achieved, where the learner needs to go next? This raises questions about
+  the method and style of feedback. It's often seen as desirable to give praising feedback,
+  but be cautious, it's likely to be well received and often engender motivation when
+  it's genuine, but it's sometimes difficult to maintain. {/details}
 
 When sharing feedback with pupils, you need to consider carefully what it is you are wanting the pupil to change, and then be specific in what you ask them to do. This applies to individual and class written or verbal feedback. As highlighted by Mick, there is often lots of feedback that you could give to a pupil. However, skilled teachers identify what feedback will have the biggest impact and then share it with pupils in an effective way.
 
@@ -53,63 +51,60 @@ The four levels are:
 (Hattie and Timperley, 2007)
 
 Task
-e.g. rewrite your answer to question 3 removing the brackets at step 2. This type of feedback is directive and helps to improve the current task. However, its effects are limited as pupils are unlikely to be able to transfer this correction to other tasks. 
+e.g. rewrite your answer to question 3 removing the brackets at step 2. This type of feedback is directive and helps to improve the current task. However, its effects are limited as pupils are unlikely to be able to transfer this correction to other tasks.
 
-Process 
-e.g. always underline key words in the question, then write a plan linked to them. This level of feedback helps pupils to understand underlying features of success in the subject and supports them to transfer their skills.                                             
+Process
+e.g. always underline key words in the question, then write a plan linked to them. This level of feedback helps pupils to understand underlying features of success in the subject and supports them to transfer their skills.
 
-Self-regulation 
-e.g. Which strategies that you used today worked well? Why? This is about helping pupils to understand more about how they learn by helping them to self-monitor, recognise how well they are doing, and to think about how they can respond to improve their own learning. 
+Self-regulation
+e.g. Which strategies that you used today worked well? Why? This is about helping pupils to understand more about how they learn by helping them to self-monitor, recognise how well they are doing, and to think about how they can respond to improve their own learning.
 
-Self-evaluation 
-e.g. You are great at maths. Pupils like praise and it may help to motivate, but praise based on the pupil has little effect on learning, as it offers no useful information about how to improve.  
+Self-evaluation
+e.g. You are great at maths. Pupils like praise and it may help to motivate, but praise based on the pupil has little effect on learning, as it offers no useful information about how to improve.
 
 Research into the use of these targeted levels of feedback has concluded that consistent feedback of any one type is insufficient. If feedback is too task-focused, pupils will have difficulty transferring it to other concepts. If it is too general, they may have difficulty applying it to specific tasks.
 
 The most powerful approach therefore is to offer balanced feedback that links types – task, process and self-regulation.
 
-
-
-
-
 ### Examples
+
 The examples below show how the balance of levels could be shared with an individual in either verbal or written form.
 
 #### Example 1
+
 "Correct question 3 – check the steps again to see where you went wrong. What will you do differently tomorrow?"
 
 This piece of feedback, given as written or verbal, is broken down into _task feedback_ and self-regulation.
 
 #### Example 2
+
 "Look back at your checklist for creating a bar chart. You have missed out a crucial step – can you identify and change it on the
-  graph?"
+graph?"
 
 This piece of feedback can be broken down into task and process.
 
 #### Example 3
+
 "One of the animals you ticked doesn’t live in a cold place. How can you use our display to help you remember which animals live in the
-  cold?"
+cold?"
 
 This piece of feedback can be broken down into task and self-regulation.
-
 
 When you are deciding what feedback to give a pupil, consider what you want them to change, then help them to make that change by giving them feedback that targets that level(s). Ensure that your feedback is accurate and clear and provides specific guidance on how to improve.
 
 Once you have decided _what_ you want them to change (e.g. something to do with the task), you then have a decision to make about _how_ you will share that feedback.
 
-
-
 ### Reflection
+
 Have a piece of your written feedback in front of you or think back to a time you gave a pupil a piece of verbal feedback.
 
 Reflect on the following questions and record your responses in your notebook:
 
-* what did you want the pupil to change?
-* if there were many things you wanted the pupil to change, which change would have had the biggest impact?
-* reflecting on the feedback you gave, which level of change (task, process,
-      self-regulation, self-evaluation) did you target with it?
-* on reflection, would you give the same feedback again? Why/why not?
-
+- what did you want the pupil to change?
+- if there were many things you wanted the pupil to change, which change would have had the biggest impact?
+- reflecting on the feedback you gave, which level of change (task, process,
+  self-regulation, self-evaluation) did you target with it?
+- on reflection, would you give the same feedback again? Why/why not?
 
 The delivery of your verbal feedback will be the focus of your next observation and mentor interaction.
 
@@ -129,15 +124,12 @@ It will cover:
 
 Consider your personal development needs and select 2 of the feedback methods to review.
 
-
 ## 1. Written feedback
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HCF_4mQ1J74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 It's worth spending the little bit of time considering written feedback, as this is the area that attracts quite a lot of attention, especially with regards to things like teacher workload. There's evidence that written comments are more effective in moving pupils forward than say for example using marks or grades. However, whilst high marks may motivate some pupils, low marks may well have the opposite effect on other pupils.
 
@@ -148,18 +140,18 @@ Marking is something that is generally referred to in feedback but the impact of
 - meaningful
 - motivational
 - manageable
-There's also a report from a group of 16 schools in Wigan, the ‘Wow’ schools, ‘With
-Others We Succeed’, who tried a variety of approaches to marking pupils' work in
-order to evaluate the impact on pupils, teachers and indeed parents. Was it meaningful?
-Was it motivational and was it manageable? The trial approaches including things
-like just stopping marking to see if actually made any difference and indeed it did
-make a difference, but it led to changes in classroom practice like structuring lessons
-to allow time for speaking to pupils, a different mode of feedback. There were some
-significant gains in terms of reduced workload and an increase in pupil satisfaction.
-Now this is not to say that written feedback is wrong. Teachers need a repertoire
-of feedback techniques, but it is important that schools and teachers should evaluate
-their practice to see what actually works and, by that, I mean what actually impacts
-on teaching and learning.  {/details}
+  There's also a report from a group of 16 schools in Wigan, the ‘Wow’ schools, ‘With
+  Others We Succeed’, who tried a variety of approaches to marking pupils' work in
+  order to evaluate the impact on pupils, teachers and indeed parents. Was it meaningful?
+  Was it motivational and was it manageable? The trial approaches including things
+  like just stopping marking to see if actually made any difference and indeed it did
+  make a difference, but it led to changes in classroom practice like structuring lessons
+  to allow time for speaking to pupils, a different mode of feedback. There were some
+  significant gains in terms of reduced workload and an increase in pupil satisfaction.
+  Now this is not to say that written feedback is wrong. Teachers need a repertoire
+  of feedback techniques, but it is important that schools and teachers should evaluate
+  their practice to see what actually works and, by that, I mean what actually impacts
+  on teaching and learning. {/details}
 
 Record your thoughts in your notepad.
 
@@ -196,23 +188,20 @@ Below are videos of group verbal feedback in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlHLVIxDbw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Group verbal feedback - Early Years – Bethan Hughes at Reach Academy [AD]](https://youtu.be/MTvNwaq84qY)
 
 ####Group verbal feedback - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y-3JKbZpyeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Group verbal feedback - Primary [AD]](https://youtu.be/TYtlYEiND4g)
-
-
 
 ### The 3 ways to give group feedback
 
 #### Reteaching
+
 This allows you to challenge misconceptions or
-    knowledge gaps.
+knowledge gaps.
 
 For example, in maths, pupils are consistently forgetting to complete the final step
 of solving a word problem (which is to re-read the problem and answer the question).
@@ -220,29 +209,28 @@ Initial teaching can be repeated here with the use of fresh examples and reminde
 of the steps.
 
 #### Revisiting models of work
+
 This allows pupils to compare their
-    work to a successful model and improve their work against it.
+work to a successful model and improve their work against it.
 
 For example, helping pupils identify missing features of a writing genre.  Revising
 models allows pupils to improve their work and understand what success looks like.
 
 #### Revising process
+
 This allows pupils to understand the thought
-    process and choices which help to create good work.
+process and choices which help to create good work.
 
 For example, taking a weak answer (or creating one yourself) and modelling rewriting
-or correcting it on the board. 
-
+or correcting it on the board.
 
 ####Group verbal feedback
 Hear from Secondary teacher and teacher educator Liz Carroll, as she explains why she finds group verbal feedback such an effective strategy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SxDx_rNPoLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 We know that feedback is important and has a direct impact on progress. So, we need to be delivering that feedback in a constructive way. It's also really important to recognise that writing in books isn't the only form of feedback and actually writing in every single book can become an onerous task and have a disproportionate impact on your workload.
 
@@ -258,21 +246,21 @@ A way of making our marking more concise and easier to understand is by using sy
 
 Coded banks of statements can be created by an individual teacher or with colleagues across the school. In recent years, school marking policies often include a ‘marking code’. The symbols can be as detailed as you would like and can easily be made subject-specific. You can see an example of this in the table below. Please note that this is one example, rather than a recommended set of codes.
 
-If using symbol marking, it is important that they are shared and that you know that your pupils understand the codes. 
+If using symbol marking, it is important that they are shared and that you know that your pupils understand the codes.
 
 Displaying them in the classroom and in pupil books is highly effective:
 
-* AP - achievement point
-* BP - behaviour point
-* OA - objective achieved
-* PA - objective partly achieved
-* NA - objective not achieved
-* Sp - spelling mistake
-* //  - new paragraph needed
-* WND - word not needed
-* GD - good description
-* ^ - missing word
-* P - punctuation needed
+- AP - achievement point
+- BP - behaviour point
+- OA - objective achieved
+- PA - objective partly achieved
+- NA - objective not achieved
+- Sp - spelling mistake
+- // - new paragraph needed
+- WND - word not needed
+- GD - good description
+- ^ - missing word
+- P - punctuation needed
 
 Hear from fellow teachers as they discuss how they have used symbol marking effectively in their school.
 
@@ -280,10 +268,8 @@ Hear from fellow teachers as they discuss how they have used symbol marking effe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_PIBJvlI38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Yellow box highlighting is used regularly to highlight a particular focus that needs addressing. The yellow box is explained to the pupils at the beginning of the academic year. In year 2 this is used consistently when marking an end of unit assessment in English (the final writing piece of the genre taught, e.g. a poem, character description, a letter, retelling of a story, etc.).
 
@@ -303,10 +289,8 @@ The work is always re-marked (alongside the pupils) to ensure the pupils see thi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uYHVkYEIOYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 When my school introduced the symbol marking code, the department head had made sure that the codes were simple to understand, really clear with what they were referring to, and she directed us to use them often to get the pupils used to them. The codes were introduced across the department and this therefore ensured consistency of use, which enabled both teachers and pupils to begin to understand them far quicker.
 
@@ -331,6 +315,7 @@ The codes have also supported my classes to effectively self/peer assess as pupi
 A key point to remember about effective feedback is ensuring that pupils have sufficient time to respond to it. This may look different depending on the age and stage of the pupil, but ultimately you must build in time for pupils to enact the change that you are hoping to see.
 
 #### Otherwise, what was it all for?
+
 Working with colleagues to identify efficient feedback approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
 
 The strategies covered in this session can support you in reducing an ‘onerous’ workload. Speak to your colleagues about assessment techniques covered in this section and identify some that could work for your school and the pupils that you teach.

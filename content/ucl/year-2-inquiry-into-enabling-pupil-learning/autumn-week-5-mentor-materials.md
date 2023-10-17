@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 5"
 ---
 
-
 ## Making judicious use of practical skills in relation to setting high expectations and managing behaviour effectively
 
 ### Mentor materials content
@@ -115,4 +114,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, which will be at the start of Module 7.
-

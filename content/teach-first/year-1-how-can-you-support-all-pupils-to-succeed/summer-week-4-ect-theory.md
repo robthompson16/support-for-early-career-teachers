@@ -18,29 +18,28 @@ If a pupil provides an incorrect answer, there are a number of things you can do
 - Break the answer/process down into smaller steps by asking more questions
 - Ensure you provide enough wait time between your question and a pupil’s response to allow them to process your question and think of their answer
 
-
-
 ### Examples
 
 Look at the two examples below. One is of a teacher’s response to a pupil who gives the correct answer and the other is of a teacher’s response to a pupil who gives an incorrect answer. Compare them to see how the teacher reframes and adapts their questioning to stretch pupil understanding or provide greater scaffold.
 
 #### Response to a correct answer
-Teacher: "What is 103 x 5?" 
 
-Pupil: "515." 
+Teacher: "What is 103 x 5?"
 
-Teacher: "How do you know that?" 
+Pupil: "515."
+
+Teacher: "How do you know that?"
 
 Pupil: "Because 100 multiplied by 5 is 500 and 3 times 5 is 15 so you put them together and make
-515." 
+515."
 
-Teacher: "Good, you don’t ‘put’ them together you…?" 
+Teacher: "Good, you don’t ‘put’ them together you…?"
 
-Pupil: "Add them." 
+Pupil: "Add them."
 
-Teacher: "Can you put that into a full sentence?" 
+Teacher: "Can you put that into a full sentence?"
 
-Pupil: "You add 500 and 15 together which totals 515." 
+Pupil: "You add 500 and 15 together which totals 515."
 
 Teacher: "Brilliant, remember, we use mathematical language."
 
@@ -48,46 +47,46 @@ How does the teacher stretch the pupil's understanding?
 
 The teacher stretches the pupil by:
 
-* asking them to explain how they know the answer
-* asking the pupil to correct their language to use mathematical terminology
+- asking them to explain how they know the answer
+- asking the pupil to correct their language to use mathematical terminology
 
 #### Response to an incorrect answer:
-Teacher: "What is 103 x 5?" 
 
-Pupil: "5015." 
+Teacher: "What is 103 x 5?"
+
+Pupil: "5015."
 
 Teacher: "How did you get that?"
- 
-Pupil: "1 times 5, 0 times 5, then 3 times 5." 
 
-Teacher: "OK, look at the place value of one, what does one stand for?" 
+Pupil: "1 times 5, 0 times 5, then 3 times 5."
 
-Pupil: "100." 
+Teacher: "OK, look at the place value of one, what does one stand for?"
 
-Teacher: "So, 100 x 5 equals…" 
+Pupil: "100."
+
+Teacher: "So, 100 x 5 equals…"
 
 Pupil: "500."
 
-Teacher: "Then what’s left?" 
+Teacher: "Then what’s left?"
 
-Pupil: "3 x 5." 
+Pupil: "3 x 5."
 
-Teacher: "Which is...?" 
+Teacher: "Which is...?"
 
-Pupil: "15." 
+Pupil: "15."
 
-Teacher: "Then what do you do?" 
+Teacher: "Then what do you do?"
 
-Pupil: "Then you add them to get 515." 
+Pupil: "Then you add them to get 515."
 
 How does the teacher scaffold the pupil’s learning?
 
 The teacher has scaffolded pupil learning by:
 
-* breaking the problem down into smaller parts
-* asking more closed questions to guide the pupil’s responses
-* asking some open questions to check and strengthen pupil understanding
-
+- breaking the problem down into smaller parts
+- asking more closed questions to guide the pupil’s responses
+- asking some open questions to check and strengthen pupil understanding
 
 ## Scaffolding questioning in practice
 
@@ -99,17 +98,15 @@ Before you listen, first, read the script below which he will refer to throughou
 
 When you listen to Joseph talk through this example, consider the following questions:
 
-* why does he begin with a closed question?
-* how does he support pupils when they don’t understand or don’t give a full
-      answer?
-* how does he increase the challenge to extend pupils’ thinking?
+- why does he begin with a closed question?
+- how does he support pupils when they don’t understand or don’t give a full
+  answer?
+- how does he increase the challenge to extend pupils’ thinking?
 
 Record your notes in your notebook.
 
 {details}
 Script: Scaffolding through questioning.
-
-
 
 **Breaking down content to build pupil understanding**
 
@@ -161,10 +158,8 @@ Pupil 1: Right… why is Macbeth trying to hide from his fate if it’s his fate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca4SfFmHrW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Scaffolding questioning by providing carefully considered prompts is an effective way to break problems or concepts down to support pupils’ understanding. In the example I am about to talk through, the focus of the lesson is on early impressions of Macbeth, but the conceptual focus is: to what extent can a person be judged for their thoughts as well as for their deeds?
 
@@ -192,7 +187,7 @@ From this, I confirmed her response and asked her a follow-up question to develo
 
 **‘So what \_could\_ Macbeth mean by that image of the ‘black and deep desires’, do you think?'**
 
-I increased the challenge in this question by asking a more open question that relied on her interpretive understanding by using the word _‘could’_rather than _‘does’._ I also included technical vocabulary – the word ‘image’.
+I increased the challenge in this question by asking a more open question that relied on her interpretive understanding by using the word _‘could’\_rather than _‘does’.\_ I also included technical vocabulary – the word ‘image’.
 
 I then increased the challenge in the question by making it more evaluative and asked a higher attaining pupil – pupil 3 - to extend their thinking:
 
@@ -216,15 +211,12 @@ Choose one video below to watch teachers as they scaffold learning through quest
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G0-Ut6qqZPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jR1JbyXUPWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Scaffolding questioning - Primary  
 If you require an audio description over the video, please watch this version: [Scaffolding questioning - Primary \[AD\]](https://youtu.be/RNEopCVtfL4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjSSJW_qTZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Scaffolding questioning - Secondary  
 If you require an audio description over the video, please watch this version: [Scaffolding questioning - Secondary \[AD\]](https://youtu.be/i1sRN6s-lAk)
@@ -245,35 +237,33 @@ Listen as Kenny from the Driver Youth Trust talks about how you can effectively 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM6a4bUYwp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Hi, my name's Kenny Wheeler. We're going to be looking at how to utilise TA support to enhance learning.
 
 There has been a lot of research into the use of teaching assistants, some quite negative:
 
-- Howes (2003) found that teaching assistants’ support in class increased the amount of time pupils spent on task but did not necessarily result in an increased rate of learning. 
+- Howes (2003) found that teaching assistants’ support in class increased the amount of time pupils spent on task but did not necessarily result in an increased rate of learning.
 - Blatchford, Bassett et al. (2009) – ‘The more support pupils received, the less progress they made, even after controlling for other factors that might be expected to explain the relationship such as pupils’ prior attainment, SEN status and income deprivation’.
-And then more recently some positive research that looked at
+  And then more recently some positive research that looked at
 - ‘Making best use of Teaching Assistants’ (Sharples, Webster and Blatchford 2015)
-This then fed in to ‘Maximising the impact of teaching assistants’ which is a nationwide
-programme run in schools to help make sure TAs are able to thrive in their role and
-contribute to positive outcomes for pupils.
+  This then fed in to ‘Maximising the impact of teaching assistants’ which is a nationwide
+  programme run in schools to help make sure TAs are able to thrive in their role and
+  contribute to positive outcomes for pupils.
 
 The first question really is – What is the role of the TA?
 
 The Professional Standards for TAs defines the role of the TA as:
 
-- The primary role of the teaching assistant should be to work with teachers to raise the learning and attainment of pupils while also promoting their 
+- The primary role of the teaching assistant should be to work with teachers to raise the learning and attainment of pupils while also promoting their
   - independence,
   - self-esteem,
   - social inclusion.
-  </li>
-</ul>
-They give assistance to pupils so that they can access the curriculum, participate
-in learning and experience a sense of achievement.
+    </li>
+  </ul>
+  They give assistance to pupils so that they can access the curriculum, participate
+  in learning and experience a sense of achievement.
 
 So how can I make best use of a TA when one is in my class?
 
@@ -301,21 +291,19 @@ Both you and your TA should aim to deliver quality additional support that build
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b70w2U2TDa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Hi, I'm Kenny Wheeler. We're going to be looking at working with a group.
 
 A consideration to bear in mind when an adult works with a group is how are you or the TA developing independence in the pupils? How can you be sure that support is not given too soon and then negatively impacting on the progress pupils are making? How can you be sure that the work the pupils are producing is their own? The Education Endowment Foundation’s scaffolding framework for teaching assistants and pupil interactions provides an effective model for both teachers and TA’s to use to ensure pupil independence is developed when working with an adult. It is a framework consisting of five layers that should be followed sequentially depending on the pupil’s performance.  The framework consists of the five following stages:
 
-1. **Self-scaffolding** – this is the first stage. At the beginning of a task, adults should observe the pupils while they begin. This provides pupils with processing time 
-2. **Prompting** – this is the second stage. If necessary, the adult should provide prompts to support the pupil if they get stuck such as, what do you need to do now? How are you going to approach this? You can do this. 
-3. **Clueing** – this is the third stage. If prompts aren’t enough, the adult can provide clues such as, where can you find the information you need? How have you done this before? 
-4. **Modelling** – this is the fourth stage. If clues aren’t enough, the adult can model what pupils need to do, articulating the steps clearly for the pupils to implement immediately afterwards. 
+1. **Self-scaffolding** – this is the first stage. At the beginning of a task, adults should observe the pupils while they begin. This provides pupils with processing time
+2. **Prompting** – this is the second stage. If necessary, the adult should provide prompts to support the pupil if they get stuck such as, what do you need to do now? How are you going to approach this? You can do this.
+3. **Clueing** – this is the third stage. If prompts aren’t enough, the adult can provide clues such as, where can you find the information you need? How have you done this before?
+4. **Modelling** – this is the fourth stage. If clues aren’t enough, the adult can model what pupils need to do, articulating the steps clearly for the pupils to implement immediately afterwards.
 5. **Correcting** – this is the final stage and should only be used where absolutely necessary. This is the stage where no independent thought is being developed. This can be useful occasionally for developing confidence but, where possible, adults should only drop down as far as the modelling stage to encourage some level of pupil independence.
- {/details}
+   {/details}
 
 By using the scaffolding framework, you can support all pupils to access to a rich and inspiring curriculum, whilst demonstrating high expectations by challenging them to be more independent in their learning.
 
@@ -332,7 +320,6 @@ If you work with a TA, read the video script below and consider how you are curr
 
 {details}
 Video script – Working with a TA, Early Years.
-
 
 In Early Years Foundation Stage (EYFS) I think the role of an assistant teacher (AT), which is our name for teaching assistants, is slightly different to elsewhere in the school as when we’re in free flow we are both basically doing the same thing: either supporting children in an adult-led focus group or developing their learning through play. However, during carpet sessions, I mostly lead and my AT supports with behaviour as well as providing scaffolding for children who need more support to access the curriculum. In addition to this she runs some interventions throughout the day and is generally just awesome.
 
@@ -352,7 +339,6 @@ Video script – Working with a TA, Primary.
 $Summary
 The final version of this video will be available from spring 2021, as the publication of this programme was fast-tracked in response to disruptions to this year’s initial teacher training.
 $EndSummary
-
 
 **How does your TA support in the classroom?**
 
@@ -389,10 +375,10 @@ Our open and honest relationship also meant that we could both give each other f
 Adult support was always carefully planned around need – this sometimes meant that some children received more support than others. We did however ensure that all pupils had the chance to work with an adult in English and Maths each week. It’s difficult to monitor exactly how much time you both spend with each child per week let alone per day but by planning to work with identified pupils based upon need, you can usually ensure that everyone has been given some dedicated adult support during the week. It’s important to note that ‘need’ refers to whoever needs support to move forward to the next step – this does not always mean a lower achieving pupil or group. In changing your mindset about who needs support – everyone – you can ensure all pupils benefit from adult support throughout the week.
 
 _An additional script on working with a TA in Primary settings can be accessed [here](/assets/materials/teach-first-Working-with-a-TA_Primary.docx)._
- Video script – Working with a TA, Secondary. $Summary
+Video script – Working with a TA, Secondary. $Summary
 The final version of this video will be available from spring 2021, as the publication
 of this programme was fast-tracked in response to disruptions to this year’s initial
-teacher training. $EndSummary 
+teacher training. $EndSummary
 **How does your TA support in the classroom?**
 
 Teaching assistants in a secondary setting are a crucial element of a teacher’s toolkit. Larger faculties may have subject-specific teaching assistants which is fantastic for subject-specific support. In addition to this, teaching assistants may operate out of a separate department and be linked with particular classes or individuals, following that class or individual around school. Such TAs can gain insight into a range of strategies used by teachers across the school and learn what works best for that class or pupil, making them a tremendous resource for your own learning on how best to adapt your teaching.
@@ -444,15 +430,13 @@ You might group pupils in advance of a topic you teach or during the lesson base
 
 Choose one of the videos below to listen to a teacher talk through an example of when they used flexible grouping to provide targeted support. When listening, consider:
 
-* how do they assess pupils’ understanding?
-* how do they adapt their lesson as a result?
+- how do they assess pupils’ understanding?
+- how do they adapt their lesson as a result?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3s_fWEH_po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Flexible grouping is a great way to respond to the needs of the pupils within my class. One example of when I used flexible grouping was when I was preparing to teach different conceptsin Maths. For example, some children may thrive with the four operations, but others may struggle to understand the concept of time.
 
@@ -470,10 +454,8 @@ I find that by working with different pupils throughout the week, I can meet the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CDWF9FM17vQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Adaptive teaching is on-the-spot, responsive adaptation of a lesson, or parts of a lesson, in response to students – maybe students who need more support, scaffolding or modelling. Without those things, without that extra support, the students would be unable to move on to the next step of the lesson. Maybe it could be because they haven’t grasped something fully or it could be that they are making too many errors for instance. A key message here would be don’t be a slave to a lesson plan! You may have to adapt or modify your lesson based on student needs. So, for example, a plan can't account for every eventuality in your lesson.
 
@@ -495,12 +477,10 @@ Through that use of flexible grouping, the identified pupils were able to succes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uGMjtunlyu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-Flexible grouping uses pupil data to organise pupils into temporary groups. These groups will change regularly, based upon the needs, knowledge and skills of the individual pupils. A key factor of flexible grouping is that while all pupils are working towards the _same_learning goal, the work addresses pupils’ varying learning needs. Flexible grouping is a powerful and effective form of scaffolding, which can have a positive effect on pupil engagement and attainment.
+Flexible grouping uses pupil data to organise pupils into temporary groups. These groups will change regularly, based upon the needs, knowledge and skills of the individual pupils. A key factor of flexible grouping is that while all pupils are working towards the \_same_learning goal, the work addresses pupils’ varying learning needs. Flexible grouping is a powerful and effective form of scaffolding, which can have a positive effect on pupil engagement and attainment.
 
 Flexible grouping is most effective when it utilises different forms of data, such as that taken from formative and summative assessments or from teacher observation in prior lessons to create groups, with the desire to improve every pupil, regardless of the teaching task. For example, I used flexible grouping when I taught a lesson on exams skills and specifically, the benefits of using appraisal – by this I mean, giving value to a piece of evidence – in RE extended writing answers. I spent two thirds of an hour-long period looking at examples of when appraisal is applied correctly and incorrectly in model answers, whilst also giving my pupils the opportunity to practice this skill. At the end of the hour the pupils completed an exam question in which they were expected to demonstrate an understanding of how to appraise effectively. However, after marking these answers it became apparent that six pupils were still unsure of what appraisal was and how it could be applied in their answers.
 
@@ -529,12 +509,11 @@ The strategies you use will depend on both the material being taught and the lev
 
 In the videos below, teachers share their experiences of providing additional practice. All approaches are different but have common themes. Listen to one of the videos and make notes on the following questions in your notebook:
 
-* how did the teacher identify additional practice was needed?
-* what did the teacher do to provide pupils with additional practice?
+- how did the teacher identify additional practice was needed?
+- what did the teacher do to provide pupils with additional practice?
 
 {details}
 Video script – Additional practice, Early Years.
-
 
 Name writing in Reception often needs additional practice. Individual children demonstrate their name writing in early Literacy sessions with tasks that are planned, however a few children often need that little extra support on top of this provision. To support this teachers often plan continuous provision activities that develop name writing in most areas of the classroom. For example within one classroom we have name cards to copy in the writing area, name cards near the painting easel to add names to the back of paintings, name cards in the construction area to label their models with their names, children write their names in the role play area, etc. All planned in to children’s independent play.
 
@@ -543,12 +522,11 @@ During Autumn One in Reception children often enter school with immature fine mo
 Mathematics activities are often given additional practice after being introduced within a maths lesson. Children often ask staff to leave activities out to gain additional practice and at the same time staff are able to recognise the need for further practice and annotate plans to demonstrate child need and/or interest in the activity.
 
 {/details}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2hZjFkeFueM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hZjFkeFueM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
-
 
 When marking books after a lesson or ‘live’ marking with pupils during a lesson, it becomes apparent which pupils have grasped a concept and can apply their knowledge of it independently, and which pupils still need some support.
 
@@ -568,7 +546,6 @@ The variety of additional practice provided had a really positive impact on pupi
 
 {details}
 Video script – Additional practice, Secondary.
-
 
 Plate tectonics and their associated hazards can be a very tricky concept for pupils to learn and understand. Because of this, I plan to teach the concept spaced throughout the curriculum, each time revisiting and building on what was previously covered. Sometimes re-teaching is required when assessment indicates a lack of understanding of foundational knowledge.
 

@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-10-ect-teaching-c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gv2wJUfeCEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena Moore
+
 Questioning is an essential tool for teachers. Questions can be used to develop understanding
 as well as to check understanding. Good questions can guide pupils' thinking and
 get them to draw upon what they know. They can also help teachers to see how knowledge
 is taking shape and if there are any gaps or misunderstandings. Whether you're designing
 a question to develop understanding or to check it, teachers need to plan what they
 will ask and know why they're asking it.
+
 ### Presenter main
+
 Questioning is a hugely important part of classroom practice. It's really important
 to have a clear purpose in mind when you ask a question. You're probably already
 asking your pupils lots of questions, but are you planning them carefully to ensure
@@ -33,16 +33,20 @@ Second, teachers can ask questions that extend pupil thinking by asking open-end
 
 Finally, teachers can use questions to check for understanding. To be effective, teachers need to know what specific content they're testing for. What knowledge do they want to see if their pupils have? What misconceptions are they checking for? When designing your question include the subject specific vocabulary that you want pupils to acquire and remind them to use specific language in their answer. For example, in a key stage one class on pollination, you might ask,_"what part of the flower does pollen need to move to during pollination?"_ Making reference to explicit vocabulary expected helps you to check pupils' understanding more precisely. With a finite amount of time on their hands, teachers need to have a clear purpose in mind when designing questions.
 
-And whether your question is to develop understanding or to check for understanding, you need to get all of your pupils to think about the answer. When teachers ask a question to one pupil, it can be tempting for others to switch off, but in order to learn, pupils need to think. Teachers need to establish a clear expectation that everyone tries to answer the questions that they hear, even if they're not called on to answer. One way that teachers can do this is to ask a question to the whole class; naming the pupil after you've asked the question means more pupils are likely to think about the answer than when teachers direct a question to one pupil. So instead of saying, _"Ryan, how many sizes a square have?"_It's better to say, _"How many sides does a square have? Ryan?"_ This tiny switch can make a huge difference, particularly if pupils understand why teachers are taking this approach and if the routine has been set up effectively, for instance, _"no hands up, we all need to think."_You also need to leave enough time between asking a question and getting the answer so that pupils can think about their response carefully. Try counting one, two, three in your head after you pose a question.
+And whether your question is to develop understanding or to check for understanding, you need to get all of your pupils to think about the answer. When teachers ask a question to one pupil, it can be tempting for others to switch off, but in order to learn, pupils need to think. Teachers need to establish a clear expectation that everyone tries to answer the questions that they hear, even if they're not called on to answer. One way that teachers can do this is to ask a question to the whole class; naming the pupil after you've asked the question means more pupils are likely to think about the answer than when teachers direct a question to one pupil. So instead of saying, _"Ryan, how many sizes a square have?"\_It's better to say, _"How many sides does a square have? Ryan?"_ This tiny switch can make a huge difference, particularly if pupils understand why teachers are taking this approach and if the routine has been set up effectively, for instance, _"no hands up, we all need to think."\_You also need to leave enough time between asking a question and getting the answer so that pupils can think about their response carefully. Try counting one, two, three in your head after you pose a question.
 
 Good questions can significantly enhance both the quality and the accuracy of pupil thought. Think carefully about the primary function of your question, what you will ask and how your deliver it.
 
 ### Presenter exemplification framing
+
 In this example, you will see an Ambition Institute coach model how to ask a series
 of questions to check for understanding. As you watch focus on the following:
-- Structures tasks and questions to identify knowledge gaps and misconceptions 
+
+- Structures tasks and questions to identify knowledge gaps and misconceptions
 - Checks that pupils have a secure understanding by encouraging them to elaborate when responding to questions
+
 ### Exemplificatin: Ambition Institute coachI want you to imagine I'm
+
 teaching a year 12 English lesson. We will be learning about John Keats' ddes
 and today we returned to the poem To Autumn. We've defined odes as lyrical poems
 that celebrate people, places, things, or ideas. We've also considered that
@@ -82,16 +86,19 @@ I also checked for specific knowledge gaps and misconceptions. When learning abo
 When planning questions, I find that it helps to do it in reverse. First I decide what I want to check for then I design a question and finally, I test out the question on myself to make sure that it targets specifically what I wanted it to. This helps me get the most out of questioning in the classroom.
 
 ### Presenter key ideas
+
 In this video we have considered the different purposes thst questions can serve
 and how to deliver them in the classroom. Before we finish, take a moment now to
 read over the key ideas. Which ideas did the example best illustrate?
-- Structure tasks and questions to enable the identification of knowledge gaps and misconceptions 
-- Include a range of types of questions in class discussions to extend and challenge pupils 
-- Provide appropriate wait time between question and response where more developed responses are required 
+
+- Structure tasks and questions to enable the identification of knowledge gaps and misconceptions
+- Include a range of types of questions in class discussions to extend and challenge pupils
+- Provide appropriate wait time between question and response where more developed responses are required
 - Prompt pupils to elaborate on their answers to check that a correct answer stems from secure understanding
+
 ### Presenter summary
+
 Effective teachers ask lots of questions during their teaching, but perhaps more
 importantly, they don't do this at random. To get the most out of questions, you
 need to know why you're asking them and design them carefully. Really good
-questions benefit from advanced planning.  {/details}
-
+questions benefit from advanced planning. {/details}

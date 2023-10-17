@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 5"
 ---
 
-
 ## Supporting pupils to master challenging content
 
 ### Intended outcomes
@@ -13,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential<br 
+- Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential<br
 
 Learn how to:
 
@@ -24,33 +23,33 @@ Communicate a belief in the academic potential of all pupils, by:
 Motivate pupils, by:
 
 - Supporting pupils to master challenging content, which builds towards long-term goals
-- Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+- Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.
 
 ### Activities
 
 ###Reflecting on learning (5 minutes)
 
-Ask the ECT to give two examples of how they have used rewards since the last topic. 
+Ask the ECT to give two examples of how they have used rewards since the last topic.
 
 Ask them:
 
 - Did they follow the principles of being used to reward desired behaviour, was it infrequent and unexpected?
 - What was the impact on the learning? How do you know?
 - Would you use it again?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
 ###Introducing challenging content (15 minutes)
 
 Read through the following together:
 
 You need to support pupils to master challenging content, which builds towards long-term goals. Foundational knowledge needs to be mastered and this will help build intrinsic motivation. Pupils’ goals should be focused on gaining this knowledge and utilising it to build further knowledge.
 
-Building on these ideas, while providing a high-level of challenge, we must also ensure that pupils experience high levels of success. We can achieve this by offering scaffolding to pupils to give them the support they need to succeed. 
+Building on these ideas, while providing a high-level of challenge, we must also ensure that pupils experience high levels of success. We can achieve this by offering scaffolding to pupils to give them the support they need to succeed.
 
-Discuss the following statement: 
+Discuss the following statement:
 
 The key idea behind mastering foundational knowledge is that pupils gain a deep, thorough understanding of the skills and knowledge being taught so that they can apply it to new situations and contexts.
 
-Ask the ECT what they currently do to ensure pupils master content they are being taught. 
+Ask the ECT what they currently do to ensure pupils master content they are being taught.
 
 Ideas might include:
 
@@ -114,5 +113,4 @@ The ECT should apply these to an upcoming lesson and talk these through with the
 Ask the ECT:
 
 - How are you going to help pupils master challenging content?
-- How are you going to motivate pupils through lesson content?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-
+- How are you going to motivate pupils through lesson content?

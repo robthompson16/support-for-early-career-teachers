@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 3"
 ---
 
-
 ## Reflection and research in professional development
 
 ### Learning intentions
@@ -23,8 +22,6 @@ Build effective working relationships, by:
 ### Topic introduction
 
 As part of the self-directed study session, you have explored how research evidence can be used to improve learning. Today, you are going to apply what you have learnt to the evidence about working with TAs to support pupils’ learning.
-
-
 
 ### Meeting activities
 
@@ -95,4 +92,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these actions
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

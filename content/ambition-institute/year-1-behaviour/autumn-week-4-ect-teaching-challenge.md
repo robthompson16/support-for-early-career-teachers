@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-4-ect-reflect"
 ---
 
-
 Ms Silva knows what she wants her pupils to do and communicates it clearly. However, during her expositions or when pupils are working independently, she finds that some pupils simply drift off and stop paying attention to her or the task. What could she do to keep her pupils focused for more of the lesson?
 
 ## Key idea
@@ -59,15 +58,14 @@ Reinforcement is more effective when it acknowledges positive behaviour more oft
 
 Acknowledgement, praise and reminders are powerful teaching tools for directing attention. However, there are also times when teachers simply need to issue a sanction or escalate the issue in line with the school behaviour policy. For example, when pupils are being defiant, inhibiting learning or risking the safety of others (IES, 2008).
 
-
-
 ### Key takeaways
-Ms Silva can direct pupil attention and increase learning by understanding that:
-- self-regulation and pupil motivation can affect how pupils direct their attention, which naturally wanders over time 
-- proactively monitoring, modelling and reinforcing helps direct pupil attention and keep them on task 
-- when reinforcement is positively framed it makes pupils feel safe and creates a more productive learning environment 
-- teachers can redirect attention in the least intrusive ways. But if action taken by the teacher is sometimes clearly visible, pupils can feel that their teacher is more effective and experience a stronger sense of shared classroom values
 
+Ms Silva can direct pupil attention and increase learning by understanding that:
+
+- self-regulation and pupil motivation can affect how pupils direct their attention, which naturally wanders over time
+- proactively monitoring, modelling and reinforcing helps direct pupil attention and keep them on task
+- when reinforcement is positively framed it makes pupils feel safe and creates a more productive learning environment
+- teachers can redirect attention in the least intrusive ways. But if action taken by the teacher is sometimes clearly visible, pupils can feel that their teacher is more effective and experience a stronger sense of shared classroom values
 
 ### Further reading
 
@@ -76,12 +74,11 @@ Gutman, L. & Schoon, L. (2013). The impact of non-cognitive skills on the outcom
 {details}
 References.
 
-
 Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great teaching: Review of the underpinning research. Durham University. <a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">bit.ly/ecf-coe</a>
 
 EEF (2017). Metacognition and Self-regulated learning Guidance Report. <a href="http://bit.ly/ecf-eef" target="_blank" rel="noopener">bit.ly/ecf-eef</a>
 
-Gathercole, S., Lamont, E., &amp; Alloway, T. (2006). Working memory in the classroom. _Working memory and education,_219-240.
+Gathercole, S., Lamont, E., &amp; Alloway, T. (2006). Working memory in the classroom. \_Working memory and education,\_219-240.
 
 Gutman, L. &amp; Schoon, L. (2013). The impact of non-cognitive skills on the outcomes of young people. <a href="http://bit.ly/ecf-eef2" target="_blank" rel="noopener">bit.ly/ecf-eef2</a>
 
@@ -92,4 +89,3 @@ Rathmann, K., Herke, M., Hurrelmann, K. &amp; Richter, M. (2018). Perceived clas
 Sweller, J., van Merrienboer, J. J. G., &amp; Paas, F. G. (1998). Cognitive Architecture and Instructional Design. _Educational Psychology Review, 10_(3), 251–296.
 
 {/details}
-

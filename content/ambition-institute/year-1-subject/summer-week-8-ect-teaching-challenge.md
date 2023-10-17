@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-8-ect-reflect"
 ---
 
-
 Mr Jones is gaining confidence in his planning and wants to assess his pupils’ progress. However, he is unsure how to give them the best opportunity to perform well and demonstrate their understanding. He finds that describing the components of a strong piece of work is useful but often insufficient to convey the key ideas. How can he share his academic expectations for pupils concretely and clearly?
 
 ## Key idea
@@ -45,14 +44,13 @@ When sharing academic expectations, it is important both to select a high-qualit
 
 Mr Jones can discuss with experienced colleagues what important misconceptions are to help identify them.
 
-
-
 ### Key takeaways
+
 Mr Jones can show pupils how to succeed by:
-- constructing models which show pupils what a good response or performance looks like 
+
+- constructing models which show pupils what a good response or performance looks like
 - directing pupils’ attention to the critical aspects of those models
 - using those models to promote metacognition and for feedback
-
 
 ### Further reading
 
@@ -60,7 +58,6 @@ EEF (2017). Metacognition and Self-regulated learning Guidance Report. [bit.ly/e
 
 {details}
 References.
-
 
 Christodoulou, D. (2017). Making Good Progress: The Future of Assessment for Learning. Oxford: OUP.
 

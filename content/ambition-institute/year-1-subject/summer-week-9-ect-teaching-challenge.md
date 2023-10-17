@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-9-ect-reflect"
 ---
 
-
 Mr Jones feels his lessons are increasingly clearly designed and convey the key ideas to his pupils. However, he often feels unsure how much pupils have understood during the lesson or by the end. Sometimes, end-of-unit assessments suggest that pupils have failed to grasp key ideas. How can Mr Jones develop ways to identify what pupils are thinking – and what they have misunderstood – in order to ensure they are all meeting the learning goals?
 
 ## Key idea
@@ -43,14 +42,13 @@ Formative assessment, such as end of class questioning, is a powerful way to ide
 
 Formative assessment is an approach, not a technique. Using mini-whiteboards, exit tasks or hinge questions does not mean a teacher is using formative assessment: what matters is why and how they are used. If they are used to find out what pupils understand and to improve their understanding, the teacher is using formative assessment and practising responsive teaching (Christodoulou, 2017).
 
-
-
 ### Key takeaways
-Mr Jones can check pupils’ developing understanding by:
-- recognising that summative assessment has value but that it cannot provide rapid, detailed information about pupil understanding 
-- formative assessment practices can provide valuable information about what pupils have understood and gaps in their knowledge 
-- formative assessment should be designed around how the information it provides will be used
 
+Mr Jones can check pupils’ developing understanding by:
+
+- recognising that summative assessment has value but that it cannot provide rapid, detailed information about pupil understanding
+- formative assessment practices can provide valuable information about what pupils have understood and gaps in their knowledge
+- formative assessment should be designed around how the information it provides will be used
 
 ### Further reading
 
@@ -58,7 +56,6 @@ Black, P., Harrison, C., Lee, C., Marshall, B., & Wiliam, D. (2004). Working ins
 
 {details}
 References.
-
 
 Black, P. and Wiliam, D. (1998). Inside the Black Box: Raising Standards Through Classroom Assessment. London: GL Assessment.
 
@@ -73,4 +70,3 @@ Wiliam, D. (2014). Redesigning Schooling 8: Principled Assessment Design. SSAT.
 Wiliam, D., Black, P. (1996) Meanings and Consequences: A Basis for Distinguishing Formative and Summative Functions of Assessment? British Educational Research Journal, 22(5) 537-548.
 
 {/details}
-

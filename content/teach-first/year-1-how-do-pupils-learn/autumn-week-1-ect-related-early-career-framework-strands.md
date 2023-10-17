@@ -31,4 +31,3 @@ _3b. Ensuring pupils’ thinking is focused on key ideas within the subject._
 ### Classroom practice
 
 _4f. Starting expositions at the point of current pupil understanding._
-

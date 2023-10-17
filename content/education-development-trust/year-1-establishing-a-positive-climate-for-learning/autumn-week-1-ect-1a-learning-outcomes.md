@@ -19,5 +19,4 @@ Learn how to demonstrate consistently high behavioural expectations and establis
 
 Learn how to establish effective routines and expectations by:
 
-- Reinforcing routines (e.g. by articulating the link between time on task and success).   
-
+- Reinforcing routines (e.g. by articulating the link between time on task and success).

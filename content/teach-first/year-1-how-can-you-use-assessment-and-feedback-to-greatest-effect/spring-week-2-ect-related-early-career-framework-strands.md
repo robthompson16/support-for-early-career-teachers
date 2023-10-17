@@ -29,4 +29,3 @@ _6d. Using assessments to check for prior knowledge and pre-existing misconcepti
 _6e. Structuring tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions)._
 
 _6f. Prompting pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding._ _6g. Monitoring pupil work during lessons, including checking for misconceptions._
-

@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-12-ect-reflect"
 ---
 
-
 Mr Jones assesses pupils’ work regularly and adapts his teaching in response to their needs. He wants to ensure that the feedback he offers pupils genuinely helps them to improve their work and deepen their understanding. He finds the variety of kinds of feedback available overwhelming and he worries that the amount of time it will take him to provide detailed feedback will be unsustainable in the long term.
 
 ## Key idea
@@ -47,14 +46,13 @@ Feedback is just one way to help pupils improve: the priority is to teach effect
 
 The evidence on feedback is sometimes inconclusive and even contradictory (Kluger & de Nisi, 1996). Mr Jones will need to adapt the guidance on effective feedback to suit the subject he is teaching and the needs of his class. It could be useful to speak to colleagues who teach the same subject about such adaptions.
 
-
-
 ### Key takeaways
+
 Mr Jones can help pupils to improve their work and deepen their understanding by:
-- offering feedback which guides pupils on how to improve and gives them the opportunity to apply it 
+
+- offering feedback which guides pupils on how to improve and gives them the opportunity to apply it
 - making his approach to feedback efficient and sustainable for him
 - encouraging pupils to monitor and regulate their own learning
-
 
 ### Further reading
 
@@ -76,4 +74,3 @@ Hattie, J. &amp; Timperley, H. (2007). The Power of Feedback. Review of Educatio
 Wiliam, D. (2011). Embedded formative assessment. Bloomington, Solution Tree Press.
 
 {/details}
-

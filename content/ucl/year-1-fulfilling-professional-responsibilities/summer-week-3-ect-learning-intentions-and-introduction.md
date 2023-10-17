@@ -15,7 +15,7 @@ next_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-3-e
 - Strengthening pedagogical and subject knowledge by participating in wider networks.
 - Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working environment.
 - Engaging critically with research and discussing evidence with colleagues.
-- Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement. 
+- Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement.
 
 ### Introduction
 

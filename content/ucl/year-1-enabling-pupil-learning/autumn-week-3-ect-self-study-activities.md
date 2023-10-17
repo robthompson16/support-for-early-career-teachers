@@ -20,20 +20,19 @@ As you work through the activities in this week’s self-directed study session 
 
 Read the scenario. Use this to test and extend your thinking around approaches to establishing the learning environment.
 At each numbered point of the scenario, using the information in the research and practice summary above and your learning from last week’s sessions, answer these questions:
- 
- - What is happening here?
+
+- What is happening here?
 - What decisions must the teacher make? What are their options?
 - What would you do here? Why?
 
 The first point has been completed as an example below.
 
-Once you have completed the activity, review your responses by reading the commentary at the end of this session plan. Update your own responses as necessary. 
+Once you have completed the activity, review your responses by reading the commentary at the end of this session plan. Update your own responses as necessary.
 
 The scenario has been written so that it can be interpreted in the context of any phase. You should consider the case in the context of your pupils, school context and specialism.
 
-
-
 ### Managing a smooth start to lessons
+
 It’s early in the first term of the academic year. You are finding that when pupils
 arrive at your classroom, it takes up to 10 minutes for them all to arrive and become
 settled and ready to start (1). There are particular pupils who are consistently
@@ -44,29 +43,21 @@ you then find difficult to eradicate (3). When you begin the lesson, you find th
 there are some pupils who are not focused (e.g. whispering to one another, fidgeting
 with equipment and clearly not actively listening) which often means you need to
 repeat instructions, explain things again, or have some pupils who are ready to move
-on and some who are unable to because they weren’t focused (4). 
+on and some who are unable to because they weren’t focused (4).
 
 #### Example for point 1
 
-
 ##### What is happening here?
+
 Pupils are arriving and entering the classroom at different times, often late.
 
-
-
-
-
 ##### What decisions must the teacher make? What are their options?
+
 The teacher needs to set a routine in place for how the lesson begins – give clear expectations of pupils and emphasise the importance of punctuality. They also need to consider the school policy on dealing with poor punctuality and ensure they are following the systems in place.
 
+##### What would you do here? Why?
 
-
-
-
-##### What would you do here? Why?   
 I would establish why pupils were arriving late – if there is a legitimate reason (lesson before is further away, meeting with a member of staff), I would support the pupils in trying to improve this situation. If the lateness is not excusable, I would follow school policy in following up the issue with the specific pupils involved.
-
-
 
 #### Reflection
 
@@ -90,6 +81,6 @@ You might ask yourself:
 
 Bring your notes from this activity to your next mentor meeting.
 
-Be ready to discuss this activity with your mentor. 
+Be ready to discuss this activity with your mentor.
 
 Use your learning in this session to make at least one positive change to how you establish the learning environment in your lessons over the coming week.

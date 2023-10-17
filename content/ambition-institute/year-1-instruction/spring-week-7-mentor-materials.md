@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 7"
 ---
 
-
 ## Practice and success
 
 ### Select a development area
@@ -13,14 +12,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Independent practice
 
-#### Focused development area     
+#### Focused development area
+
 - Teacher designs an independent practice task that enables pupils to apply the knowledge and skills that have been taught in the lesson, ensuring pupils are stretched and supported.
-- Teacher gives specific, manageable and visible instructions for the independent practice and the conditions in which the practice is to be carried out, checking pupils have understood the instructions before they begin. 
-- Teacher is purposefully circulating to check whether the pupils are meeting their academic expectations for the independent practice and capturing important information on what pupils are understanding and not understanding. 
+- Teacher gives specific, manageable and visible instructions for the independent practice and the conditions in which the practice is to be carried out, checking pupils have understood the instructions before they begin.
+- Teacher is purposefully circulating to check whether the pupils are meeting their academic expectations for the independent practice and capturing important information on what pupils are understanding and not understanding.
 
 {details}
 Example precise target: Teacher designs an independent practice task that enables pupils to apply the knowledge and skills that have been taught in the lesson, ensuring pupils are stretched and supported.
-
 
 - **Not doing it at all:** Review the key knowledge and skills you will be covering in a lesson and plan an independent practice task that enables pupils to apply these.
 - **Doing it but needs some improvement:** Plan an independent practice task that enables pupils to apply the knowledge and skills from the lesson and plan to deliver a brief explanation of the steps that pupils can take and resources they can use to support them to apply the key knowledge and skills.
@@ -28,22 +27,21 @@ Example precise target: Teacher designs an independent practice task that enable
 
 {/details}
 
-
 ### Development area 2: Fluency, success and challenge
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher designs independent practice so that pupils successfully develop fluency and build towards mastering challenging content. 
-- Teacher identifies pupils who require extra support during the practice task and responds to that need. 
-- Teacher normalises practising until fluent and shows pupils how to gauge when they are ready for more challenging tasks.                                                                                                                                                                                                                                                                                    
+- Teacher designs independent practice so that pupils successfully develop fluency and build towards mastering challenging content.
+- Teacher identifies pupils who require extra support during the practice task and responds to that need.
+- Teacher normalises practising until fluent and shows pupils how to gauge when they are ready for more challenging tasks.
 
 ### Development area 3: Spacing practice over time
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher plans in opportunities for pupils to practise retrieving key information across lessons. 
-- Teacher allows sufficient time in between retrieval tasks so that pupils have time to begin forgetting the material they are being asked to retrieve. 
-- Teacher gradually reduces the amount of scaffolding that pupils receive with each repeated practice, enabling pupils to apply more effort.                                                                                                                                                                                                                                                   
+- Teacher plans in opportunities for pupils to practise retrieving key information across lessons.
+- Teacher allows sufficient time in between retrieval tasks so that pupils have time to begin forgetting the material they are being asked to retrieve.
+- Teacher gradually reduces the amount of scaffolding that pupils receive with each repeated practice, enabling pupils to apply more effort.
 
 ### Observe
 
@@ -67,4 +65,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Plan activities around what you want pupils to think hard about.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

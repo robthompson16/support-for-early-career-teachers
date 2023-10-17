@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Making judicious use of practical skills in relation to promoting good progress and demonstrating good subject and curriculum knowledge
 
 ### Mentor materials content
@@ -113,4 +112,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, which will be at the start of Module 8.
-

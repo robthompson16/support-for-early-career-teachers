@@ -28,22 +28,23 @@ A misconception is a wrong or inaccurate idea based on faulty thinking or unders
 
 Therefore, anticipating common misconceptions within subject areas is also an important aspect of curriculum knowledge and working closely with colleagues to develop an understanding of likely misconceptions is valuable.
 
-
-
 ### Examples of common pupil misconceptions
 
 #### Science (biology)
+
 Misconception: all cells are the same size and shape.
 
 Correct idea: different cells can have different sizes and shapes.
 
 #### Geography (plate tectonics)
+
 Misconception: The earth’s plates are made of solid rock that can never be seen because
 the plates are always deep within the earth.
 
 Correct idea: Earth's plates are made of solid rock, and they can be seen where they are not covered by soil, loose rocks, or water.
 
 #### Modern foreign languages (French)
+
 Misconception:  J’ai is translated as ‘I am’
 
 Correct idea: J’ai is translated as ‘I have’.
@@ -51,10 +52,10 @@ Correct idea: J’ai is translated as ‘I have’.
 This misunderstanding stems from pupils learning that ‘J’ai onze ans’ is translated as ‘I am 11 years old’; j’ai is used in this context leading pupils to think that ‘j’ai’ means ‘I am’.
 
 #### History
+
 Misconception: thinking capitalism is synonymous with democracy.
 
 Correct idea: capitalism is an economic system, and so capitalist economies can operate in dictatorships and other non-democratic regimes, as well as in democracies.
-
 
 So good curriculum design includes being aware of common misconceptions and this requires secure subject knowledge:
 
@@ -64,23 +65,19 @@ So good curriculum design includes being aware of common misconceptions and this
 
 Consequently, when embarking on a new topic with pupils, it is good practice to first consider your own subject knowledge and any potential knowledge gaps you may need to close, particularly those concerning foundational concepts and knowledge. It might sound obvious but making sure your subject knowledge is secure is one of the best ways to enable you to teach the content well and help pupils to master the critical components of the subject.
 
-
-
 ### Identifying subject knowledge gaps
+
 Review the content of your sequence of work and record any potential knowledge gaps
 or areas you want to strengthen.
 
 If you have identified a need for subject knowledge development, be prepared to share this with you mentor and discuss the best steps you can take to address it.
 
-
-
-
 ### Reflection
+
 Reflect on the following questions and then record your response:
 
-* can you recall any misconceptions that you have held in the past?
-* what helped to change your thinking?
-
+- can you recall any misconceptions that you have held in the past?
+- what helped to change your thinking?
 
 ## Tackling common misconceptions
 
@@ -88,13 +85,13 @@ It is important to remember that adults hold misconceptions as well as children.
 
 In terms of your teaching practice, here are some other ways you can respond to common misconceptions:
 
-* explicitly address misconceptions through explanation
-* provide evidence that might conflict with their thinking
-* provide activities to support them to restructure their thinking
-* use formative assessment to check that pupils’ thinking is changing
+- explicitly address misconceptions through explanation
+- provide evidence that might conflict with their thinking
+- provide activities to support them to restructure their thinking
+- use formative assessment to check that pupils’ thinking is changing
 
 Revisit misconceptions to remind pupils of what they thought in the
-    beginning and acknowledge how their thinking has changed.
+beginning and acknowledge how their thinking has changed.
 
 Below you will see an example of a misconception that is common for Primary pupils when learning about partitioning to add. This is followed by a part-whole model which can be used to help pupils to master the concept.
 
@@ -106,13 +103,11 @@ For example, when teaching pupils to partition two-digit numbers to add or subtr
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-partioning-28-a.jpg" alt="Diagram showing how 28 can be partitioned into 2 and 8." />
 </figure>
 
-
 …instead of this:
 
 <figure>
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-partitioning-28b.jpg" alt="Diagram showing how 28 can be partitioned into 20 and 8." />
 </figure>
-
 
 This occurs because pupils do not have a secure understanding of the value that the digits represent.
 
@@ -125,21 +120,19 @@ In order to prevent this misconception from developing, it’s important to supp
   </figcaption>
 </figure>
 
-
 The ‘whole’ – 28 – is represented at the top and the ‘parts’ are represented in the circles attached to the whole. Pupils could be provided with blank models to fill out or partially completed ones like the one above. They can be given Dienes blocks or place value counters to explore partitioning the numbers and identifying relationships between them.
 
 As you can see this teaching strategy has been carefully thought about and planned into the scheme of work because the misconception is a common one for pupils. Discussing with experienced colleagues how to help pupils to master important concepts will support you to identify the most effective teaching methods.
 
-
-
 ### Reflection
+
 Reflect on the following questions and then record your response. Review the concepts in your sequence of work:
 
-* what common misconceptions are pupils likely to have?
-* what would help pupils to develop their thinking and to master the
-      concepts?
-* can you identify any analogies, illustrations, examples, explanations or
-      demonstrations that could help?
+- what common misconceptions are pupils likely to have?
+- what would help pupils to develop their thinking and to master the
+  concepts?
+- can you identify any analogies, illustrations, examples, explanations or
+  demonstrations that could help?
 
 Prepare to share your reflections, along with any ways of representing those concepts,
-with your mentor. 
+with your mentor.

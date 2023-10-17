@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-9-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyZQqa9MvEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro
+
 Learning new or complex material can feel difficult and off-putting, but instead
 of simply making a task easier, we need to provide supports that will help pupils
 to access this challenging content. This is called scaffolding. Much like scaffolding
 on a building, it helps pupils to access parts of learning that they might struggle
 to get to on their own. It also needs to be removed once it has done its job. Scaffolding
 is a necessary but temporary support.
+
 ### Presenter main
+
 We define scaffolding as a temporary aid used to support pupils with their learning.
 Scaffolds, like those used on buildings, allow pupils to reach areas that they would
 struggle to get to without help. Once they've served their purpose, they're removed.
@@ -41,11 +41,15 @@ Regardless of the technique used as a scaffold, they should be temporary in natu
 When we get scaffolds right and fade them out over time, our pupils feel supported, achieve success, and are set up to have a go on their own.
 
 ### Presenter exemplification framing
+
 In the next example, you will see an Ambition Institute coach model a specific scaffolding
 strategy. As you watch, look out for how they do the following:
-- Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work 
+
+- Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work
 - Removes scaffolding only when pupils are achieving a high degree of success in applying previously taught material
+
 ### Exemplification: Ambition Institute coach
+
 For the purposes of this model, imagine I'm teaching a year nine Biology class
 about osmosis. I've taught the topic, and I want to give them another
 opportunity to practice what they've learned. From previous assessments, the
@@ -89,14 +93,18 @@ Secondly, the scaffold I used supports pupils who need more structure early in t
 Finally, I thought about how to remove this scaffold. Once pupils are able to use this terminology fluently providing a word bank may hinder their thinking, and so it's important I take it away as soon as possible. Scaffolds are a useful support, but they shouldn't remain in place indefinitely.
 
 ### Presenter key ideas
+
 In this video, we have looked at how scaffolding can support pupil learning and provided
 some examples of scaffolding in practice. Before we finish, read over the key ideas
 that we have covered. Which of the following ideas do you think that the example
 illustrates the best?
-- Design practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work 
-- Use modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain 
+
+- Design practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work
+- Use modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain
 - Remove scaffolding only when pupils are achieving a high degree of success in applying previously taught material
+
 ### Presenter summary
+
 Effective scaffolding isn't about doing the thinking for our pupils. Instead, it
 means providing them with the extra support that they need to achieve ambitious
-learning goals and removing it once they get there.  {/details}
+learning goals and removing it once they get there. {/details}

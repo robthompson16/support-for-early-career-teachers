@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 12"
 ---
 
-
 ## Feedback
 
 ### Select a development area
@@ -13,15 +12,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Specific feedback that encourages effort
 
-#### Focused development area 
+#### Focused development area
 
 - Teacher provides feedback that is specific and can be actioned by the pupils.
-- Teacher provides feedback that can be applied in upcoming tasks. 
-- Teacher ensures pupils have time to understand feedback and a means to respond to it. 
+- Teacher provides feedback that can be applied in upcoming tasks.
+- Teacher ensures pupils have time to understand feedback and a means to respond to it.
 
 {details}
 Example precise target: Teacher provides feedback that is specific and can be actioned by the pupils.
-
 
 - **Not doing it at all:** Plan feedback that explains to pupils specifically what they are doing well and what they need to do to improve.
 - **Doing it but needs some improvement:** Plan feedback that explains to pupils specifically what they are doing well, what they need to do to improve, s accompanied by an actionable task to put this feedback into practice.
@@ -31,17 +29,17 @@ Example precise target: Teacher provides feedback that is specific and can be ac
 
 ### Development area 2: Efficient feedback
 
-#### Focused development area 
+#### Focused development area
 
-- Teacher uses whole-class or group feedback where possible to address common misconceptions, gaps in knowledge and errors the class are making. 
+- Teacher uses whole-class or group feedback where possible to address common misconceptions, gaps in knowledge and errors the class are making.
 - Teacher uses verbal feedback or prompts where possible to ensure feedback is timely but not time consuming.
 
 ### Development area 3: Feedback and self-monitoring
 
-#### Focused development area 
+#### Focused development area
 
-- Teacher supports pupils to check their work and improve. 
-- Teacher uses self and peer assessment thoughtfully and provides support for pupils so that it is effective.                                                                                      
+- Teacher supports pupils to check their work and improve.
+- Teacher uses self and peer assessment thoughtfully and provides support for pupils so that it is effective.
 
 ### Observe
 
@@ -63,5 +61,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Think carefully about how to ensure feedback is specific and helpful when using peer or self-assessment.
 - Use verbal feedback during lessons and in place of written feedback after lessons where possible.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

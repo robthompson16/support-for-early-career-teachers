@@ -18,9 +18,9 @@ You will learn how to:
 
 Check prior knowledge and understanding during lessons, by:
 
-- Using assessments to check for prior knowledge and pre-existing misconceptions.                                                                                           - Structuring tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions).
+- Using assessments to check for prior knowledge and pre-existing misconceptions. - Structuring tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions).
 - Prompting pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding.
-- Monitoring pupil work during lessons, including checking for misconceptions.                                                                                              
+- Monitoring pupil work during lessons, including checking for misconceptions.
 
 ## Introduction
 

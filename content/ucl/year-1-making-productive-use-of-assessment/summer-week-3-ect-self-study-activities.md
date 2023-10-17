@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-3-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -40,4 +39,3 @@ Write your plan and any additional notes or questions in your Learning Log, if y
 Review the outcomes of your thinking about how to apply assessment practice in the classroom to avoid being over-influenced by potentially misleading factors, such as how busy pupils appear. Add to your Learning Log any additional notes, actions and/or questions arising from this session.
 
 Be ready to share these reflections and your independent planning on assessment with your mentor in your next meeting with them.
-

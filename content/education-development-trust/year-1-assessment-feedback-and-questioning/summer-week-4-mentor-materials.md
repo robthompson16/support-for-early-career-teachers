@@ -4,14 +4,13 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-
 ## High-quality classroom talk and questioning
 
 ### Intended outcomes
 
 The intended outcomes of this topic are for Early Career Teachers to:
 
-Learn that:  
+Learn that:
 
 - Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
 - High quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
@@ -19,7 +18,7 @@ Learn that:
 Learn how to stimulate pupil thinking and check for understanding, by:
 
 - Including a range of types of questions in class discussions to extend and challenge pupils (e.g. by modelling new vocabulary or asking pupils to justify answers).
-- Providing appropriate wait time between question and response where more developed responses are required.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+- Providing appropriate wait time between question and response where more developed responses are required.
 
 ### Activities
 
@@ -37,7 +36,7 @@ Questions for discussion:
 
 - How often do you use questioning in your lessons?
 - What kind of questions do you use?
-- When you ask questions, do you know what answers you are trying to get from pupils?- Do you usually get the answers you expect?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+- When you ask questions, do you know what answers you are trying to get from pupils?- Do you usually get the answers you expect?
 
 ### High-quality classroom talk and questioning (15 minutes)
 
@@ -52,34 +51,34 @@ Suggested dialogue for mentors:
 You completed activity 5.3 of the self-directed study materials ‘Learning about questioning and high-quality classroom talk’. Let’s discuss your response to the questions to check your understanding.
 
 - What is the difference between closed and open questions?
-    - A closed question is a question with a Yes/No or single item answer. These are quick to ask and answer, good for checking factual understanding.
-    - An open question typically elicits longer responses where pupils need to reflect and use more complex reasoning.
+  - A closed question is a question with a Yes/No or single item answer. These are quick to ask and answer, good for checking factual understanding.
+  - An open question typically elicits longer responses where pupils need to reflect and use more complex reasoning.
 - How can questioning be used to check pupils’ prior knowledge
-    - Ask questions which directly draw on prior knowledge.
-    - It can expose misconceptions.
-    - Pupils can be encouraged to articulate their understanding of key ideas, summarising and reformulating them in order to reinforce their knowledge.
+  - Ask questions which directly draw on prior knowledge.
+  - It can expose misconceptions.
+  - Pupils can be encouraged to articulate their understanding of key ideas, summarising and reformulating them in order to reinforce their knowledge.
 - How can questioning be used to assess pupils’ understanding?
-    - To check where pupils don’t understand.
-    - To break problematic concepts down further.
-    - To encourage pupils to think hard – a key factor in learning.
-    - Pupils can be encouraged to articulate their understanding of key ideas, summarising and reformulating them in order to reinforce their knowledge.
+  - To check where pupils don’t understand.
+  - To break problematic concepts down further.
+  - To encourage pupils to think hard – a key factor in learning.
+  - Pupils can be encouraged to articulate their understanding of key ideas, summarising and reformulating them in order to reinforce their knowledge.
 - What constitutes high-quality classroom talk?
-    - Talk which supports pupils to articulate key ideas.
-    - Helps pupils consolidate understanding.
-    - Helps pupils to extend their vocabulary.
-    - According to Alexander, high-quality classroom talk is collective, reciprocal, supportive, cumulative and purposeful.
+  - Talk which supports pupils to articulate key ideas.
+  - Helps pupils consolidate understanding.
+  - Helps pupils to extend their vocabulary.
+  - According to Alexander, high-quality classroom talk is collective, reciprocal, supportive, cumulative and purposeful.
 - How can it be used effectively?
-    - Teacher and pupils engage in dialogue as opposed to the teacher doing all of the talking.
-    - The teacher must set up the expectations and encourage pupils to engage in active dialogue rather than passive listening.
-    - Pupils taught how to listen, react and respond.
-    - All contributions should be valued and respected.
-    - The teacher might introduce group discussion guidelines for pupils to adhere to.
-    - In contrast to closed questions, open questions allow ideas to be explored and built upon.
-    - The teacher might help link previous learning and ideas to deepen understanding.
-    - Clear goal established.
-    - The talk should be well planned, including protocols such as how to contribute, length of time for the discussion and what happens next.
-    - The teacher plays an important role to skilfully manage classroom talk and keep it focused on the purpose intended – this might include giving sentence stems or facilitating the discussion.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+  - Teacher and pupils engage in dialogue as opposed to the teacher doing all of the talking.
+  - The teacher must set up the expectations and encourage pupils to engage in active dialogue rather than passive listening.
+  - Pupils taught how to listen, react and respond.
+  - All contributions should be valued and respected.
+  - The teacher might introduce group discussion guidelines for pupils to adhere to.
+  - In contrast to closed questions, open questions allow ideas to be explored and built upon.
+  - The teacher might help link previous learning and ideas to deepen understanding.
+  - Clear goal established.
+  - The talk should be well planned, including protocols such as how to contribute, length of time for the discussion and what happens next.
+  - The teacher plays an important role to skilfully manage classroom talk and keep it focused on the purpose intended – this might include giving sentence stems or facilitating the discussion.
+
 ### Extend and challenge pupils using a range of questions (20 minutes)
 
 We can use questions to extend and challenge pupils’ thinking and understanding.
@@ -88,11 +87,11 @@ Read the examples of the different ways the teacher responds to the pupil’s re
 
 Example A:
 
-Teacher: Khadejah, look at the picture and tell me one adaptation that a camel has.<br/>Khadejah: A camel lives in the desert.<br/>Teacher: Safia, what do I mean by adaptation?<br/>Safia: An adaptation is how animals have changed to survive in their habitat.<br/>Teacher: Khadejah, can you use Safia’s definition of adaptation to see something in the picture which helps a camel to live in the desert? 
+Teacher: Khadejah, look at the picture and tell me one adaptation that a camel has.<br/>Khadejah: A camel lives in the desert.<br/>Teacher: Safia, what do I mean by adaptation?<br/>Safia: An adaptation is how animals have changed to survive in their habitat.<br/>Teacher: Khadejah, can you use Safia’s definition of adaptation to see something in the picture which helps a camel to live in the desert?
 
 Example B:
 
-Teacher: Khadejah, look at the picture and tell me one adaptation that a camel has.<br/>Khadejah: A camel has brown hair.<br/>Teacher: Safia, can you explain whether you agree with Khadejah’s answer? 
+Teacher: Khadejah, look at the picture and tell me one adaptation that a camel has.<br/>Khadejah: A camel has brown hair.<br/>Teacher: Safia, can you explain whether you agree with Khadejah’s answer?
 
 Example C:
 
@@ -134,11 +133,11 @@ Follow-on questions:
 Questions for discussion:
 
 - What do you notice about the questions?
-    - A: They become increasingly difficult.
+  - A: They become increasingly difficult.
 - Why plan questions that become increasingly difficult?
-    - A: To scaffold pupils towards being able to answer more complex questions and to support them to develop a level of sophistication.
+  - A: To scaffold pupils towards being able to answer more complex questions and to support them to develop a level of sophistication.
 - What is the importance of follow-on questions?
-    - A: To ensure that pupils have developed their responses and so that you know that their answer comes from sound understanding.
+  - A: To ensure that pupils have developed their responses and so that you know that their answer comes from sound understanding.
 
 Together, use the list of what pupils need to know to write questions that build on the level of challenge. Think about:
 
@@ -153,7 +152,7 @@ One way we can respond is through reframing the question to provide greater scaf
 
 Example C:
 
-Teacher: Khadejah, look at the picture and tell me one adaptation that a camel has.<br/>Khadejah: Ummm, I am not sure.<br/>Teacher: Tell me one thing you notice about the camel?<br/>Khadejah: It has a hump.<br/>Teacher: Ok, so what can you remember about the camel’s hump?<br/>Khadejah: It stores water. 
+Teacher: Khadejah, look at the picture and tell me one adaptation that a camel has.<br/>Khadejah: Ummm, I am not sure.<br/>Teacher: Tell me one thing you notice about the camel?<br/>Khadejah: It has a hump.<br/>Teacher: Ok, so what can you remember about the camel’s hump?<br/>Khadejah: It stores water.
 
 Together, reframe one question to scaffold the pupil’s answer if they get it wrong the first time.
 
@@ -208,11 +207,10 @@ Ask the ECT to look back at their example questions from the last activity, sele
 You should have two rounds of practice:
 
 1. After being given wait time the pupil volunteers an answer.
-2. After the wait time the pupil still doesn’t know the answer so the ECT needs to ask a follow up question.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+2. After the wait time the pupil still doesn’t know the answer so the ECT needs to ask a follow up question.
 
 ### Planning for action
 
 The ECT should write down two things they will do as a result of this topic.
 
-In the next topic, the ECT will share their reflections from observations of colleagues which they can complete during the time allocated in self-study materials Activity 5.5. If they have not yet planned these observations, discuss who they should observe and why.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-
+In the next topic, the ECT will share their reflections from observations of colleagues which they can complete during the time allocated in self-study materials Activity 5.5. If they have not yet planned these observations, discuss who they should observe and why.

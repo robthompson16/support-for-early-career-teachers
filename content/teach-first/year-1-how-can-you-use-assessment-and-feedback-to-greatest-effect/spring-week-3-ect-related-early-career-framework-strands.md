@@ -23,4 +23,3 @@ _6e. Structuring tasks and questions to enable the identification of knowledge g
 _6g. Monitoring pupil work during lessons, including checking for misconceptions._
 
 _6q. Prioritising the highlighting of errors related to misunderstandings, rather than careless mistakes when marking._
-

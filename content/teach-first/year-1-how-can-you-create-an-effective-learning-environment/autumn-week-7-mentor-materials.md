@@ -4,16 +4,15 @@ heading: "Mentor materials"
 caption: "Autumn week 7"
 ---
 
-
 ## Observation discussion - increase pupil participation
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Observation
 
-### Outcome: 
+### Outcome:
 
 To have planned and practised a strategy to increase pupil participation.
 
@@ -37,8 +36,7 @@ Work with your teacher to plan and practise how to ensure a high level of pupil 
 
 1. Why is a high participation and think ration important?
 2. How can you increase the participation of
-pupils in your class?
+   pupils in your class?
 3. What is our school’s approach to high expectations for all pupils?
 4. How can you create an environment where it’s okay to make mistakes? How does this reflect your high expectations and how can this impact upon pupil engagement?
 5. How could you engage parents and carers in the education of their children? E.g. by proactively highlighting successes.
-

@@ -4,21 +4,20 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
 ## Contributing to the wider school culture and beyond
 
 ### Intended outcomes
 
 The intended outcomes of this topic are for Early Career Teachers to:
 
- Learn how to develop as a professional by:
+Learn how to develop as a professional by:
 
 - Strengthening pedagogical and subject knowledge by participating in wider networks
 
 Build effective working relationships by:
 
 - Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school
-- Seeking ways to support individual colleagues and working as part of a team.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+- Seeking ways to support individual colleagues and working as part of a team.
 
 ### Activities
 
@@ -58,7 +57,7 @@ Pose the question: What do you think is meant by ‘shared responsibility’? Wh
 
 The idea of shared responsibility is that all teachers take responsibility for all pupils in their school, not just those they meet in their classrooms. This includes in corridors, at break and lunchtimes and in extra-curricular activities.
 
-Some of the reasons why it is important might include: 
+Some of the reasons why it is important might include:
 
 - It supports the wider school ethos and systems
 - It ensures consistency for pupils, creating a predictable and secure environment
@@ -106,9 +105,9 @@ Wider networks outside school provide valuable opportunities for teachers to dev
 
 Pose the question: Which wider networks have you already engaged in? Can you give examples of what you have learned from them?
 
-Using [Handout 12.1](/assets/materials/edt-Block-12-mentor-handout-12.1.pdf) (a list of subject associations) to support this, ECTs should identify one or two wider networks that will help them continue to develop their practice. 
+Using [Handout 12.1](/assets/materials/edt-Block-12-mentor-handout-12.1.pdf) (a list of subject associations) to support this, ECTs should identify one or two wider networks that will help them continue to develop their practice.
 
-In addition to learning from others in these networks, ECTs should be encouraged to contribute themselves, for example through giving presentations, writing or active membership of committees. In order to build confidence in this, mentors should share their own experiences of these activities, and, if appropriate, identify a time when they could jointly present at a network meeting or conference.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+In addition to learning from others in these networks, ECTs should be encouraged to contribute themselves, for example through giving presentations, writing or active membership of committees. In order to build confidence in this, mentors should share their own experiences of these activities, and, if appropriate, identify a time when they could jointly present at a network meeting or conference.
 
 ### Planning for action
 
@@ -117,4 +116,3 @@ Before ending this topic, agree two actions:
 - A final lesson observation of the ECT by the mentor, and a focus for this observation, which could be drawn from any aspect of the programme, but should aim to support the ECT looking ahead to their further professional development, as this will be the focus of the final two mentor topics.
 
 - Between now and the next topic, ECTs should also have a conversation with a colleague who has a leadership role in an area of interest to them (such as a subject or phase lead, SENCO, curriculum lead or head of department) about the experiences the colleague has gained to help them achieve that role, and what they have learned from it. Mentors and ECTs should agree who this colleague will be and when the ECT will approach them for the conversation. It would be beneficial for ECTs to plan their questions in advance and they may seek approval from the mentor.
-

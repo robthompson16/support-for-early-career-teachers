@@ -31,7 +31,7 @@ As you have already seen, there are many places that you can go to find research
 - The Education Endowment Foundation – funds educational research in England. They also synthesise findings for teachers through the [Teaching and Learning Toolkit](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/) (including an [Early Years Version](https://educationendowmentfoundation.org.uk/evidence-summaries/early-years-toolkit/)), their [Guidance Reports](https://educationendowmentfoundation.org.uk/tools/guidance-reports/) and the [Research Schools Network](http://researchschool.org.uk/) that they fund also publishes views on this evidence.
 - The Chartered College of Teaching – publishes the [Impact Journal](https://chartered.college/) for teachers alongside other evidence-informed resources
 - British Educational Research Association – is a membership organisation for people interested in educational research. They publish [academic journals](https://www.bera.ac.uk/resources/all-publications/bera-journals) as well as a regular [blog](https://www.bera.ac.uk/blog) that focuses on evidence
-- ResearchEd – promotes evidence-informed practice and publishes various [products](https://researched.org.uk/) including live professional development sessions 
+- ResearchEd – promotes evidence-informed practice and publishes various [products](https://researched.org.uk/) including live professional development sessions
 
 Occasionally, you may want to find primary research, which is published by academics where the main audience is other academics. Good starting points for this include: [ERIC](https://eric.ed.gov/), [Google Scholar](https://scholar.google.com/) and [Microsoft Academic](https://academic.microsoft.com/home).
 
@@ -42,7 +42,7 @@ If you are struggling to choose a suitable evidence source, you may want to star
 To assess the credibility of evidence, you should consider the following questions. If you are unable to find the answers to these questions, then it is safest to be sceptical and assume the worst.
 
 - What are the core claims being made? Separating these out from any rhetoric can help you to think about how the evidence supports the claims
-- Was the type of research suitable to the research question? It is important that the design of the study generated data that properly addresses the question being answered 
+- Was the type of research suitable to the research question? It is important that the design of the study generated data that properly addresses the question being answered
 - How large was the study? Typically, larger studies are more credible than smaller studies
 - Were there threats to the study? For instance, if lots of people withdrew from the research, this is a significant threat
 - How trustworthy were the outcomes on which claims were based? Standardised assessments tend to be more credible than in house assessments, for example
@@ -50,7 +50,7 @@ To assess the credibility of evidence, you should consider the following questio
 
 #### Stage 3: assessing applicability
 
-If you think that the research evidence is credible, the next step is to consider how relevant it is to your own context. Remember that if you do not think that the claims are credible, then the research is not applicable to you – or anyone! 
+If you think that the research evidence is credible, the next step is to consider how relevant it is to your own context. Remember that if you do not think that the claims are credible, then the research is not applicable to you – or anyone!
 
 - Where was the research undertaken and how similar is it your own context? The more similar, the more likely that the research will be applicable
 - Does the evidence address a problem or issue that you have? If a study found that mentoring was effective for teachers struggling with behaviour management, the findings are probably not applicable to teachers who have few difficulties managing behaviour
@@ -59,9 +59,9 @@ If you think that the research evidence is credible, the next step is to conside
 ### Next Steps: 5 mins
 
 As part of your next mentor sessions, you will briefly summarise what you have done. To support you to do this, you may wish to make brief notes linked to the questions below:
+
 - what piece of research evidence did you select?
 - how did you source the research evidence?
 - what were the main claims made in the research?
 - how credible do you think the research is? And how do you know?
 - how applicable do you think the research is in your context? And how do you know?
-

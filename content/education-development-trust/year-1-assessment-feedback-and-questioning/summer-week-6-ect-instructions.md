@@ -9,4 +9,3 @@ next_path: "/education-development-trust/year-1-assessment-feedback-and-question
 - Select one of the ideas for practice from each area to try out in your classroom.
 - This will require some additional planning either individually or in collaboration with a colleague.
 - You should also evaluate the effectiveness and impact of this in discussion with your mentor.
-

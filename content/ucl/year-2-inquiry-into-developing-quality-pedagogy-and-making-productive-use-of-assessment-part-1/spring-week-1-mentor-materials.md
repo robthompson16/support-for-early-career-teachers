@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-
 ## Module audit
 
 ### Mentor materials content
@@ -99,4 +98,3 @@ Next Steps 5 mins
 Agree with your mentee how you will use the outcomes from the audit to inform your use of the programme materials for the remainder of this module. Using the Summary Module Guide highlight, together, any areas to which you will give particular focus. Consider how your mentee might best engage with some of the optional further readings suggested in the Summary Module Guide. Discuss the value of returning to the audit as you work through the module, using it to chart your mentee’s progress.
 
 Next week, during their next self-directed study, your mentee will use the time to collect evidence for their exploratory inquiry about their current normal practice in relation to Standards 4, 5 or 6.
-

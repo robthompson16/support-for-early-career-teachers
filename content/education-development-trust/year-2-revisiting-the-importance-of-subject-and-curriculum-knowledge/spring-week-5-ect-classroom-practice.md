@@ -49,15 +49,11 @@ Plan retrieval opportunities in places that will help pupils form new connection
 - Consciously space out practice over time. When planning out your curriculum map, actively plan out when pupils will be quizzed on the core concepts and principles to match the learning outcome of the lesson.
 - Use think/pair/share to get pupils to consider their learning of the big ideas and make connections: ‘_In silence you are going to have a go at working out the challenge on the board. I am going to give you two minutes… Now the two minutes are up, I want you to discuss how this links with X.’_
 
-
-
 ### In your notepad
 
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?

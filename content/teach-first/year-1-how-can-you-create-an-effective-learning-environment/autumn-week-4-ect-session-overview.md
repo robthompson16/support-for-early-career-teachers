@@ -10,4 +10,3 @@ To support you to do this, in this session you will explore:
 
 - What is low-level disruption?
 - Using early and least intrusive interventions as an initial response
-

@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-4-ect-reflect"
 ---
 
-
 Ms Brown is confident about what she wants pupils to learn. However, she is often surprised by the gaps in pupils’ knowledge and the misconceptions they sometimes hold. How can she plan to address gaps and misconceptions so all pupils can access the curriculum?
 
 ## Key idea
@@ -40,15 +39,14 @@ Developing pupils’ subject knowledge also helps all pupils in two ways:
 
 While there is much overlap between what pupils know, each pupil will also have unique areas of prior knowledge (and lack of knowledge), based on individual experiences. Identifying exactly what each pupil knows would be impossible for Ms Brown: it’s more important that she identifies the most important knowledge for a topic and whether all pupils know that than that she identifies everything they do and don’t know (Christodoulou, 2017).
 
-
-
 ### Key takeaways
+
 Ms Brown can better tackle pupil knowledge gaps and misconceptions by understanding
 that:
-- a key reason for differing pupil needs is their different levels of prior knowledge 
-- pupils may have – or develop – misconceptions: incorrect beliefs about a topic or subject 
-- teachers can identify and overcome these incomplete mental models by using knowledge of subject and common misconceptions, for example to generate analogies based on existing knowledge
 
+- a key reason for differing pupil needs is their different levels of prior knowledge
+- pupils may have – or develop – misconceptions: incorrect beliefs about a topic or subject
+- teachers can identify and overcome these incomplete mental models by using knowledge of subject and common misconceptions, for example to generate analogies based on existing knowledge
 
 ### Further reading
 
@@ -56,7 +54,6 @@ Ball, D. L., Thames, M. H., & Phelps, G. (2008). Content knowledge for teachers:
 
 {details}
 References.
-
 
 Chi, M. T. (2009). Three types of conceptual change: Belief revision, mental model transformation, and categorical shift. In _International handbook of research on conceptual change,_ 89-110.
 
@@ -69,4 +66,3 @@ Sweller, J., van Merrienboer, J. J., &amp; Paas, F. G. (1998). Cognitive Archite
 Willingham, D.T. (2006). How knowledge helps. _American Educator_. <a href="http://bit.ly/ecf-wil2" target="_blank" rel="noopener">bit.ly/ecf-wil2</a>
 
 {/details}
-

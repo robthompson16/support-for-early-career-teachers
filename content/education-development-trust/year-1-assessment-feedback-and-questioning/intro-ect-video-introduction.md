@@ -4,15 +4,12 @@ previous_title: "Instructions"
 previous_path: "/education-development-trust/year-1-assessment-feedback-and-questioning/intro-ect-instructions"
 ---
 
-
 Watch the video. The video outlines what you will cover in this Block.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lNs21BhfgkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Assessment is a really important, ongoing process of finding out what your pupils know and can do, where there are gaps and crucially what they and you need to do next to progress their learning.
 
@@ -33,4 +30,3 @@ You may be feeling as though assessment and feedback is a demanding aspect of yo
 There has been a lot written about the impact of assessment and feedback on workload in recent years, with a major benefit that we know more now than we ever have about which techniques are effective and sustainable for classroom teachers. This Block draws on all of this research to develop your practice.
 
 {/details}
-

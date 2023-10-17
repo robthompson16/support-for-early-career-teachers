@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-
 ## Implementing effective modelling
 
 ### Learning intentions
@@ -13,7 +12,7 @@ Your ECT will learn how to:
 
 - use modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain
 - enable critical thinking and problem-solving by first teaching the necessary foundational content knowledge
-- remove scaffolding only when pupils are achieving a high degree of success in applying previously taught material         
+- remove scaffolding only when pupils are achieving a high degree of success in applying previously taught material
 - provide sufficient opportunity for pupils to consolidate and practise applying new knowledge and skills
 - break tasks down into constituent components when first setting up independent practice (e.g., using tasks that scaffold pupils through meta-cognitive and procedural processes)
 
@@ -39,7 +38,7 @@ In this session, you will help your mentee build on this activity, focusing in m
 
 ### Meeting activities
 
-Throughout the session, try to refer explicitly to the Learning Intentions, and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session. 
+Throughout the session, try to refer explicitly to the Learning Intentions, and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session.
 
 ### Review and Plan 5 mins
 
@@ -103,4 +102,3 @@ Agree with your mentee how they will now put their strategies from this week's s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee's progress.
-

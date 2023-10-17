@@ -24,7 +24,7 @@ Develop a positive, predictable and safe environment for pupils, by:
 - Using early and least-intrusive interventions as an initial response to low- level disruption.
 - Responding quickly to any behaviour or bullying that threatens emotional safety.
 
- Build trusting relationships, by:
+Build trusting relationships, by:
 
 - Responding consistently to pupil behaviour.
 

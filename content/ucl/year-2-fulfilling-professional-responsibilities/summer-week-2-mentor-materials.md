@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 2"
 ---
 
-
 ## Managing effective working relationships
 
 ### Mentor materials content
@@ -91,5 +90,4 @@ To help shape this discussion you could:
 - discuss with your mentee strategies, including those which you use regularly and those which you don’t, which could help your mentee to manage their working relationships more effectively
 - consider with your mentee any working relationships which they are finding particularly tricky to manage, and discuss specific strategies which might help to resolve these challenges experienced
 
-Next Steps: 5 mins You will have time in the final session of this module to complete a formal action plan with your mentee. For now, encourage them to make notes of any ideas that they have about specific actions they would like to incorporate into this plan and to keep these safe until the final session of the module. Note the date of your next mentor meeting, when you will discuss in more detail how your mentee manages their workload and well-being.                                                                                                                                                                         
-
+Next Steps: 5 mins You will have time in the final session of this module to complete a formal action plan with your mentee. For now, encourage them to make notes of any ideas that they have about specific actions they would like to incorporate into this plan and to keep these safe until the final session of the module. Note the date of your next mentor meeting, when you will discuss in more detail how your mentee manages their workload and well-being.

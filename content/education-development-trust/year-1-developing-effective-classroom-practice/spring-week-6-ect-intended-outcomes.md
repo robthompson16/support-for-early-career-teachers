@@ -20,9 +20,8 @@ Learn that:
 
 Learn how to:
 
-- Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain.                                                                                                                  
+- Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain.
 - Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge).
-- Exposing potential pitfalls and explaining how to avoid them.                                                                                                                                                                   
-- Identifying pupils who need new content further broken down.                                                                                                                                                                    
+- Exposing potential pitfalls and explaining how to avoid them.
+- Identifying pupils who need new content further broken down.
 - Adapting lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations.
-

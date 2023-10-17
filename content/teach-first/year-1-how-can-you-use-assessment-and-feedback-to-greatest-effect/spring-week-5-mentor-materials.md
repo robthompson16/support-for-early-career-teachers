@@ -4,18 +4,20 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Observation discussion - development of effective self-assessment
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
+
 Discussion
 
-### Outcome: 
+### Outcome:
+
 To have planned for and practised the development of effective self-assessment.
 
 ### Stimulus
+
 Ahead of the mentor interaction, ask your teacher to bring with them an example of a self-assessment completed by a pupil in their class.
 In the online study material, teachers hear from Stuart Kime (from Evidence Based Education) explain what is needed to establish effective self-assessment in the classroom. He highlights five things:
 
@@ -28,9 +30,11 @@ In the online study material, teachers hear from Stuart Kime (from Evidence Base
 Through discussion with the teacher, establish to what extent they have been able to establish effective self-assessment with their pupils. How do they model? How do they scaffold? Are they planning for pupils to act on the feedback from the self-assessment?
 
 ### Praise, probe and set precise actions
+
 The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
+
 Ask the teacher to select an upcoming lesson in which the pupils will be asked to self-assess. Practise either:
 
 - Developing a success criteria that will be shared with pupils
@@ -49,4 +53,3 @@ OR
 ### Additional resources:
 
 [Education Endowment Foundation's metacognition and self-regulated learning summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
-

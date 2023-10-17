@@ -17,4 +17,3 @@ previous_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-g
 _6b. Drawing conclusions about what pupils have learned by looking at patterns of performance over a number of assessments (e.g. appreciating that assessments draw inferences about learning from performance)._
 
 _6c. Choosing, where possible, externally validated materials, used in controlled conditions when required to make summative assessments._
-

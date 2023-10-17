@@ -4,8 +4,6 @@ next_title: "Theory"
 next_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-2-ect-theory"
 ---
 
-
-
 Establishing and reinforcing routines can help to create an effective learning environment.
 
 To support you to do this, in this session you will explore:

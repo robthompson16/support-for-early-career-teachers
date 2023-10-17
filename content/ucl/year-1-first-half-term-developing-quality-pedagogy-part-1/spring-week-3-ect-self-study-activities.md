@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/spring-week-3-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -70,4 +69,3 @@ After the observation, annotate your notes to show how they reflect your reading
 ### Next Steps: 5 mins
 
 Be ready to share this, and your other learning from this session, with your mentor in your next meeting with them.
-

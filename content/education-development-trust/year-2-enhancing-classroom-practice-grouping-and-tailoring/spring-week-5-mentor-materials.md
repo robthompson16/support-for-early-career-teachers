@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Meet the needs of individuals without creating unnecessary workload
 
 ### Intended outcomes
@@ -16,7 +15,7 @@ Learn how to meet the needs of individuals without creating unnecessary workload
 - Making use of well-designed resources (e.g. textbooks)
 - Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge
 - Building in additional practice or removing unnecessary expositions
-- Considering carefully whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+- Considering carefully whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils.
 
 ### Activities
 
@@ -26,18 +25,17 @@ Guidance for mentors:
 
 The themes in this topic build on ideas developed in module 3 around adapting teaching based upon understanding pupil difference. The mentor may find it useful to re-read module 3 to re-familiarise themselves with the content. ECTs should be encouraged to use what already exists to provide support to individuals. They should also be encouraged to respond to emerging needs and ‘adapt in the moment’.
 
-Suggested dialogue for mentors: 
+Suggested dialogue for mentors:
 
 In module 3, we looked at how to adapt your teaching. This was based on developing really good understanding of pupils, their differences and how to meet those differences so that pupils make progress.
 
-Pose the question: What can you remember about adapting teaching and understanding your pupils needs? 
+Pose the question: What can you remember about adapting teaching and understanding your pupils needs?
 
-Suggested dialogue for mentors: 
+Suggested dialogue for mentors:
 
 We know that adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils. Beyond this not being useful, it is also time consuming and onerous – something we want to avoid because you are already extremely busy! We are going to look today at ways in which we can meet the needs of individuals without adding unnecessary workload.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-###Meeting the needs of individuals without creating unnecessary workload (35 mins – Parts A, B and C)
 
+###Meeting the needs of individuals without creating unnecessary workload (35 mins – Parts A, B and C)
 
 Guidance to mentors:
 
@@ -50,7 +48,7 @@ Ask the ECT:
 
 ####Part A: Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge (15 minutes)
 
-Read the following together with the ECT.  We know from modules 2 and 8 (‘How pupils learn’) that it is really important to connect any new content we plan to teach pupils with the knowledge they already have. We know that pupils process new information in their working memory, which is limited, and are able to do this better if they can connect it to knowledge housed within their long-term memory (schemas).
+Read the following together with the ECT. We know from modules 2 and 8 (‘How pupils learn’) that it is really important to connect any new content we plan to teach pupils with the knowledge they already have. We know that pupils process new information in their working memory, which is limited, and are able to do this better if they can connect it to knowledge housed within their long-term memory (schemas).
 
 When planning a lesson, we might realise that pupils’ schemas in the lesson content is weak, i.e. there is limited information within their long-term memory to connect the new learning to. In this instance, it would be beneficial to do some pre-teaching of the knowledge that will be critical to pupils’ success. It might be that you identify particular pupils who lack critical knowledge and you could support them by providing some pre-teaching through specific homework for example.
 
@@ -83,9 +81,9 @@ One way we can address pupils’ needs ‘in real time’, which means we are no
 1. Build in additional practice for pupils who might be struggling<
 2. Remove unnecessary exposition for pupils who might need more challenge.
 
-Suggested dialogue for mentors: 
+Suggested dialogue for mentors:
 
-Let’s look again at the lesson(s) you brought with you today. For each activity, let’s think about how, when and what additional practice you could build in and where you might remove unnecessary exposition for pupils who need more challenge. 
+Let’s look again at the lesson(s) you brought with you today. For each activity, let’s think about how, when and what additional practice you could build in and where you might remove unnecessary exposition for pupils who need more challenge.
 
 Guidance to mentors:
 
@@ -102,6 +100,7 @@ Consider the following two examples:
 Teacher A
 
 Teacher A has a mixed-attainment group of 30 pupils. The range of prior attainment between pupils is significant. Teacher A is going to be starting a new topic with the group next week. He has planned the first lesson for the week:
+
 - He has grouped pupils into prior-attainment groups.
 - Each group has a different worksheet that has been prepared to complete following the exposition and modelling phase.
 - Each group has a different set of outcomes he is expecting by the end of lesson.
@@ -128,5 +127,4 @@ Either:
 
 - The mentor could agree with the ECT that they will come and observe the lesson discussed within today’s topic. The mentor will be looking at how the ECT can adapt teaching ‘in the moment’ to promote pupil progress. The mentor will also review what high-quality resources have been used. If the mentor is unable to plan a time to observe, the ECT could record a part of their lesson to share in the next mentor meeting.
 
-- Alternatively, the ECT could keep a note of what they did and how it went to share in the next topic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-
+- Alternatively, the ECT could keep a note of what they did and how it went to share in the next topic.

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## Instructions
 
 ### Select a development area
@@ -13,25 +12,24 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development areas 1: Presence through posture
 
-#### Focused development area 
+#### Focused development area
 
-- Teacher stands still when speaking to the class. 
-- Teacher adopts a confident, composed and open posture. 
-- Teacher gives instructions from the same spot in the classroom that allows for good visibility of the class.                         
+- Teacher stands still when speaking to the class.
+- Teacher adopts a confident, composed and open posture.
+- Teacher gives instructions from the same spot in the classroom that allows for good visibility of the class.
 
-### Development areas 2: Deliver clear instructions 
+### Development areas 2: Deliver clear instructions
 
-#### Focused development area 
+#### Focused development area
 
 - Teacher delivers instructions that are manageable and sequential.
-- Teacher delivers instructions that detail the specific actions they need pupils to take. 
+- Teacher delivers instructions that detail the specific actions they need pupils to take.
 - Teacher checks pupils know what to do by having them repeat the instructions.
 
 {details}
 Example precise target: Teacher delivers instructions that are manageable and sequential.
 
-
-- **Not doing it at all:**  Break down and deliver instructions in manageable steps.
+- **Not doing it at all:** Break down and deliver instructions in manageable steps.
 - **Doing it but needs some improvement:** Break down and deliver instructions in manageable steps that are ordered sequentially for pupils, e.g. by numbering each step.
 - **Doing it well and needs some stretch:**Break down and deliver instructions in manageable steps that are ordered sequentially for pupils. Pause briefly between each step so pupils have time to take in each part of your instructions.
 
@@ -39,9 +37,9 @@ Example precise target: Teacher delivers instructions that are manageable and se
 
 ### Development areas 3: Presence through voice
 
-#### Focused development area 
+#### Focused development area
 
-- Teacher is using the appropriate register and pace to match the content of the instructions. 
+- Teacher is using the appropriate register and pace to match the content of the instructions.
 - Teacher maintains control of their emotions, speaking at the appropriate volume and with the appropriate tone.
 
 ### Observe
@@ -64,4 +62,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Deliver instructions using appropriate volume and tone of voice.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

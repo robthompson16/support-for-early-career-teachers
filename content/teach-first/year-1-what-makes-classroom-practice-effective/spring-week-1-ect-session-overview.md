@@ -14,18 +14,16 @@ In the classroom, a review can occur in many forms such as checking homework, go
 
 Listen to Claire Stoneman share her knowledge of retrieval practice and what this might look like in the classroom. Consider the following questions and record your response in your notebook:
 
-* what are the two key functions of review?
-* why is it useful for pupils to actively recall information?
-* what are two ways that you could incorporate retrieval practice into your
+- what are the two key functions of review?
+- why is it useful for pupils to actively recall information?
+- what are two ways that you could incorporate retrieval practice into your
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sk2F9lgS_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 The importance of retrieval - Claire Stoneman
 
 {details}
 Video transcript.
-
 
 Retrieval practice is something you're likely to come across in many schools and it's becoming more and more popular in schools in England. As Professor Robert Coe reminds us, retrieval practice is strongly supported by over a hundred years of research and is one of only two learning techniques rated by Dunlosky as having high utility for classroom practice. There's a huge amount of research to support its use and yet, like many things that seem so simple in teaching, it has to be done really well or it could throw up a few calamitous pitfalls.
 
@@ -33,11 +31,11 @@ So why is retrieving prior knowledge a useful thing to do?
 
 It enables the children to see their learning going somewhere, that lessons aren't just weird little modularised bite-size chunks of learning but part of a golden thread of knowledge, and Barak Rosenshine suggests that teachers begin their lesson with review of prior learning for two reasons:
 
-1. It's a practice recalling previously learnt material, thereby strengthening the ability to recall it in the future. 
+1. It's a practice recalling previously learnt material, thereby strengthening the ability to recall it in the future.
 2. To link new material to that which has come before.
-So retrieval practice can be an exceptionally useful thing to do at the start of
-a lesson. It's not simply recap, in other words going back over something, but it's
-about the children actively trying to recall knowledge from their long-term memory.
+   So retrieval practice can be an exceptionally useful thing to do at the start of
+   a lesson. It's not simply recap, in other words going back over something, but it's
+   about the children actively trying to recall knowledge from their long-term memory.
 
 It also helps the children to develop schemas that we can signpost. In their book ‘What every teacher needs to know about psychology’, David Didau and Nick Rose say that a schema has to be thought of as an organizing framework representing some aspect of the world and a system of organising that information.
 
@@ -52,16 +50,14 @@ Claire highlights two key functions of review when used to build and strengthen 
 - To consolidate material by prompting pupils to recall what they have learnt
 - To help pupils make links between new knowledge and prior knowledge and connect this in their mental model
 
-
-
 ### Reflection
+
 Think about a topic where you recently incorporated a review of learning. Consider the following questions and record your response in your notebook:
 
-* what was the purpose of the review?
-* how did you incorporate it into your practice?
-* what did it tell you about pupils’ learning?
-* how did it inform your teaching?
-
+- what was the purpose of the review?
+- how did you incorporate it into your practice?
+- what did it tell you about pupils’ learning?
+- how did it inform your teaching?
 
 ## Mentor meeting
 

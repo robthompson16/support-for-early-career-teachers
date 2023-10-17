@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 5"
 ---
 
-
 ## Establishing and maintaining a supportive, inclusive environment
 
 ### Intended outcomes
@@ -14,11 +13,11 @@ The intended outcomes of this topic are for Early Career Teachers to:
 Learn that:
 
 - A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs
- - Building effective relationships is easier when pupils believe their feelings will be considered and understood
+- Building effective relationships is easier when pupils believe their feelings will be considered and understood
 
 Learn how to demonstrate consistently high behavioural expectations, by:
 
-- Acknowledging and praising pupil effort and emphasising progress being made                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+- Acknowledging and praising pupil effort and emphasising progress being made
 
 ### Activities
 
@@ -87,11 +86,9 @@ The ECT should select one or two pupils they could support through the actions a
 - Can you make an opportunity to have a discussion with parents/carers (this could be at parents evening) about the individual needs of the pupil and the reasonable adjustments you have made?
 
 Together set out the steps the ECT will take to support those pupils.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
 ### Planning for action
 
 Ask the ECT when they will be putting these strategies into place. If possible, set up a time for the mentor to observe the ECT with a focus on establishing a predictable and secure environment. The mentor may want to focus on the two pupils identified in the previous activity and take notes to provide the ECT with feedback.
 
 In the next topic the ECT will be reflecting on observations they have carried out with the time assigned in self-study materials Activity 1.6. If they have yet to carry out the observations, agree now who they will observe and with which focus before the next topic.
-

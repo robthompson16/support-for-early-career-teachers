@@ -4,15 +4,14 @@ heading: "Second half-term: a people profession"
 caption: "Year 1"
 ---
 
-
 In this module you'll focus on developing strong professional relationships to build the best outcomes for your pupils.
 
 ## Module introduction
 
 During the first week of the module you need to:
 
-* work through the self-study materials below
-* meet your mentor to discuss what you’ll be learning in the weeks ahead
+- work through the self-study materials below
+- meet your mentor to discuss what you’ll be learning in the weeks ahead
 
 Duration: 10 minutes.
 
@@ -23,8 +22,8 @@ Duration: 10 minutes.
 
 During the first week of the module you should:
 
-* read the ECT’s study materials below
-* catch up with the ECT to discuss what they’ll be learning in the weeks ahead
+- read the ECT’s study materials below
+- catch up with the ECT to discuss what they’ll be learning in the weeks ahead
 
 [View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-0-mentor-materials)
 
@@ -32,8 +31,8 @@ During the first week of the module you should:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- work through the self-study materials below
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -45,18 +44,17 @@ Duration: 45 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with the ECT to reflect on what they’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
-* briefly watch them putting this week’s development focus into action in the classroom
+- read the ECT’s study materials below
+- catch up with the ECT to reflect on what they’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- briefly watch them putting this week’s development focus into action in the classroom
 
 [View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-1-mentor-materials)
 
 ## Week 2: pupils and their families
 
-There are no self-study materials for this topic. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials for this topic. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -68,8 +66,8 @@ The ECT doesn’t have a self-study element for this topic. Instead, you should 
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 55 minutes.
 
@@ -84,8 +82,8 @@ Duration: 55 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
+- read the ECT’s study materials below
+- catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-3-mentor-materials)
 
@@ -93,8 +91,8 @@ For this topic you should:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 60 minutes.
 
@@ -105,17 +103,16 @@ Duration: 60 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
+- read the ECT’s study materials below
+- catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-4-mentor-materials)
 
 ## Week 5: looking after yourself
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -125,7 +122,7 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 ## Week 6: lesson observations
 
-Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up. 
+Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up.
 
 Duration: 60 minutes.
 
@@ -134,13 +131,13 @@ Duration: 60 minutes.
 
 ### Mentors
 
-Use the materials below for an end of module review with the ECT. 
+Use the materials below for an end of module review with the ECT.
 
 [View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-6-mentor-materials)
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future. 
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 10 minutes.
 
@@ -151,4 +148,3 @@ Duration: 10 minutes.
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
 
 [View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-0-mentor-materials)
-

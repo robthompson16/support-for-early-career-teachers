@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-9-ect-reflect"
 ---
 
-
 While pupils in Ms Sterling’s class are generally keen to give tasks a go, they often take the safe option and seek support from their teacher or peers whenever possible. How can Ms Sterling help pupils to adopt behaviours that make them more open to challenge?
 
 ## Key idea
@@ -49,15 +48,14 @@ When engineering a high success rate for pupils, Ms Sterling must be careful not
 
 Pupil success at a task is an indication that they have successfully learnt lesson content, but not a sure sign – ‘learning’ and ‘performance’ are different.
 
-
-
 ### Key takeaways
-Ms Sterling can support pupils to be more open to challenge if she
-  understands:
-- pupil motivation is driven by intrinsic and extrinsic factors, prior experiences and perceptions of success 
-- teachers who give pupils experiences of success build not only motivation but also resilience and belief in their ability to succeed 
-- teachers with knowledge of how pupils learn can better balance challenge and support and promote pupil success, which makes them open to challenge
 
+Ms Sterling can support pupils to be more open to challenge if she
+understands:
+
+- pupil motivation is driven by intrinsic and extrinsic factors, prior experiences and perceptions of success
+- teachers who give pupils experiences of success build not only motivation but also resilience and belief in their ability to succeed
+- teachers with knowledge of how pupils learn can better balance challenge and support and promote pupil success, which makes them open to challenge
 
 ### Further reading
 
@@ -65,8 +63,6 @@ Coe, R., Aloisi, C., Higgins, S., & Major, L. E. (2014). _What makes great teach
 
 {details}
 References.
-
-
 
 <span style="font-weight: 400;">
   Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014).
@@ -80,52 +76,52 @@ References.
 
 <span style="font-weight: 400;">Deans for Impact (2015).</span>
 <i>
-  <span style="font-weight: 400;">The Science of Learning.</span>
+<span style="font-weight: 400;">The Science of Learning.</span>
 </i>
 <span style="font-weight: 400;"> </span>
 <a
-  href="https://deansforimpact.org/resources/the-science-of-learning/"
-  target="_blank"
-  rel="noopener"
->
-  <span style="font-weight: 400;">bit.ly/ecf-dea</span>
-</a>
+href="https://deansforimpact.org/resources/the-science-of-learning/"
+target="\_blank"
+rel="noopener"
+
+> <span style="font-weight: 400;">bit.ly/ecf-dea</span>
+> </a>
 
 <span style="font-weight: 400;">Education Endowment Foundation (2017). </span>
 <i>
-  <span style="font-weight: 400;">
-    Metacognition and Self-regulated learning Guidance Report.
-  </span>
+<span style="font-weight: 400;">
+Metacognition and Self-regulated learning Guidance Report.
+</span>
 </i>
 <span style="font-weight: 400;">
-  <a href="http://bit.ly/ecf-eef" target="_blank" rel="noopener">
-    bit.ly/ecf-eef
-  </a>
+<a href="http://bit.ly/ecf-eef" target="_blank" rel="noopener">
+bit.ly/ecf-eef
+</a>
 </span>
 
 <span style="font-weight: 400;">Gutman, L. &amp; Schoon, L. (2013). </span>
 <i>
-  <span style="font-weight: 400;">
-    The impact of non-cognitive skills on the outcomes of young people.
-  </span>
+<span style="font-weight: 400;">
+The impact of non-cognitive skills on the outcomes of young people.
+</span>
 </i>
 <span style="font-weight: 400;">
-  <a href="http://bit.ly/ecf-eef2" target="_blank" rel="noopener">
-    bit.ly/ecf-eef2
-  </a>
+<a href="http://bit.ly/ecf-eef2" target="_blank" rel="noopener">
+bit.ly/ecf-eef2
+</a>
 </span>
 
 <span style="font-weight: 400;">Institute of Education Sciences (2008).</span>
 <i>
-  <span style="font-weight: 400;">
-    Reducing Behavior Problems in the Elementary School Classroom.
-  </span>
+<span style="font-weight: 400;">
+Reducing Behavior Problems in the Elementary School Classroom.
+</span>
 </i>
 <span style="font-weight: 400;">
-   
-  <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
-    bit.ly/ecf-ies
-  </a>
+
+<a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
+bit.ly/ecf-ies
+</a>
 </span>
 
 <span style="font-weight: 400;">
@@ -155,4 +151,3 @@ References.
   </a>
 </span>
  {/details}
-

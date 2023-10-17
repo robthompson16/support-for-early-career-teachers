@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 6"
 ---
 
-
 ## Review the module
 
 ### Intended outcomes
@@ -22,5 +21,4 @@ Work with your ECT to identify their next steps from this module.
 
 - What are your next steps?
 - What resources / support do you need?
-- When will you do this by?                                                                                                                                                                                                       
-
+- When will you do this by?

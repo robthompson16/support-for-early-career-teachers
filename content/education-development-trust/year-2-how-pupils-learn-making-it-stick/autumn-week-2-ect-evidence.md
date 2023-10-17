@@ -93,15 +93,13 @@ Pachler et al. (2007) recommend that you should ‘space learning over time. Arr
 
 It is recommended that pupils encounter new material on at least two separate occasions. In some cases, this will happen naturally as pupils progress through content (e.g. pupils will use full stops in almost every writing assignment after they are taught it). In other cases, you will need to explicitly plan when new material will be reviewed and practised.
 
-
-
 ### Definition
+
 <span style="font-weight: 400;">
   Spaced practice is when opportunities to review and practise the material are
   distributed over time. Instead of just seeing it once, pupils will be exposed
   to the content at spaced gaps.
 </span>
-
 
 ###Spaced practice
 
@@ -113,11 +111,8 @@ Watch this video of a teacher talking about how they used spaced practice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NrDDGIX5mA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   In my class, I know that pupils are going to forget previously taught material
@@ -148,15 +143,15 @@ What makes practice purposeful? We know from lots of fields that _quality_ of pr
 
 The same applies to purposeful practice in education. When planning practice activities, you should think about:
 
-* what do I want my pupils to be able to know or do well?
-* what are the stages between where they are now and this objective?
-* how will this help pupils know what they do and don’t remember?
-* does the activity include answers so pupils can check?
-* how will pupils know what ‘good’ looks like?
-* does the activity include a model or worked example for pupils to refer back to?
-* will the pupil have access to their classwork or textbook so they can improve their answers?
-* how will pupils identify gaps and where they need more practice?
-* is there an opportunity to reflect and plan what they need to do next?
+- what do I want my pupils to be able to know or do well?
+- what are the stages between where they are now and this objective?
+- how will this help pupils know what they do and don’t remember?
+- does the activity include answers so pupils can check?
+- how will pupils know what ‘good’ looks like?
+- does the activity include a model or worked example for pupils to refer back to?
+- will the pupil have access to their classwork or textbook so they can improve their answers?
+- how will pupils identify gaps and where they need more practice?
+- is there an opportunity to reflect and plan what they need to do next?
 
 You will also need to think about how you – as an expert – can give them feedback. Practice with feedback is more effective than practice alone (Dunlosky, 2013). Not only does this help them improve over time, it also means that they will not practise incorrect material, and commit errors and misconceptions to their long-term memory (Rosenshine, 2012; Roedinger & Butler, 2011).
 
@@ -186,8 +181,6 @@ A teacher giving feedback to their pupils
 
 {details}
 Video script.
-
-
 
 <span style="font-weight: 400;">
   [Pupils are practicing running and catching the ball, pivoting and passing it
@@ -236,34 +229,32 @@ Video script.
 </span>
 
 <span style="font-weight: 400;">Teacher: Great –</span> <span style="font-weight: 400;">
-  why don’t you try again?
+why don’t you try again?
 </span>
- {/details}
+{/details}
 
 ## Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall
 
-
-
 ### In your notepad
+
 <span style="font-weight: 400;">
   Read the summary from the EEF (2018) on retrieval practice and answer the
   following questions:
 
-* what is retrieval practice?
-* why do you think that retrieval practice is more effective than re-reading a text?
-* can you think of any examples when you have used retrieval to support pupils learning?
+- what is retrieval practice?
+- why do you think that retrieval practice is more effective than re-reading a text?
+- can you think of any examples when you have used retrieval to support pupils learning?
 
 Repeatedly re-reading a text is not an effective way of learning. It is much
-  more effective for pupils to try to retrieve what they already know about a
-  topic, or what they have recently read about it, from memory. 
+more effective for pupils to try to retrieve what they already know about a
+topic, or what they have recently read about it, from memory.
 
 Retrieval practice involves retrieving something you have learned in the past and bringing it back to mind.
 
 You can use retrieval to review past learning before introducing new related
-  learning. For example, you might ask pupils to recall group one of the
-  periodic table before introducing group seven, showing its similarities and
-  differences. 
-
+learning. For example, you might ask pupils to recall group one of the
+periodic table before introducing group seven, showing its similarities and
+differences.
 
 Retrieval practice is effective because it requires ‘an effort from within’ to call information to mind, as opposed to just reading or hearing it (Roedinger & Butler, 2011). The evidence shows that because retrieval is an active behaviour, as opposed to passive, it stimulates our brains more and in the process helps to strengthen the existing memory. In other words, the more often you retrieve some information from your long-term memory the more likely it is to stay there.
 
@@ -271,14 +262,12 @@ Retrieval practice also helps us to identify gaps in our knowledge. Through the 
 
 One way many pupils choose to study is by re-reading notes, listening to explanations on YouTube or watching video animations. While this shouldn’t be discouraged, retrieval practices such as creating flashcards to quiz themselves, answering old exam questions or attempting to list out all of the key dates without looking at the textbook are much more powerful in aiding memory.
 
-
-
 ### Using retrieval practice to promote learning
 
 #### Think, pair, share
 
 Get pupils to think first of their response, and then share it with a
-      partner before contributing to the rest of the class.
+partner before contributing to the rest of the class.
 
 #### Low-stakes quizzes
 
@@ -292,7 +281,6 @@ Get pupils to put everything they know about a topic or a theme onto one piece o
 
 Either create them for your class or support your pupils to create their own set, pupils test themselves by asking the questions and trying to retrieve the answer before turning over the card.
 
-
 These types of retrieval practice activities should be spaced at relevant intervals. As mentioned above, pupils retain information better if there is a gap between learning, practice and subsequent practice.
 
 You could achieve this by:
@@ -302,34 +290,29 @@ You could achieve this by:
 - Starting each day with a daily review or practice task, e.g. vocabulary, events or learning from the day, week or term before.
 - A weekly or half-termly quiz which pulls a mixture of questions from previously learned material as well as newly learned material.
 
-
-
 ### Remember this
 
 Key points:
 
-* practice is an important part of learning something
-* something is learned when it is in the long-term memory, representing a
-      lasting change
-* pupils tend to use ineffective study techniques such as underlining,
-      highlighting, passive re-reading of materials which does not aid long-term
-      recall
-* teachers should support pupils to learn more effective study techniques
-      through their design of learning tasks and instruction
-* retrieval tasks are particularly effective at helping pupils to remember
-      material over time
+- practice is an important part of learning something
+- something is learned when it is in the long-term memory, representing a
+  lasting change
+- pupils tend to use ineffective study techniques such as underlining,
+  highlighting, passive re-reading of materials which does not aid long-term
+  recall
+- teachers should support pupils to learn more effective study techniques
+  through their design of learning tasks and instruction
+- retrieval tasks are particularly effective at helping pupils to remember
+  material over time
 
 When designing practice tasks teachers should consider:
 
-* how often the material should be practised
-* what time lag there should be between opportunities to practise it
-* what feedback will pupils get as they practise to know they correct
-
+- how often the material should be practised
+- what time lag there should be between opportunities to practise it
+- what feedback will pupils get as they practise to know they correct
 
 {details}
 Reference.
-
-
 
 Adesope, O. O., Trevisan, D. A., &amp; Sundararajan, N. (2017) Rethinking the Use of Tests: A Meta-Analysis of Practice Testing. _Review of Educational Research_, _87_(3), 659–701.<a href="https://doi.org/10.3102/0034654316689306"> https://doi.org/10.3102/0034654316689306</a>.
 
@@ -348,6 +331,5 @@ Pachler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 Roediger, H. L., &amp; Butler, A. C. (2011) The critical role of retrieval practice in long-term retention. _Trends in Cognitive Sciences_, _15_(1), 20–27.<a href="https://doi.org/10.1016/j.tics.2010.09.003"> https://doi.org/10.1016/j.tics.2010.09.003</a>.
 
 Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that all teachers should know. _American Educator_, 12–20.<a href="https://doi.org/10.1111/j.1467-8535.2005.00507.x"> https://doi.org/10.1111/j.1467-8535.2005.00507.x</a>
-
 
 {/details}

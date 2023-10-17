@@ -6,18 +6,19 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-11-ect-teaching-c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UISM2GYZAeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
 ### Presenter intro: Helena Moore
+
 There are definitely times we want our pupils to talk in lessons. Meaningful classroom
 talk helps pupils to rehearse ideas, check their understanding, and develop their
 knowledge. To get the best out of this, classroom talk needs to be carefully planned
 and delivered. It will take time and practice, but getting classroom talk right can
 be a rewarding experience for both pupils and teachers.
+
 ### Presenter main
+
 Effective classroom talk can help pupils to think when teachers plan it carefully
 and set it up well. When pupils are engaged in well-structured talk it can help them
 to develop their understanding in lots of different ways. It can help pupils to retrieve
@@ -28,24 +29,28 @@ A good starting point for planning classroom talk is to ask yourself, what do I 
 
 Once you've designed a classroom talk activity try testing it out quickly to see whether it requires pupils to think about what you want them to or not. Effective classroom talk should be matched to what pupils need to learn. There are a couple of other key questions that teachers can address at the planning stage:
 
-1. Do my pupils have the necessary knowledge with which to engage in this activity? 
+1. Do my pupils have the necessary knowledge with which to engage in this activity?
 2. Do they require any further support?
-In order to increase the rigour and focus of classroom talk, pupils need to have
-something to talk about. They need to have some knowledge to draw on. They may also
-need some scaffolds to guide their talk and keep it on task. Talking frames and vocabulary
-banks can be a good way of improving the quality of classroom talk.
+   In order to increase the rigour and focus of classroom talk, pupils need to have
+   something to talk about. They need to have some knowledge to draw on. They may also
+   need some scaffolds to guide their talk and keep it on task. Talking frames and vocabulary
+   banks can be a good way of improving the quality of classroom talk.
 
 Once teachers have planned the classroom talk they need to set it up too. Teachers need to provide clear task instructions which include how they want pupils to behave. This might mean asking pupils to turn and face each other, identifying which person talks first and who will be responsible for feeding back to the class. Establishing good routines for classroom talk helps pupils to pay attention.
 
 One important thing to bear in mind about classroom talk activities is that it can be difficult to get an accurate picture of what every pupil in the class is thinking. When teachers circulate and listen to pupils talk, they need to think carefully about what they hear before they make any decisions that are based on it. It might be totally obvious that the whole class has misunderstood the task, in which case it'll be well worth stopping it and clarifying. But if you hear one or two pupils make a mistake, that won't show you whether the whole class has made the same error or not. Instead, you want to choose a method of questioning that gives you a much bigger sample size before you decide on what to do next.
 
 ### Presenter exemplification framing
+
 In the next example, you will watch an Ambition Institute coach model how to set
 up a group talk activity. As you watch pay particular attention to how they do the
 following:
+
 - Plans activities around what pupils need to think hard about
 - Provides scaffolds for pupil talk to increase the focus and rigour of dialogue
+
 ### Exemplification: Ambition Institute coach
+
 In this example, I'm going to model how we can support effective group talk. I
 want you to imagine I'm teaching a year six science lesson. They'd been learning
 how to identify and name the parts of the human circulatory system and know how
@@ -85,14 +90,17 @@ I put appropriate scaffolds in place to improve the focus and the rigour of the 
 The task instructions were specific and sequential, and I gave clear behavioural expectations: pupils should be treated with respect by allowing each person to finish their thought without interruption. All of this guidance helps to ensure that this talk activity will support pupils to think hard and learn.
 
 ### Presenter key ideas
+
 In this video, we have considered the purpose of classroom talk and how to ensure
 that it's effective. Before we finish, spend a few moments reading the key ideas.
 Which of these ideas do you feel that the example illustrates the best?
-- Plan classroom talk carefully around what you want pupils to think about 
+
+- Plan classroom talk carefully around what you want pupils to think about
 - Provide appropriate support
 - Give clear task instructions that include behavioural expectations
-### Presenter summary
-Pair and group talk activities can increase pupil success but to work together
-effectively pupils need guidance, support, and practice. 
-{/details}
 
+### Presenter summary
+
+Pair and group talk activities can increase pupil success but to work together
+effectively pupils need guidance, support, and practice.
+{/details}

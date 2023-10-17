@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-
 ## Looking back and reflecting on progress
 
 ### Intended outcomes
@@ -14,7 +13,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 Learn how to develop as a professional by:
 
 - Engaging in professional development focused on developing an area of practice with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice.
-- Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+- Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement.
 
 ### Activities
 
@@ -25,7 +24,7 @@ This topic will be an opportunity to look back at the year and reflect on succes
 - Who did the ECT speak to?
 - What did they learn?
 - What are their reflections on this?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
 ###Reflecting on progress made (20 minutes)
 
 The ECT has covered the following professional development areas in the last year, which have all built on the previous year:
@@ -78,8 +77,7 @@ For each one, the ECT and the mentor should discuss:
 - What further steps could you take?
 
 Ask the ECT if they can think of any other areas of practice they have worked on and discuss the same questions for these.
-                                                                                                                                                                                                                                                                                                                  
+
 ###Next steps (5 minutes)
 
-In the final mentor topic, ECTs will be thinking about their steps moving forward. They should use this part of the topic to consider what areas they have most improved in. At the start of the next topic, the mentor will go through the areas they believe the ECT has most improved in.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-
+In the final mentor topic, ECTs will be thinking about their steps moving forward. They should use this part of the topic to consider what areas they have most improved in. At the start of the next topic, the mentor will go through the areas they believe the ECT has most improved in.

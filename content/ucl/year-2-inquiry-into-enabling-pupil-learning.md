@@ -4,15 +4,13 @@ heading: "First half-term: inquiry into enabling pupil learning"
 caption: "Year 2"
 ---
 
-
-In this module you'll focus on one particular part of your teaching to evaluate the impact your practices have on your pupils. 
+In this module you'll focus on one particular part of your teaching to evaluate the impact your practices have on your pupils.
 
 ## Week 1: module audit
 
 During your first week of this practitioner inquiry module, you and your mentor will take a look at the topics being covered, establish your level of confidence and agree areas to focus on.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -24,8 +22,7 @@ During the first week of this practitioner inquiry module, you should take a loo
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -37,8 +34,8 @@ There are no mentor activities for this week. Instead, your school’s induction
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- work through the self-study materials below
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -50,8 +47,8 @@ Duration: 45 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT
+- see what the ECT is learning
+- structure your catch-up with the ECT
 
 [View mentor materials](/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-3-mentor-materials)
 
@@ -59,8 +56,7 @@ Use the materials below to:
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -72,12 +68,10 @@ There are no mentor activities for this week. Instead, your school’s induction
 
 There are no self-study materials or mentor meeting this week. Instead, you should work on forming an evaluative inquiry question.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
 There are no self-study materials or mentor meeting this week. Instead, you should catch up with the ECT to help them develop an evaluative inquiry question.
 
 [View mentor materials](/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-5-mentor-materials)
-

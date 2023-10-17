@@ -4,16 +4,15 @@ heading: "Mentor materials"
 caption: "Summer week 2"
 ---
 
-
 ## Discussion - identifying the concepts, knowledge and skills in a scheme of work
 
 ### Practice focus
 
-### Interaction: 
+### Interaction:
 
 Discussion
 
-### Outcome: 
+### Outcome:
 
 To have identified the concepts, knowledge and skills in a scheme of work
 
@@ -27,7 +26,7 @@ During the online study materials, your teacher was asked to identify the concep
 You could also think about:
 
 - Is there additional knowledge, skills or values that would support or enrich the learning in this scheme?
-- An estimate of how much time will be needed to teach and learn this scheme _(there may be existing time restrictions, in which case you will need to prioritise the most important concepts, knowledge and skills)_ 
+- An estimate of how much time will be needed to teach and learn this scheme _(there may be existing time restrictions, in which case you will need to prioritise the most important concepts, knowledge and skills)_
 
 Record your responses in a format that suits you (e.g. note-form, table, diagram etc.)
 
@@ -50,4 +49,3 @@ Work with your teacher to improve the identification of concepts, knowledge and 
 5. What Tier 2 and Tier 3 vocabulary have you identified and why?
 6. Have you included any additional knowledge, skills or values that would support and/or enrich the learning in this scheme? If so, why?
 7. How much time do you estimate will be needed to teach this scheme of work?
-

@@ -4,17 +4,13 @@ previous_title: "Instructions"
 previous_path: "/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/intro-ect-instructions"
 ---
 
-
 - Watch the video.
 - The video outlines what you will cover in this Block.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LShS6igaF1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   As you established in Block 4, subject knowledge is of critical importance. 
@@ -61,4 +57,3 @@ Video transcript.
   encourages you to do this in relation to longer-term planning.
 </span>
  {/details}
-

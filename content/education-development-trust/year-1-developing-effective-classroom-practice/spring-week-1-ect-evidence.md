@@ -24,36 +24,32 @@ In this regard, effective teaching might look something like this:
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.1-Opt-1.png" alt="The diagram is a flowchart showing how a teacher could present information in small sections so that pupils are more likely to understand and remember what is being taught. The teacher introduces a small section of content, explaining the idea and modelling an example.Pupils independently practise a similar task with guidance and support from the teacher as required, before discussing what they have just learned and explaining it in their own words. The teacher checks for understanding, using verbal questioning or mini whiteboards. Once the teacher is happy, they move on to the next section." />
 </figure>
 
-
-
-
-
-
 ### Example mini lesson plan and script – Year 2
+
 Consider the following example:
 
-* how have they broken the content into smaller steps?
-* how do they make sure that pupils master the content before moving on?
-* how has the teacher built up to the more complex task of writing your own sentences?
+- how have they broken the content into smaller steps?
+- how do they make sure that pupils master the content before moving on?
+- how has the teacher built up to the more complex task of writing your own sentences?
 
 ####Teaching sentence structure
-Start by introducing the rules of a simple sentence. 
+Start by introducing the rules of a simple sentence.
 
 Show a sentence on the board: 'The boy threw the ball.'
 
 Read the sentence together.
- 
+
 #####Model aloud my thinking as I identify the subject of the paragraph
 “OK so we know that a simple sentence needs to contain a verb, a subject and an object. I am going to look at the sentence here and identify these things.
 
-"Hmmm, so I know that a verb is a doing word. So the verb in this sentence must be ‘threw’. Am I right? Yes, ‘throw’ is a doing word so that is a verb. 
+"Hmmm, so I know that a verb is a doing word. So the verb in this sentence must be ‘threw’. Am I right? Yes, ‘throw’ is a doing word so that is a verb.
 
-"I am going to circle it to show that it is the verb. Now I need to work out the subject. The subject is always the thing or person doing the verb so in this sentence the subject must be the boy because he is throwing the ball. I am going to underline ‘boy’. 
+"I am going to circle it to show that it is the verb. Now I need to work out the subject. The subject is always the thing or person doing the verb so in this sentence the subject must be the boy because he is throwing the ball. I am going to underline ‘boy’.
 
 "The object is the thing receiving the action so here it must be the ball. I am going to highlight ‘ball’.
 
 “The boy threw the ball.”
- 
+
 #####Check for understanding ‒ questioning
 Teacher: "Michael what three things do I need to include in my simple sentence?"
 
@@ -72,15 +68,15 @@ Teacher: "Jakob, how do I identify the object and the subject?"
 Jakob: "The subject is doing the verb and the object is receiving?"
 
 Teacher: "Excellent."
-   
+
 #####Task 1
+
 <ol>
 <li>Handout sheet with simple sentence examples.</li>
 <li>Pupils work in pairs to identify the verb, action and subject of the sentences.</li>
 <li>Teacher circulates, questions pupils and offers feedback.</li>
 <li>Pupils write own simple sentences.</li>
 <li>Peer assess.</li>
-
 
 ### Effective teachers explicitly link new ideas to what has been previously studied and learned
 
@@ -132,7 +128,6 @@ A teacher explaining to his class how to plot points on an axis
 {details}
 Video script.
 
-
 Teacher: 3, 2, 1… Thank you, Year 5. Now that we can read the coordinates of points on a graph, we are going to plot some ourselves.
 
 [Cut to shot of the board which has an empty X and Y axis. Also possible to use a visualiser instead.]
@@ -178,66 +173,45 @@ Models are an essential part of developing and sharing knowledge. Evidence sugge
 
 The table below shows the different strategies you can use to make abstract ideas accessible.
 
-#### Strategy: Using a range of examples to demonstrate the abstract idea 
-
-
+#### Strategy: Using a range of examples to demonstrate the abstract idea
 
 ##### Example
+
 “Here are three different examples of when someone was considered ‘brave’.”
-
-
 
 #### Strategy: Facilitate discussion around an abstract idea to let pupils relate it to their own experiences
 
-
-
 ##### Example
+
 “When was a time that you felt ‘free’?”
-
-
-
 
 #### Strategy: Provide opportunities for pupils to experience an abstract concept for themselves
 
-
-
 ##### Example
+
 “This morning, I am going to give all of the ‘power’ of deciding what we do in PE to you.”
 
-
-
-#### Strategy: Use concrete models or examples to make abstract ideas accessible                              | “We are going to count out the number 12 using cubes.”
-
-
+#### Strategy: Use concrete models or examples to make abstract ideas accessible | “We are going to count out the number 12 using cubes.”
 
 ##### Example
+
 “We are going to count out the number 12 using cubes.”
-
-
 
 #### Strategy: Provide a graphical representation to make abstract ideas accessible
 
-
-
 ##### Example
+
 “Take a look at the bar graph to compare the speed of the two cars.”
 
-
-
-#### Strategy: Provide a visual example to make abstract ideas accessible 
-
-
+#### Strategy: Provide a visual example to make abstract ideas accessible
 
 ##### Example
-“The pictures in front of you show each stage of the evaporation cycle.” 
 
-
-
-
+“The pictures in front of you show each stage of the evaporation cycle.”
 
 ###Using concrete examples to make abstract ideas accessible
 How do objects help to make abstract ideas accessible?
- 
+
 How might this relate to your subject? Is there a physical representation of an abstract idea?
 
 You may want to use a physical object that pupils or teachers can touch and move
@@ -250,18 +224,19 @@ structures and enable pupils to understand the subject independently.
 
 Maths example:
 
-* cuisenaire rods
-* dienes blocks
+- cuisenaire rods
+- dienes blocks
 
 Examples of different forms include:
 
-* two fractions represented on a number line
-* a quadratic function expressed algebraically or presented visually as a
-    graph
-* a probability distribution presented in a table or represented as a
-    histogram
+- two fractions represented on a number line
+- a quadratic function expressed algebraically or presented visually as a
+  graph
+- a probability distribution presented in a table or represented as a
+  histogram
 
 #### Concrete examples in use
+
 The teacher wants to show an abstract rule (10t – t = (10 – 1)t = 9t) through a
 concrete example.
 
@@ -323,23 +298,21 @@ The pupils discussed what was going on here, before the teacher concluded with t
 
 Reproduced from: Education Endowment Foundation (2017) <i>Improving Mathematics in Key Stages Two and Three Guidance Report</i>. [Online] Accessible from: [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/tools/guidance-reports)
 
-
-
-
 ### Using modelling to make abstract ideas accessible in Year 4
+
 In a Year 4 lesson pupils are learning about discrimination. The teacher has planned
 three different ways they will model the concept of discrimination during the lesson.
 
 How do you think this modelling will help pupils to understand what
-    discrimination is?
- 
+discrimination is?
+
 How does modelling help to make an abstract idea accessible for their
-    pupils?
- 
+pupils?
+
 #### Activity 1
 
 1. As pupils enter the room, those whose names start with A‒M get a high-five
-    and are told to take their seat.
+   and are told to take their seat.
 2. Ask any pupils whose names start with N–Z to stand at the back.
 3. Explain that it is a new school seating strategy.
 4. Ask other pupils: Is this fair? How does it feel to be treated this way?
@@ -349,23 +322,22 @@ How does modelling help to make an abstract idea accessible for their
 
 1. Show pupils a picture of a segregated bus in America, 1950s.
 2. Explain that this was a real policy and that black people were forced to
-    ride on the back of the bus in America.
+   ride on the back of the bus in America.
 3. Explain this is a type of discrimination whereby somebody is treated
-    unfairly because of a particular characteristic – in this case the colour of
-    their skin.
+   unfairly because of a particular characteristic – in this case the colour of
+   their skin.
 4. Facilitate a discussion on types of discrimination pupils have heard about
-    or seen and generate a class list.
+   or seen and generate a class list.
 
 ####Activity 3
 
 1. Present a newspaper report about discrimination on the board.
 2. Read it aloud and teacher identifies why this person has been treated
-    unfairly and what characteristic they are being discriminated for (e.g. a
-    woman being paid less for the same job as a man).
+   unfairly and what characteristic they are being discriminated for (e.g. a
+   woman being paid less for the same job as a man).
 3. Hand out newspaper clippings and pupils work in pairs to identify first
-    whether this is discrimination and second what type of discrimination is
-    taking place.
- 
+   whether this is discrimination and second what type of discrimination is
+   taking place.
 
 ### Effective teachers use guides, scaffolds and worked examples to help pupils apply new ideas
 
@@ -422,7 +394,6 @@ A Year 2 class having a discussion
 {details}
 Video script.
 
-
 Teacher: OK everyone, you should now be sitting in your trios. Does everyone have a letter card, either A, B or C?
 
 Pupils affirm, holding up their letter cards.
@@ -449,37 +420,37 @@ You can also use resources to scaffold learning. These can include pictures, gra
 
 #### Title
 
-##### Introduction 
+##### Introduction
+
 What is the key point you want to make? Why are you writing?
 
 Idea 1 and three points about this.
-Idea 2 and three points about this.                                                                                                                                                                              Idea 3 and three points about this.     
+Idea 2 and three points about this. Idea 3 and three points about this.
 
 Useful words/phrases:
 
-- In my opinion 
-- I think 
-- Firstly, secondly 
-- Furthermore 
-- For example 
-- In addition 
-- In support of this 
-- For instance 
-- On the other hand 
+- In my opinion
+- I think
+- Firstly, secondly
+- Furthermore
+- For example
+- In addition
+- In support of this
+- For instance
+- On the other hand
 - Consequently
 
 In conclusion:
 
-- Make your argument 
-- Link back to the main point you made in your introductionIn conclusion…   
-
+- Make your argument
+- Link back to the main point you made in your introductionIn conclusion…
 
 Techniques to use:
 
-- Alliteration 
-- Direct address 
-- Repetition 
-- Facts/evidence 
+- Alliteration
+- Direct address
+- Repetition
+- Facts/evidence
 - Emotive language
 
 ### Video
@@ -499,7 +470,6 @@ A Year 1 class drawing a dog
 
 {details}
 Video script.
-
 
 Teacher: OK everyone, I am just going to stop you there. I can see we are finding it a bit tricky to draw a dog. I think it would help if we saw an example. Can anyone remember seeing a picture of a dog recently?
 
@@ -521,12 +491,12 @@ Teacher: Good idea! I will get the toy dog and sit him on my desk to help you. O
 
 {/details}
 
-
-
 ### Worked examples
+
 Worked examples are another great way of helping pupils to apply new ideas. You explored these in depth in Block 2 and they can be thought of as a tool for scaffolding and guiding student practice. By showing each step of a solution, you free up pupils’ working memory so that they can focus on the content and new ideas.
 
 #### Calculating the smallest angle of a right-angled triangle
+
 <img
   class="alignnone size-full wp-image-1901"
   src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-triangle_SEE-1.png"
@@ -535,7 +505,8 @@ Worked examples are another great way of helping pupils to apply new ideas. You 
   height="657"
 />
 
-#### How to structure a paragraph                          
+#### How to structure a paragraph
+
 <br>
           
 ##### Key point
@@ -559,8 +530,7 @@ For example, last week Year 4 were last to the lunch queue because they
  As you can see, not having enough seating is a key issue in our school
         because pupils have a lot of energy at lunchtime which they need to run
         off outside. If all they do is queue, then they won't work as hard when
-        they get back into lessons! 
-
+        they get back into lessons!
 
 Remember, worked examples should be planned in advance so you can be sure to explain each step in as simple and coherent a way as possible.
 
@@ -600,7 +570,6 @@ As pupils develop expertise, we need to make sure we continually increase the ch
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.2-Fading-guidance-Opt-1.png" alt="The diagram is a flowchart illustrating that the level of guidance is reduced over time until the pupil is able to complete a task without any support. The stages listed are:&lt;p>&lt;/p>Teacher instruction. Heavy guidance. Light guidance. Minimal guidance. Independence." />
 </figure>
 
-
 There are a number of ways that we can fade our guidance, e.g.:
 
 - Gradually removing scaffolding from activities and tasks so that pupils complete activities with greater independence.
@@ -617,7 +586,6 @@ As we have already considered, the ultimate aim is for pupils to be able to perf
 
 {details}
 References.
-
 
 Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014) <i>What makes great teaching. Review of the underpinning research</i>. Durham University: UK. Available at:<a href="http://bit.ly/2OvmvKO"> http://bit.ly/2OvmvKO</a>
 
@@ -640,4 +608,3 @@ Van de Pol, J., Volman, M., Oort, F., &amp; Beishuizen, J. (2015) The effects of
 Wittwer, J., &amp; Renkl, A. (2010) How Effective are Instructional Explanations in Example-Based Learning? A Meta-Analytic Review. <i>Educational Psychology Review</i>, <i>22</i>(4), 393–409.<a href="https://doi.org/10.1007/s10648-010-9136-5"> https://doi.org/10.1007/s10648-010-9136-5</a>.
 
 {/details}
-

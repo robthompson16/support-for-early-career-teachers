@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-2-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tbH4LsHrx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena Moore
+
 How we teach affects what pupils learn and there are important principles about instruction
 that are relevant across phases and subjects. But in order to make sense of these
 principles and be able to use them well, teachers need to have a detailed understanding
 of what they are teaching. Before we think about how to teach, we need to know what
 to teach. And the first step in instruction is to identify the learning content.
+
 ### Presenter main
+
 Pupils need to think hard about something in order to learn it and lesson time is
 precious. Teachers need to have a clear understanding of what they want their pupils
 to think about. And this is what we mean by identifying the learning content.
@@ -31,26 +31,30 @@ Lesson objectives, units of work, and the national curriculum can be helpful in 
 
 1. Which is bigger 3/7 or 5/7?
 2. Which is bigger 5/7 or 5/9?
-What specific knowledge and skills do they require? These tasks appear similar, but
-when you break them down, you see that they require different knowledge and skills.
-In the first, pupils will need to know about fractions with a shared denominator,
-along with other foundational content about number. In the second, pupils will need
-to know about fractions with different denominators. Teachers need to know the detail
-of what they are teaching so that they can pinpoint what it is that pupils need to
-learn.
+   What specific knowledge and skills do they require? These tasks appear similar, but
+   when you break them down, you see that they require different knowledge and skills.
+   In the first, pupils will need to know about fractions with a shared denominator,
+   along with other foundational content about number. In the second, pupils will need
+   to know about fractions with different denominators. Teachers need to know the detail
+   of what they are teaching so that they can pinpoint what it is that pupils need to
+   learn.
 
 Once you've identified what you want your pupils to learn in a lesson, it is important to check that what you're asking of them is manageable. Teachers can make learning manageable by ensuring they build on what pupils already know, break content down into smaller chunks, or identify the essential idea within more complex concepts, being wary of embedding misconceptions when they do this.
 
 Having thought really carefully about what pupils will be learning in the lesson, teachers then need to design a way of quickly assessing for it. An exit task is one effective way of doing this. A good exit task tests for the most important content within a lesson. Pupils need to be able to complete it quickly, and teachers should be able to assess it quickly. It can't assess all the content in the lesson. Instead, it should focus on the content that pupils need to learn before they move on. The better teachers identify the learning content of the lesson, the better they will know what to test for.
 
 ### Presenter exemplification framing
+
 In the next example, we're going to see an early career teacher working with their
 coach. It is a primary setting and the teacher is preparing a lesson of the year
 six class. The unit of work is rainforests and the teacher's preparing a lesson about
 where the Amazon rainforest is located. As you listen, pay particular attention to
 how the teacher and the coach do the following:
+
 - Identify the essential concepts, knowledge, skills and principles of the subject
+
 ### Exemplification: Sarah Cottingham and Paula Delaney
+
 _COACH (SARAH COTTINGHAM): So in this lesson, we want pupils to learn about where the Amazon rainforest is located. And we can see it's the third lesson in the unit about rainforests and pupils should be building their understanding of what a rainforest is._
 
 _So this unit is all about understanding why rainforests matter, which links to that key theme of sustainability that they've been learning about from year one to year six. Pupils need that really strong understanding of what the rainforest is if they're to understand why the rainforest is so important and some of those threats to the rainforest such as deforestation._
@@ -74,7 +78,9 @@ _ECT: Essentially, I really want them to see how big the Amazon rainforest is an
 _COACH: Definitely, so first, pupils will learn what the rainforest is and then they'll build upon that knowledge to learn about deforestation, which is that key issue within the theme of sustainability. This lesson gives pupils a concrete opportunity to see how big the Amazon rainforest is. They'll build upon this in future lessons when they explore how many people the Amazon rainforest supports, why deforestation is a problem and why sustainability matters._
 
 _If pupils don't understand how big the rainforest is, they'll find it hard to understand deforestation and sustainability. This is one of the most important things they'll need to take away from the lesson. So you'll need to draw their attention to it and check they've really understood it._
+
 ### Presenter exemplification analysis
+
 In this example, the teacher and that coach spent the majority of their time
 identifying, in detail, the essential concepts, knowledge and skills that pupils
 needed to learn in a lesson. The lesson was precise and concrete. The Amazon
@@ -89,17 +95,20 @@ They used knowledge of the unit of work to know what the really important conten
 The time that the teacher and their coach spent in identifying the learning content is likely to speed up the rest of their planning and make their lesson more effective.
 
 ### Presenter key ideas
+
 Identifying the learning content means thinking hard about what you're teaching.
 How much time do you currently spend on this? Before we finish, remind yourself of
 the key ideas that we've covered in this video. Which of these ideas will you focus
 on first?
-- Identify essential concepts, knowledge, skills and principles of the subject you are teaching. 
-- Provide opportunity for all pupils to learn and master these critical components. 
+
+- Identify essential concepts, knowledge, skills and principles of the subject you are teaching.
+- Provide opportunity for all pupils to learn and master these critical components.
 - Plan formative assessment tasks linked to lesson tasks.
+
 ### Presenter summary
+
 Identifying the learning content is a rewarding task, but it's demanding too. We
 often underestimate the knowledge and skills required and it can be especially
 difficult if you haven't taught the lesson or unit before. I'd highly recommend
 doing this task with someone who knows the content and the subject well.
- {/details}
-
+{/details}

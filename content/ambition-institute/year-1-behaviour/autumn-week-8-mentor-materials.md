@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 8"
 ---
 
-
 ## Structured support of learning
 
 ### Select a development area
@@ -13,7 +12,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Using steps
 
-#### Focused development areas                                                                                                                                                                                                                                                                                                                                                                                                   
+#### Focused development areas
 
 - Teacher breaks down what pupils need to do into sequential steps and uses what they know about pupils’ prior knowledge to make these steps manageable.
 - Teacher ensures pupils know the steps they need to take.
@@ -21,7 +20,6 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 {details}
 Example precise target: Teacher breaks down what pupils need to do into sequential steps and uses what they know about pupils’ prior knowledge to make these steps manageable.
-
 
 - **Not doing it at all:** Explain what pupils need to do by breaking it down into steps.
 - **Doing it but needs some improvement:** Explain what pupils need to do by breaking it down into steps that are clearly sequenced, e.g. by numbering them.
@@ -31,19 +29,19 @@ Example precise target: Teacher breaks down what pupils need to do into sequenti
 
 ### Development area 2: Breaking down models and explanations
 
-#### Focused development areas   
+#### Focused development areas
 
-- Teacher models aloud a process by breaking it down into sequential, manageable steps based on pupils' prior knowledge. 
-- Teacher checks that pupils have understood each part of the model and how it relates to the whole process or concept. 
+- Teacher models aloud a process by breaking it down into sequential, manageable steps based on pupils' prior knowledge.
+- Teacher checks that pupils have understood each part of the model and how it relates to the whole process or concept.
 - Teacher breaks down their explanations of concepts into manageable chunks based on pupils' prior knowledge and checks for understanding at appropriate points.
 
 ### Development area 3: Focusing attention
 
-#### Focused development areas   
+#### Focused development areas
 
 - Teacher ensures they have all pupils' attention when they model or explain and restates their expectations pre-emptively to help pupils to remain focused.
-- Teacher focuses pupils' attention on the important features of the model or explanation. 
-- Teacher limits distractions when modelling or explaining through their use of language, resources and instruction.                                    
+- Teacher focuses pupils' attention on the important features of the model or explanation.
+- Teacher limits distractions when modelling or explaining through their use of language, resources and instruction.
 
 ### Observe
 
@@ -66,5 +64,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Give manageable, specific and sequential instructions.
 - Check pupils’ understanding of instructions before a task begins.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

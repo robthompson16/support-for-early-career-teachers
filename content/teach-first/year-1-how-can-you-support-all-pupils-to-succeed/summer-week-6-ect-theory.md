@@ -16,27 +16,25 @@ However, if there is a pupil in your class who requires a greater level of suppo
 
 One of the contributing factors which leads to the feeling of being unprepared is the uniqueness of the individual pupil; children with the same diagnosed learning need may require very different support. That said, your knowledge and confidence will develop with experience as you progress through your career. You will add to your mental model of how to teach pupils who require a greater level of support, and your expertise will grow exponentially. While you are still at this early stage, it is essential that you seek support from colleagues and adhere closely to the advice of special education professionals. You are responsible for the progress and development of all your pupils, but this does not mean you are alone.
 
-
-
 ### Reflection
+
 Think of a pupil that you have observed or taught that has one of the four areas
 of needs explored last week:
 
-* communication and interaction needs such as Asperger’s
-    Syndrome
-* cognition and learning needs such as dyslexia
-* social, emotional and mental health difficulties such as an
-    attachment disorder
-* sensory or physical needs such as visual impairment
+- communication and interaction needs such as Asperger’s
+  Syndrome
+- cognition and learning needs such as dyslexia
+- social, emotional and mental health difficulties such as an
+  attachment disorder
+- sensory or physical needs such as visual impairment
 
 Consider the following questions and record your response in your notebook:
 
-* how prepared do you currently feel to identify strategies that would
-      support this pupil with their learning?
-* who could you seek support from within your setting?
+- how prepared do you currently feel to identify strategies that would
+  support this pupil with their learning?
+- who could you seek support from within your setting?
 
 You may wish to talk to your mentor more about this at your next mentor interaction.
-
 
 ## Personalising support
 
@@ -103,17 +101,14 @@ A stakeholder in education is someone who has an interest in the success and wel
 
 However, it is often forgotten that the pupil themselves is the most important stakeholder. Their voice matters too, and they should be encouraged to share which approaches they feel are working. It is essential to gather the views of the pupil and their family if the graduated approach is to work effectively. It will help to build a more holistic picture of the pupil so that you become more aware of the needs of the individual across different contexts.
 
-In the video below, listen to  Kelly Challis from the Driver Youth Trust, as she explains how engaging with stakeholders can make a huge difference in your ability to support a pupil with SEND.  
+In the video below, listen to Kelly Challis from the Driver Youth Trust, as she explains how engaging with stakeholders can make a huge difference in your ability to support a pupil with SEND.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oEzIuComD4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Working with Stakeholders – Kelly Challis
 
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   The adaptations you make to your everyday class teaching can have a great
@@ -190,8 +185,6 @@ Select one video (or transcript) to view that you feel most aligns with your dev
 {details}
 Video script - 1. Communication is key.
 
-
-
 <span style="font-weight: 400;">
   When working to support pupils with special needs or disabilities, we work
   with a variety of other stakeholders. During my time as a SENDCo I have worked
@@ -245,13 +238,10 @@ Video script - 1. Communication is key.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UpIb6Nxv_Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Parent view – Liane Bunn
 
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   Bill is 4 1/2 years old and has been deaf in the left ear from birth. He also
@@ -348,8 +338,6 @@ Video transcript.
 {details}
 Video script – 3. Graduated approach, pupil voice.
 
-
-
 <span style="font-weight: 400;">
   I taught a pupil who was diagnosed with dyslexia and obsessive-compulsive
   disorder with elements of autism. Here, I needed to put the pupil and their
@@ -405,18 +393,16 @@ Video script – 3. Graduated approach, pupil voice.
 
 A common theme running through all the videos is that of ‘clear communication’. Whether this be between parents, pupils or educational specialists, good communication is a key feature of successful stakeholder relationships and ultimately the success of the pupil.
 
-
-
 ### Reflection
+
 Consider the following questions and record your reflection in your notebook:
 
-* who could you communicate with within your present school about pupils
-      with SEN?
-* what transition points within school and between schools can you identify
-      where communication might be especially important?
-* how could you include the pupil's and parent or carer's views in planning
-      strategies for learning?
-
+- who could you communicate with within your present school about pupils
+  with SEN?
+- what transition points within school and between schools can you identify
+  where communication might be especially important?
+- how could you include the pupil's and parent or carer's views in planning
+  strategies for learning?
 
 ## Case Studies
 
@@ -430,16 +416,15 @@ Autism spectrum condition case study - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8m5T2ao7EoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Autism spectrum condition case study – Early Years
 
 {details}
 Video transcript.
 
-
 The child I am going to talk about is a pupil with autism. He joined our school in Nursery, just after his second birthday, and  he entered my Reception classroom with an Educational Health Care Plan to support him. To ensure I effectively supported him with his learning when he transitioned from nursery to reception, I used the graduated approach.
 
 #### Assess
+
 During the assess phase, I started by trying to gain an understanding of the pupil
 as an individual to understand what their learning needs might be. To do this I made
 use of any available data – I spoke to the previous class teacher about how they
@@ -447,7 +432,9 @@ had supported him in Nursery, whether there had been any interventions, timetabl
 changes or any other resources used to support him. I looked through his EHCP to
 identify what his targets were and spoke to the SENCo for further guidance on how
 I could support him to achieve these targets through adaptive teaching.
+
 #### Plan
+
 From the assess phase, it became apparent that the pupil was struggling with different
 sensory experiences and became discomforted when touching different textures. Therefore,
 during the planning stage, I focused on planning for strategies that would support
@@ -456,7 +443,9 @@ with the SENDCo, I planned to provide the pupil with 3 different activities each
 week to support his sensory targets. The activities I planned for him to do were
 touching rainbow slime, painting using his fingers and playing with farm animals
 that were in a tray of foam.
+
 #### Do
+
 To implement these activities in the classroom, I put the activities in what we call
 his ‘challenge boxes’. This is a tray in the classroom that is set up just for him.
 In the tray, there was one activity for him to access at a time. These activities
@@ -465,7 +454,9 @@ although, he was encouraged to access and complete these activities independentl
 Once he had completed one activity, it was replaced with a different one. He was
 encouraged to complete the three activities several times over the course of the
 week.
+
 #### Review
+
 During the review phase, I met with other stakeholders to discuss the progress the
 pupil had made in our school. We do the ‘review’ element at the end of each half-term
 to see how the pupil has developed, which helps to inform their next steps. The pupil
@@ -482,31 +473,28 @@ The process of assess, plan, do, review, is continually used to shape the suppor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJPlqUYsGDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Barriers to reading case study – Primary
 
 {details}
 Video transcript.
 
+This pupil was in Year 3 and their barrier to learning was reading. They had not passed the phonics screening check in Year 1 but had passed in Year 2. Their attainment was below age-related expectations but not significant enough for a specific SEND diagnosis.
+So, although this pupil was making some progress, it was reading that continued to be the challenge. I used the graduated approach to identify the pupils' needs, generate strategies to support them and evaluate these strategies based on the pupil’s progress. During the assessment phase I gathered as much information as possible. Through progress meetings, teachers had identified that the child had a 2.3 score for reading, which was significantly behind their age. As a result, further professional discussions about the pupil’s specific barriers to reading were required.  
+We also met with parents to discuss further support, before an in-depth gap analysis was carried out by the English lead to support the teacher with next steps in the pupil’s learning. This analysis identified that whilst decoding was not an issue the pupil was not reading for meaning. Although they could confidently segment and blend, they were not making meaning from reading in sentences. During the plan phase, the teacher used the information obtained from assessments and parents to decide what actions to take place. It was identified that the pupil would need support and interventions to help them decode unfamiliar words using segmenting and blending.
+They would also need support to develop their comprehension of what they were reading. To support the pupil to meet their decided outcomes, specific interventions were put in place such as:
 
-This pupil was in Year 3 and their barrier to learning was reading. They had not passed the phonics screening check in Year 1 but had passed in Year 2. Their attainment was below age-related expectations but not significant enough for a specific SEND diagnosis. 
-So, although this pupil was making some progress, it was reading that continued to be the challenge. I used the graduated approach to identify the pupils' needs, generate strategies to support them and evaluate these strategies based on the pupil’s progress.  During the assessment phase I gathered as much information as possible. Through progress meetings, teachers had identified that the child had a 2.3 score for reading, which was significantly behind their age. As a result, further professional discussions about the pupil’s specific barriers to reading were required.  
-We also met with parents to discuss further support, before an in-depth gap analysis was carried out by the English lead to support the teacher with next steps in the pupil’s learning. This analysis identified that whilst decoding was not an issue the pupil was not reading for meaning. Although they could confidently segment and blend, they were not making meaning from reading in sentences.  During the plan phase, the teacher used the information obtained from assessments and parents to decide what actions to take place. It was identified that the pupil would need support and interventions to help them decode unfamiliar words using segmenting and blending. 
-They would also need support to develop their comprehension of what they were reading.  To support the pupil to meet their decided outcomes, specific interventions were put in place such as: 
 - Reading to an adult every day with a specific focus on segmenting and blending unfamiliar words
 - Receiving a reading intervention that focused on the pupil's ability to develop comprehension strategies such as re-reading sentences if they don’t seem to make sense
 - Teacher providing focused support in the lessons such as working with the pupil in a guided group at least once a week
 - Lesson visits from an SLT member to engage the pupil in discussions and promote a love of reading and book choices
 - Reading strategies were shared with his parents and it was asked that he read to them daily
 
-During the review phase, we identified that the impact of this support on the pupil was positive. The pupil had become more confident at reading, the parents were more engaged in the child’s learning and the gap between the child’s ability and age-related reading expectations had narrowed.  As cycle of the graduated approach continued, the pupil was tracked through assessment, their needs were met through carefully tailored intervention and teaching following on from the assessment, and there was ongoing monitoring from SLT through daily lesson visits, pupil voice and tracking. The regular review of their progress allowed us to shift the support to meet their changing needs. 
-
+During the review phase, we identified that the impact of this support on the pupil was positive. The pupil had become more confident at reading, the parents were more engaged in the child’s learning and the gap between the child’s ability and age-related reading expectations had narrowed. As cycle of the graduated approach continued, the pupil was tracked through assessment, their needs were met through carefully tailored intervention and teaching following on from the assessment, and there was ongoing monitoring from SLT through daily lesson visits, pupil voice and tracking. The regular review of their progress allowed us to shift the support to meet their changing needs.
 
 {/details}
 
 {details}
 Video script - Graduated Approach, Cognition and Learning.
-
 
 Peter is in year 9. He does not have a specific diagnosis. However, he has a significant delay in his cognitive (thinking skills/thought processes) ability and this translates as a major barrier to his learning on a daily basis. Peter learns at a significantly slower pace than his peers, despite robust quality-first teaching. As such, he requires interventions, above and beyond that which is provided to his peers.
 
@@ -535,30 +523,32 @@ idea of what they need to do to improve their work. Personalised support was pla
 for Peter to address his identified outcomes; specific teaching strategies were communicated
 to his teachers via his Learning Plan outlining the approaches and resources that
 must be used in his lessons to meet his needs. At this stage these included:
-- Teaching material in small chunks and providing memory joggers and visual checklists 
+
+- Teaching material in small chunks and providing memory joggers and visual checklists
 - Providing additional scaffolding/word banks for extended writing
 - Pre-teaching of new vocabulary
 - Using a laptop for extended writing tasks
 - Using a multi-sensory approach to literacy
-**Do** - The Code of Practice makes it clear that it is the
-responsibility of class and subject teachers to implement the plan on a
-day-to-day basis.
+  **Do** - The Code of Practice makes it clear that it is the
+  responsibility of class and subject teachers to implement the plan on a
+  day-to-day basis.
 
 **Review** - A timescale for reviewing the plan, and details of how
 progress will be monitored, also needs to be identified. When the review meeting
 between the pupil, parents and any relevant professionals takes place, it is helpful
 to consider the following questions:
-- What progress has the pupil made? Have they achieved their agreed targets and what is the evidence for this? 
+
+- What progress has the pupil made? Have they achieved their agreed targets and what is the evidence for this?
 - What impact has the support/intervention had on progress?
-- What are the pupil’s, parents’ and professionals’ views on the support/intervention? 
+- What are the pupil’s, parents’ and professionals’ views on the support/intervention?
 - What changes need to be made to targets or provision next term?
-The assess, plan, do, review process is a cycle – the idea being that this process
-is continual. If the review shows a pupil has made really good progress, this may
-mean they no longer require the additional provision made through SEN support. If
-this is the case, the pupil is likely to be taken off the SEN record and, instead,
-will be monitored to ensure progress is sustained through inclusive high-quality
-teaching. This is a continual process unless the pupil narrows the progress gap between
-them and their peers sufficiently.  {/details}
+  The assess, plan, do, review process is a cycle – the idea being that this process
+  is continual. If the review shows a pupil has made really good progress, this may
+  mean they no longer require the additional provision made through SEN support. If
+  this is the case, the pupil is likely to be taken off the SEN record and, instead,
+  will be monitored to ensure progress is sustained through inclusive high-quality
+  teaching. This is a continual process unless the pupil narrows the progress gap between
+  them and their peers sufficiently. {/details}
 
 ### Communication and interaction
 
@@ -566,18 +556,17 @@ Speech and language case study - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JgboW4KQqLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Speech and language case study - Early Years
 
 {details}
 Video transcript.
-
 
 This case study describes how we have used the graduated approach to support a pupil – referred to as Pupil A throughout this video – with communication and interaction needs. The system follows the four stages, often referred to as a 'cycle': Assess, Plan, Do, Review. (For further information about this cycle, often referred to as the 'graduated approach', see Chapter 6 of the SEND Code of Practice 2015.)
 
 Pupil A is a 4 year old, Asian, summer-born boy, who started his Reception year after having a limited time spent in an education setting, from our feeder Nursery School. The pupil is also a second language learner, speaking Hindko at home. Pupil A does not have any diagnosis of specific language impairment (SLI) at this stage. His non-verbal skills are a relative strength. He displays signs of phonological disorder with features of verbal dyspraxia, which means he makes pronunciation errors, but again no diagnosis as his attendance was poor at nursery. Pupil A also has a hearing impairment and is involved with the hearing specialist teacher who supports with radio aids. He does not wear his hearing aids at home, which is impacting on his hearing loss. These concerns are severely impacting on his ability to make himself understood. He doesn’t have an EHCP at present, but concerns were raised by the SENDCo at the previous setting.
 
 #### Assess
+
 As the class teacher, I worked closely with the SENDCo to discuss Pupil A’s needs
 and created a baseline assessment by which progress will be measured. One of the
 significant issues we faced was parental engagement with learning at home, which
@@ -591,7 +580,9 @@ specialist to discuss all of the issues outlined above. In this meeting, we also
 found that his parents felt Pupil A could speak in complex sentences in his home
 language so our commissioned Speech and Language therapist arranged for a language
 assessment in his home language.
+
 #### Plan
+
 The speech and language assessment provided a thorough assessment in Pupil A’s home
 language and showed that he was significantly below in his home and second language.
 Parents needed support in accepting that he had additional needs, even though mum
@@ -600,20 +591,25 @@ up for him where both staff and parents agreed what outcomes they hoped would be
 made, and by what date. For example, one outcome was for him to be able to recall
 a number of nouns for common objects, e.g. television, banana, etc. by the next review
 date. A record of this plan was kept in the school and one was sent home.
+
 #### Do
+
 Pupil A was given extra support. Some of the interventions that were put in place
 were adaptations to my classroom practice whilst others were interventions carried
 out by specialists. We also involved his parents in this stage of the process. Some
 examples of the adaptations to practice made were:
+
 - Using a visual timetable to support with routines.
-- Pre-teaching of topics before it was introduced to the rest of the class. 
-- Allocating a quiet space with the support of the hearing impairment specialist. 
-- Providing daily Time to Talk interventions with a small group of children. 
-- The commissioned Speech and Language therapist focussed on Blank Level 1-2 questioning and quieter speech sounds such as ‘sh’, ‘ch’, ‘th’ and ‘r.’ 
+- Pre-teaching of topics before it was introduced to the rest of the class.
+- Allocating a quiet space with the support of the hearing impairment specialist.
+- Providing daily Time to Talk interventions with a small group of children.
+- The commissioned Speech and Language therapist focussed on Blank Level 1-2 questioning and quieter speech sounds such as ‘sh’, ‘ch’, ‘th’ and ‘r.’
 - Asking parents to practise basic words with him.
-- Asking his parents to ensure he wears his hearing aid at home and making them aware that this would be monitored. 
+- Asking his parents to ensure he wears his hearing aid at home and making them aware that this would be monitored.
 - Each half-term, the hearing impairment specialist scheduled home visits to check the frequency of the use of hearing aids at home
+
 #### ReviewI as class teacher attended half-termly meetings with the team
+
 around the child including the SENDCo, Hearing Impairment Specialist, Speech and
 Language Therapist and parents. Here we reviewed his targets and quickly
 identified that Pupil A was struggling to make progress. In particular, he found
@@ -621,40 +617,49 @@ it challenging to retain information. As an outcome of the meeting, it was
 agreed that the SENDCo, with the support of the class teacher writing a
 description of the needs of Pupil A, would engage the community paediatrician in
 order to enable us to explore any further underlying issues.
+
 ### The graduated approach – the second cycle
+
 During the review stage of the first cycle, it was found that Pupil A was not
 meeting his outcomes, so a second cycle began which included a more detailed
 assessment which led to an even more personalised plan to support Pupil A.
+
 #### Assess
+
 Through the involvement of the paediatrician, the Early Support Monitoring
 Protocol for Deaf Babies and Children (ESMP) was used to assess his development.
 This indicated that Pupil A, who was 4 years and 9 months old at the time,
 experienced a significant cognitive delay and was at a level of development of a
 child between 15 and 18 months of age.
+
 #### Plan
+
 During the second plan phase, it was recommended that Pupil A was offset and so
 that he could repeat his Reception year. The reasons why this was necessary were
 clearly explained to his parents and they supported this decision too. New
 outcomes were decided upon and the cycle continued.
+
 #### Do
+
 Using the graduated approach helped to identify Pupil A’s significant needs.
 The **Assess, Plan, Do, Review** cycle needs to be fluid and
 flexible to ensure both the teacher and school can respond to the pupil's needs.
 By keeping him back a year, we were able to help him meet new outcomes. Several
 of the interventions included in the initial ‘Do’ phase continued into the
 second cycle.
+
 #### Review
+
 Although Pupil A’s attainment remained behind his peers, his progress became
 much more rapid and sustained over time. The **Assess, Plan, Do, Review** cycle is continually used as Pupil A moves through school to ensure
 the provision in place supports his evolving needs as identified on his EHCP,
-which was gained during Pupil A’s offset year in Reception. 
+which was gained during Pupil A’s offset year in Reception.
 {/details}
 
 Speech and language case study - Secondary
 
 {details}
 Script.
-
 
 Speech and language case study – Secondary
 
@@ -695,45 +700,45 @@ Following this, personalised support was implemented for Mikey to address his id
 - Using of a laptop for extended writing tasks
 - Using social stories to support social interaction
 - Carefully planning when to work collaboratively
-- Developing strategies to support independence and self-help when struggling with tasks 
+- Developing strategies to support independence and self-help when struggling with tasks
 - Providing scaffolding and/or word banks for extended writing
 - Providing visual cues and memory
-**Do** – The Code of Practice makes it clear that it is the
-responsibility of class and subject teachers to implement the plan on a
-day-to-day basis.
+  **Do** – The Code of Practice makes it clear that it is the
+  responsibility of class and subject teachers to implement the plan on a
+  day-to-day basis.
 
 **Review** – A timescale for reviewing the plan, and details of how
 progress will be monitored, also need to be identified. When the review meeting between
 the pupil, parents and any relevant professionals takes place, it is helpful to consider
 the following questions:
-- What progress has the pupil made? Have they achieved their agreed targets and what is the evidence for this? 
+
+- What progress has the pupil made? Have they achieved their agreed targets and what is the evidence for this?
 - What impact has the support/intervention had on progress?
-- What are the pupil’s, parents’ and professionals’ views on the support/intervention? 
+- What are the pupil’s, parents’ and professionals’ views on the support/intervention?
 - What changes need to be made to targets or provision next term?
-The assess, plan, do, review process is a cycle – the idea being that this process
-is continual. If the review shows a pupil has made really good progress, this may
-mean they no longer require the additional provision made through SEN support. If
-this is the case, the pupil is likely to be taken off the SEN record and, instead,
-will be monitored to ensure progress is sustained through inclusive high-quality
-teaching. This is a continual process unless the pupil narrows the progress gap between
-them and their peers sufficiently.  {/details}
+  The assess, plan, do, review process is a cycle – the idea being that this process
+  is continual. If the review shows a pupil has made really good progress, this may
+  mean they no longer require the additional provision made through SEN support. If
+  this is the case, the pupil is likely to be taken off the SEN record and, instead,
+  will be monitored to ensure progress is sustained through inclusive high-quality
+  teaching. This is a continual process unless the pupil narrows the progress gap between
+  them and their peers sufficiently. {/details}
 
 ### Social, emotional and mental health
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DOm-7enD_Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Attachment and hypervigilence case study
 
 {details}
 Video transcript.
 
-
 I taught a pupil who was diagnosed with an attachment disorder and hypervigilance. Along with some learning difficulties, this pupil also presented with some very challenging behaviour. They lacked confidence in themselves and would often be in low mood. If they felt anxious they could be quite hyperactive in class, and did find it difficult to concentrate for long periods of time.
 
 The level of support around this pupil were highly personalised and the graduated approach was something I used to monitor progress carefully and support us in our judgements as to whether they were having any impact or not.
 
 #### Assess
+
 Before this pupil entered my class, to support with assessments, they actually visited
 my classroom several times with their current teacher. They took part in some of
 my lessons, got to know where things were in the room, and I took this opportunity
@@ -750,7 +755,9 @@ found effective and established some norms about how were going to communicate. 
 disorder or hypervigilance weren’t things I knew too much about at the time, so I
 also did a lot of reading and finding  strategies on my own, as well as talking to
 the SENCo about what was working well in school.
+
 #### Plan
+
 The first question we would ask ourselves as we planned out a strategy or intervention
 was always ‘will this pupil feel safe in this situation?’ This didn’t mean that I
 as a teacher was putting them in a dangerous situation, more that if the pupil perceived
@@ -766,7 +773,9 @@ as possible about what was happening. Strategies in the plan were things like vi
 timetables, me giving clear explanations, writing instructions down for them, support
 with transitioning between the classroom and the playground from a TA, class countdown
 timers to support focus, and reward charts to praise good behaviour.
+
 #### Do
+
 Along with the strategies that I planned, I stuck to my routines for the day very
 tightly, I would share what was happening in the day using a visual timetable and
 if anything was going to deviate from this I would speak to this pupil to prepare
@@ -784,7 +793,9 @@ We also set up a routine whereby once a week the pupil would support children in
 the younger year groups in Maths. This was to try and encourage self-confidence,
 but also to promote and reward calm and patient behaviour – which they needed to
 exhibit when working with the younger pupils.
+
 #### Review
+
 The strategies we put in place to support the pupil’s self-image and behaviour were
 generally effective. If they ever weren’t, it was quick to identify, as their behaviour
 would change. It meant that I was very responsive as a teacher. The work the pupil
@@ -798,21 +809,20 @@ I taught this pupil for two years and I learnt a lot about them and also my own 
 
 {/details}
 
-
-
 ### Final reflection
-At the end of the last session you began to reflect on how your actions to support a pupil aligned with the assess, plan, do, review cycle. You plotted your actions so far into a table. 
+
+At the end of the last session you began to reflect on how your actions to support a pupil aligned with the assess, plan, do, review cycle. You plotted your actions so far into a table.
 
 Return to this table and consider your learning from this session. In response to the questions below, add additional information or actions to the cycle:
 
-* were there any strategies from the case studies that would be useful to
-      explore?
-* can you effectively deploy any support staff?
-* where have/could you have engaged with parents? How could you make the
-      most of parent’s evening to share important information?
-* have you sought support from the SENCo?
-* have you spoken to the pupil themselves about their learning?
-* are there any additional stakeholders that could support?
+- were there any strategies from the case studies that would be useful to
+  explore?
+- can you effectively deploy any support staff?
+- where have/could you have engaged with parents? How could you make the
+  most of parent’s evening to share important information?
+- have you sought support from the SENCo?
+- have you spoken to the pupil themselves about their learning?
+- are there any additional stakeholders that could support?
 
 Prepare to discuss this plan at your next training session, as well as any strengths and challenges you faced with the approach in general.
 

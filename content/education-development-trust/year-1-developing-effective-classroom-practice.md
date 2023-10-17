@@ -4,7 +4,6 @@ heading: "First half-term: developing effective classroom practice"
 caption: "Year 1"
 ---
 
-
 In this module you'll focus on the fundamental techniques you can use to become a more effective teacher.
 
 ## Module introduction
@@ -18,7 +17,7 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Go through the module introduction to see what the ECT will be learning. 
+Go through the module introduction to see what the ECT will be learning.
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-0-mentor-materials)
 
@@ -26,8 +25,8 @@ Go through the module introduction to see what the ECT will be learning.
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- work through the self-study materials below
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 50 minutes.
 
@@ -39,9 +38,9 @@ Duration: 50 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with the ECT to reflect on what they’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
-* briefly watch them putting this week’s development focus into action in the classroom
+- read the ECT’s study materials below
+- catch up with the ECT to reflect on what they’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- briefly watch them putting this week’s development focus into action in the classroom
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-1-mentor-materials)
 
@@ -49,8 +48,8 @@ For this topic you should:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 25 minutes.
 
@@ -62,17 +61,16 @@ Duration: 25 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
+- read the ECT’s study materials below
+- catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-mentor-materials)
 
 ## Week 3: effective teaching
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -84,8 +82,8 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 45 minutes.
 
@@ -97,8 +95,8 @@ Duration: 45 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
+- read the ECT’s study materials below
+- catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-4-mentor-materials)
 
@@ -106,8 +104,8 @@ For this topic you should:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 50 minutes.
 
@@ -118,14 +116,14 @@ Duration: 50 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
+- read the ECT’s study materials below
+- catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-5-mentor-materials)
 
 ## Week 6: lesson observations
 
-Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up. 
+Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up.
 
 Duration: 50 minutes.
 
@@ -135,13 +133,13 @@ Duration: 50 minutes.
 
 ### Mentors
 
-Use the materials below for an end of module review with the ECT. 
+Use the materials below for an end of module review with the ECT.
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-6-mentor-materials)
 
 ## End of module reflections
 
-Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up. 
+Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up.
 
 Duration: 10 minutes.
 
@@ -152,4 +150,3 @@ Duration: 10 minutes.
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-0-mentor-materials)
-

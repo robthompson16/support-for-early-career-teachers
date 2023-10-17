@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 3"
 ---
 
-
 ## Types of knowledge
 
 ### Select a development area
@@ -13,14 +12,13 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Critical and supporting content
 
-#### Focused development area     
+#### Focused development area
 
 - Teacher, with the support of a colleague, uses subject resources to identify the critical content (knowledge, skills and concepts) that pupils need to remember and how it can be brought to life and supported by additional supporting content.
 - Teacher, with the support of a colleague, accumulates and refines supporting content such as powerful analogies, illustrations, examples, explanations and demonstrations that support pupils to understand critical content and bring teaching to life.
 
 {details}
 Example precise target: Teacher, with the support of a colleague, uses subject resources to identify the critical content (knowledge, skills and concepts) that pupils need to remember and how it can be brought to life and supported by additional supporting content.
-
 
 - **Not doing it at all:** With the support of a colleague and using subject resources, e.g. a scheme of work, lesson resources or the relevant national curriculum document, identify critical content you will need to ensure that pupils remember.
 - **Doing it but needs some improvement:** With the support of a colleague and using subject resources, e.g. a scheme of work or lesson resources, distinguish between content that is critical (that you will need pupils to remember) and supporting content that is important to bring teaching to life and help pupils understand critical content.
@@ -30,18 +28,18 @@ Example precise target: Teacher, with the support of a colleague, uses subject r
 
 ### Development area 2: Sequencing and revisiting knowledge
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher, with the support of a colleague, identifies and plans for necessary prior knowledge to be taught or revisited before it is built upon. 
-- Teacher, with the support of a colleague, uses subject resources to identify core concepts (ideas that reoccur across the subject) and understands where these reoccur in the curriculum. 
+- Teacher, with the support of a colleague, identifies and plans for necessary prior knowledge to be taught or revisited before it is built upon.
+- Teacher, with the support of a colleague, uses subject resources to identify core concepts (ideas that reoccur across the subject) and understands where these reoccur in the curriculum.
 - Teacher, with the support of a colleague, plans for pupils to revisit and retrieve critical content (knowledge, skills and concepts) over time so pupils can master it.
 
 ### Development area 3: Connecting knowledge in mental models
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher, with the support of a colleague, uses subject or phase resources to identify the core concepts that reoccur in the subject and plans to link to these in their teaching. 
-- Teacher, with the support of a colleague, plans how they can link critical content (knowledge, skills and concepts) to what pupils already know.                                                                                                                                                                                        
+- Teacher, with the support of a colleague, uses subject or phase resources to identify the core concepts that reoccur in the subject and plans to link to these in their teaching.
+- Teacher, with the support of a colleague, plans how they can link critical content (knowledge, skills and concepts) to what pupils already know.
 
 ### Observe
 
@@ -64,5 +62,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Discuss curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge.
 - Revisit the big ideas of the subject over time and teach key concepts through a range of examples, using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by experienced colleagues that carefully sequence content).
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

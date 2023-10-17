@@ -8,7 +8,7 @@ next_path: "/education-development-trust/year-2-deepening-assessment-feedback-an
 
 The intended outcomes of this activity are for you to learn that:
 
-* working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload
-* scaffolding self-assessment by sharing model work with pupils, highlighting key details
-* working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback. For example, using whole class feedback or well supported peer- and self-assessment
-* reducing the opportunity cost of marking. For example, using abbreviations and codes in written feedback
+- working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload
+- scaffolding self-assessment by sharing model work with pupils, highlighting key details
+- working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback. For example, using whole class feedback or well supported peer- and self-assessment
+- reducing the opportunity cost of marking. For example, using abbreviations and codes in written feedback

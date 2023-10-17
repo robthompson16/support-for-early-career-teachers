@@ -53,21 +53,20 @@ Part of effective behaviour management involves setting clear rules and consiste
 
 - Time on task: While pupil behaviour is not a perfect indicator of whether pupils are learning (Coe, 2013), there is a significant relationship between the amount of time pupils spend on task and how much they learn (Muijs & Reynolds, 2010).
 
-- Peer effects: Pupil behaviour is influenced by that of their peers (IES, 2008). The more that individual pupils adopt on-task behaviours, the more likely it is that other pupils will follow them.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-  
-- Positive reinforcement: Positive reinforcement can create an effective learning environment. Positive reinforcement entails providing acknowledgement, praise and rewards for positive behaviours. However, teachers must be careful not to overuse praise, as this can inadvertently communicate low expectations (Coe et al., 2014). To avoid this, teachers can use ‘acknowledgement’ when expectations are merely met and reserve ‘praise’ for when they are exceeded. Sanctions for negative behaviours can also be used alongside positive reinforcement. Providing more praise than reprimand has been found to be most effective (IES, 2008).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+- Peer effects: Pupil behaviour is influenced by that of their peers (IES, 2008). The more that individual pupils adopt on-task behaviours, the more likely it is that other pupils will follow them.
+- Positive reinforcement: Positive reinforcement can create an effective learning environment. Positive reinforcement entails providing acknowledgement, praise and rewards for positive behaviours. However, teachers must be careful not to overuse praise, as this can inadvertently communicate low expectations (Coe et al., 2014). To avoid this, teachers can use ‘acknowledgement’ when expectations are merely met and reserve ‘praise’ for when they are exceeded. Sanctions for negative behaviours can also be used alongside positive reinforcement. Providing more praise than reprimand has been found to be most effective (IES, 2008).
 
 - Pupil success: Ensuring a high pupil success rate is a powerful way to foster pupil behaviour and learning (Rosenshine, 2012). How Ms Foden communicates her expectations of pupil success can influence what they do and achieve. For example, if she inadvertently communicates low expectations of success, pupils can start to think that they can’t do it (Tsiplakides & Keramida, 2010) and reduce the amount of effort they put in (Gutman & Schoon, 2013). Conversely, pupils’ prior experiences of success at a specific, appropriately challenging task makes it more likely they will be motivated to persist at similar tasks in the future; this also makes it more likely they will be successful at such tasks (Gutman & Schoon, 2013). Ms Foden should balance challenge with high success rate (Rosenshine, 2012).
 
 - Motivation: Pupil motivation can be intrinsic (driven by the task itself) or extrinsic (driven by rewards and sanctions). Pupils who are motivated intrinsically are more likely to stay on task longer and persist when learning gets challenging (Lazowski & Hulleman, 2016). Over time, Ms Foden should aim to reduce extrinsic motivators and increase pupil intrinsic motivation. For example, helping pupils to master challenging content, and make links between their long-term goals and the work they are doing in school, can help pupils to journey from needing extrinsic motivation to being motivated to work intrinsically. Building effective relationships with parents, carers and families can improve pupils’ motivation, as well as pupil behaviour and academic success (EEF, 2018). Ms Foden should use opportunities like parents evening to communicate proactively and engage parents and carers in their children’s schooling.
 
-- Self-regulation: The ability to steer our own behaviour and learning – is a strong predictor of attainment and future success. A key aspect of this is emotional regulation (Gutman & Schoon, 2013). This is important because negative pupil emotions can lead to pupils avoiding a task (Kluger & DeNisi 1996) and also because the ability to regulate one’s emotions affects pupils’ ability to learn, success in school and future life (EEF, 2017). Effective self-regulation also requires pupils to develop metacognitive strategies – how they plan, monitor and evaluate their approaches to specific tasks. Teacher support for pupil metacognition is likely to increase pupil self-regulation, success and therefore motivation (EEF, 2017).                                                                                                                                                    
+- Self-regulation: The ability to steer our own behaviour and learning – is a strong predictor of attainment and future success. A key aspect of this is emotional regulation (Gutman & Schoon, 2013). This is important because negative pupil emotions can lead to pupils avoiding a task (Kluger & DeNisi 1996) and also because the ability to regulate one’s emotions affects pupils’ ability to learn, success in school and future life (EEF, 2017). Effective self-regulation also requires pupils to develop metacognitive strategies – how they plan, monitor and evaluate their approaches to specific tasks. Teacher support for pupil metacognition is likely to increase pupil self-regulation, success and therefore motivation (EEF, 2017).
 
 #### Behaviour that fosters effective learning
 
 In the second half of the _Behaviour_ strand, we will explore ways that teachers can foster effective learning. This part of the strand has lots of connections with the _Instruction_ strand. Evidence suggests that there are several specific ideas and practices that teachers can use to generate behaviours that further foster effective learning in the classroom. These include:
 
-- Guided instruction: Pupils learn best when they build on what they already know, and when teachers guide them clearly and directly towards what they need to know – an approach sometimes referred to as ‘explicit instruction’ (Coe et al., 2014). This is in contrast to less guided instruction, where pupils are left to ‘join the dots’ or discover things themselves. Once a teacher has established their classroom expectations, maintaining good pupil behaviour while adding to their teaching repertoire requires effective instruction. There are links with the Instruction strand later in behaviour. 
+- Guided instruction: Pupils learn best when they build on what they already know, and when teachers guide them clearly and directly towards what they need to know – an approach sometimes referred to as ‘explicit instruction’ (Coe et al., 2014). This is in contrast to less guided instruction, where pupils are left to ‘join the dots’ or discover things themselves. Once a teacher has established their classroom expectations, maintaining good pupil behaviour while adding to their teaching repertoire requires effective instruction. There are links with the Instruction strand later in behaviour.
 - Practice: Getting pupils to think about and practise expected behaviours, by guiding them and reinforcing desirable behaviours, can foster positive changes in pupil behaviour change over time (IES, 2008). Guided practice can develop pupil metacognition linked to specific tasks, and practice can also develop pupils’ capacity to self-regulate their emotions, which can support pupils to be more successful and independent over time (EEF, 2017).
 
 Holding high expectations is one particularly important yet hard-to-pin-down part of creating an effective learning environment. When we talk about teacher expectations we mean: the beliefs that teachers hold and the messages that they communicate regarding what their pupils are capable of, both in terms of behaviour and learning. In turn, this influences the levels of classroom challenge and support that teachers provide (Coe et al., 2014). Inadvertently communicating low expectations can lead to a ‘self-fulfilling prophecy’, where pupils behave and learn in line with what the teacher expects rather than what they are capable of (Murdock-Perriera et al., 2018; Tsiplakides & Keramida, 2010).
@@ -78,22 +77,20 @@ Behaviour is only one piece of the effective teaching puzzle. Effective instruct
 
 So, while Ms Foden must work hard to develop her understanding and approach around behaviour, she must also recognise that this needs to go hand-in-hand with things like providing the right balance of challenge and support for helping her pupils to experience regular success in the classroom. It is little wonder that becoming a great teacher takes time and continued learning.
 
-
-
 ### Key takeaways
+
 Ms Foden can promote positive pupil behaviour and an effective learning environment
 by understanding that:
-- holding high expectations, creating an effective learning environment and managing behaviour effectively all positively impact pupil learning outcomes 
-- creating an effective learning environment over time can also have benefits for classroom relationships, pupil attitudes to learning, pupil wellbeing and wider outcomes and wider school culture 
-- teachers can create effective learning environments through proactive, reactive and escalation strategies 
-- teachers can foster further effective learning behaviours through developing behaviours that help pupils to learn more successfully 
-- teacher expectations play an important (yet complex) role in influencing pupil behaviour and learning 
+
+- holding high expectations, creating an effective learning environment and managing behaviour effectively all positively impact pupil learning outcomes
+- creating an effective learning environment over time can also have benefits for classroom relationships, pupil attitudes to learning, pupil wellbeing and wider outcomes and wider school culture
+- teachers can create effective learning environments through proactive, reactive and escalation strategies
+- teachers can foster further effective learning behaviours through developing behaviours that help pupils to learn more successfully
+- teacher expectations play an important (yet complex) role in influencing pupil behaviour and learning
 - balancing the challenge and support that teachers provide in order that pupils experience success is key
- 
 
 {details}
 References.
-
 
 Carroll, J., Bradley, L., Crawford, H., Hannant, P., Johnson, H., &amp; Thompson, A. (2017). _SEN support: A rapid evidence assessment. [bit.ly/ecf-dfe](http://bit.ly/ecf-dfe)_
 
@@ -105,9 +102,9 @@ Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). _What makes great t
 
 Chetty, R., Friedman, J. N. &amp; Rockoff, J. E. (2014). Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood. _American Economic Review, 104_(9), 2633–2679. <a href="http://Bit.ly/ecf-che" target="_blank" rel="noopener">Bit.ly/ecf-che</a>
 
-Gutman, L. &amp; Schoon, L. (2013). _The impact of non-cognitive skills on the outcomes of young people._ <a href="http://bit.ly/ecf-eef2" target="_blank" rel="noopener">bit.ly/ecf-eef2</a>
+Gutman, L. &amp; Schoon, L. (2013). *The impact of non-cognitive skills on the outcomes of young people.* <a href="http://bit.ly/ecf-eef2" target="_blank" rel="noopener">bit.ly/ecf-eef2</a>
 
-IES (2008). _Reducing Behavior Problems in the Elementary School Classroom._ <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">bit.ly/ecf-ies</a>
+IES (2008). *Reducing Behavior Problems in the Elementary School Classroom.* <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">bit.ly/ecf-ies</a>
 
 Education Endowment Foundation (2017). _Metacognition and Self-regulated learning Guidance Report._ <a href="http://bit.ly/ecf-eef" target="_blank" rel="noopener">bit.ly/ecf-eef</a>
 
@@ -132,4 +129,3 @@ Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco, CA:
 Wubbels, T., Brekelmans, M., den Brok, P., Wijsman, L., Mainhard, T., &amp; van Tartwijk, J. (2014). Teacher-student relationships and classroom management. In E. T. Emmer, E. Sabornie, C. Evertson, &amp; C. Weinstein (Eds.). _Handbook of classroom management: Research, practice, and contemporary issues_ (2nd ed., pp. 363–386). New York, NY: Routledge.
 
 {/details}
-

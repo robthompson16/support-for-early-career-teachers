@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-5-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic, including the examples from Helen and Rachel. As you read, reflect on:
@@ -47,4 +46,3 @@ To support your planning, Rachel’s lesson plan might give you a model to follo
 Be ready to share your planning notes and your other learning from this session with your mentor in your next meeting with them. You may find it helpful to make a few notes on your planning explaining why you have included particular aspects and the reasoning behind how they are sequenced.
 
 In activity 1(c), you may have identified some subject content that you are not yet fully confident in teaching. Make a note of the topics you identified and set yourself a target date by which you will complete some further study in relation to these topics.
-

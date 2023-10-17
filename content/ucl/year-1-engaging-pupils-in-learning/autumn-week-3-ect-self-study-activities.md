@@ -36,70 +36,55 @@ Identify a colleague to observe or talk to who will enable you to see and evalua
 
 Choose an aspect of literacy outlined below and an area of focus for discussion and/or observation to carry out with this colleague prior to your mentor meeting. If it saves time for you and your colleague, you could conduct the conversation by email.
 
-####Learning intention: Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling. 
-
+####Learning intention: Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.
 
 ##### Possible foci for observation or discussion
-- What approach to teaching systematic synthetic phonics works best for you in your class? For example, teacher modelling of segmenting and blending orally and in writing. 
+
+- What approach to teaching systematic synthetic phonics works best for you in your class? For example, teacher modelling of segmenting and blending orally and in writing.
 - How is systematic synthetic phonics used to support the teaching of spelling? For example, explicit use of phonics to support the teaching of spelling.
 
-
-
-####Supporting younger pupils to become fluent readers and to write fluently and legibly. 
-
+####Supporting younger pupils to become fluent readers and to write fluently and legibly.
 
 ##### Possible foci for observation or discussion
+
 - How is handwriting taught? Is a specific programme used to teach handwriting systematically? E.g. Review children’s writing outcomes together and consider progression in handwriting.
 - How are parents/carers involved in supporting younger pupils' reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
 
-
-
-####Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught. 
-
+####Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
 
 ##### Possible foci for observation or discussion
+
 - Is vocabulary pre-taught to support understanding for all? For example, teaching vocabulary to specific groups of pupils prior to the lesson to support understanding for all.
-- How is key technical vocabulary taught and understood in context? For example, use of images to support comprehension (visuals on Interactive White Board or wall displays).     
+- How is key technical vocabulary taught and understood in context? For example, use of images to support comprehension (visuals on Interactive White Board or wall displays).
 
-
-
-####Learning intention: Modelling reading comprehension by asking questions, making predictions and summarising when reading. 
-
+####Learning intention: Modelling reading comprehension by asking questions, making predictions and summarising when reading.
 
 ##### Possible foci for observation or discussion
+
 - How does the teacher support pupils to summarise a text? For example, modelling identifying key events (so far, we have read that…).
-- How does the teacher model asking questions of the text? For example, using question prompts to respond to the text (What do you like/ dislike about…? Why do you think…? What does this remind you of?)     
+- How does the teacher model asking questions of the text? For example, using question prompts to respond to the text (What do you like/ dislike about…? Why do you think…? What does this remind you of?)
 
-
-
-####Learning intention: Promoting reading for pleasure (e.g. by using a range of whole-class reading approaches and regularly reading high-quality texts to children). 
-
+####Learning intention: Promoting reading for pleasure (e.g. by using a range of whole-class reading approaches and regularly reading high-quality texts to children).
 
 ##### Possible foci for observation or discussion
+
 - How does the teacher engage pupils in reading a wide range of high-quality texts? For example, developing their own knowledge of children’s literature and sharing their own interests with pupils.
-- How does the school promote reading for pleasure? For example, through the development of reading buddies, book clubs and reading cafes with parents and pupils.     
-
-
+- How does the school promote reading for pleasure? For example, through the development of reading buddies, book clubs and reading cafes with parents and pupils.
 
 ####Learning intention: Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
 
-
 ##### Possible foci for observation or discussion
+
 - How does the teacher encourage pupils to build on one another’s responses? For example, use of ground rules to support the creation of a positive climate for constructive dialogue (I like what X said about this, and I would add… I understand the point that Y made, but I think…).
-- To what extent do they use sentence stems to scaffold pupils’ oral responses? For example, use of key phrases to support pupils’ responses to talk partner questions (I agree with… because… I understand what you are saying, but have you considered…?).    
+- To what extent do they use sentence stems to scaffold pupils’ oral responses? For example, use of key phrases to support pupils’ responses to talk partner questions (I agree with… because… I understand what you are saying, but have you considered…?).
 
-
-
-####Learning intention: Teaching different forms of writing by modelling, planning, drafting and editing. 
-
+####Learning intention: Teaching different forms of writing by modelling, planning, drafting and editing.
 
 ##### Possible foci for observation or discussion
+
 - How does the teacher support pupils to plan for writing? For example, use of planning frames to help structure different forms of writing. At what point does the teacher remove these scaffolds?
-- How are pupils supported in editing and improving their writing? For example, how are the success criteria shared? Is editing time built into the writing process? Do they use peer- or self-assessment during drafting and editing?   
-
-
+- How are pupils supported in editing and improving their writing? For example, how are the success criteria shared? Is editing time built into the writing process? Do they use peer- or self-assessment during drafting and editing?
 
 ### Next Steps: 5 mins
 
 Bring any reflections recorded in your Learning Log from your observations and/or discussion with a colleague and be prepared to discuss with your mentor how you have developed your knowledge and understanding in relation to the learning intentions from this self-directed study session.
-

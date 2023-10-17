@@ -18,10 +18,8 @@ Watch the video of a teacher talking about how they establish their routines wit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snUwV3K8rxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 It is really important that I teach my new class the expected routines as quickly and as seamlessly as possible. I am looking for these routines to become habitual for my class, so I need to embed these quickly.
 
@@ -31,26 +29,25 @@ Before I see my class, I make sure that:
 - I am clear on the steps of the routine.
 - I know why I want pupils to follow this routine.
 - I have considered things that could potentially go wrong.
-I like to begin my routine from the very first time I see my class. This is so that
-they begin associating lessons with me as always beginning in a certain way and that
-my expectations are clear.
+  I like to begin my routine from the very first time I see my class. This is so that
+  they begin associating lessons with me as always beginning in a certain way and that
+  my expectations are clear.
 
 I take steps to explicitly teach my class the routine. To do this I usually:
 
-- Clearly explain to pupils what I would like to see them doing. For example, I might explain that every time I want books or equipment to be handed out, I will put a pile on each end of the table, and they will take one and pass them on. 
-- I will explain the rationale behind the routine. For example, with the book and equipment, I would explain that I want to make sure we have the most amount of time possible for learning so we are going to be doing this to make sure we can begin as quickly as possible. 
+- Clearly explain to pupils what I would like to see them doing. For example, I might explain that every time I want books or equipment to be handed out, I will put a pile on each end of the table, and they will take one and pass them on.
+- I will explain the rationale behind the routine. For example, with the book and equipment, I would explain that I want to make sure we have the most amount of time possible for learning so we are going to be doing this to make sure we can begin as quickly as possible.
 - I will make pupils practise the routine until I am satisfied that they are clear on what they are doing.
-Throughout, as I am teaching the routine, I will make sure that I model my expectations
-to pupils. I will also praise the right behaviours continuously as I feel this always
-helps a lot!
+  Throughout, as I am teaching the routine, I will make sure that I model my expectations
+  to pupils. I will also praise the right behaviours continuously as I feel this always
+  helps a lot!
 
 Keep in mind that pupils like routines and consistency, they like to know what they are expected to do: so as long as we make this clear and maintain our expectations, most pupils will follow them.
 
 {/details}
 
-
-
 ### In your notepad
+
 What does the teacher do before they teach the routines?
 
 How do they teach the routines? What information do they give pupils?
@@ -58,7 +55,6 @@ How do they teach the routines? What information do they give pupils?
 How does the teacher use positive reinforcement to support the routine?
 
 Is there anything that you can take to use in your practice?
- 
 
 ### Your classroom as part of the wider school culture
 
@@ -82,10 +78,8 @@ You should work with your mentor to get support with ensuring routines fit schoo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hsq3T4PBb9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Teacher: I would like my pupils to get started on the task on the board straight away, but I know I need to follow school policy.
 
@@ -113,74 +107,51 @@ The table below has some items that will help you to establish effective routine
 
 #### Establishing effective routines : Develop the simplest, fastest procedure.
 
+##### Example
 
+Handing out equipment/resources: the teacher asks pupils to take one book and pass them along to the next person.
+
+#### Establishing effective routines : Use practice to establish the routine.
 
 ##### Example
-Handing out equipment/resources: the teacher asks pupils to take one book and pass them along to the next person.  
 
-
-
-#### Establishing effective routines : Use practice to establish the routine. 
-
-
-
-##### Example
 Follow the same routine every time you want the books handed out, asking them to repeat if it does not meet your expectations.
-
-
 
 #### Establishing effective routines : Communicate the procedure explicitly and clearly to pupils.
 
-
-
 ##### Example
-“I want us to be able to start our work quickly and calmly so that means we need to get books in our hands as quickly as possible. You are going to take one and pass it on.”
 
+“I want us to be able to start our work quickly and calmly so that means we need to get books in our hands as quickly as possible. You are going to take one and pass it on.”
 
 #### Establishing effective routines : Explain how you want the pupils to complete the routine.
 
-
-
 ##### Example
+
 “Without any talking, I want you to take a book and pass the rest on to the person next to you. While the books are being handed out, I need to see you facing this way, ready to get started.”
 
-
-
-#### Establishing effective routines :  Use quick verbal prompts or non-verbal prompts to support pupils in undertaking the routine.
-
-
+#### Establishing effective routines : Use quick verbal prompts or non-verbal prompts to support pupils in undertaking the routine.
 
 ##### Example
+
 Hold up your copy of the book. Fingers to lips to indicate quiet.
 
-
-
-#### Establishing effective routines : Use praise to reinforce the expected behaviour.  
-
-
+#### Establishing effective routines : Use praise to reinforce the expected behaviour.
 
 ##### Example
-“Thank you to this table, who got their books handed out so quickly and are facing the front, ready to start.” 
 
-
+“Thank you to this table, who got their books handed out so quickly and are facing the front, ready to start.”
 
 #### Establishing effective routines : Practise until the routine is performed efficiently and to a high standard.
 
+##### Example
 
+“I think we can get the books handed out much quicker than that, I am going to time us, let’s see how quickly we can do it.”
+
+#### Establishing effective routines : Provide pupils with feedback if the routine is not performed correctly.
 
 ##### Example
- “I think we can get the books handed out much quicker than that, I am going to time us, let’s see how quickly we can do it.” 
 
-
-
-#### Establishing effective routines : Provide pupils with feedback if the routine is not performed correctly. 
-
-
-
-##### Example
-“One table is talking. Remember this task should be completed in silence so that we can all think hard about the work.”  
-
-
+“One table is talking. Remember this task should be completed in silence so that we can all think hard about the work.”
 
 ### Reinforcing routines helps to create an effective learning environment
 
@@ -204,10 +175,8 @@ When routines do not go to plan, they need to be re-taught.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/35NaB4fWOB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video script.
-
 
 NARRATION
 With routines, consistency is key. We should expect pupils to complete the routines we ask of them the same way, every lesson.
@@ -220,8 +189,8 @@ When you entered the classroom just now, I saw half the class doing what was ask
 - Entering the room quietly and calmly
 - Taking a seat
 - Starting the task on the board.
-We are going to go outside and come back in and this time I want to see the whole
-class following instructions.
+  We are going to go outside and come back in and this time I want to see the whole
+  class following instructions.
 
 Back outside in 5, 4, 3, 2 and 1.
 
@@ -231,54 +200,48 @@ Callum, I can see you are really focused on beginning the task.
 
 {/details}
 
-
-
 ### In your notepad
+
 Did the teacher do the right thing in using more lesson time to reteach the routine?
 
 What are the benefits of reteaching routines?
 
-
 #### Developing your routines:
 
-* be clear in your own mind what routines entail
-* write down the routine to make it clear
-* clearly communicate routines to pupils
-* model the behaviour you expect from pupils
-* have high expectations of behaviour                                                                                                                                                                                       
+- be clear in your own mind what routines entail
+- write down the routine to make it clear
+- clearly communicate routines to pupils
+- model the behaviour you expect from pupils
+- have high expectations of behaviour
 
 #### Being consistent:
 
-* ensure your actions match your words
-* always follow the routines you have set out
-* teat pupils equitably
-* maintain your high expectations, even if pupils are not always behaving appropriately
-* always follow through with praise and sanctions
-* be predictable
+- ensure your actions match your words
+- always follow the routines you have set out
+- teat pupils equitably
+- maintain your high expectations, even if pupils are not always behaving appropriately
+- always follow through with praise and sanctions
+- be predictable
 
 #### Reinforcing and practising:
 
-* remind pupils of the steps in a routine using short verbal/visual prompts
-* use verbal and non-verbal prompts such as nodding or smiling, saying thank you and praising those who follow the routine well
-* expect pupils to perform a routine again if it is not performed effectively
+- remind pupils of the steps in a routine using short verbal/visual prompts
+- use verbal and non-verbal prompts such as nodding or smiling, saying thank you and praising those who follow the routine well
+- expect pupils to perform a routine again if it is not performed effectively
 
-Lessons can be thought of as a series of activities: pupils coming in, the teacher explaining a new concept, the pupils completing a task. 
+Lessons can be thought of as a series of activities: pupils coming in, the teacher explaining a new concept, the pupils completing a task.
 
-The transitions between these activities are a key area we can address to ensure maximum learning time and to reduce wasted time. Having tight transitions will keep the momentum of your lesson going and avoid off-task disruptions. 
+The transitions between these activities are a key area we can address to ensure maximum learning time and to reduce wasted time. Having tight transitions will keep the momentum of your lesson going and avoid off-task disruptions.
 
 Read through the script to see how the teacher has managed transitions to maximise learning time.
 
-
-
 ### Focus on
+
 What does the teacher say?
 
 What does the teacher do?
 
 How do they convey their expectations of the class?
-
-
-
 
 ### Script
 
@@ -298,21 +261,17 @@ How do they convey their expectations of the class?
 
 "Ok so we did that in 1 minute and 10 seconds. That is a real improvement. Well done class!"
 
-
-
 Let’s take a closer look at the example and pick out the ways the teacher has managed the transition:
 
-
-
-
 ### Script analysis
-"Ok class. When I say go, I want to see you getting up from the carpet and back in your chairs, with eyes on me, ready to listen. I have my timer here and I want to see you moving quickly and sensibly." 
+
+"Ok class. When I say go, I want to see you getting up from the carpet and back in your chairs, with eyes on me, ready to listen. I have my timer here and I want to see you moving quickly and sensibly."
 Clear instructions using economy of language, highlights that the pupils need to be quick.
 
-"Raina, can you explain what the class need to do? Excellent, well explained." 
+"Raina, can you explain what the class need to do? Excellent, well explained."
 Checks that pupils understand the instructions.
 
-"Ready? And go  (visibly watching the timer and looking around the room)."
+"Ready? And go (visibly watching the timer and looking around the room)."
 Using non-verbals to show that they are watching.
 
 "Good, I can see Lucy in her seat ready to start."
@@ -334,7 +293,7 @@ Demonstrating high expectations.
 Explaining the rationale behind the routine.
 
 "Let’s try it again. 3, 2, 1 go!"
-Economy of language. 
+Economy of language.
 
 "Fantastic start, I can see Molly and Cameron moving so fast! Well done. Excellent, this table here are all in their seats waiting to start."
 Positive reinforcement.
@@ -342,14 +301,10 @@ Positive reinforcement.
 "Ok so we did that in 1 minute and 10 seconds. That is a real improvement. Well done class!"
 Praising the class for their effort.
 
-
-
-
 ### In your notepad
+
 Write a routine to manage a transition between classroom activities (e.g. moving from one part of the room to another, setting up a practical activity, getting ready for homework, etc.).
 
 How will you explain to pupils what the routine is and why it is necessary?
 
 Write yourself a script for what you will say if pupils do not carry out this routine effectively and you need to re-teach it.
-
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 4"
 ---
 
-
 ## Reinforcing routines and positive behaviour in the classroom
 
 ### Intended outcomes
@@ -14,7 +13,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 Learn that:
 
 - Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils
- - Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment.
+- Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment.
 
 Learn how to communicate a belief in the academic potential of all pupils, by:
 
@@ -29,7 +28,7 @@ Learn how to develop a positive, predictable and safe environment for pupils, by
 
 Learn how to build trusting relationships by:
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 
 ### Activities
 
@@ -84,33 +83,16 @@ Take a look at the example action plan on [Handout 1.4](/assets/materials/edt-Bl
 
 From the area identified in the last activity, use the table to select an action step. Together, use the template to write an action plan to help the ECT’s class.
 
-####Issue: Problems with specific pupils 
-
-
-
+####Issue: Problems with specific pupils
 
 ##### Action to take
 
 Speak to colleagues about pupils in the class
 
-
-
-
-
-
-
-
 ##### How to do it
 
 - Identify a colleague who can support you with this specific pupil or class and find an appropriate time to ask for their support.
 - This could be the pupil’s tutor, a class teacher, a TA or another member of support staff.
-
-
-
-
-
-
-
 
 ##### How it can help
 
@@ -118,35 +100,16 @@ Speak to colleagues about pupils in the class
 - Gain information about the pupil from their tutor or another teacher.
 - Gain information from a more experienced teacher on how they deal with specific pupils/situations.
 
-
-
-
-####Issue: My pupils are not always following my instructions  
-
-
-
+####Issue: My pupils are not always following my instructions
 
 ##### Action to take
 
 Ask a colleague to observe part of a lesson
 
-
-
-
-
-
-
-
 ##### How to do it
 
 - With your mentor identify a specific thing that needs addressing such as pupils not understanding expectations.
 - Ask the colleague observing to focus just on this thing and provide feedback to support you with this.
-
-
-
-
-
-
 
 ##### How it can help
 
@@ -155,35 +118,17 @@ Ask a colleague to observe part of a lesson
 - Isolate a specific area to focus on
 - Gain specific feedback to develop your practice.
 
-
-
-
-####Issue: Problems with individual pupils/ineffective relationships with pupils  
-
-
-
+####Issue: Problems with individual pupils/ineffective relationships with pupils
 
 ##### Action to take
 
 Contact parents/carers with positive news
-
-
-
-
-
-
 
 ##### How to do it
 
 - Make a list of pupils that you are struggling with.
 - For each one, with your mentor, identify one positive thing you could contact home about. This could be a specific piece of work they worked hard on, an improved grade, improved attitude to learning or something they are able to do now that they previously couldn’t.
 - Decide the best way to contact home: postcard, phone call etc.
-
-
-
-
-
-
 
 ##### How it can help
 
@@ -193,35 +138,16 @@ Contact parents/carers with positive news
 - Pupils will see that you care about them.
 - Pupils will feel supported.
 
-
-
-
 ####Issue: Problems with specific pupils
-
-
-
 
 ##### Action to take
 
 Contact parents/carers to find out more information about a pupil’s individual circumstances
 
-
-
-
-
-
-
-
 ##### How to do it
 
 - Make a list of pupils that you are struggling with
 - Contact parents/carers to explain your concerns and ask for their support.
-
-
-
-
-
-
 
 ##### How it can help
 
@@ -231,24 +157,11 @@ Contact parents/carers to find out more information about a pupil’s individual
 - Finding out more information about individual pupils can help you understand their situation better
 - You will be able to support that pupil behaviourally and academically
 
-
-
-
 ####Issue: Pupils do not always follow routines
-
-
-
 
 ##### Action to take
 
 Re-establish routines, especially for beginning the lesson and transition points
-
-
-
-
-
-
-
 
 ##### How to do it
 
@@ -256,46 +169,22 @@ Re-establish routines, especially for beginning the lesson and transition points
 - Look back at Activity 1.3 of the self-directed study materials and together work out whether you need to reteach the routine or just reinforce it through practice and positive praise.
 - Write a script if necessary and practise this with your mentor.
 
-
-
-
-
-
-
 ##### How it can help
 
 - Can help solve a lack of clarity over expectations
 - Routines need positive reinforcement and practice
 - This will demonstrate your high expectations of pupils.
 
-
-
-
-####Issue:  Disruptive behaviour
-
-
+####Issue: Disruptive behaviour
 
 ##### Action to take
 
-Reminders of school policies 
-
-
-
-
-
-
-
+Reminders of school policies
 
 ##### How to do it
 
 - Together with your mentor look at the school policy and work out whether you need to refresh your routine or remind pupils of school policy through reinforcing behavior expectations or rules.
 - Decide how you will do this – you may want to revise a routine and teach this to your pupils or you may need to reinforce a specific rule.
-
-
-
-
-
-
 
 ##### How it can help
 
@@ -304,36 +193,16 @@ Reminders of school policies
 - It is important to adhere to school policy
 - School policy is there to support you so draw on it when it is needed.
 
-
-
-
-
-
-####Issue:  Disruptive behaviour
-
-
+####Issue: Disruptive behaviour
 
 ##### Action to take
 
 Using least intrusive interventions
 
-
-
-
-
-
-
-
 ##### How to do it
 
 - Together with your mentor, go back to the self-directed study materials and read through the section on escalating behaviour incidents as appropriate.
 - Identify a strategy to try out and decide how you will do this
-
-
-
-
-
-
 
 ##### How it can help
 
@@ -341,24 +210,11 @@ Using least intrusive interventions
 - Helps keep the environment positive
 - Can help address behavioural expectations.
 
-
-
-
-
-####Issue:  Disruptive behaviour
-
-
+####Issue: Disruptive behaviour
 
 ##### Action to take
 
 Seating plans
-
-
-
-
-
-
-
 
 ##### How to do it
 
@@ -368,12 +224,6 @@ Seating plans
 - Are there groups of pupils it would be useful to split up for a bit?
 - How can you make sure all pupils’ learning needs are taken into account?
 
-
-
-
-
-
-
 ##### How it can help
 
 - Can help solve a lack of clarity over expectations
@@ -382,11 +232,7 @@ Seating plans
 - Tailoring a seating plan to suit individual pupils learning needs is important
 - Maximize learning time through preventing poor behaviour.
 
-
-
-
 Remind the ECT that, even if they are struggling at the moment, this is something all teachers go through, and they can always rebuild their relationship with a class and with individual pupils. They have to model respectful behaviour so that pupils can learn how to do this themselves.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ### Planning for action
 
@@ -401,4 +247,3 @@ The mentor and ECT should decide together three specific dates when they will �
 - Take brief notes during the lesson about what is happening
 - Schedule reflection time following the lesson
 - Use pupil voice to gather feedback from pupils.
-

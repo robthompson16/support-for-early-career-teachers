@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## Establishing the learning environment
 
 ### Learning intentions
@@ -35,8 +34,6 @@ In their self-directed study this week, your mentee learned about strategies for
 In this session, you will support your ECT to observe a colleague’s teaching and see, in action, some of the strategies discussed in the research and practice summary in this week's ECT materials. You will reflect together on this observation and you will work with your ECT to script and rehearse a strategy of their own.
 
 You might find it practical to split this session across a number of shorter meetings in this week. For example, the lesson observation (‘Plan’) may take place before you and your ECT meet (when you would begin with the ‘Review’ activity and then move on to ‘Theory to Practice’.
-
-
 
 ### Meeting activities
 
@@ -69,38 +66,38 @@ Theory to Practice: 35 mins
 
 1. Discussion with mentor
 
-    Discuss with your mentee what they saw in their observation and how this helps them to make sense of the research and practice summary in this week's ECT materials.
+   Discuss with your mentee what they saw in their observation and how this helps them to make sense of the research and practice summary in this week's ECT materials.
 
-    You could address the following questions:
+   You could address the following questions:
 
-    - how do the strategies in use reflect the good practice outlined in the research and practice summary in this week's ECT materials?
-    - how do the strategies in use reflect the characteristics of the pupils, the context of the class and the content being taught?
-    - which strategies does your mentee already use in their own practice?
-    - what would your mentee like to add to or change in their own practice, having completed this observation?
-    - how do the strategies, sanctions and rewards observed reflect your school’s behaviour policy?
+   - how do the strategies in use reflect the good practice outlined in the research and practice summary in this week's ECT materials?
+   - how do the strategies in use reflect the characteristics of the pupils, the context of the class and the content being taught?
+   - which strategies does your mentee already use in their own practice?
+   - what would your mentee like to add to or change in their own practice, having completed this observation?
+   - how do the strategies, sanctions and rewards observed reflect your school’s behaviour policy?
 
 2. Scripting
 
-    Drawing on your discussion in activity 1, work with your mentee to script the details of a strategy that your mentee would like to add to their practice. This should draw on the content of the research and practice summary in this week's ECT materials.
+   Drawing on your discussion in activity 1, work with your mentee to script the details of a strategy that your mentee would like to add to their practice. This should draw on the content of the research and practice summary in this week's ECT materials.
 
-    To make this as useful as possible, address these points as you complete this activity:
+   To make this as useful as possible, address these points as you complete this activity:
 
-    - clarify explicitly the purpose of the strategy (e.g. gaining pupils’ attention, giving clear instructions for a common routine in the classroom)
-    - be specific about whether this script is for use with all pupils, a specific pupil or group of pupils
-    - make use of examples provided in the research and practice summary, adapting these as required for your mentee’s context and pupil characteristics
-    - include within the script specific language that your mentee could use (e.g. rather than noting ‘I will use a standard routine for getting pupils’ attention’ you could note ‘I will count down from 3 with positive actions for pupils, saying, ‘3…stop writing, 2…pens down, 1…show me that you’re listening’)
+   - clarify explicitly the purpose of the strategy (e.g. gaining pupils’ attention, giving clear instructions for a common routine in the classroom)
+   - be specific about whether this script is for use with all pupils, a specific pupil or group of pupils
+   - make use of examples provided in the research and practice summary, adapting these as required for your mentee’s context and pupil characteristics
+   - include within the script specific language that your mentee could use (e.g. rather than noting ‘I will use a standard routine for getting pupils’ attention’ you could note ‘I will count down from 3 with positive actions for pupils, saying, ‘3…stop writing, 2…pens down, 1…show me that you’re listening’)
 
 3. Rehearsal
 
-    Now work with your mentee to rehearse the strategy that has been scripted.
+   Now work with your mentee to rehearse the strategy that has been scripted.
 
    To support this process you can:
 
-    - play the part of a pupil and ‘act back’ appropriately to help your mentee rehearse the strategy
-    - give feedback on how well your mentee’s rehearsal aligns with the script as planned in activity 2 (this could include non-verbal aspects as well as the words spoken)
-    - highlight aspects of strength in your mentee’s performance, connecting these to this week’s research and practice summary
-    - model aspects of the script to your mentee if this is helpful in sharpening their enactment of it
-    - repeat the rehearsal a few times until your mentee is confident that they are able to use this in their practice going forward
+   - play the part of a pupil and ‘act back’ appropriately to help your mentee rehearse the strategy
+   - give feedback on how well your mentee’s rehearsal aligns with the script as planned in activity 2 (this could include non-verbal aspects as well as the words spoken)
+   - highlight aspects of strength in your mentee’s performance, connecting these to this week’s research and practice summary
+   - model aspects of the script to your mentee if this is helpful in sharpening their enactment of it
+   - repeat the rehearsal a few times until your mentee is confident that they are able to use this in their practice going forward
 
 Next Steps: 5 mins
 
@@ -111,4 +108,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

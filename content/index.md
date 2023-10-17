@@ -14,18 +14,18 @@ The materials published here are from the perspective of a mentor. Use them in w
 
 The Department for Education has selected 4 expert teacher training providers who have each developed their own accredited materials based on the ECF. Read more about the support available to ECTs and mentors from these suppliers on their own websites, or in the course materials below:
 
-* [Ambition Institute](/ambition-institute/)
-* [Education Development Trust](/education-development-trust)
-* [Teach First](/teach-first)
-* [UCL](/ucl)
+- [Ambition Institute](/ambition-institute/)
+- [Education Development Trust](/education-development-trust)
+- [Teach First](/teach-first)
+- [UCL](/ucl)
 
 Each set of materials cover the five core areas of the ECF:
 
-* behaviour management
-* pedagogy
-* curriculum
-* assessment
-* professional behaviours
+- behaviour management
+- pedagogy
+- curriculum
+- assessment
+- professional behaviours
 
 Each programme is structured differently, but they all contain approximately the same number of hours of self-study material.
 

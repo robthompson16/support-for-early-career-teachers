@@ -18,9 +18,8 @@ The research in this area is clear. Classroom climate and management are key to 
 
 It can be motivating for pupils to know what is expected from them. The vast majority of pupils want to do well and will be motivated to meet your expectations. When it is made clear what is expected, they will know how they should behave. We can help our pupils with this through establishing routines for the everyday things that happen in our lessons.
 
-
-
 ### Establishing routines
+
 Routines can be used for most common classroom activities, such as:
 
 - entering the classroom
@@ -30,7 +29,6 @@ Routines can be used for most common classroom activities, such as:
 - taking out and putting away resources
 - whole-class teaching and discussion
 - handing out equipment
-
 
 Making your pupils feel safe and secure is an important part of teaching and also improves pupil wellbeing. Classrooms should be predictable environments with clear rules, routines and expectations about behaviour as well as learning, which offer all pupils opportunities for success (Kern & Clemens, 2007; Rosenshine, 2012). Teachers should set high standards for behaviour as well as for learning and believe that their pupils can meet these standards (Willingham, 2009). When you establish a calm, purposeful learning environment, pupils will:
 
@@ -50,27 +48,25 @@ What do more experienced teachers do to establish and maintain these routines? T
 | Reminders                         | Reminding pupils of rules and routines means that they will be reinforced, and pupils are more likely to remember what to do. | “I need all eyes on me and conversations finished by the time I have counted down to 1. 3,2,1.”     |
 | Consistent modelling of behaviour | Modelling the behaviour you expect to see shows pupils what you want from them and makes this explicit.                       | “Pens down (puts pen down) and looking this way without talking (hand to lips).”                    |
 
-
-
 ### In your notepad
+
 Why are routines important for improving classroom behaviour?
 
 Which of these statements is not true?
 
-* routines show pupils what is expected of them, so they know how to behave
-* routines force pupils to comply with the school culture
-* routines create a predictable classroom environment for pupils
-* routines lead to a calm and predictable environment, which is conducive to learning
+- routines show pupils what is expected of them, so they know how to behave
+- routines force pupils to comply with the school culture
+- routines create a predictable classroom environment for pupils
+- routines lead to a calm and predictable environment, which is conducive to learning
 
 When can we use routines in our teaching?
 
-* just at the end and beginning of lessons
-* when completing complicated tasks
-* for most common classroom activities
-* when behaviour is poor
+- just at the end and beginning of lessons
+- when completing complicated tasks
+- for most common classroom activities
+- when behaviour is poor
 
 Name three methods that experienced teachers use to establish and maintain routines.
-
 
 Another way we can strengthen and embed our routines is through positive reinforcement. Positively reinforcing what we want to see reduces poor behaviour and helps increase academic engagement (Institute of Education Sciences, 2008). It is also motivating and supports pupil wellbeing. When we praise and give attention to the specific behaviour we want to see, it increases the likelihood of that behaviour happening again. It will also encourage other pupils to follow suit. The same is true in reverse: if a pupil continuously calls out and the teacher responds to them, they are receiving attention for that behaviour and are likely to repeat it. Positive reinforcement should be used strategically to nurture the behaviour we _want_ to see.
 
@@ -82,14 +78,11 @@ This table shows three ways positive reinforcement can support routines and good
 | Praise the behaviour you want to see.                            | Reinforces good behaviour of the pupils showing it and encourages others to follow suit.                                                                                         | “Thank you Ushma, who came into the room quietly and sensibly and has now started on her work.”                                                                                     |
 | Support pupils to self-regulate and monitor their own behaviour. | Providing a self-monitoring strategy allows pupils to assess and record their own behaviour to support them to become more aware of it and learn how to adjust when appropriate. | Provide a checklist of questions to guide pupils in their own behaviour: Did I get started on time? Am I following instructions? Am I on task? Did I ask for help in the right way? |
 
-
-
 ### In your notepad
-Think about a recent lesson: 
 
-* what behaviours do you give attention to in the classroom?
-* how could you use positive reinforcement to support your routines and the behaviour you want to see?
+Think about a recent lesson:
 
+- what behaviours do you give attention to in the classroom?
+- how could you use positive reinforcement to support your routines and the behaviour you want to see?
 
 Routines need to be actively taught and reinforced frequently, with reasons, so that pupils understand what is expected of them (Muijs & Reynolds, 2017). In Activity 1.3, we look at how teachers can establish effective routines. Pupils should recognise routines as the ‘norms’ of the classroom. If you have effective routines, pupils will follow them consistently and efficiently, maximising time for learning.
-

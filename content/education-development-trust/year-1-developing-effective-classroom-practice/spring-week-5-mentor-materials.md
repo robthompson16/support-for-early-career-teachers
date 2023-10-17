@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Getting students to think hard
 
 ### Intended outcomes
@@ -17,7 +16,7 @@ Learn that:
 
 Learn how to stimulate pupil thinking and check for understanding, by:
 
-- Planning activities around what you want pupils to think hard about                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+- Planning activities around what you want pupils to think hard about
 
 ### Activities
 
@@ -62,29 +61,30 @@ Guidance for mentors:
 
 Suggested dialogue for mentors: Professor Robert Coe came up with the idea of ‘poor proxies for learning’ in a piece he wrote called Improving Education. The idea behind the list is that there are things we might observe within our classrooms that we confuse for ‘learning’. This is not to say learning isn’t happening on some level, but do we definitely know pupils are learning what we intended them to learn? Let’s have a look at the proxies:
 
-1. Students are busy: lots of work done (especially written work) 
-2. Students are engaged, interested, motivated 
-3. Students are getting attention: feedback, explanations 
-4. Classroom is ordered, calm, under control 
-5. Curriculum has been ‘covered’ (i.e. presented to students in some form) 
+1. Students are busy: lots of work done (especially written work)
+2. Students are engaged, interested, motivated
+3. Students are getting attention: feedback, explanations
+4. Classroom is ordered, calm, under control
+5. Curriculum has been ‘covered’ (i.e. presented to students in some form)
 6. (At least some) students have supplied correct answers (whether or not they have really understood them or could reproduce them independently)
 
 The key learning point here is that we must not assume that because our classroom is quiet and students are busy, that the learning we intended has definitely taken place. If learning isn’t the things above, then what is it? It’s when our pupils have to think hard!
 
-###What are your students thinking hard about? (25 minutes) 
+###What are your students thinking hard about? (25 minutes)
 
 Guidance for mentors:
 
 - The following part of the session is based on the Daniel Willingham Book Why Don’t Students Like
-School
+  School
 
 Read the following to the ECT:
 
-A teacher once told me that for a fourth-grade unit on the Underground Railroad he had his students bake biscuits, because this was a staple food for runaway slaves. He asked me what I thought about the assignment. I pointed out that his students probably thought for forty seconds about the relationship of biscuits to the Underground Railroad, and for forty minutes about measuring flour, mixing shortening, and so on. Whatever students think about is what they will remember….memory is the residue of thought. 
+A teacher once told me that for a fourth-grade unit on the Underground Railroad he had his students bake biscuits, because this was a staple food for runaway slaves. He asked me what I thought about the assignment. I pointed out that his students probably thought for forty seconds about the relationship of biscuits to the Underground Railroad, and for forty minutes about measuring flour, mixing shortening, and so on. Whatever students think about is what they will remember….memory is the residue of thought.
 
 Daniel Willingham, Why Don’t Students Like School?
 
 Pose the question: What is Willingham trying to say?
+
 - That when we plan activities, we need to make sure that they support students to think hard about what it is we need them to learn.
 - If we think too much about what’s engaging or fun, we might miss designing activities that support the learning we need pupils to do.
 
@@ -102,5 +102,4 @@ Agree with the ECT when they are going to teach the lesson or sequence of lesson
 
 The final topic of this module will be an opportunity to review what has been learnt, where the ECT feels they have developed and what they still need to develop. They should complete the final activity of the self-directed study materials to prepare for this conversation.
 
-The mentor and ECT will also discuss lesson observations that the ECT has done of other staff. The ECT may have also been observed themselves. This will be an opportunity to discuss those observations. The ECT should prepare for this by making sure they have completed the activity in the self-directed study materials.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-
+The mentor and ECT will also discuss lesson observations that the ECT has done of other staff. The ECT may have also been observed themselves. This will be an opportunity to discuss those observations. The ECT should prepare for this by making sure they have completed the activity in the self-directed study materials.

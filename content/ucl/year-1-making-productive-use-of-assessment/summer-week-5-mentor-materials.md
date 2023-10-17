@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 5"
 ---
 
-
 ## Planning effective and manageable marking and feedback
 
 ### Learning intentions
@@ -29,7 +28,6 @@ Make marking manageable and effective, by:
 In their self-directed study session earlier this week, your mentee extended their knowledge of planning effective and manageable marking and feedback, using the the research and practice summary in this week's ECT materials to inform and strengthen their practice. They considered different approaches to providing efficient feedback that maximises time spent in relation to learning gains for pupils. Your mentee reviewed their own approaches to giving feedback and spoke to a colleague about how they make assessment as efficient as possible.
 
 In this session, you will help your mentee build on their self-study, focusing in more detail on the practical enactment of efficient approaches to assessing and giving feedback. You will also consider the benefits of using verbal feedback instead of written marking and explore the use of codes and abbreviations in written feedback.
-
 
 ### Meeting activities
 
@@ -111,4 +109,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

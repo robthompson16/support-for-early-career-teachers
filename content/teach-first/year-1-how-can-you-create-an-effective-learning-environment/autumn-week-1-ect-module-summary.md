@@ -8,7 +8,6 @@ Watch the video below to hear Reuben Moore, Executive Director of Programme Deve
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgX9QgM2oyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ###Effective learning environments
 
 The 2014 Sutton Trust report, ‘What Makes Great Teaching’, highlights the importance of effective classroom environments:
@@ -21,22 +20,17 @@ While all teachers would agree about the importance of a calm and purposeful tea
 
 Watch the video below to hear Tom Bennett, behaviour advisor to the Department for Education and founder of researchED, talk about what makes an effective learning environment and why they are so important to effective teaching. Whilst watching the video, consider the following questions:
 
-* how should effective learning environments make pupils feel?
-* what do you need to teach in order to create an effective learning
-      environment?
-* why are norms and routines important to establish?
-* why are consequences important?
-* what are effective learning environments and why are they important?
-
+- how should effective learning environments make pupils feel?
+- what do you need to teach in order to create an effective learning
+  environment?
+- why are norms and routines important to establish?
+- why are consequences important?
+- what are effective learning environments and why are they important?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xrOcoxBairA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-
 {details}
 Video transcript.
-
 
 So, what are effective learning environments? Essentially, they have to be built on the value of trust. Children need to know that they are trusted, and they're valued. They need to feel that the classrooms they're in are somewhere where they feel safe, looked after and respected. Now that doesn't mean having some kind of gushing synthetic form of over-warmth. What it does mean is that children need to know what they need to do in classrooms and that involves teaching them, first of all, the norms of the classroom, being really explicit about what is normal behaviour in the classroom and in that way we show them high expectations, which is another way of showing them that we care about them because what it means is that we think they're capable of achieving these expectations. So, we must be super explicit about the norms of the room, not just the rules, although that forms part of it, but what normal behaviour should look like in a classroom - don't make them guess it. In a room full of thirty children, you’ll have thirty different ideas about what normal good behaviour looks like, so teach them the norms.
 
@@ -62,4 +56,4 @@ In this module, you will explore what effective learning environments look like 
 
 Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment.
 
-Reinforcing routines (e.g. by articulating the link between time on task and success)._
+Reinforcing routines (e.g. by articulating the link between time on task and success).\_

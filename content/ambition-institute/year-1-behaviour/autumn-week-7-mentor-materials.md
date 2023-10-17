@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 7"
 ---
 
-
 ## Positive learning environment
 
 ### Select a development area
@@ -15,22 +14,21 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher, with the support of a colleague, identifies the behaviours they expect to see from pupils and plans how to model these. 
-- Teacher treats pupils with respect, role modelling the behaviours they expect pupils to adopt. 
+- Teacher, with the support of a colleague, identifies the behaviours they expect to see from pupils and plans how to model these.
+- Teacher treats pupils with respect, role modelling the behaviours they expect pupils to adopt.
 - Teacher quickly addresses and seeks to resolve instances of bullying, role modelling to pupils how to respond.
 
 ### Development area 2: Embracing error
 
-#### Focused development area                                                                                                                                                                                                                                                                                                                                                                                                                                     
+#### Focused development area
 
 - Teacher models to pupils how to spot errors and treat them as opportunities to learn.
 - Teacher supports pupils to recognise and overcome negative emotions associated with making errors.
-- Teacher ensures pupils feel safe and willing to contribute answers even if they contain errors. 
-- Teacher ensures pupils are focused on the thought process behind an answer, rather than simply on whether they got the answer right or not. 
+- Teacher ensures pupils feel safe and willing to contribute answers even if they contain errors.
+- Teacher ensures pupils are focused on the thought process behind an answer, rather than simply on whether they got the answer right or not.
 
 {details}
 Example precise target: Teacher supports pupils to recognise and overcome negative emotions associated with making errors.
-
 
 - **Not doing it at all:** Especially before pupils attempt work they are likely to find particularly challenging, prepare pupils by explaining that making errors can cause negative emotions, but errors are an inevitable and often useful part of learning.
 - **Doing it but needs some improvement:** Especially before pupils attempt work they are likely to find particularly challenging, explain to pupils that if they experience negative emotions in response to making an error, they should recognise the emotions, slow down their thinking and focus on positive thoughts, e.g. "Making errors is a normal part of learning. I can learn from this."
@@ -38,13 +36,12 @@ Example precise target: Teacher supports pupils to recognise and overcome negati
 
 {/details}
 
-
 ### Development area 3: Acknowledgement or praise
 
-#### Focused development area                                                                                                                                                                                                                                                                                                                                                                                                                                     
+#### Focused development area
 
-- Teacher acknowledges when pupils are meeting their expectations so that they feel noticed and to encourage others to follow suit. 
-- Teacher uses specific, immediate and unpredictable praise for pupils who exceed their learning goals in order to motivate them and avoid pupils becoming reliant on praise. 
+- Teacher acknowledges when pupils are meeting their expectations so that they feel noticed and to encourage others to follow suit.
+- Teacher uses specific, immediate and unpredictable praise for pupils who exceed their learning goals in order to motivate them and avoid pupils becoming reliant on praise.
 - Teacher praises pupils for the effort they are exerting and the positive strategies they are using to overcome negative emotions.
 
 ### Observe
@@ -65,5 +62,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Acknowledge and praise pupil effort and emphasise progress being made.
 - Respond quickly to any behaviour or bullying that threatens emotional safety.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

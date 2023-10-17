@@ -6,13 +6,11 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-9-ect-teaching-chal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dIATol2i5yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Peps McCrea
+
 Whatever your subject or phase, there will always be challenging content that your
 pupils need to learn. All pupils, regardless of their starting point, need to encounter
 an appropriate level of challenge in order to move forward. Challenging content can
@@ -21,7 +19,9 @@ to meet the high expectations that are set out for them, then we need to think a
 how we can make challenging content manageable and show pupils what to do when learning
 feels difficult. Thinking hard is rewarding and teachers need to show all pupils
 how to respond when they are faced with a challenge.
+
 ### Presenter main
+
 Challenge is about moving pupils on to the next step, whatever their individual starting
 points. For teachers, challenge is about knowing your pupils really well. This means
 their prior knowledge, their previous experiences of success, and their beliefs about
@@ -44,12 +44,15 @@ When pupils succeed at a challenging task, it helps them to see challenge as des
 One thing to be wary of here is that encouraging pupils to embrace challenge isn't just about telling them that they can do it. Providing motivational speeches can easily backfire if they fail. We need to encourage pupils to try but we also need to ensure they have the support they need to be successful.
 
 ### Presenter exemplification framing
+
 In this next example, you will see a model of how to help pupils embrace challenge.
 As you watch, look out for the following:
 
--  Sets tasks that stretch pupils, but which are achievable, within a challenging curriculum.
+- Sets tasks that stretch pupils, but which are achievable, within a challenging curriculum.
 - Helps pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.
+
 ### Exemplification: Ambition Institute coach
+
 In this example, I will model one way of helping pupils to embrace a challenging
 task. Imagine that I'm teaching phonics to a reception class.
 
@@ -62,6 +65,7 @@ Throughout the model my language was consistent with our school values. In our s
 I also wanted to help pupils to journey from needing extrinsic motivation to being motivated to work intrinsically. To do this, I reminded them of an example when they have faced and overcome a challenging situation in the past and sharing the progress that they have made. Lots of pupils initially struggled with set one sounds but they are now much more confident and enjoying their phonics sessions. I also linked this learning to one of their own long-term goals, getting better at reading. This helps them to see the value of the task. Setting challenging tasks for your pupils is a really important part of learning. It needs to be done in a supportive way so that pupils can experience success.
 
 ### Presenter key ideas
+
 In this video, we have explored the importance of setting goals that challenge and
 stretch, and some of the strategies that you can use to do this. Before we finish,
 read through the key ideas that we have covered. Which ones do you feel best illustrate
@@ -72,7 +76,7 @@ the model?
 - Help pupils to journey from needing extrinsic motivation to being motivated to work intrinsically
 
 ### Presenter summary
+
 When we get the challenge right we provide our pupils with stories they can tell
 themselves of mastering difficult content. This, in turn, can help them next
-time they're faced with a difficult task.  {/details}
-
+time they're faced with a difficult task. {/details}

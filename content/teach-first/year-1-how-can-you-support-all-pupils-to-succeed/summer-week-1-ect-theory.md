@@ -18,19 +18,17 @@ During lessons, pupils need receptive and expressive language to access the curr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oeqxZ_8d2oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Developing high-quality oral language - Kelly Challis
 
 {details}
 Video transcript.
-
 
 Having a focus on high-quality oral language in the classroom is developing the foundation of good literacy skills. The first step in developing language skills is to consider your own language in the classroom:
 
 - How accessible is it?
 - How much you provide in one go?
 - Do you use metaphors, sayings or subject specific vocabulary without explaining the meaning?
-These are all important questions to consider.
+  These are all important questions to consider.
 
 Language can be split into two types: receptive and expressive.
 
@@ -39,27 +37,27 @@ Receptive language helps pupils _understand_ spoken language by enabling them to
 - attend and listen to the speaker
 - apply meaning to spoken words
 - and understand grammatical markers.
-Expressive language enables pupils to share their thoughts and feelings by:
+  Expressive language enables pupils to share their thoughts and feelings by:
 - retrieving appropriate vocabulary from their memory stores
 - recalling speech sounds and patterns
 - and then mentally constructing the sentence according to grammatical rules.
-To support pupils' receptive language in the classroom, you should give instructions:
+  To support pupils' receptive language in the classroom, you should give instructions:
 - in small chunks
 - in the order you want them completed
 - And use prompts such as first, then and lastly.
-To ensure pupils have understood, you can encourage pupils to repeat back instructions
-that you have given, whilst listening out for any misunderstanding.
+  To ensure pupils have understood, you can encourage pupils to repeat back instructions
+  that you have given, whilst listening out for any misunderstanding.
 
 To support pupils' expressive language in the classroom you should:
 
 - Model and teach high-utility vocabulary
-- Model the correct response if the learner has made a grammatical error - pay attention to errors with plurals or tenses 
+- Model the correct response if the learner has made a grammatical error - pay attention to errors with plurals or tenses
 - Model the correct response with sensitivity
 - Encourage pupils to respond to questions in full sentences
-When modelling and teaching vocabulary, you can introduce it by sounding it out and
-explaining its meaning before using it in a sentence. Plan to discuss unfamiliar
-terms before reading or writing them and use these terms in a context that the pupils
-will be familiar with to help them better understand.
+  When modelling and teaching vocabulary, you can introduce it by sounding it out and
+  explaining its meaning before using it in a sentence. Plan to discuss unfamiliar
+  terms before reading or writing them and use these terms in a context that the pupils
+  will be familiar with to help them better understand.
 
 Make discussion part of your classroom activity and use as a precursor to written work. During discussion, ensure you model good listening skills as well as oral language. Set the parameters for the discussion before it takes place and scaffold pupils' responses by provide sentence starters such as,  ‘I would like to raise the point about…’ and the response to that which could be ‘I hear your point but I would like to say…’. By providing stock responses you support pupils to construct a good answer.
 
@@ -101,19 +99,16 @@ Isabel Beck and Margaret McKeown (2013) have created a helpful model that splits
   </figcaption>
 </figure>
 
-
 ### What’s the difference between these tiers?
 
 Listen to Kelly Challis explain how each tier is different, and how you might teach them in the classroom. Record notes in your notebook.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJ9qciOOtuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Tiers of vocabulary – Kelly Challis
 
 {details}
 Video transcript.
-
 
 A rich vocabulary not only allows a pupil to communicate effectively, it broadens the reading material they can access and allows them to develop their written work. A concept popular in education is the use of tiered vocabulary, which is the theory from Beck, McKeon and Kucan.
 
@@ -168,7 +163,6 @@ Sustained Shared Thinking is when two or more people work together to solve a pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/91BSUnDYlvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Sustained shared thinking - Early Years at Reach Academy
 If you require an audio description over the video, please watch this version: [Sustained shared thinking - Early Years at Reach Academy [AD]](https://youtu.be/dnU8JyewEjU)
 
@@ -188,9 +182,8 @@ Read the script of an interaction between a teacher (Saima) and a pupil (Pedro) 
 
 Record what you would say in order to do this in your notebook. You will share and discuss your response with your mentor in your next meeting.
 
-
-
 ### Scenario: building a tower block
+
 Pedro emptied the box of building blocks and sat down. He began to gather blocks
 and stack them on top of each other. Saima sat down next to him and began to observe
 what he was doing.
@@ -215,17 +208,16 @@ Saima said, “Oh no – silly big block. It made the tower fall down.”
 
 What could Saima have said to:
 
-* clarify ideas
-* use encouragement to extend the pupil’s thinking
-* suggest ideas
-* ask open questions
-* encourage the pupil to respond in full sentences. Although not included in Sustained Shared Thinking, this is a good way to develop pupils’ language
+- clarify ideas
+- use encouragement to extend the pupil’s thinking
+- suggest ideas
+- ask open questions
+- encourage the pupil to respond in full sentences. Although not included in Sustained Shared Thinking, this is a good way to develop pupils’ language
 
 Extend or amend Saima's comments and record them in your notebook.
 
 {details}
 Feedback.
-
 
 There are many ways Saima could have clarified ideas, extended Pedro’s thinking, suggested ideas, asked open questions or encouraged the use of full sentences. Below is one example of how this could have been done, which you can compare to your own.
 
@@ -263,7 +255,6 @@ _“So, you want to start with the curved shape at the bottom to see if the towe
 </p>
 _“That was a great try! Why don’t you try starting with a shape that has flat surfaces, like this one?”_ (Suggesting). _“Which one would be best to put on next?”_ (Extending
 thinking).  {/details}
-
 
 ### Summary
 
@@ -310,7 +301,6 @@ To help pupils understand what _photosynthesis_ means, you might teach them the 
   </figcaption>
 </figure>
 
-
 ## Teaching vocabulary in practice
 
 When teaching any vocabulary, it is helpful to ensure that it is related to the topic that pupils are learning about (Teaching and Learning Toolkit, 2015). Teaching word meanings at the start of a topic and revisiting them throughout means pupils are more likely to comprehend the content being taught during lessons. It also means they are regularly exposed to the vocabulary throughout the topic, making it more memorable. They can hear it being used in context and have multiple opportunities to apply it during speaking and listing, reading, and writing.
@@ -319,18 +309,15 @@ There are many ways that vocabulary can be explicitly and implicitly taught. Cho
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GZB9Rx5Upv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Teaching vocabulary - Early Years at Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching vocabulary - Early Years at Reach Academy [AD](https://youtu.be/vY_2TVF1Py4)[]](https://youtu.be/vY_2TVF1Py4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/odEsJ4VOUvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Teaching vocabulary - Primary at Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching vocabulary - Primary at Reach Academy [AD]](https://youtu.be/QMLTIVJdpf8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zj-kc1MsGKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Teaching vocabulary - Secondary at Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching vocabulary - Secondary at Reach Academy [AD]](https://youtu.be/3J88bhLh9ig)
@@ -341,12 +328,10 @@ Identifying key vocabulary to teach, and planning how you will do so, can be tri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/umJqMRbwiLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Teaching vocabulary – Liam Milne
 
 {details}
 Video transcript.
-
 
 Developing language and vocabulary is critical in a pupil’s ability to succeed across the curriculum. English is both a subject in its own right and often the medium for teaching within many lessons. As such, developing language and vocabulary has a profound effect on whether a pupil is able to access all areas of the curriculum. Without developing language and vocabulary in lessons, pupils can struggle to access content and even exam and assessment questions, so it is vital, when considering the impact it may have upon their attainment. In addition, it can give pupils more confidence to discuss topics and consequently deepen their knowledge.
 
@@ -378,12 +363,8 @@ When trying to identify vocabulary to teach, it is important you consider the to
 
 It may be helpful to talk to a colleague who has taught the topic or text before and can share their experience with you.
 
+### Record the vocabulary in your notebook
 
-
-### Record the vocabulary in your notebook 
 You will discuss when and how to teach this with your mentor during your next meeting and will be observed teaching vocabulary in the following mentor meeting.
-
-
-
 
 You can use this [example of Tier 1, 2 and 3 vocabulary used in a year four English unit](/assets/materials/teach-first-Module-5-WE-Tier-2-and-3-vocabulary-template.docx) to support you if you wish.

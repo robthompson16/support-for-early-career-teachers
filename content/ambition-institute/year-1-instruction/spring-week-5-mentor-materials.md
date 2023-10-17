@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Teacher exposition
 
 ### Select a development area
@@ -13,18 +12,18 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Modelling and exemplifying a process
 
-#### Focused development area  
+#### Focused development area
 
-- Teacher identifies the key learning points to draw from the process they are modelling and primes pupils to focus on these. 
-- Teacher works through the process they are modelling including the thought process behind how to do it and examples to support pupils to understand challenging parts of the process. 
+- Teacher identifies the key learning points to draw from the process they are modelling and primes pupils to focus on these.
+- Teacher works through the process they are modelling including the thought process behind how to do it and examples to support pupils to understand challenging parts of the process.
 - Teacher focuses pupil attention by condensing the process into manageable, sequential, specific steps.
 
 ### Development area 2: Explanations
 
-#### Focused development area  
+#### Focused development area
 
-- The teacher explains new concepts by linking them to pupils' prior knowledge. 
-- Teacher provides a clear definition of a concept that pupils will understand and links it to the examples they use. 
+- The teacher explains new concepts by linking them to pupils' prior knowledge.
+- Teacher provides a clear definition of a concept that pupils will understand and links it to the examples they use.
 - Teacher uses examples and non-examples to exemplify the concept and explains the underpinning features of these to aid pupil understanding.
 
 {details}
@@ -36,12 +35,11 @@ Example precise target: Teacher uses examples and non-examples to exemplify the 
 
 {/details}
 
-
 ### Development area 3: Involving pupils
 
-#### Focused development area  
+#### Focused development area
 
-- After the teacher has modelled a process to pupils, the teacher models the process again with increasing input from pupils to check they understand the thought process and outcome. 
+- After the teacher has modelled a process to pupils, the teacher models the process again with increasing input from pupils to check they understand the thought process and outcome.
 - Teacher checks that pupils have understood the steps in the process or concept being explained, tackling gaps or misconceptions before getting pupils to increase their input or practise independently.
 
 ### Observe
@@ -66,4 +64,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Use concrete representation of abstract ideas (e.g. make use of analogies, metaphors, examples and non-examples).
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

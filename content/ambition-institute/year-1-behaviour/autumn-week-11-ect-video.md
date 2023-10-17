@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-11-ect-teaching-cha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n94O-Si3ljU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Peps McCrea
+
 Getting pupils to work together can increase pupil success. Effective pair and group
 work can help pupils to rehearse ideas and deepen their understanding but it can
 be hard to get right. In order to get the most out of our pair and group work, we
 need to structure collaborative activities carefully, show pupils how to work together,
 and help them to stay on track. Effective pair and group work requires lots of support
 and lots of practice.
+
 ### Presenter main
+
 Pair and group work can support learning when it's carried out well. When pupils
 articulate their thinking to each other it can help to expose what they already know,
 develop their understanding, and reveal misconceptions. Pair and group work can also
@@ -43,15 +43,17 @@ During pair and group work, teachers need to support pupils to stay on task. Thi
 Overall, teachers need to make sure that they plan pair and group work carefully, set out clear behavioural expectations, and provide appropriate support. This will help pupils to get the best out of working together.
 
 ### Presenter exemplification framing
+
 In the next example, you're going to see a model of how to set up a paired activity.
 In it, pupils are asked to recall previously learned content. As you watch, pay particular
 attention to the following:
 
--  Teaches and rigorously maintains clear behavioural expectations for pair and
-    group work
--  Provides scaffolds for pupil talk to increase the focus and rigour of dialogue
+- Teaches and rigorously maintains clear behavioural expectations for pair and
+  group work
+- Provides scaffolds for pupil talk to increase the focus and rigour of dialogue
 
 ### Exemplification: Ambition Institute coach
+
 When pupils know how to take part in paired and group activities effectively it
 can be a powerful tool to support learning. Just like teaching pupils how to
 engage in independent practice, we need to teach our pupils what our
@@ -106,6 +108,7 @@ I also use scaffolds to increase the focus and rigour of pupil dialogue. In this
 When pupils have the necessary knowledge and skills to engage in meaningful talk, and when they are guided by a set of clear behavioural expectations, pair and group work can enable pupils to process their learning in a powerful way.
 
 ### Presenter key ideas
+
 Throughout this video we have considered some of the practical ways which teachers
 can help their pupils to get the most out of pair and group work. Before we finish,
 read over the key ideas that we have covered. Which idea would you prioritize for
@@ -116,7 +119,8 @@ your development and why?
 - Provide scaffolds for pupil talk to increase the focus and rigour of dialogue
 
 ### Presenter summary
+
 It can be difficult to keep track of learning during pair and group work but
 that doesn't mean we should shy away from doing it. Instead, we need to take the
 time to set up pair and group work carefully and explicitly teach pupils how to
-behave during these types of activities.  {/details}
+behave during these types of activities. {/details}

@@ -49,15 +49,14 @@ Bearing in mind the above features of how pupils think, classroom instructions a
 
 It is important to think about how we communicate instructions. Timing, tone of voice and how we model instructions can all make a difference to how well they are taken on board. Providing clear instructions is beneficial to all pupils but it can be especially important for younger pupils, those with Special Educational Needs and those with lower working memory capacity (Gathercole et al., 2006).
 
-
-
 ### Key takeaways
-Ms Silva can improve pupil behaviour and learning by understanding that:
-- holding and communicating high teacher expectations can improve pupil behaviour 
-- effective instructions can both prevent problems occurring and reinforce desired behaviours 
-- delivering effective instructions involves a concise ‘what’ and a clear ‘how’ 
-- checking that pupils understand instructions before letting them start increases the chances of success
 
+Ms Silva can improve pupil behaviour and learning by understanding that:
+
+- holding and communicating high teacher expectations can improve pupil behaviour
+- effective instructions can both prevent problems occurring and reinforce desired behaviours
+- delivering effective instructions involves a concise ‘what’ and a clear ‘how’
+- checking that pupils understand instructions before letting them start increases the chances of success
 
 ### Further reading
 
@@ -65,7 +64,6 @@ Gathercole, S., (2008) The Psychologist. [bit.ly/ecf-gat](http://bit.ly/ecf-gat)
 
 {details}
 References.
-
 
 Gathercole, S., Lamont, E., &amp; Alloway, T. (2006). _Working memory in the classroom. Working memory and education,_ 219-240.
 
@@ -80,4 +78,3 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 Tsiplakides, I. &amp; Keramida, A. (2010). The relationship between teacher expectations and student achievement in the teaching of English as a foreign language. _English Language Teaching, 3_(2), 22-26. <a href="http://Bit.ly/ecf-tsi" target="_blank" rel="noopener">http://Bit.ly/ecf-tsi</a>
 
 {/details}
-

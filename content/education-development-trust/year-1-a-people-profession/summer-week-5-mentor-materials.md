@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 5"
 ---
 
-
 ## Managing workload and wellbeing
 
 ### Intended outcomes
@@ -13,9 +12,9 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn how to manage workload and wellbeing, by:
 
-- Using and personalising systems and routines to support efficient time and task management 
+- Using and personalising systems and routines to support efficient time and task management
 - Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (e.g. textbooks)
-- Protecting time for rest and recovery.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+- Protecting time for rest and recovery.
 
 ### Activities
 
@@ -41,8 +40,8 @@ Ask the ECT to identify the strategies that have worked well for them this year 
 
 Ask the ECT how effective they have found these approaches to managing their workload and wellbeing, and what they can do to develop them further so that they continue to manage their time more effectively. Looking ahead to next year, using their timetable if available, the mentor and ECT should identify where the busiest times are in the week, and where time is available for rest and recovery.
 
-Pose the question: How can you manage your time outside these slots to ensure your workload doesn’t become too arduous?      
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+Pose the question: How can you manage your time outside these slots to ensure your workload doesn’t become too arduous?
+
 ###Managing workload and wellbeing: across the year (25 minutes)
 
 Using [Handout 6.4](/assets/materials/edt-Block-6-mentor-handout-6.4.pdf), plot on the chart the key activities that create extra workload intensity throughout the year. This will depend on phase and subject but might include, e.g. parents’ evenings, report writing, exams, school productions, practical assessment points, sports events, etc.
@@ -55,9 +54,8 @@ Looking forward to next year, choose one or two of these activities and reflect 
 - Where could the ECT could become more effective and reduce workload, e.g. written marking?
 - In the school year, when will they particularly need to protect some time for rest and recovery?
 
-The ECT should identify key actions they can take in the coming year to manage these key points of workload intensity and agree with their mentor the steps they will take. If appropriate, mentors should facilitate conversations with colleagues to support this. The mentor and the ECT should agree two or three occasions in the coming year when they will review these (e.g. just before or after the periods of intensity). Where appropriate, reminders of these actions and commitments should be diarised now.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+The ECT should identify key actions they can take in the coming year to manage these key points of workload intensity and agree with their mentor the steps they will take. If appropriate, mentors should facilitate conversations with colleagues to support this. The mentor and the ECT should agree two or three occasions in the coming year when they will review these (e.g. just before or after the periods of intensity). Where appropriate, reminders of these actions and commitments should be diarised now.
 
 ### Planning for action
 
-The mentors and the ECT should agree two or three key action points relating to this topic.        
-
+The mentors and the ECT should agree two or three key action points relating to this topic.

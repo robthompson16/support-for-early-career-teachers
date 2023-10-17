@@ -10,7 +10,7 @@ The curriculum design skills that you’ll develop during this module can equall
 
 This module brings together many of the things you have learnt in previous modules this year. It is designed to revisit and draw upon your existing knowledge and apply this to think about what makes good curriculum design.
 
-It is not intended to provide a step-by-step instruction guide or recipe to producing a scheme of work. First, curriculum design is rarely a linear process and you should expect to go backwards and forwards as your scheme develops. Second, schemes of work can take many forms and there is not a blueprint for a scheme of learning that will suit all contexts. 
+It is not intended to provide a step-by-step instruction guide or recipe to producing a scheme of work. First, curriculum design is rarely a linear process and you should expect to go backwards and forwards as your scheme develops. Second, schemes of work can take many forms and there is not a blueprint for a scheme of learning that will suit all contexts.
 
 So, use the principles outlined in this module as a guide and remember that any scheme of work should be a supportive framework for responsive teaching and learning, rather than a bind that restricts your teaching, or the learning of your pupils.
 

@@ -12,17 +12,18 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-3-ect-research-a
 
 ### Learning Intentions for this session
 
-####You will learn that:                                                                                                                                                                                                                                 
+####You will learn that:
 
-- To access the curriculum, early literacy provides fundamental knowledge; reading comprises two elements: word reading and language comprehension; systematic synthetic phonics is the most effective approach for teaching pupils to decode. 
-- Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines. 
+- To access the curriculum, early literacy provides fundamental knowledge; reading comprises two elements: word reading and language comprehension; systematic synthetic phonics is the most effective approach for teaching pupils to decode.
+- Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
 
-####You will learn how to develop pupils' literacy, by:                                                                                                                                                                                                     
+####You will learn how to develop pupils' literacy, by:
+
 - Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.
-- Supporting younger pupils to become fluent readers and to write fluently and legibly.                                                                                                                                                                 - Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
-- Modelling reading comprehension by asking questions, making predictions, and summarising when reading.                                                                                                                                                - Promoting reading for pleasure (e.g. by using a range of whole class reading approaches and regularly reading high-quality texts to children).
-- Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary). 
-- Teaching different forms of writing by modelling planning, drafting and editing.                                                                                                                                                                      
+- Supporting younger pupils to become fluent readers and to write fluently and legibly. - Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
+- Modelling reading comprehension by asking questions, making predictions, and summarising when reading. - Promoting reading for pleasure (e.g. by using a range of whole class reading approaches and regularly reading high-quality texts to children).
+- Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
+- Teaching different forms of writing by modelling planning, drafting and editing.
 
 ## Introduction
 

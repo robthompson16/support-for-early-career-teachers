@@ -16,19 +16,17 @@ For example, as pupils move through school, they will encounter many and increas
 
 The second is that the more prior knowledge a pupil has about a topic in their long-term memory, the more space will be freed up in the working memory to engage with more complex ideas and reflect on meaning. Here’s an example many of us will recognise:
 
-
-
 ### Example
-Consider learning to drive. 
 
-When you first learn you are conscious of every decision; how far to turn the wheel, when to look in your mirrors, how hard to press the accelerator etc. 
+Consider learning to drive.
 
-Over time, and with repetition, this knowledge is transferred to your long-term memory and you are freed up to use working memory for other thinking tasks, such as remembering a set of directions in a new city. 
+When you first learn you are conscious of every decision; how far to turn the wheel, when to look in your mirrors, how hard to press the accelerator etc.
+
+Over time, and with repetition, this knowledge is transferred to your long-term memory and you are freed up to use working memory for other thinking tasks, such as remembering a set of directions in a new city.
 
 If you still had to use your working memory to figure out what every road sign means, you would likely spend an unnecessary amount of time driving around and missing your turn offs.
 
 (Adapted from Willingham, 2009)
-
 
 How does this apply to the classroom? It means we need to think carefully about how we sequence knowledge and whether some knowledge is particularly important as a basis for other concepts. We look at this idea of foundational concepts in Block 4. For now, it is important to note that by committing a number of key facts to long-term memory pupils free up working memory to think about more complex ideas. What these facts are will differ depending on the age of your students and the subject you teach.
 
@@ -43,10 +41,8 @@ Teacher 3 (Primary, Year 2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPHPtWbx2tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Teacher 1: By the time I get them in Year 6, I am hoping that there are quite a few things already committed to long-term memory, especially in the core subjects. It makes Year 6 a lot easier (for me and the pupils) if they are confident, active and engaged readers, with a solid vocabulary base. If pupils can enhance their writing with vocabulary from their wider reading and improve it in the drafting process, their outcomes are more cohesive. Not necessarily subject-specific language which I know they will cover in Year 6 but a broad base. I get so fed up with everything being described as “nice”. There are so many other adjectives out there! It’s also helpful if they automatically use the rules of grammar, such as capital letters, new paragraphs, full stops and the punctuation to demonstrate direct speech. The Year 6 curriculum becomes quite dense with colons, semi-colons etc. which means that it helps if I don’t have to still correct basic grammar they should know already.
 
@@ -56,15 +52,13 @@ Teacher 3: In Year 2, I know that the pupils don’t have tons of prior knowledg
 
 {/details}
 
-
-
 ### In your notepad
+
 What might be some of the key facts that are important for your
-    phase/subject?
+phase/subject?
 
 How might you take into consideration pupils’ prior knowledge of key facts
-    in your phase/subject when planning?
- 
+in your phase/subject when planning?
 
 ## Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly
 
@@ -72,9 +66,8 @@ We all understand what is meant by a misconception. It may be a simple misunders
 
 We also now know that all new learning is related to prior knowledge. Stronger and more developed prior knowledge makes it easier for us to learn new, related things. Where the reverse is true and prior knowledge is weak or shallow, pupils are more likely to learn things incorrectly by forming misconceptions. This is because pupils will form incorrect connections or make assumptions to fill gaps in their knowledge.
 
-
-
 ### Example
+
 In the examples below Ava and Tyler have developed misconceptions based on shallow
 or incomplete prior knowledge.
 
@@ -83,7 +76,6 @@ As you read, consider how these misconceptions have formed and how their teacher
 Ava is in Year 7. She loves storytelling and so is excited when her first piece of writing in English is to write a creative story about an adventure three friends go on. When she receives her feedback from the teacher, Ava is upset to see so many corrections circled and that she was marked down for grammar. Ava doesn’t understand – she thought that you used an apostrophe to show that something was plural so she used it throughout her story (e.g. The three friend’s walked quickly towards the bicycle’s which they would use to get away).
 
 Tyler is in Year 1. He has noticed that the trees had leaves which were green during the summer when he played in the park but now that it’s autumn, the leaves have changed colours to yellow and brown! It’s fun because he can kick them. At the school entrance there is a tree which has stayed green which is confusing. It’s a smaller tree though and his teacher told him it was called a holly bush so Tyler assumes that trees can only be trees if they lose their leaves, all the others are bushes.
-
 
 Your pupils will come into your class with existing prior knowledge. While it’s impossible to know and take into account all the prior knowledge each of your pupils brings, you can safely assume that some of this prior knowledge will be weak or shallow and has already or will potentially lead to misconceptions. This is why careful planning and thought needs to go into identifying possible misconceptions and then planning how to prevent these forming.
 
@@ -123,7 +115,6 @@ A worked example is a step-by-step demonstration of how to perform a task or sol
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-2.2.2-Opt-1.png" alt="The illustration shows a teacher standing at the front of a class, modelling an example with a solution so that pupils can observe the method used rather than simultaneously trying to solve the problem for themselves. When using a worked example in the classroom, pupils see an example of the problem and solution and the teacher models the steps showing how they arrived at the solution. Pupils study the steps or process, rather than trying to work it out independently, which reduces cognitive load. This is more effective for novice than for experts. Worked examples need to be carefully planned (in advance) to ensure they information is presented systematically and clearly." />
 </figure>
 
-
 ## Supporting pupil learning with worked examples
 
 The reasons why pupils learn better with worked examples will be familiar to you now. When pupils are confronted by a new task or problem it places high demands on their working memory. The combination of content information and the need to work out how to solve the task can be overwhelming. If pupils are given worked examples to support them during the process of problem solving, it frees up space within their working memory. This makes them more likely to succeed in the task when they do it independently.
@@ -136,4 +127,3 @@ While a worked example can support pupil learning by easing some of the cognitiv
 - If a pupil actively explains the worked example to themselves (or others) they will be even better prepared to transfer the knowledge to new problems (Wittwer & Renkl, 2010).
 
 You will work with your mentor in session 2.6 on worked examples and there is an opportunity to practise them in the activities below.
-

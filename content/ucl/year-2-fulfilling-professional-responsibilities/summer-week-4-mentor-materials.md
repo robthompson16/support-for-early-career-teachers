@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-
 ## Programme review and planning for year 3
 
 ### Mentor materials content
@@ -45,4 +44,3 @@ To support this action-planning process, you could:
 Next Steps: 5 mins
 
 This is the final session of the Early Career Teacher programme. If you and your mentee are both planning to stay in your school for the coming year, you may wish to plan a time in the autumn term to meet and review the action plan drafted today. Otherwise, there are no further steps to take, and your mentee has completed this programme.
-

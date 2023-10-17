@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-3-ect-reflect"
 ---
 
-
 Mr Alexander has a clear idea of the content that he wants his pupils to learn. However, despite 'covering' the content in lessons, he still finds that many of his pupils struggle to remember it in future lessons. What can Mr Alexander do to help his pupils remember what they have been taught?
 
 ## Key idea
@@ -59,15 +58,14 @@ One challenge some pupils with special educational needs or disabilities may exp
 
 Individual differences may mean retrieval practice is not equally powerful for all pupils. Factors that affect the impact of retrieval practice on pupil memory include the intervals between teaching and recall, and whether feedback on pupil responses is provided (Agarwal et al., 2017).
 
-
-
 ### Key takeaways
-Mr Alexander can ensure his instruction supports pupil memory by understanding that:
-- pupils remember content they think hard about, and they can’t think if their working memory is overloaded 
-- teachers can support thinking by introducing material which builds on prior knowledge, breaking it up into manageable steps and using worked and partially worked examples 
-- as pupil knowledge increases, support can get in the way of thinking and should be removed 
-- opportunities to retrieve at increasingly spaced intervals promotes remembering
 
+Mr Alexander can ensure his instruction supports pupil memory by understanding that:
+
+- pupils remember content they think hard about, and they can’t think if their working memory is overloaded
+- teachers can support thinking by introducing material which builds on prior knowledge, breaking it up into manageable steps and using worked and partially worked examples
+- as pupil knowledge increases, support can get in the way of thinking and should be removed
+- opportunities to retrieve at increasingly spaced intervals promotes remembering
 
 ### Further reading
 
@@ -75,7 +73,6 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 
 {details}
 References.
-
 
 Agarwal, P. K., Finley, J. R., Rose, N. S., &amp; Roediger, H. L. (2017). Benefits from retrieval practice are greater for students with lower working memory capacity. _Memory,_ 25(6), 764–771.
 
@@ -96,4 +93,3 @@ Sweller, J., van Merrienboer, J. J. G., &amp; Paas, F. G. W. C. (1998). Cognitiv
 Willingham, D. T. (2009)._Why don’t students like school?_ San Francisco: Jossey Bass.
 
 {/details}
-

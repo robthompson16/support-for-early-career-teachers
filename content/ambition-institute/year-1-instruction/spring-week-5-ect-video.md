@@ -6,18 +6,19 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-5-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/34fPMu-jtkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
 ### Presenter intro: Helena MooreA lot of what we teach our pupils will be new
+
 or abstract, and it can be difficult to learn. To help with this, teachers can explicitly
 teach the knowledge and skills that pupils need to succeed. Exposition is the part
 of a lesson where the teacher can explicitly teach their pupils. This includes explaining,
 modelling and demonstrating. Exposition provides an opportunity for teachers to set
 things out clearly.
+
 ### Presenter main
+
 Exposition is the part of the lesson where the teacher carefully shares material
 with pupils. Think of it as the I part, where I refers to the teacher sharing something
 with their pupils. Our working memories, where conscious thinking takes place, have
@@ -33,7 +34,7 @@ Modelling is where we work through a process, articulating the steps and our thi
 
 Demonstrating is where a teacher uses the physical object to show a process or a concept, such as how to use shade with charcoal pencils, or how to use a ray box, slit and lens to see how different surfaces refract light. As the teacher demonstrates, they draw our attention to the important features and the most relevant thought processes.
 
-To be effective, expositions need to be carefully planned. At the planning stage, teachers can identify what they want pupils to know or be able to do. They need to do this in detail. One approach that can be helpful is to complete the following sentences:_“I want my pupils to know that...”_or _“I want my pupils to be able to...”&nbsp;_Being granular and specific at this stage will improve the clarity of expositions.
+To be effective, expositions need to be carefully planned. At the planning stage, teachers can identify what they want pupils to know or be able to do. They need to do this in detail. One approach that can be helpful is to complete the following sentences:_“I want my pupils to know that...”\_or _“I want my pupils to be able to...”&nbsp;\_Being granular and specific at this stage will improve the clarity of expositions.
 
 Teachers also need to ask themselves where their pupils' current starting point is. Expositions should build on what pupils already know. This will help them to access the content and link it to existing knowledge.
 
@@ -44,11 +45,15 @@ To get the best out of an exposition in the lesson itself, pupils need to think 
 Overall, pupils shouldn't be passive during an exposition.  Instead, they need to think about the new content they are learning. Only then will they be able to use it independently, an important goal of good expositions and effective teaching.
 
 ### Presenter exemplification framing
+
 In a moment, you'll see an Ambition Institute coach give an example of how to model
 during an exposition. Pay particular attention to the following as you watch:
+
 - Start expositions at the point of current pupil understanding
 - How modelling provides more structure for learners early on in the domain
+
 ### Exemplification: Ambition Institute Coach
+
 In this example, I'm going to model how teacher exposition can support pupils to
 learn.  I want you to imagine I'm teaching a year four geography lesson, and
 this is part of a series on ordinance survey maps. In this lesson, pupils will
@@ -87,6 +92,7 @@ Secondly, I explained and modelled the process of given a full figure grid refer
 By modelling the process that we want pupils to engage in clearly, we can help to support and scaffold the new learning.
 
 ### Presenter key ideas
+
 In this video, we have explored how exposition can be used to support pupils to access
 content. Expositions are especially important for setting up new or complex material.
 Before we finish, read through the key ideas of the module. Which of these have you
@@ -97,12 +103,10 @@ applied in a recent lesson?
 - Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate
 
 ### Presenter summary
+
 Teachers are likely to use expositions in the majority of lessons they teach.
 They might explain, model or demonstrate. It's a key instructional tool, which
 at its best can make content much more accessible and increase the chance of
 success.
 
-
-
 {/details}
-

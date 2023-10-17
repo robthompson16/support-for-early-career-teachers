@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 1"
 ---
 
-
 ## Setting the scene and reducing cognitive load
 
 ### Intended outcomes
@@ -26,7 +25,6 @@ Learn how to avoid overloading working memory by:
 Learn how to make good use of expositions, by:
 
 - Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 
 ### Activities
 
@@ -46,7 +44,7 @@ Help connect the ECT into the theme of this module with some of these questions:
 
 ###Reviewing the evidence (20 minutes)
 
-Guidance to mentors: 
+Guidance to mentors:
 
 - The ECT should have read the ‘Understanding the evidence’ section of the self-directed study materials ahead of the topic.
 - The mentor should also familiarise themselves with the content.
@@ -73,7 +71,6 @@ How might this affect learning in the classroom?
 - Pupils are more likely to give up when their working memory is overloaded. The task feels too overwhelming.
 - Pupils may miss steps or forget to finish problems (e.g. leaving off the units in a maths problem)
 - Pupils may make false connections or develop misconceptions because they develop a weak or shallow understanding of a concept.
-
 
 What are some of the techniques you read about that a teacher can use to ensure that pupils don’t become overloaded?
 
@@ -103,12 +100,8 @@ Consider a lesson your ECT will be teaching in the next week or so, in which pup
 - The mentor and ECT should plan in detail, for example creating the slides or scripting out the explanation that the ECT will give to the pupils.
 - Spend at least five minutes with the ECT practicing delivery of this segment of the lesson and the mentor providing feedback and suggestions
 
-
-
-
 ### Planning for action
 
 Confirm when the ECT will teach the lesson with the segment planned in this topic.
 
 Ask the ECT to make a note of what they noticed and how well they thought the approach worked so that they can discuss it in the next topic.
-

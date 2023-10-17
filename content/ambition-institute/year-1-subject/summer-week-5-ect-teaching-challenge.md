@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-5-ect-reflect"
 ---
 
-
 Ms Smith has a clear sense of her learning goals and is confident at breaking the curriculum down into small, meaningful components. However, she struggles to know how quickly can she get pupils doing complicated thinking and when she should introduce more sophisticated tasks.
 
 ## Key idea
@@ -42,14 +41,13 @@ Once pupils have enough knowledge, Ms Smith can ensure pupils practise applying 
 
 Ensuring pupils have mastered foundational knowledge and core concepts depends on first identifying what is core – fundamental to understanding the topic and discipline – which she will return to many times to ensure pupils have successfully acquired them.
 
-
-
 ### Key takeaways
-Ms Smith can help pupils to acquire and apply ideas by:
-- sequencing subject knowledge and concepts and linking them to pupil prior knowledge 
-- modelling new processes and ideas, linking concrete and abstract models 
-- checking pupil understanding before encouraging independent practice
 
+Ms Smith can help pupils to acquire and apply ideas by:
+
+- sequencing subject knowledge and concepts and linking them to pupil prior knowledge
+- modelling new processes and ideas, linking concrete and abstract models
+- checking pupil understanding before encouraging independent practice
 
 ### Further reading
 
@@ -57,7 +55,6 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 
 {details}
 References.
-
 
 Christodoulou, D. (2017). _Making Good Progress: The Future of Assessment for Learning._ Oxford: OUP.
 
@@ -70,4 +67,3 @@ Willingham, D. T. (2002). Inflexible Knowledge: The First Step to Expertise. _Am
 Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco, CA: Jossey Bass.
 
 {/details}
-

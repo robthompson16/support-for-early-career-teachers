@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-subject/summer-week-12-ect-teaching-chall
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1C5Z9JxdeCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Harry Fletcher-Wood
+
 Providing feedback to pupils can have a positive impact on learning, but it can be
 hard to get feedback right. Teachers need to think carefully about what feedback
 they'll provide and why. Feedback can show pupils how to improve on a specific task
 and develop their understanding of the subject. When teachers give effective feedback,
 pupils learn more.
+
 ### Presenter main
+
 Effective feedback focuses on how pupils can improve. It provides them with clear
 guidance on what they can do to develop their knowledge and understanding of a subject.
 Ultimately, we want pupils to be successful without the support of a teacher. We
@@ -43,11 +43,15 @@ In terms of delivering feedback it's important to be aware that pupils' response
 With a better understanding of where pupils have gone wrong and why, and what feedback will help them to improve, you can go back and refine your approach to how you might deliver that feedback. That might mean a quick correction, reteaching, more time to practice, or perhaps a combination of all three.
 
 ### Presenter exemplification framing
+
 In the next example, you'll see a model of preparing feedback for the whole class.
 As you watch, focus on the following:
-- Prioritises the highlighting of errors related to misunderstandings rather than careless mistakes when marking 
+
+- Prioritises the highlighting of errors related to misunderstandings rather than careless mistakes when marking
 - Focuses on specific actions for pupils
+
 ### Exemplification: Ambition Institute coach
+
 For the purpose of this model, I want you to imagine that I am an English
 teacher. My year seven class have been writing short stories for creative
 writing. Understanding how to create appropriate and effective metaphors in
@@ -87,16 +91,19 @@ Second, I designed my feedback carefully so that it focused on specific actions.
 And finally, I designed my feedback so that it was delivered verbally. This saves me a lot of time, as I'm not writing individual comments on my pupils' work. During the lesson, I will be able to check that pupils understand the feedback by checking how they act on it.
 
 ### Presenter key ideas
+
 In this video, we've considered the impact that effective feedback can have, as well
 as some ideas about what to include in feedback. Before you finish, take a moment
 to read over the key ideas of the video. Which ideas do you think the model illustrated
 the best?
-- Prioritise the highlighting of errors related to misunderstandings, rather than careless mistakes when marking 
-- Focus on specific actions for pupils and provide time for them to respond to feedback 
+
+- Prioritise the highlighting of errors related to misunderstandings, rather than careless mistakes when marking
+- Focus on specific actions for pupils and provide time for them to respond to feedback
 - Use verbal feedback during lessons in place of written feedback after lessons where possible
+
 ### Presenter summary
+
 Feedback is something that teachers are likely to improve on the more that they
 know their subject and their pupils. When feedback is successful, pupils do
 better academically and take increasing ownership over their learning, both at
-school and beyond.  {/details}
-
+school and beyond. {/details}

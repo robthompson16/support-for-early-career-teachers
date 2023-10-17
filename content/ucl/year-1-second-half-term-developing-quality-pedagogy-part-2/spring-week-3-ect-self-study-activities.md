@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spring-week-3-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -37,4 +36,3 @@ You should think about what you have learned about adaptive teaching, e.g.,
 ### Next Steps: 5 mins
 
 Arrange to record 15 minutes of this lesson or for your mentor or another colleague to observe 15 minutes of it. If neither is possible, make sure you write a detailed lesson plan, and then annotate it later with notes on how the strategies you tried succeeded or not.
-

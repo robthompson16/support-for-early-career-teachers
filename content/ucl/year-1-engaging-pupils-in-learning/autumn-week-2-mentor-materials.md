@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 2"
 ---
 
-
 ## Prior knowledge, memory and misconceptions
 
 ### Learning intentions
@@ -54,7 +53,6 @@ In this session, you will help your mentee build on this previous activity, focu
 
 Key goals include helping them to a) recognise the extent of their pupils’ prior knowledge and how (and how much) new material should be introduced and b) plan for creating a foundation of facts in long-term memory to reduce load on working memory when introducing new concepts.
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session.
@@ -69,29 +67,29 @@ Theory to Practice 40 mins
 
 1. Collaborative planning
 
-     Jointly work through your mentee’s lesson plan from their last self-directed session incorporating working memory/long-term memory exchange. They had Hasan’s Year 9 English lesson to work from as a model. Work together to explore how this might be refined in order to avoid cognitive overload to working memory and maximise learning.
+   Jointly work through your mentee’s lesson plan from their last self-directed session incorporating working memory/long-term memory exchange. They had Hasan’s Year 9 English lesson to work from as a model. Work together to explore how this might be refined in order to avoid cognitive overload to working memory and maximise learning.
 
-    To support this exploration of their lesson you might like to ask:
+   To support this exploration of their lesson you might like to ask:
 
-    - Do you think your pupils, or some of them, might find this too hard?
-    - If so, could it be because their working memory is overloaded – you are asking them to handle too many ‘bits’ of knowledge at once?
-    - Have you done enough to help your pupils to retrieve knowledge from their long-term memories?
+   - Do you think your pupils, or some of them, might find this too hard?
+   - If so, could it be because their working memory is overloaded – you are asking them to handle too many ‘bits’ of knowledge at once?
+   - Have you done enough to help your pupils to retrieve knowledge from their long-term memories?
 
 2. Discuss with mentor
 
-    Briefly discuss with your mentee their ideas about:
+   Briefly discuss with your mentee their ideas about:
 
-    - how to identify when prior knowledge is weak and pupils have misconceptions
-    - what strategies might be effective for their class(es) in anticipating and dealing with these misconceptions
+   - how to identify when prior knowledge is weak and pupils have misconceptions
+   - what strategies might be effective for their class(es) in anticipating and dealing with these misconceptions
 
-    Focusing specifically on an instance of misconception that your mentee has encountered, jointly work through their ideas and how these might be refined in order to minimise the occurrence of this.
+   Focusing specifically on an instance of misconception that your mentee has encountered, jointly work through their ideas and how these might be refined in order to minimise the occurrence of this.
 
-    To support this discussion, you could refer to the research and practice summary in this week's ECT materials, and use perhaps two of these prompts:
+   To support this discussion, you could refer to the research and practice summary in this week's ECT materials, and use perhaps two of these prompts:
 
-    - consider how they might discover the likely extent of this misconception, both across their class as a whole and among different pupils (e.g. do a quick quiz of their previous learning, get pupils to rehearse ‘everything they remember’, give a quick recap of what they ought to have learned and follow up with one or two multiple-choice questions, ‘correct the teacher’ – deliberately quote the likely misconception and challenge the class to point out the mistake)
-    - draw out implications of this discussion for what – and how – new material might be introduced
-    - building on their understanding of the role of memory in learning, map out a strategy for addressing misconceptions that could be used within their classroom, including providing appropriate external support and thinking about what form this should take
-    - draw up a list of specific ways in which lesson content might be sequenced to prevent misconceptions from occurring in the first place by sharing and reflecting on examples from your own or another teacher’s planning and activity
+   - consider how they might discover the likely extent of this misconception, both across their class as a whole and among different pupils (e.g. do a quick quiz of their previous learning, get pupils to rehearse ‘everything they remember’, give a quick recap of what they ought to have learned and follow up with one or two multiple-choice questions, ‘correct the teacher’ – deliberately quote the likely misconception and challenge the class to point out the mistake)
+   - draw out implications of this discussion for what – and how – new material might be introduced
+   - building on their understanding of the role of memory in learning, map out a strategy for addressing misconceptions that could be used within their classroom, including providing appropriate external support and thinking about what form this should take
+   - draw up a list of specific ways in which lesson content might be sequenced to prevent misconceptions from occurring in the first place by sharing and reflecting on examples from your own or another teacher’s planning and activity
 
 Ask your mentee to identify three other specific opportunities in which they will apply the insights they have gained. How could they make this a routine part of their teaching?
 
@@ -106,4 +104,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

@@ -56,11 +56,9 @@ Whether analysing data you already have, or creating an evidence collection tool
 
 Validity: The sources you analyse will contain much more data than you need for your inquiry. It may be interesting, but don’t be distracted: only collect the evidence that helps answer your question. For example, if you are investigating the boys in a class, look for the data only on them.
 
+Reliability: The data you find might be true for a particular time in the past – is it still true now? For example, is a pupil’s previous learning record reliable evidence of their learning patterns now?
 
-
-Reliability: The data you find might be true for a particular time in the past – is it still true now? For example, is a pupil’s previous learning record reliable evidence of their learning patterns now?                                                                                            
-
-Manageability: Be selective, don’t attempt to analyse all possible sources. Creating codes – for when you spot similar issues arising in different sources – is a handy way to make sense of the data.                                                                                                   
+Manageability: Be selective, don’t attempt to analyse all possible sources. Creating codes – for when you spot similar issues arising in different sources – is a handy way to make sense of the data.
 
 Andy asked his TA to keep brief observation notes and discuss them with him at the end of the day; he also took a note of his own observations of the extent to which the pupil grouping intervention was having the desired effect.
 
@@ -85,18 +83,15 @@ When analysing evidence of pupils’ attitudes to learning, or creating a pupil 
 
 Are they valid?
 
-Only ask the questions that you need the answers to for your inquiry.                                                                                                                                                                                                                                                                                                                                                                                                                             
+Only ask the questions that you need the answers to for your inquiry.
 
 Are they reliable?
 
-Make sure your pupils understand the questions, and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…                                                                                                                                                
-
+Make sure your pupils understand the questions, and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…
 
 Is it manageable?
 
-Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. Open questions may give you rich data, but it can be arduous to analyse; closed questions (or ones when you ask pupils to place themselves on a 1-5 scale) are easy to analyse but might tell you less than you wish to know. Some combination of open and closed might be a good way forward for you. 
-
-
+Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. Open questions may give you rich data, but it can be arduous to analyse; closed questions (or ones when you ask pupils to place themselves on a 1-5 scale) are easy to analyse but might tell you less than you wish to know. Some combination of open and closed might be a good way forward for you.
 
 Vashti also carried out individual interviews with each of the 4 target pupils at the start and end of her inquiry (taking 5 minutes each with them, while other pupils worked independently); similarly, Mo interviewed a sample of pupils, including the Pupil Premium girls who were his focus.
 
@@ -145,4 +140,3 @@ And because he has developed his questioning practice to this extent, Mo has dec
 Bring your claim to your mentor meeting next week and be ready to discuss this with them.
 
 In that meeting, you will revisit the audit that you completed at the start of Module 8. To that end, you may also bring other supporting evidence to discuss your progress across Standards 4, 5 and 6.
-

@@ -4,18 +4,17 @@ heading: "Mentor materials"
 caption: "Autumn week 1"
 ---
 
-
 ## Discussion - identifying key prior knowledge and vocabulary
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Discussion
 
-### Outcome: 
+### Outcome:
 
-To have practised identifying the prior knowledge and vocabulary pupils will need in order to access the lesson 
+To have practised identifying the prior knowledge and vocabulary pupils will need in order to access the lesson
 
 ### Stimulus
 
@@ -35,4 +34,3 @@ With your teacher, look at a lesson that will soon be taught and practise identi
 2. What existing knowledge and vocabulary do pupils need to have in order to be able to access and understand the new idea or concept?
 3. What are the key ideas and concepts that you want your pupils to learn?
 4. How could you link these key ideas and concepts to their prior knowledge?
-

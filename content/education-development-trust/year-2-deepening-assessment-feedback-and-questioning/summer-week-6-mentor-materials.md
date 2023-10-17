@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 6"
 ---
 
-
 ## Review the module
 
 ### Activities
@@ -23,5 +22,4 @@ Work with your ECT to identify their next steps from this module.
 
 - What are your next steps?
 - What resources / support do you need?
-- When will you do this by?                                                                                                                                                                                                        
-
+- When will you do this by?

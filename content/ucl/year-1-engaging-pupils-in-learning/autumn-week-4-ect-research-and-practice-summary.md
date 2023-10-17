@@ -6,20 +6,17 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-4-ect-self-study-activities"
 ---
 
-
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-
-
 ### Consolidation, coding, retrieval and spaced practice
+
 Do you remember that two weeks ago you met Bob, who was learning about cells in his
 biology lessons? After initially introducing cells and tackling problems linked to
 specialised cells, Bob’s teacher waited a couple of weeks before returning to the
 topic and giving Bob’s class a quick quiz on the topic.
 
 Why did Bob’s teacher do this? As you read this summary,
-  try to work out why.
-
+try to work out why.
 
 Consolidation refers to the process of strengthening or stabilising new memories by transferring new learning from short- to long-term memory storage. When a memory is created (or ‘encoded’), many aspects of that memory (including the context within which the learning occurred) are also stored. Teachers can draw upon this ‘coding’ to help their pupils consolidate new learning as well as to recall learning stored in their long-term memory.
 
@@ -44,9 +41,8 @@ To help with your pupils’ progress using spacing, you should:
 - make sure you enable your pupils to master foundational concepts first
 - combine with retrieval practice activities, such as low-stakes testing, to improve their recall
 
-
-
 ### What did Bob’s teacher do?
+
 Sarah, who teaches Bob biology, carefully considered how she would teach Bob’s class
 about the structure and function of cells. This is foundational knowledge that Bob
 and his peers need to have a secure understanding of to succeed in biology.

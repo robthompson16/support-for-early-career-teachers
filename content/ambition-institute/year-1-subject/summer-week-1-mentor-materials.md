@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
 ## Module overview and re-contracting
 
 ### Contracting meeting
@@ -40,4 +39,3 @@ Typical school policies include, but are not limited to:
 - The safeguarding procedures.
 - How your school assesses pupils.
 - Your marking requirements.
-

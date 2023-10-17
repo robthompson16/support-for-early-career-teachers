@@ -18,21 +18,20 @@ In addition, research shows that routines are important for developing pupils' e
 
 Pupils become more able to regulate emotions, such as boredom or frustration, by relying on classroom rules and routines that help them to redirect their attention and minimise stress (Ursache, Blair & Raver, 2012). Therefore, it is important that you invest time in establishing and reinforcing routines to create an effective learning environment.
 
-
-
 ### Reflection
+
 Think about your current classroom practice and consider the following questions:
-- What routines do you currently have in place? 
-- How effective are these routines? 
-- Do all your pupils understand and follow these routines? 
+
+- What routines do you currently have in place?
+- How effective are these routines?
+- Do all your pupils understand and follow these routines?
 - Are there any tasks or transitions your pupils often make during lessons that would benefit from a more effective routine?
-You now have 15 minutes to explore one of the routines below that you think would
-benefit your teaching practice the most:
+  You now have 15 minutes to explore one of the routines below that you think would
+  benefit your teaching practice the most:
 - ‘Greeting Pupils at the Door’ and ‘Settling Task’
 - ‘Transitioning to and from the Carpet’
 - ‘Getting Pupils’ Attention’
 - ‘Exit Routine’
-
 
 ## Greeting pupils at the door
 
@@ -40,36 +39,34 @@ From the moment pupils arrive at your classroom door to the time you begin teach
 
 One way to do this is to greet pupils at the door as they arrive. By meeting your pupils at the door as they enter your classroom, you can build relationships with your pupils, positively reinforce behavioural expectations and create a warm environment before the lesson even begins. By being welcoming, friendly, and setting up a predictable start to the lesson, you will begin to develop a trusting relationship with your pupils.
 
-
-
 ### What makes it successful?
+
 Exactly how you set up this routine may vary depending on the age of your pupils
 or your school’s policies, but here are some good steps you can take to make it successful:
 
-Step 1: Stand at or around the door or entrance to the classroom. 
+Step 1: Stand at or around the door or entrance to the classroom.
 
 This will enable you to:
 
 - Monitor pupils’ moods and behaviours as they enter the classroom
 - See both inside the classroom and out onto the corridor or playground
- Step 2: Positively interact with pupils as they come into the class to help
+  Step 2: Positively interact with pupils as they come into the class to help
   build trust and respect.
 
 This could be:
 
-- Greeting pupils by saying, “Good Morning”, to make your pupils feel welcome 
-- Asking a relationship-building question like, “How did the football match go?” 
+- Greeting pupils by saying, “Good Morning”, to make your pupils feel welcome
+- Asking a relationship-building question like, “How did the football match go?”
 - Simply giving a non-verbal positive interaction like a warm smile
 - Providing positive reinforcement to pupils who are meeting your expectations, for example, “Thank you Mohammed for remembering to put your homework in the box”
-Step 3: If necessary, provide corrective statements to individual pupils or
+  Step 3: If necessary, provide corrective statements to individual pupils or
   the entire class to reinforce your expectations.
 
 For example, you might:
 
-- Remind children of the behaviour you want to see in a respectful way, for example, “Remember, we should have our shirts tucked so we’re looking smart” 
-- Use a positive frame such as, “I’m looking forward to seeing you concentrate really hard today” 
+- Remind children of the behaviour you want to see in a respectful way, for example, “Remember, we should have our shirts tucked so we’re looking smart”
+- Use a positive frame such as, “I’m looking forward to seeing you concentrate really hard today”
 - Avoid negative comments like, “I don’t want you getting distracted again like you did last lesson”. This is a new lesson for you and your pupils, so start with a clean slate
-
 
 If you also greet parents at the door, for example in Early Years or KS1, this is a great opportunity to build relationships with them too. Sharing a quick comment about how well their child did yesterday at a task or activity, or the progress they are making in a subject, will support you to build positive relationships with the families of your pupils. This in turn can improve pupils’ motivation, behaviour and academic success.
 
@@ -81,26 +78,24 @@ A settling task is a short task that pupils can complete the beginning of each l
 
 By providing a settling task, you reduce the opportunities for low-level disruption such as talking or loitering. It also has the added bonus of affording you time to greet the pupils at the door, knowing everyone has a task to be getting on with while you do this.
 
-
-
 ### What makes this successful?
+
 Here are some ways you can make a settling task successful:
-- No direct instruction required – pupils should be able to see the activity and complete it immediately without asking for help from you or their peers. For younger pupils who can’t read directions or instructions, it might be helpful to model the task the day before or use a task they are already familiar with so when they enter, they can start the task without requiring too much instruction. 
-- Observable – if you are in KS2 or above, the settling task works best if it involves some writing to make it more rigorous and engaging – and so you can see they’re completing it. 
-- 5 minutes or less – this is a short task to begin the lesson or the day so it shouldn’t take any longer than 5 minutes to complete. 
-- Review or preview – the task should be based on a review of learning from a previous lesson or a preview of the lesson that is about to begin. 
+
+- No direct instruction required – pupils should be able to see the activity and complete it immediately without asking for help from you or their peers. For younger pupils who can’t read directions or instructions, it might be helpful to model the task the day before or use a task they are already familiar with so when they enter, they can start the task without requiring too much instruction.
+- Observable – if you are in KS2 or above, the settling task works best if it involves some writing to make it more rigorous and engaging – and so you can see they’re completing it.
+- 5 minutes or less – this is a short task to begin the lesson or the day so it shouldn’t take any longer than 5 minutes to complete.
+- Review or preview – the task should be based on a review of learning from a previous lesson or a preview of the lesson that is about to begin.
 - Feedback – briefly review and feedback on the answers – ideally taking no more than 5 minutes. This may mean prioritising which parts of the activity to review with the whole class that will be highest leverage for your pupils.
 
-
-
-
 ### Greeting pupils at the door and settling task in action
+
 Choose the video that’s most suitable for you. While watching, think about the following
 questions:
-- What is the impact of these routines on pupils’ behaviour and learning at the start of the lesson? 
-- Do these routines meet the success criteria? 
-- Is there anything that would make the routine even better?
 
+- What is the impact of these routines on pupils’ behaviour and learning at the start of the lesson?
+- Do these routines meet the success criteria?
+- Is there anything that would make the routine even better?
 
 Here’s a reminder of the success criteria:
 
@@ -118,10 +113,9 @@ Here’s a reminder of the success criteria:
 - Review or preview
 - Feedback
 
-####Greeting pupils at the door and settling task – Early Years – Jane Garrard at Reach Academy  
+####Greeting pupils at the door and settling task – Early Years – Jane Garrard at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aC_fE27byqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Greeting pupils at the door and settling task – Early Years \[AD\]](https://youtu.be/1wEPjTizX8A)
 
@@ -129,13 +123,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LXCzGJX2Fx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Greeting pupils at the door and settling tasks – Primary - Shauna Warnock at One Degree Academy [AD]](https://youtu.be/rAr-jBvBqYQ)
 
-####Greeting pupils at the door and settling task – Secondary – Claire Couves at Reach Academy  
+####Greeting pupils at the door and settling task – Secondary – Claire Couves at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-7dYeoA90Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Greeting pupils at the door and settling task – Secondary \[AD\]](https://youtu.be/RkncN-HVBBA)
 
@@ -143,68 +135,60 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jm8RURPU210" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Greeting pupils at the door and settling task – Specialist setting - Katie Greenhough at Ellen Tinkham School \[AD\]](https://youtu.be/_BTobqCufBU)
 
 <!-- /wp:embed -->
 
-
-
 ### Reflection
-Think about your teaching practice and consider the following questions:
-- How do you greet and settle pupils at the beginning of a lesson? 
-- Is this successful? If so, why? If not, how could you make this routine better?
 
+Think about your teaching practice and consider the following questions:
+
+- How do you greet and settle pupils at the beginning of a lesson?
+- Is this successful? If so, why? If not, how could you make this routine better?
 
 ## Transitioning to and from the carpet
 
 Transitioning from the carpet to tables or independent tasks is an activity that happens frequently in a Primary classroom – especially those in Early Years and Key Stage 1. Therefore, it is one routine that you could prioritise at the beginning of the school year to ensure it is well established and efficient.
 
-
-
 ### What makes this routine successful?
+
 When creating a routine for this, as with any other routine, it is helpful to ensure
 instructions are clear and concise, so pupils know what is expected of them. It is
 therefore useful if instructions are:
-- Specific and observable – they make the behaviours pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, “Stand behind your chairs”, rather than, “Be ready”. 
-- Sequential – they are given in the order that you want pupils to follow them. 
+
+- Specific and observable – they make the behaviours pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, “Stand behind your chairs”, rather than, “Be ready”.
+- Sequential – they are given in the order that you want pupils to follow them.
 - Manageable – use fewer words to make the instruction easier for pupils to process and remember. You can replace words with numbers or gestures to make them even quicker to deliver.
 
-
-
-
 ### Transitioning to and from the carpet in action
+
 Choose one of the videos below to watch how a teacher manages the transition to and
 from the carpet.
 
 As you watch, consider the following:
 
-- What impact does this routine have on the classroom environment and pupils’ learning? 
-- Are the success criteria being met? 
+- What impact does this routine have on the classroom environment and pupils’ learning?
+- Are the success criteria being met?
 - Is there anything that would make this routine better?
 
-
-####Transitioning to and from the carpet – Early Years at Reach Academy  
+####Transitioning to and from the carpet – Early Years at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWjYkB6KMf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Transitioning to and from the carpet – Early Years \[AD\]](https://youtu.be/BoaOYZQ1_Lo)
 
-####Transitioning to and from the carpet – Primary at Reach Academy  
+####Transitioning to and from the carpet – Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDp24PVq_D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Transitioning to and from the carpet - Primary \[AD](https://youtu.be/Gy-8ZwN3p0k)
 
-
-
 ### Reflection
-Think about your teaching practice and consider the following questions:
-- How do you manage the transition between carpet, tables, and other activities? 
-- Is this successful? If so, why? If not, how could you make this routine better?
 
+Think about your teaching practice and consider the following questions:
+
+- How do you manage the transition between carpet, tables, and other activities?
+- Is this successful? If so, why? If not, how could you make this routine better?
 
 ## Getting pupils’ attention
 
@@ -212,26 +196,24 @@ Getting pupils’ attention is a key skill for any teacher to master but can be 
 
 There are numerous strategies you can use to get pupils’ attention - clapping a pattern, counting down, using an instrument, putting your hand in the air, and so on. Whichever strategy you use, it’s important that you use consistent language or non-verbal signals to support pupils’ understanding of what you are expecting them to do.
 
-
-
 ### What makes this routine successful?
+
 When creating a routine for this, as with any other routine, it is important that
 you are clear on what you want pupils to do. It is therefore useful if instructions
 are:
-- Specific and observable – they make the behaviours that pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, saying, “Pencils down and eyes to me”, is observable. Conversely, saying, “Pay attention”, is vague and abstract. 
-- Sequential – they are given in the order that you want pupils to follow them. For example, “Put your pens down, close your books, and eyes on me”. 
+
+- Specific and observable – they make the behaviours that pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, saying, “Pencils down and eyes to me”, is observable. Conversely, saying, “Pay attention”, is vague and abstract.
+- Sequential – they are given in the order that you want pupils to follow them. For example, “Put your pens down, close your books, and eyes on me”.
 - Manageable – use fewer words to make the instruction easier for pupils to process and remember. You can replace words with numbers or gestures to make them even quicker to deliver.
 
-
-
-
 ### Getting pupils’ attention in action
+
 Watch one of the videos below to see how a teacher gets pupils’ attention by being
 clear on what they want pupils to do. As you watch, consider the following questions:
-- What makes their instructions effective? 
+
+- What makes their instructions effective?
 - How do they maintain expectations and ensure all pupils follow their instructions?
 - What impact does this routine have on the classroom environment and pupils’ learning?
-
 
 Here’s a reminder of the success criteria:
 
@@ -245,13 +227,11 @@ Be clear on what to do by giving instructions that are:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygkxtEyRg_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Getting pupils' attention - Early Years - Bethan Hughes at Reach Academy[AD]](https://youtu.be/x9vDCjDBdTw)
 
 ####Getting pupils' attention – Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8F58ysBdrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Getting pupils' attention – Primary at Reach Academy \[AD\]](https://youtu.be/U8zn5aT0EfI)
 
@@ -259,23 +239,20 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gDiw7hftbbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Getting pupils' attention - Secondary - Phil Fowkes at Reach Academy \[AD\]](https://youtu.be/ZcV_gVxTbsk)
 
 ####Getting pupils’ attention - Specialist setting - Robyn Emmerson at Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oG9QWWiy1Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Getting pupils’ attention - Specialist setting - Robyn Emmerson at Ellen Tinkham School \[AD\]](https://youtu.be/09CWrZwid8w)
 
-
-
 ### Reflection
-Think about your teaching practice and consider the following questions:
-- How do you currently gain pupils' attention? 
-- Is this successful? If so, why? If not, how could you make this routine better?
 
+Think about your teaching practice and consider the following questions:
+
+- How do you currently gain pupils' attention?
+- Is this successful? If so, why? If not, how could you make this routine better?
 
 ## Exit routine
 
@@ -283,59 +260,53 @@ You should hold and maintain high expectations of your pupils from the moment th
 
 Once a lesson has ended, it can be tempting to encourage pupils to leave as quickly as possible to give you time to prepare for your next lesson. But this can cause a rowdy exit and may also leave you with a messy classroom that you have to tidy up - something you probably don’t have time for. For these reasons, it’s a good idea to leave time at the end of each lesson for an efficient exit routine.
 
-
-
 ### What makes an exit routine successful?
+
 This might depend on your school’s expectations and ethos, but it is helpful if:
+
 - Tables and learning spaces are tidy
 - Chairs are pushed under
 - Pupils leave the classroom in an orderly fashion
-When creating a routine for this, as with any other routine, it is important that
-you are clear on what you want pupils to do. It is therefore useful if instructions
-are:
-- Specific and observable – they make the behaviours that pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, saying, “Stand quietly behind your chair”, is observable. Conversely, saying, “Get ready to leave”, is vague and abstract. 
-- Sequential – they are given in the order that you want pupils to follow them. For example, “Pass your books to the end of your row and pack your belongings away in your bag”. 
+  When creating a routine for this, as with any other routine, it is important that
+  you are clear on what you want pupils to do. It is therefore useful if instructions
+  are:
+- Specific and observable – they make the behaviours that pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, saying, “Stand quietly behind your chair”, is observable. Conversely, saying, “Get ready to leave”, is vague and abstract.
+- Sequential – they are given in the order that you want pupils to follow them. For example, “Pass your books to the end of your row and pack your belongings away in your bag”.
 - Manageable – use fewer words to make the instruction easier for pupils to process and remember. You can replace words with numbers or gestures to make them even quicker to deliver.
 
-
-
-
 ### Exit routine in action
+
 Watch the video of pupils exiting the classroom in the phase of your choice and consider
 the following questions:
-- What makes this exit routine effective? 
-- How do the pupils respond to it? 
-- How does the routine demonstrate the teacher’s high expectations?
 
+- What makes this exit routine effective?
+- How do the pupils respond to it?
+- How does the routine demonstrate the teacher’s high expectations?
 
 ####Exit routine - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vnmj7l1GBfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Exit routine - Early Years \[AD\]](https://youtu.be/085Wa_72YXo)
 
-####Exit routine – Primary – Juan Petroza at Reach Academy  
+####Exit routine – Primary – Juan Petroza at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIR17nlB7HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Exit routine – Primary \[AD\]](https://youtu.be/1i1heVtu0LY)
 
-####Exit routine – Secondary – Phil Fowkes at Reach Academy  
+####Exit routine – Secondary – Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFqmgbEFMd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Exit routine – Secondary \[AD\]](https://youtu.be/YgEAsP_NoRk)
 
-
-
 ### Reflection
-Think about your teaching practice and consider the following questions:
-- How do pupils currently exit your classroom? 
-- Is this successful? If so, why? If not, how could you make this routine better?
 
+Think about your teaching practice and consider the following questions:
+
+- How do pupils currently exit your classroom?
+- Is this successful? If so, why? If not, how could you make this routine better?
 
 ## The importance of teaching and practising
 
@@ -343,13 +314,11 @@ Effective routines take time to teach and fully establish. It can feel daunting 
 
 Here Tom Bennett explains why explicitly teaching and practicing routines is so important. Whilst watching, consider the following questions.
 
-* why is it important to explicitly teach routines?
-* what are the five tips that Tom outlines for when teaching behavioural
-      expectations and routines?
-
+- why is it important to explicitly teach routines?
+- what are the five tips that Tom outlines for when teaching behavioural
+  expectations and routines?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dycXVmXPIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 {details}
 Video transcript.
@@ -370,8 +339,8 @@ There’s a well-known phenomenon called the curse of expertise, which simply pu
 - Demonstrate by example;
 - Correct common misconceptions; and
 - Re-teach the parts that you think need to be re-taught, including, if necessary, getting them to do it all over again so they don’t just think about what they should be doing, but they demonstrate what they should be doing.
-And that’s how you would teach any subject or topic and that’s how we should teach
-behaviour – by focusing on routines.  {/details}
+  And that’s how you would teach any subject or topic and that’s how we should teach
+  behaviour – by focusing on routines. {/details}
 
 ## How to teach effective routines
 
@@ -419,8 +388,6 @@ You may wish to discuss which one would be highest leverage for you to establish
 
 {details}
 Click here for an example of a script on transitioning pupils from carpets to tables.
-
-
 
 <span style="font-weight: 400;">
   (When pupils are sat on the carpet) “Today we are going to learn how to come
@@ -495,4 +462,4 @@ Click here for an example of a script on transitioning pupils from carpets to ta
 </span>
 
 <span style="font-weight: 400;">Practise as many times as required.</span>
- {/details}
+{/details}

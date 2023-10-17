@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 7"
 ---
 
-
 ## Module review
 
 ### Learning intentions
@@ -14,8 +13,6 @@ The purpose of this session is:
 - To use the Module 2 ECT audit as a stimulus for discussion around the mentee’s current knowledge and practice in relation to ECF standard 2 and 3
 - To support the mentee to make accurate judgements about their progress in this module so far.
 - To agree with the mentee their areas for particular focus and further development
-
-
 
 ### Topic introduction
 
@@ -29,11 +26,9 @@ Secure: I know a lot about this, and/or I do it in my practice consistently and 
 
 One of the roles of the mentor is to support mentees in developing a realistic analysis of strengths and areas for development, and equipping them – through reflective practice, modelling and worked examples – to make progress towards unconscious competence in each of the key areas. In this session you have the opportunity to use the ‘conscious competence’ model to help your mentee reflect on their understanding in relation to the key learn that and learn how statements in standards 2 & 3.
 
-
 ### Research and practice summary
 
 As this session is an opportunity for reflection there is no additional research summary – reference may be made to the summaries included in previous sessions.
-
 
 ### Meeting activities
 
@@ -41,11 +36,11 @@ Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
 
-    a. what they did
+   a. what they did
 
-    b. the impact of this on pupil learning (including how they are evaluating this)
+   b. the impact of this on pupil learning (including how they are evaluating this)
 
-    c. what they will do going forward to build on these actions
+   c. what they will do going forward to build on these actions
 
 2. Clarify the Learning Intentions for this session with your mentee
 
@@ -56,7 +51,7 @@ It may be useful to have a brief discussion outlining the ‘conscious competenc
 1. Unconscious Incompetence: You are unaware of the skill and your lack of proficiency
 2. Conscious Incompetence: You are aware of the skill but not yet proficient
 3. Conscious Competence: You are able to use the skill, but only with effort
-4. Unconscious Competence: Performing the skill becomes automatic 
+4. Unconscious Competence: Performing the skill becomes automatic
 
 Your mentee has spent this module exploring their understanding and practice in the following ‘learn how to’ areas of the ECF:
 
@@ -84,8 +79,8 @@ You will probably find that your mentee is operating within stages 2 and 3 of th
 
 ‘Learn how to’ areas for this module. It might be useful to keep a record like this:
 
-| _Sub-groups_                                                        | _Strength or priority for development_ |
-| ------------------------------------------------------------------- | -------------------------------------- |
+| _Sub-groups_                                                  | _Strength or priority for development_ |
+| ------------------------------------------------------------- | -------------------------------------- |
 | avoiding overloading working memory                           |                                        |
 | building on pupils’ prior knowledge                           |                                        |
 | increasing the likelihood of material being retained          |                                        |
@@ -114,4 +109,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3\. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting.
-

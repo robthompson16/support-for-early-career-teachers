@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-2-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 5 mins
 
 Read the case studies on this module’s topics, or the one or two that are most relevant to the evaluative question you are investigating. As you read, reflect on:
@@ -39,9 +38,9 @@ Remember, in your mentor meeting last week, you updated your claim using this ma
 
 |                                                                                      |                                                                                                   |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| Deliberate                                                                       | Overheard                                                                                     |
+| Deliberate                                                                           | Overheard                                                                                         |
 | The evidence you collected in a systematic, planned way for outcomes you anticipated | The evidence that fell into your lap, for example chance conversations with colleagues and pupils |
-| Unexpected                                                                       | Counter                                                                                       |
+| Unexpected                                                                           | Counter                                                                                           |
 | The evidence for outcomes you did not anticipate                                     | The evidence, possibly negative, which sits at odds with your overall claim                       |
 
 In making ‘reasonable inferences’ keep this in mind:
@@ -84,4 +83,3 @@ Spend a few minutes this week rehearsing what you are going to say to them.
 Bring your self-assessment of the impact upon you of your inquiry to your mentor meeting next week and be ready to discuss this with them.
 
 In that meeting, you will also talk about how you will present your final inquiry findings. Come with your own ideas!
-

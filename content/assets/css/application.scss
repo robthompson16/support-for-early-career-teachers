@@ -1,18 +1,17 @@
-@import 'govuk/tools/all';
-@import 'govuk/settings/all';
-@import 'govuk/helpers/all';
-@import 'govuk/core/all';
-@import 'govuk/objects/all';
-@import 'govuk/components/all';
-@import 'govuk/utilities/all';
-@import 'govuk/overrides/all';
-@import 'govuk/settings/all';
+@import "govuk/tools/all";
+@import "govuk/settings/all";
+@import "govuk/helpers/all";
+@import "govuk/core/all";
+@import "govuk/objects/all";
+@import "govuk/components/all";
+@import "govuk/utilities/all";
+@import "govuk/overrides/all";
+@import "govuk/settings/all";
 
 @mixin reset {
   margin: 0;
   padding: 0;
 }
-
 
 // Remove margin from the last element
 @mixin remove-last-child-margin {
@@ -33,13 +32,19 @@
   background: $colour;
 }
 
-@mixin left-bordered-block($border-colour, $background-colour: govuk-colour('white')) {
+@mixin left-bordered-block(
+  $border-colour,
+  $background-colour: govuk-colour("white")
+) {
   @include block;
   border-left: 10px solid $border-colour;
   background: $background-colour;
 }
 
-@mixin emphatic-block($background-colour, $foreground-colour: govuk-colour('white')) {
+@mixin emphatic-block(
+  $background-colour,
+  $foreground-colour: govuk-colour("white")
+) {
   @include coloured-block($background-colour);
   padding: 2em 0;
   text-align: center;
@@ -74,8 +79,8 @@ main {
     // should only be one and it should be generated
     // from the frontmatter title 🤭
     &:not(:first-of-type) {
-      background-color: govuk-colour('red');
-      color: govuk-colour('yellow');
+      background-color: govuk-colour("red");
+      color: govuk-colour("yellow");
       padding: 3em;
       transform: rotate(5deg);
     }
@@ -127,7 +132,7 @@ main {
   table {
     @include govuk-font($size: 19);
     @include govuk-text-colour;
-    @include govuk-responsive-margin(6, 'bottom');
+    @include govuk-responsive-margin(6, "bottom");
 
     border-collapse: collapse;
     border-spacing: 0;
@@ -158,7 +163,8 @@ main {
   display: flex;
 
   @include govuk-media-query($from: tablet) {
-    background: url('/assets/images/icon-important.svg') center right 2em no-repeat $info-background;
+    background: url("/assets/images/icon-important.svg") center right 2em
+      no-repeat $info-background;
   }
 
   p {
@@ -168,7 +174,7 @@ main {
 
 .call-to-action {
   @include remove-last-child-margin;
-  @include coloured-block(govuk-colour('light-grey'));
+  @include coloured-block(govuk-colour("light-grey"));
 
   &:first-child {
     margin-top: 0;
@@ -178,11 +184,12 @@ main {
 .application-notice {
   &.info-notice {
     @include remove-last-child-margin;
-    @include left-bordered-block(govuk-colour('mid-grey'))
+    @include left-bordered-block(govuk-colour("mid-grey"));
   }
 
   &.help-notice {
-    background: url('/assets/images/icon-important.svg') center left .2em no-repeat;
+    background: url("/assets/images/icon-important.svg") center left 0.2em
+      no-repeat;
     margin: 2em 0;
     padding: 1em;
 
@@ -194,7 +201,7 @@ main {
 
 .summary {
   @include remove-last-child-margin;
-  @include coloured-block(govuk-tint(govuk-colour('pink'), 80%));
+  @include coloured-block(govuk-tint(govuk-colour("pink"), 80%));
 
   p {
     @include govuk-font($size: 19);
@@ -221,23 +228,23 @@ main {
 
 .highlight-answer {
   @include remove-last-child-margin;
-  @include emphatic-block(govuk-colour('green'));
+  @include emphatic-block(govuk-colour("green"));
 }
 
 .example {
-  $example: govuk-colour('purple');
+  $example: govuk-colour("purple");
 
   @include left-bordered-block($example);
   @include remove-last-child-margin;
 
   margin: 2em 0;
-  padding: .2em 2em 2em;
+  padding: 0.2em 2em 2em;
 
   &::before {
     @include govuk-font($size: 16, $weight: bold);
 
     color: $example;
-    content: 'Example';
+    content: "Example";
     display: block;
     margin-bottom: 1.2em;
   }
@@ -248,7 +255,7 @@ main {
 }
 
 .stat-headline {
-  @include emphatic-block(govuk-colour('blue'));
+  @include emphatic-block(govuk-colour("blue"));
   @include remove-last-child-margin;
 
   padding: 1em 2em;
@@ -262,7 +269,7 @@ main {
   counter-reset: circle-counter;
   list-style-type: none;
   margin: 1em 0 2em;
-  padding: .2em;
+  padding: 0.2em;
 
   > li {
     counter-increment: circle-counter;
@@ -270,20 +277,20 @@ main {
     &::before {
       @include govuk-font($size: 14, $weight: bold);
 
-      background-color: govuk-colour('black');
+      background-color: govuk-colour("black");
       border-radius: 50%;
-      color: govuk-colour('white');
+      color: govuk-colour("white");
       content: counter(circle-counter);
       display: inline-block;
       line-height: 1.4rem;
-      margin: .2em .5em 0 0;
+      margin: 0.2em 0.5em 0 0;
       text-align: center;
       width: 1.4em;
     }
 
     > p {
       display: inline-block;
-      margin-bottom: .2em;
+      margin-bottom: 0.2em;
     }
   }
 }

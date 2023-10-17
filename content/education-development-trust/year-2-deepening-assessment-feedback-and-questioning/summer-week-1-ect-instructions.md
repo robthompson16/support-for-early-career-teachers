@@ -8,14 +8,10 @@ next_path: "/education-development-trust/year-2-deepening-assessment-feedback-an
 - As you do this, make notes in response to the key questions below.
 - You will need to take the notes with you to your mentor session for discussion with your mentor.
 
-
-
 ### In your notepad
 
 Key questions:
 
-* what is the value of pupils learning to monitor and regulate their own
-      learning?
-* how can this be supported through feedback?
-
-
+- what is the value of pupils learning to monitor and regulate their own
+  learning?
+- how can this be supported through feedback?

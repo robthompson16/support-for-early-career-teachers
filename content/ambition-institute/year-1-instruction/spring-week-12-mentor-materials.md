@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 12"
 ---
 
-
 ## Feedback
 
 ### Select a development area
@@ -13,23 +12,22 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Individual feedback
 
-#### Focused development area  
+#### Focused development area
 
-- Teacher delivers verbal, individual feedback that is manageable, specific and actionable and ensures pupils have time to process and respond. 
+- Teacher delivers verbal, individual feedback that is manageable, specific and actionable and ensures pupils have time to process and respond.
 - Teacher considers where feedback may be unclear and ensures pupils know what the feedback means by being specific, giving examples and checking pupils understand how to action the feedback.
 
 ### Development area 2: Whole-class feedback
 
-#### Focused development area  
+#### Focused development area
 
-- The teacher, with the support of a colleague, selects manageable, specific content of the whole-class feedback on the basis of common patterns they identify in pupils' responses and work. 
+- The teacher, with the support of a colleague, selects manageable, specific content of the whole-class feedback on the basis of common patterns they identify in pupils' responses and work.
 - Teacher provides whole-class feedback that is manageable, specific and coupled with an actionable task for pupils to put the feedback into practice.
-- Teacher considers where feedback may be unclear and ensures pupils know what the feedback means by being specific, giving examples and checking pupils understand how to action the feedback. 
-- Teacher provides pupils with sufficient time to process and respond to feedback and checks that their responses show progress. 
+- Teacher considers where feedback may be unclear and ensures pupils know what the feedback means by being specific, giving examples and checking pupils understand how to action the feedback.
+- Teacher provides pupils with sufficient time to process and respond to feedback and checks that their responses show progress.
 
 {details}
 Example precise target: Teacher provides whole-class feedback that is manageable, specific and coupled with an actionable task for pupils to put the feedback into practice.
-
 
 - **Not doing it at all:** Give whole-class feedback that is manageable for pupils to process and specific as to what they need to do to improve.
 - **Doing it but needs some improvement:** Give whole-class feedback that is manageable, specific and coupled with an actionable task for pupils to put feedback into practice.
@@ -37,14 +35,13 @@ Example precise target: Teacher provides whole-class feedback that is manageable
 
 {/details}
 
-
 ### Development area 3: Self and peer feedback
 
-#### Focused development area  
+#### Focused development area
 
-- Teacher ensures pupils understand what a great piece of work looks like, so they are clear on the end goal their feedback is driving towards. 
-- Teacher models how pupils can monitor their progress and provide themselves with useful feedback as they work. 
-- Teacher models how to give successful self and peer feedback and highlights where pupils are doing this effectively. 
+- Teacher ensures pupils understand what a great piece of work looks like, so they are clear on the end goal their feedback is driving towards.
+- Teacher models how pupils can monitor their progress and provide themselves with useful feedback as they work.
+- Teacher models how to give successful self and peer feedback and highlights where pupils are doing this effectively.
 - Teacher provides additional support for pupils to self or peer assess in the form of guides and scaffolds if they need it, especially when they are new to the process.
 
 ### Observe
@@ -69,4 +66,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Use verbal feedback during lessons in place of written feedback after lessons where possible.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

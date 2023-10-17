@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
-## Developing high-quality classroom talk 
+## Developing high-quality classroom talk
 
 ### Learning intentions
 
@@ -15,13 +14,11 @@ Your ECT will learn how to:
 - consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped)
 - provide scaffolds for pupil talk to increase the focus and rigour of dialogue
 
-
 ### Topic introduction
 
 In their self-directed study session earlier this week, your mentee extended their knowledge of the importance of high-quality classroom talk for supporting pupils to acquire key knowledge and understand key processes. They considered how the development of high-quality classroom talk should be embedded in the principles of effective pupil grouping.
 
 In this session, you will help your mentee build on this activity, focusing in more detail on its practical implications. You will assist them in refining activities and approaches to be tried in the classroom: start by helping them to explore their current practice and clarifying the ways in which the research might help to develop their impact on pupil success. Key goals for the session include helping your mentee to understand a) the importance of planning what they want their pupils to think hard about in the lesson and b) how to develop scaffolds and routines for high-quality classroom talk which will focus on the areas they want their pupils to think hard about.
-
 
 ### Meeting activities
 
@@ -37,8 +34,6 @@ At the start of this module, you looked at all of the ‘learn how to’ stateme
 
 Theory to Practice 40 mins
 
-
-
 Sharing of practice
 
 In this session, you will collaboratively plan an activity that will combine all three of the ‘learn how to’ learning intentions. In their last self-directed study session, your mentee focused on one class and planned a lesson with two different approaches to pupil grouping. (They might have deliberately chosen to do one badly!) Briefly discuss it with them now. Invite them to explain their rationale for grouping their pupils in the ways they did. What do they think would work well, and what do they think would not?
@@ -49,53 +44,50 @@ Now, use their plan in this activity. Depending on the areas for further develop
 
 1. Planning activities around what you want pupils to think hard about.
 
-     Explore the key learning intention for this lesson. What is it that pupils will need to work hard on and think hard about in order to make progress?
+   Explore the key learning intention for this lesson. What is it that pupils will need to work hard on and think hard about in order to make progress?
 
-    Planning such activities means you should consider:
+   Planning such activities means you should consider:
 
-    - the different starting points of each pupil – will they all be thinking hard and working hard on the same thing?
-    - what scaffolds you should introduce or withdraw
-    - what pupil groupings will best support them
-     - the opportunities you give your pupils to practise independently
+   - the different starting points of each pupil – will they all be thinking hard and working hard on the same thing?
+   - what scaffolds you should introduce or withdraw
+   - what pupil groupings will best support them
+   - the opportunities you give your pupils to practise independently
 
-    Are there any ideas you can borrow from the example of Sarah and her Year 11 geographers?
+   Are there any ideas you can borrow from the example of Sarah and her Year 11 geographers?
 
 2. Considering the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
 
-    It might be helpful to think of long-, medium- and short-term factors. Can your mentee say ‘yes’ to these?
+   It might be helpful to think of long-, medium- and short-term factors. Can your mentee say ‘yes’ to these?
 
-    Long term factors: 
+   Long term factors:
 
-    - I have agreed routines, and these are clear to all
-    - The pupils have secure prior knowledge from earlier lessons
-    - The pupils are used to working in different groups
+   - I have agreed routines, and these are clear to all
+   - The pupils have secure prior knowledge from earlier lessons
+   - The pupils are used to working in different groups
 
-    Medium term factors: 
+   Medium term factors:
 
-    - We have practised paired and collaborative work recently, where I reinforced expectations
-    - The class has recently revisited some of the material they will need in this lesson
+   - We have practised paired and collaborative work recently, where I reinforced expectations
+   - The class has recently revisited some of the material they will need in this lesson
 
+   Short term factors:
 
-    Short term factors: 
-
-    - I am clear about my learning intentions for this lesson
-    - I am clear about which pupils will work effectively together to achieve the learning intentions
-    - I will start with a retrieval exercise so the pupils’ working memories are not overloaded
+   - I am clear about my learning intentions for this lesson
+   - I am clear about which pupils will work effectively together to achieve the learning intentions
+   - I will start with a retrieval exercise so the pupils’ working memories are not overloaded
 
 3. Providing scaffolds for pupil talk to increase the focus and rigour of dialogue
 
-    Firstly, look again at the research and practice summary in this week's ECT materials for strategies you can use and at the example of Sarah’s Year 11 geography class or Ben’s Year 12 history class.
+   Firstly, look again at the research and practice summary in this week's ECT materials for strategies you can use and at the example of Sarah’s Year 11 geography class or Ben’s Year 12 history class.
 
-    You could also consider smaller group and paired structures:
+   You could also consider smaller group and paired structures:
 
-    - think-pair-share (thinking alone, sharing with a partner, sharing with a larger group)
-    - specific roles for each member of the group (speaker, note-taker, challenger, checker)
-    - scaffolds for the conversation – Pupil A explain..... Pupil B....; ABCQ (Agree, Build, Challenge, Question)
-    - giving specific timings for each part of the discussion
+   - think-pair-share (thinking alone, sharing with a partner, sharing with a larger group)
+   - specific roles for each member of the group (speaker, note-taker, challenger, checker)
+   - scaffolds for the conversation – Pupil A explain..... Pupil B....; ABCQ (Agree, Build, Challenge, Question)
+   - giving specific timings for each part of the discussion
 
-     Also, consider your mentee’s experiences of ‘modelling’ from earlier in this module. How might they apply this to the successful development of classroom talk in this context? To what extent can modelling and worked examples be applied to ‘learning how to discuss’?
-
-
+   Also, consider your mentee’s experiences of ‘modelling’ from earlier in this module. How might they apply this to the successful development of classroom talk in this context? To what extent can modelling and worked examples be applied to ‘learning how to discuss’?
 
 Next Steps 5 mins
 
@@ -106,4 +98,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

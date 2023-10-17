@@ -33,4 +33,3 @@ _5j. Building in additional practice or removing unnecessary expositions._
 _8i. Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching._
 
 _8o. Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (e.g. textbooks)._
-

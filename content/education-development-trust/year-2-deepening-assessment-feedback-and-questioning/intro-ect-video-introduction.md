@@ -12,8 +12,6 @@ previous_path: "/education-development-trust/year-2-deepening-assessment-feedbac
 {details}
 Video transcript.
 
-
-
 <span style="font-weight: 400;">
   As an NQT last year, you completed Block 5, which introduced you to what good
   assessment, feedback and questioning are.
@@ -68,4 +66,3 @@ Video transcript.
   self- and peer-assessment so it can be a valuable tool within the classroom.
 </span>
  {/details}
-

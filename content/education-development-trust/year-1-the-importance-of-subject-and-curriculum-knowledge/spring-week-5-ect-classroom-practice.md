@@ -59,18 +59,15 @@ You can use resources to improve your subject knowledge. Here are some things to
 - What language does the resource use to explain key concepts and knowledge which pupils need to understand?
 - Are there any potential misconceptions which the resource has explicitly highlighted?
 
-
-
 ### In your notepad
 
-Reflect on your practice by thinking about the following questions: 
+Reflect on your practice by thinking about the following questions:
 
-* which idea(s) for practice
-did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
+- which idea(s) for practice
+  did you try?
+- what did you do?
+- what happened?
+- what will you do next?
 
 ## Sequencing effectively
 
@@ -153,17 +150,14 @@ Dedicating time to review and reflect upon lessons you teach will give you infor
 - How well prepared was I to teach this sequence of lessons? (Did I do pre-reading? etc.) What would I do differently next time?
 - Did the way I sequenced the lessons work? Did the pupils acquire the fundamental knowledge, concepts and skills that I wanted them to by the end of the sequence? If not, why not? Would I change anything about the sequencing next time? Why?
 
-
-
 ### In your notepad
 
-Reflect on your practice by thinking about the following questions: 
+Reflect on your practice by thinking about the following questions:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?
 
 ## Area 3: Explicit teaching of subject-specific knowledge and skills
 
@@ -218,11 +212,10 @@ Choose a lesson where you are going to have to teach pupils a concept that is ch
 7. Are there any non-examples I could use?
 8. What misconceptions might my pupils have? How can I address these explicitly?
 
-
-
 ### Example script
+
 A teacher who is going to teach her class about
-  metaphors for the first time. She has already taught them similes.
+metaphors for the first time. She has already taught them similes.
 
 “Today we are going to learn something new. By the end of this lesson, you are going
 to be able to tell me what a metaphor is and be able to use them. This builds on
@@ -235,7 +228,6 @@ the work we did already on similes.
 "A metaphor is when you compare something by saying it is something else. Both these techniques are used by writers to pick out characteristics of the thing that we are describing to convey meaning to the reader and add depth to what we are describing; they help us to show, not tell. Here is an example of a metaphor: ‘He is a shining star.’
 
 "Can you now turn to your partner and decide which of these is a metaphor and why: a. Hope makes me feel optimistic and positive about the future; b. Hope is the thing with feathers that perches in the soul. You have one minute. [Pupils discuss with their partner while the teacher circulates and listens to conversations.] 3, 2, 1... thank you. Nadia, you and Rajib said b ‒ can you explain why?” [Nadia shares with the class.]
-
 
 #### Develop and use a bank of subject-specific examples for a topic
 
@@ -265,13 +257,11 @@ PE – Basketball
 
 It would be useful to share your thoughts or ask questions of colleagues and also pupils to help you.
 
-
-
 ### In your notepad
 
-Reflect on your practice by thinking about the following questions: 
-      
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
+Reflect on your practice by thinking about the following questions:
+
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?

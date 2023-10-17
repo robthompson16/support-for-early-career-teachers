@@ -6,12 +6,11 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-1-ect-module-overvi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EpjSlCJtPLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
 ### Presenter: Peps McCrea
+
 We all know teachers who are great at fostering good behaviour. Pupils seem to like
 them, to work hard in their lessons. Perhaps you can remember a favorite teacher
 who neither you nor your classmates would mess around for. It's tempting to think
@@ -20,7 +19,9 @@ is just something that teachers can just do.  But in fact, helping pupils to be
 in a way that will support them to learn is something that all teachers can learn
 to do well. As role models for pupils, we can have a big influence over how they
 behave.
+
 ### Presenter: Nicholas Hickman
+
 Behaviour for learning involves putting things in place that will enable your pupils
 to think hard and try their best. Most effective behaviour management strategies are
 proactive, rather than reactive. They involve advance planning. They require teachers
@@ -34,7 +35,9 @@ phone calls home. All of these things build trust and show that teachers care. G
 behavior management doesn't happen by chance or by magic. It happens as a result
 of advance planning and implementing tried and tested strategies over and over again.
 The results will be more than worth the effort.
+
 ### Presenter: Peps McCrea
+
 Over the course of the behaviour strand, we will help you learn how to shape your
 pupils’ behaviour, so that enables them to get the best out of school and beyond.
 The material's based on a growing body of evidence for both outside and inside the
@@ -53,7 +56,6 @@ Over the course of this strand, we want you to learn some practical ways in whic
 When behaviour's going well, not only do pupils learn more, but it's a much more enjoyable experience for everyone.
 
 {/details}
-
 
 ### Module introduction
 
@@ -79,11 +81,11 @@ The module comprises topics sequenced to first explore the process of establishi
 
 #### Making it work
 
-The features of effective learning environments can vary slightly depending on the subject(s), phase(s) or community you teach. 
+The features of effective learning environments can vary slightly depending on the subject(s), phase(s) or community you teach.
 
-In addition, there are some elements of the learning environment, like the school behaviour policy, that you will have limited control over. 
+In addition, there are some elements of the learning environment, like the school behaviour policy, that you will have limited control over.
 
-This is why it’s important that you work with subject and phase specialists in your school to help you identify the best ways to apply your learning. You have the responsibility to take ownership of your professional development and make it work, but also the right to seek assistance and support (for example with challenging behaviour). 
+This is why it’s important that you work with subject and phase specialists in your school to help you identify the best ways to apply your learning. You have the responsibility to take ownership of your professional development and make it work, but also the right to seek assistance and support (for example with challenging behaviour).
 
 Talking to your colleagues and your mentor about the ideas and practices you encounter will help you to better understand what ‘good’ looks like for your particular context.
 
@@ -99,12 +101,11 @@ You might have previously come across some of the terminology explored, however 
 
 Each topic in the Behaviour module follows the pattern below:
 
-* a 10-minute video shows what some of the key early career framework (ECF) ideas in the module look like in practice
-* a 15-minute evidence summary provides an overview of key research to read relating to the key ECF ideas in the topic
-* 15 minutes of quiz and reflection enable you to check your understanding and consider the evidence in light of your knowledge and experiences
-* weekly instructional coaching that draws on this material and tailors the weekly focus to your specific context and needs, including the needs of your pupils, with built-in opportunities for practice. This is the main part of the mentoring process
+- a 10-minute video shows what some of the key early career framework (ECF) ideas in the module look like in practice
+- a 15-minute evidence summary provides an overview of key research to read relating to the key ECF ideas in the topic
+- 15 minutes of quiz and reflection enable you to check your understanding and consider the evidence in light of your knowledge and experiences
+- weekly instructional coaching that draws on this material and tailors the weekly focus to your specific context and needs, including the needs of your pupils, with built-in opportunities for practice. This is the main part of the mentoring process
 
 Year one of the programme has been designed with the intention of schools working through one topic per week. However, the programme has been built in a flexible way so that schools can adapt it to their needs and work through it at a slower pace as required, while still ensuring they cover the ECF.
 
 Now that we have introduced how the module will work, it’s time to dive into an evidence summary exploring some of some of the key ideas that underpin the module.
-

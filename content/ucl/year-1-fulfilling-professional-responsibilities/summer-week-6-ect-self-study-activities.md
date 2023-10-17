@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-6-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -40,4 +39,3 @@ As you draft your notes, consider:
 ### Next Steps: 5 mins
 
 Bring your draft ‘menu’ of professional development opportunities to your next mentor meeting. Be ready to discuss this activity with your mentor.
-

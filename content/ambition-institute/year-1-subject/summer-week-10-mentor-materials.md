@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 10"
 ---
 
-
 ## Examining pupils’ responses
 
 ### Select a development area
@@ -13,16 +12,15 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Systematically examining pupils' responses
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher, with the support of a colleague, ensures they are clear on what pupils’ responses would look or sound like if pupils had secure knowledge. 
-- Teacher, with the support of a colleague, has identified in advance of the assessment common misconceptions, potential gaps in knowledge and errors pupils may make and knows what these would sound or look like in pupils' responses. 
+- Teacher, with the support of a colleague, ensures they are clear on what pupils’ responses would look or sound like if pupils had secure knowledge.
+- Teacher, with the support of a colleague, has identified in advance of the assessment common misconceptions, potential gaps in knowledge and errors pupils may make and knows what these would sound or look like in pupils' responses.
 - Teacher intentionally and efficiently checks pupils' responses for previously identified misconceptions, gaps in knowledge and errors.
 - Teacher analyses pupil responses over time, spotting patterns in pupils' understanding of critical knowledge and skills e.g. spotting common misconceptions, gaps in knowledge and error.
 
 {details}
 Example precise target: Teacher intentionally and efficiently checks pupils' responses for previously identified misconceptions, gaps in knowledge and errors.
-
 
 - **Not doing it at all:** Intentionally circulate to check pupils' responses, paying particular attention to misconceptions, gaps in knowledge and errors you think pupils may have.
 - **Doing it but needs some improvement:** Plan to capture pupils' responses to questions in a simple format as you circulate, paying particular attention to responses to questions that target misconceptions, gaps in knowledge and errors you anticipated pupils making.
@@ -30,21 +28,20 @@ Example precise target: Teacher intentionally and efficiently checks pupils' res
 
 {/details}
 
-
 ### Development area 2: Examining responses from diagnostic questions
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher knows which answers to the diagnostic questions they have set would constitute misconceptions, gaps in knowledge or errors. 
-- Teacher examines pupils' responses and probes further for information they need in order to make inferences about pupils' understanding, e.g. asking questions to see where misconceptions stem from. 
-- Teacher actively looks for and efficiently gathers an appropriate range of pupil responses from diagnostic questions, e.g. by scanning whole class to see which answers pupils have chosen and tallying incorrect responses.               
+- Teacher knows which answers to the diagnostic questions they have set would constitute misconceptions, gaps in knowledge or errors.
+- Teacher examines pupils' responses and probes further for information they need in order to make inferences about pupils' understanding, e.g. asking questions to see where misconceptions stem from.
+- Teacher actively looks for and efficiently gathers an appropriate range of pupil responses from diagnostic questions, e.g. by scanning whole class to see which answers pupils have chosen and tallying incorrect responses.
 
 ### Development area 3: Making inferences from pupils’ responses
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher, during lessons, makes appropriate inferences from pupils’ responses and draws tentative conclusions about how to respond, e.g. where many pupils show they hold a common misconception about critical knowledge, the teacher may pause the lesson to address this. 
-- Teacher, with the support of a colleague, makes appropriate inferences from patterns of pupils’ responses over time, e.g. from a series of exit tasks, and plans when and how to address these                                                                                                                                                                                                                                                                       
+- Teacher, during lessons, makes appropriate inferences from pupils’ responses and draws tentative conclusions about how to respond, e.g. where many pupils show they hold a common misconception about critical knowledge, the teacher may pause the lesson to address this.
+- Teacher, with the support of a colleague, makes appropriate inferences from patterns of pupils’ responses over time, e.g. from a series of exit tasks, and plans when and how to address these
 
 ### Observe
 
@@ -65,5 +62,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Use assessments to check for prior knowledge and pre-existing misconceptions.
 - Monitor pupil work during lessons, including checking for misconceptions.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

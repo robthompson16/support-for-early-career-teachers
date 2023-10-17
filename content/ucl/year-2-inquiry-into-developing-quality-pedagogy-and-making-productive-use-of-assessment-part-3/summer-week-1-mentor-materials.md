@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
 ## Inquiry progress - considering the fuller range of emergent evidence
 
 ### Mentor materials content
@@ -306,8 +305,8 @@ Your mentee has been developing an area of their practice and conducting their i
 
 Get them to try to list in the 2 unshaded boxes examples of emergent evidence for their inquiry. (They should see the case studies for inspiration.)
 
-|                                                                          |                                                                    |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+|                                                              |                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
 | Deliberate(that evidence your mentee collected purposefully) | Overheard(evidence your mentee chanced upon)           |
 | Unexpected(consequences the mentee did not anticipate)       | Counter(that which challenges the prevailing findings) |
 
@@ -337,8 +336,8 @@ Self-assessment
 
 Ask your mentee to update their claim one more time, now to take account of all the wider emergent evidence
 
-|                                                                                                              |                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                  |                                                                                                              |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | DeliberateThe evidence they collected in a systematic, planned way for outcomes they anticipated | OverheardThe evidence that fell into their laps, for example chance conversations with colleagues and pupils |
 | UnexpectedThe evidence for outcomes they did not anticipate                                      | CounterThe evidence, possibly negative, which sits at odds with their overall claim                          |
 
@@ -357,4 +356,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 Note that this week your mentee also has an ECT Training session, where they will learn about how to present and share their inquiry findings.
 
 Next week, your mentee will consider other forms of emergent evidence – the impacts of the inquiry on themselves. They will share that with you in the mentor meeting that follows.
-

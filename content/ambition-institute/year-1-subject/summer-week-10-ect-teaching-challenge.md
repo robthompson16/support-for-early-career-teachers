@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-10-ect-reflect"
 ---
 
-
 Mr Jones is designing and using assessments frequently to check pupil understanding and misconceptions. However, he finds the amount of information they provide challenging to manage, particularly with so many pupil responses. He must decide what to do next rapidly, either during the lesson, or before the next. Doing this slowly during a lesson risks losing pupils’ attention; doing this slowly after the lesson adds to his workload dramatically. How can he use the information available to identify rapidly what pupils have understood, their misconceptions and their knowledge gaps?
 
 ## Key idea
@@ -33,14 +32,13 @@ Learning and performance are different things. Performance is a temporary change
 
 Whatever the process Mr Jones follows, it must be quick. Within a lesson, the process could take a few seconds; after the lesson, he needs to have enough time having examined pupil responses to plan a next step. Equally, it is difficult for teachers new to an idea to identify misconceptions or gaps in pupils’ mental models immediately. Mr Jones may usefully review assessments and decide on next steps in collaboration with his mentor or a more experienced teacher. They can help him decide best what to do next and can model their approach to reviewing assessments.
 
-
-
 ### Key takeaways
-Mr Jones can reach conclusions about next steps from formative assessment if he:
-- takes a systematic approach to identify patterns of understanding
-- tries to understand pupils’ thinking by seeking common misconceptions and knowledge gaps, rather than just looking for the correct answer 
-- judges the prevalence and importance of misconceptions and knowledge gaps when deciding whether and how to adapt his teaching
 
+Mr Jones can reach conclusions about next steps from formative assessment if he:
+
+- takes a systematic approach to identify patterns of understanding
+- tries to understand pupils’ thinking by seeking common misconceptions and knowledge gaps, rather than just looking for the correct answer
+- judges the prevalence and importance of misconceptions and knowledge gaps when deciding whether and how to adapt his teaching
 
 ### Further reading
 
@@ -49,7 +47,6 @@ Black, P., Harrison, C., Lee, C., Marshall, B., & Wiliam, D. (2004). Working ins
 {details}
 References.
 
-
 Ball, D. Thames, M. &amp; Phelps, G. (2008). Content Knowledge for Teaching: What Makes It Special? Journal of Teacher Education, 59(5), 389-407.
 
 Christodoulou, D. (2017). Making Good Progress: The Future of Assessment for Learning. Oxford, OUP.
@@ -57,4 +54,3 @@ Christodoulou, D. (2017). Making Good Progress: The Future of Assessment for Lea
 Wiliam, D. (2011). Embedded formative assessment. Bloomington, Solution Tree Press.
 
 {/details}
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Learning from colleagues and reviewing the module
 
 ### Intended outcomes
@@ -43,7 +42,7 @@ Pose the following questions:
 - What did you learn?
 - What has it made you think about your own practice?
 - What are you interested to find out more about?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
 ###Feedback from the lesson observation (10 minutes)
 
 The mentor should feedback on the lesson observation of the ECT that they did since the last topic, looking at challenge:
@@ -51,7 +50,7 @@ The mentor should feedback on the lesson observation of the ECT that they did si
 - What was successful?
 - What could be better?
 - What will the ECT do next?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
 ###Reviewing this module (15 minutes)
 
 Using the final self-directed study activity for this module, ask ECTs to share their reflections on learning across the module.
@@ -59,5 +58,4 @@ Using the final self-directed study activity for this module, ask ECTs to share 
 1. What have you learnt in this module?
 2. What do you need to learn more about?
 
-It might be useful to identify colleagues that the ECT could speak to and/or observe to support their future learning in relation to this area.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-
+It might be useful to identify colleagues that the ECT could speak to and/or observe to support their future learning in relation to this area.

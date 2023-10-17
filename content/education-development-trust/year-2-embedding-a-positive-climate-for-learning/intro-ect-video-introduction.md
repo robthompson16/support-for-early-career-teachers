@@ -9,11 +9,8 @@ previous_path: "/education-development-trust/year-2-embedding-a-positive-climate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0D1-qOpgA9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   Welcome back! When you started on this programme, you began by looking at how
@@ -50,4 +47,3 @@ Video transcript.
   to support and motivate your pupils.
 </span>
  {/details}
-

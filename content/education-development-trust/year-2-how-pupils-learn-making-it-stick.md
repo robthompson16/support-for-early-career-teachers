@@ -4,7 +4,6 @@ heading: "Second half-term: how pupils learn - making it stick"
 caption: "Year 2"
 ---
 
-
 In this module you'll consider how you can make new learning stick over time so that pupils remember what they've been taught.
 
 ## Module introduction
@@ -24,10 +23,9 @@ There's no catch-up with the ECT this week. You just need to watch the brief vid
 
 ## Week 1: introduction to making learning stick
 
- There are no self-study materials this week. 
+There are no self-study materials this week.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -39,8 +37,8 @@ There are no mentor activities this week.
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- work through the self-study materials below
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 30 minutes.
 
@@ -52,22 +50,21 @@ Duration: 30 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
-* briefly watch them teach
+- read the ECT’s study materials below
+- catch up with your ECT
+- briefly watch them teach
 
 [View mentor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-2-mentor-materials)
 
 ## Week 3: balancing exposition, repetition, practice and retrieval
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic. 
+There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
 Duration: 75 minutes.
 
-
 ### Mentors
 
-There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT. 
+There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT.
 
 [View mentor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-3-mentor-materials)
 
@@ -75,8 +72,8 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 20 minutes.
 
@@ -87,18 +84,17 @@ Duration: 20 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with your ECT 
-* briefly watch them teach
+- read the ECT’s study materials below
+- catch up with your ECT
+- briefly watch them teach
 
 [View mentor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-4-mentor-materials)
 
 ## Week 5: designing tasks and support to help pupils access the information they need
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -108,10 +104,9 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 ## Week 6: review of the module
 
-Your mentor should arrange a catch-up with you to discuss what you have learnt during this module. 
+Your mentor should arrange a catch-up with you to discuss what you have learnt during this module.
 
 Duration: 30 minutes.
-
 
 ### Mentors
 
@@ -121,7 +116,7 @@ Use the materials below to help you plan a discussion with the ECT about what th
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future. 
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 5 minutes.
 
@@ -132,4 +127,3 @@ Duration: 5 minutes.
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
 
 [View mentor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-0-mentor-materials)
-

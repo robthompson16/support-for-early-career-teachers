@@ -6,18 +6,18 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-2-ect-teaching-chal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lWdabi1Km2U?list=PL4IuMlmijgAfTwwEiZmMp28Eaf66S3a1R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Peps McCrea
+
 Good routines can really help both teachers and pupils. When they're in place, classrooms
 work better, and everyone has more time for learning. And when teachers set up routines,
 they have a great opportunity to build a culture and environment that will help their
 pupils to learn. So routines are a brilliant place to start.
+
 ### Presenter main
+
 We know that the environment in which pupils learn can have a big impact on the quality
 of their learning. All pupils thrive in an environment where they feel safe and secure,
 and predictability can help with this. A predictable and secure environment can be
@@ -42,12 +42,16 @@ And when a routine is in place, teachers need to help it stay in place by clearl
 All of this may take time to get right, and you may need to revisit routines across the year, but it is time and energy that is well worth investing in. Great classroom routines help to create a space where all pupils can learn.
 
 ### Presenter exemplification framingA key routine that teachers might want
+
 to think about is how their pupils will enter their classroom. In a moment, we are
 going to look at an entry routine. As you watch, pay particular attention to the
 following:
+
 - Explicitly teaching routine and behavioural expectations
 - Positive reinforcement
+
 ### Exemplification: Ambition Institute coach
+
 The way that pupils enter the classroom can have a big impact on the start of
 the lesson. We want to help them enter calmly and focus their attention on what
 they're about to learn. Imagine that I'm teaching a year four class. I've
@@ -81,16 +85,19 @@ Finally, I created a culture where trust and respect are important by greeting e
 Overall, my instructions help pupils follow the routine and get started quickly.
 
 ### Presenter key ideas
+
 In this video, we've thought about the role that routines play in the classroom,
 identified the key features of a good routine, and looked at an example that demonstrates
 these. Before we finish, take a moment to read through the key features of effective
 routines.
+
 - Explicitly teach routine and behavioural expectations
 - Practise routines
 - Give manageable, specific and sequential instructions
 - Use consistent language and non-verbal signals for common classroom directions
-Which of these ideas do you currently recognize from your school setting?
-### Presenter summaryA big part of our job is to build an environment where
-pupils can learn and succeed. Getting your routines right provides a great foundation
-for learning.  {/details}
+  Which of these ideas do you currently recognize from your school setting?
 
+### Presenter summaryA big part of our job is to build an environment where
+
+pupils can learn and succeed. Getting your routines right provides a great foundation
+for learning. {/details}

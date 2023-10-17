@@ -24,26 +24,23 @@ The Simple View of Reading identifies two main elements that are required when r
   </figcaption>
 </figure>
 
-
 As the graph illustrates, pupils with good decoding and good language comprehension are typically good readers. Therefore, a balanced approach to reading, which develops both word recognition and language comprehension, is essential for pupils to be able to read.
 
-Of course, reading is much more complex than simply decoding and comprehending; these two elements are made up of multiple strands. 
+Of course, reading is much more complex than simply decoding and comprehending; these two elements are made up of multiple strands.
 
 Listen to Ruth Everett, an English and Literacy consultant, talk in more detail about the Simple View of Reading and how it can help you develop your pupils’ literacy. When watching the video, consider the following questions and record your responses in your notebook:
 
-* which components enable word recognition?
-* which components enable language comprehension?
-* how can the Simple View of Reading help you to support pupils who are
-      struggling?
+- which components enable word recognition?
+- which components enable language comprehension?
+- how can the Simple View of Reading help you to support pupils who are
+  struggling?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xiWXNGFu_PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 How do pupils learn to read – Ruth Everett
 
 {details}
 Video transcript.
-
 
 Learning to read is a complex process, which draws on multiple knowledge sources and skills. This makes the process of reading development quite challenging to understand. Therefore, The Simple View of Reading is a great place to start as it highlights two connected but separable strands: word recognition and language comprehension.
 
@@ -82,7 +79,6 @@ Teaching phonics supports pupils with their reading and spelling, as it enables 
 If you wish, you can watch Sophie teaching phonics to year 2 pupils to see what it looks like in practice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCpfviPQBco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Teaching phonics - Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching phonics - Reach Academy [AD]](https://youtu.be/vCcd9DErBqQ)
@@ -137,9 +133,8 @@ It is important that pupils are explicitly taught these strategies. Detailed exp
 
 Before pupils are expected to apply these strategies independently, they must be given multiple opportunities to try out each one during guided practice, with a partner, or in a small group. Their independent use of these strategies should be built up gradually, until they are able to apply multiple strategies at once. The level of independence that pupils are expected to achieve when using these comprehension strategies will depend on the phase you are teaching, as well as any specific barriers to learning for a child.
 
-
-
 ### Subject specific comprehension strategies
+
 The five strategies outlined can be used on both fiction and non-fiction texts. However,
 the subject does matter, especially in Secondary school. Therefore, it is important
 that the model is adapted to suit the content you are teaching.
@@ -150,24 +145,21 @@ You might also include additional subject specific reading strategies. For examp
 
 Supporting reading in your subject is vital, and therefore, it will form part of the focus of your next training session.
 
-
 ### Engaging parents and carers
 
 To help pupils develop their reading ability, it is important that they get as many opportunities to practise reading as possible. You can encourage pupils to utilise their time outside of school to develop their reading further. One way to do this is to engage parents, carers or families in their child’s reading development, which may increase the amount of time a pupil spends engaging with texts at home.
 
 Listen to Kelly Challis discuss shared reading. Consider the following questions and make notes in your notebook:
 
-* why is it important for parents to read with their children?
-* how can you support parents to read with their children?
+- why is it important for parents to read with their children?
+- how can you support parents to read with their children?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4LCWdxj2e4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Shared reading – Kelly Challis
 
 {details}
 Video transcript.
-
 
 Why is it important for parents to read with their children at home?
 
@@ -197,12 +189,12 @@ Firstly, you can encourage them to ask a range of questions about the book to ch
 
 - Asking questions using the five W’s - who, what, where, when and why.
 - Asking a mixture of closed and open questions.
-- Asking about and discussing the meaning of vocabulary - what does that mean? When else might you use that word? 
+- Asking about and discussing the meaning of vocabulary - what does that mean? When else might you use that word?
 - Asking their children to _summarise_ what has happened so far and _predict_ what might happen next.
-Secondly, you can encourage them to support their children to see links between what
-they are reading and the real world. This can help children develop their understanding
-of ideas in the book itself. For example, while reading about Cinderella going to
-the ball, a parent might discuss the similarities between a ball and a birthday party.
+  Secondly, you can encourage them to support their children to see links between what
+  they are reading and the real world. This can help children develop their understanding
+  of ideas in the book itself. For example, while reading about Cinderella going to
+  the ball, a parent might discuss the similarities between a ball and a birthday party.
 
 You can share these strategies with parents and carers and encourage them to read with their children at home by proactively seeking out interactions during the school day, at drop off or collection, or, if you don’t see parents regularly, then you can use parents evening as a good opportunity to talk to them about the importance of their children reading at home and provide them with approaches to do so.
 
@@ -218,18 +210,16 @@ Another benefit to engaging parents and carers in their child’s reading develo
 
 One way to do this is by sharing children’s reading successes with their parents. For example, if you have been working with a parent to improve their child’s reading, or if reading is their child’s area of development, you could seek an opportunity to speak to parents/carers or send home a message in a journal to inform them of their child’s achievements. The message could say something like “Zack tried really hard to sound out the words ‘elements’ and ‘atomic’ in his science lesson today. He is working hard and making good progress in his reading.”
 
-
-
 ### Reflection
+
 Consider the following questions and record your response in your notebook:
 
-* how do you currently engage parents in their child’s learning?
-* what more could you do?
+- how do you currently engage parents in their child’s learning?
+- what more could you do?
 
 Every school will have different policies on how to engage parents and how to support
 reading at home, so this is something you should consult with your mentor about in
 your next session.
-
 
 ### Developing writing
 
@@ -237,17 +227,15 @@ It is important that you invest time in developing pupils’ literacy skills in 
 
 In your next training session, you will explore how to teach comprehension and how to support pupils’ writing in your phase or subject. In order to prepare for the session, listen to Ruth Everett and answer the following questions in your notebook:
 
-* why is writing challenging?
-* how can you support pupils’ writing?
+- why is writing challenging?
+- how can you support pupils’ writing?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqeeTUMwvMU](https://youtu.be/BqeeTUMwvMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Teaching writing – Ruth Everett
 
 {details}
 Video transcript.
-
 
 Pupils need to master many different forms of writing across the curriculum in all key stages.
 
@@ -285,11 +273,11 @@ Working with colleagues is a great way to practise modelling, so you can become 
 
 Another evidence-based strategy you can use when modelling is to provide pupils with a worked example on a visualiser or Interactive Whiteboard. This could be one of their peer’s successful pieces of writing. You can then highlight the strengths and weaknesses of the whole text, for example, _vocabulary, a subordinate clause, an effective topic sentence_. This way, the successful elements are labelled by deconstructing the text into its building blocks. Pupils can then see:
 
-- **how** a good piece of writing is created 
+- **how** a good piece of writing is created
 - and **what** the features are of an effective written piece.
-It is important to pitch this right to inspire rather than dishearten.
+  It is important to pitch this right to inspire rather than dishearten.
 
-In summary, writing is a complex process, comprised of _three_main phases: **planning, drafting**and **editing**. _Each_ phase needs to be explicitly taught by all teachers and broken down into chunks to avoid over burdening learners’ working memories. All too often, the most important phases - planning and editing - are only taught as a one-off activity.
+In summary, writing is a complex process, comprised of _three_main phases: **planning, drafting**and **editing**. \_Each_ phase needs to be explicitly taught by all teachers and broken down into chunks to avoid over burdening learners’ working memories. All too often, the most important phases - planning and editing - are only taught as a one-off activity.
 
 You should embed writing instruction into the **content** of your curriculum and focus writing activities on what pupils are currently learning and reading about to ensure they have the prior knowledge required to successfully complete the written task.
 

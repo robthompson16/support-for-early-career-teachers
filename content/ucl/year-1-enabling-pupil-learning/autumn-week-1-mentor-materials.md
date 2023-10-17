@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 1"
 ---
 
-
 ## Module audit
 
 ### Learning intentions
@@ -73,4 +72,3 @@ Agree with your mentee how you will use the outcomes from the audit to inform yo
 In particular, give attention to those statements where your mentee considers their knowledge/practice to be ‘emerging’ and share some examples of how the programme will support them in moving to ‘developing’ and then on to ‘secure’.
 
 Finally, remind your mentee that their first self-directed study session will take place next week, and confirm the date and time of your next ECT mentor meeting.
-

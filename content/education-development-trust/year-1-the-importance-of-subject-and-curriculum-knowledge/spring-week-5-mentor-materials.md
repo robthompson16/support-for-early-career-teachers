@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Building your bank of examples and resources
 
 ### Intended outcomes
@@ -19,8 +18,8 @@ Learn how to deliver a carefully sequenced and coherent curriculum, by:
 
 - Working with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations
 - Using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by experienced colleagues that carefully sequence content)
-- Making use of well-designed resources (e.g. textbooks) 
-- Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (e.g. textbooks)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+- Making use of well-designed resources (e.g. textbooks)
+- Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (e.g. textbooks)
 
 ### Activities
 
@@ -34,7 +33,7 @@ Possible questions:
 - How did you address them?
 - Did any misconceptions reveal themselves during a lesson?
 - How did you address them?
-- We are going to be looking at ways of exemplifying important concepts today. How does this link to the issues we discussed in the last topic?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+- We are going to be looking at ways of exemplifying important concepts today. How does this link to the issues we discussed in the last topic?
 
 ### Building your bank of powerful examples, resources and analogies (25 min)
 
@@ -47,11 +46,11 @@ Pose the question: how do you decide whether a resource or a material is going t
 Some key points to prompt the ECT with during this activity:
 
 - Some resources and examples will be better than others. Teachers should be discerning and look out for some key indicators such as:
-    - Context (is it relevant for the particular age or stage at which it is intended? Does it suit _my_ pupils in this school?)
-    - Language (is it clear, simple language that pupils can follow or does it use vocabulary and complex explanations that would be confusing?)
-    - Accurate (are there any potentially misleading aspects? Might it lead to any unintended misconceptions?)
-    - Efficient (does it make the point clearly and easily without distraction?)
-    - Source (who wrote this or designed it? Are they someone who can be trusted?)
+  - Context (is it relevant for the particular age or stage at which it is intended? Does it suit _my_ pupils in this school?)
+  - Language (is it clear, simple language that pupils can follow or does it use vocabulary and complex explanations that would be confusing?)
+  - Accurate (are there any potentially misleading aspects? Might it lead to any unintended misconceptions?)
+  - Efficient (does it make the point clearly and easily without distraction?)
+  - Source (who wrote this or designed it? Are they someone who can be trusted?)
 
 The mentor and ECT might agree a checklist of ‘quality resources/examples’ that can be used throughout the rest of this topic.
 
@@ -110,5 +109,4 @@ Pose the question: how has today’s topic influenced your thinking about resour
 
 Pose the question: what will you do differently as a result of today’s topic?
 
-In advance of the next topic, ECTs should spend an hour observing or being observed by other colleagues. This might be one longer observation or a few shorter, focused ones. There are suggestions about what the observations could focus on in Activity 4.5 from the self-directed study materials. ECTs should bring their notes from the observation(s) to the next mentor topic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-
+In advance of the next topic, ECTs should spend an hour observing or being observed by other colleagues. This might be one longer observation or a few shorter, focused ones. There are suggestions about what the observations could focus on in Activity 4.5 from the self-directed study materials. ECTs should bring their notes from the observation(s) to the next mentor topic.

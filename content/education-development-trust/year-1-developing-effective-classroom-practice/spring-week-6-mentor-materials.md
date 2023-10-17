@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 6"
 ---
 
-
 ## Review and looking forward
 
 ### Intended outcomes
@@ -15,7 +14,7 @@ Learn that:
 
 - Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning
 - Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned
- - Modelling helps pupils understand new processes and ideas; good models make abstract ideas concrete and accessible
+- Modelling helps pupils understand new processes and ideas; good models make abstract ideas concrete and accessible
 - Explicitly teaching pupils metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success
 - Practice is an integral part of effective teaching; ensuring pupils have repeated opportunities to practise, with appropriate guidance and support, increases success
 
@@ -33,7 +32,7 @@ Learn how to make good use of expositions, by:
 Learn how to model effectively, by:
 
 - Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)
- - Making the steps in a process memorable and ensuring pupils can recall them (e.g. naming them, developing mnemonics, or linking to memorable stories)
+- Making the steps in a process memorable and ensuring pupils can recall them (e.g. naming them, developing mnemonics, or linking to memorable stories)
 - Exposing potential pitfalls and explaining how to avoid them
 
 Learn how to stimulate pupil thinking and check for understanding, by:
@@ -44,11 +43,10 @@ Learn how to develop an understanding of different pupil needs, by:
 
 - Identifying pupils who need new content further broken down.
 
-
 Learn how to provide opportunity for all pupils to experience success, by:
 
 - Adapting lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations
-- Balancing input of new content so that pupils master important concepts 
+- Balancing input of new content so that pupils master important concepts
 
 ### Activities
 
@@ -75,6 +73,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What did you learn?
 
 ###Implications for practice (10 minutes)
+
 - How did X affect the pupil’s learning?
 
 In light of the previous discussion, focus now on what the ECT will do as a consequence.
@@ -88,11 +87,8 @@ Use the final activity in the self-directed study materials to look through all 
 1. What have you learned in this module?
 2. What do you need to learn more about?
 3. Have you achieved your goal?
-Ask the ECT to share their responses. Support the ECT to come with an action plan for how they can address the areas they identify in Question 2. Some prompts to support:
+   Ask the ECT to share their responses. Support the ECT to come with an action plan for how they can address the areas they identify in Question 2. Some prompts to support:
+
 - Which colleagues could the ECT go to in order to learn about X?
 - What might be the focus of further reading?
 - What might the ECT need to work on in terms of their classroom practice moving forward? How could they be supported to do this?
-
-
-
-

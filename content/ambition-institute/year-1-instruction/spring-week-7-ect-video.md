@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-7-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v2ol8NsS1kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena Moore
+
 In order to learn something, pupils need lots of opportunities to practise it. They
 need time to think carefully about the content, to commit it to their long-term memory.
 Pupils need lots of time practising with a teacher and lots of time practising on
 their own. They also need the chance to retrieve what they know, which is called
 retrieval practice. Practice is an important part of learning and teachers need to
 know how to get the best out of it.
+
 ### Presenter main
+
 When we discuss practice, we're talking about the opportunities for people to think
 hard about content or retrieve previously learned content. Think of it as the "you
 do" phase of the I-We-You model, where pupils are primarily working without teacher
@@ -40,12 +40,16 @@ One thing to bear in mind is that there is no set formula for how much practice 
 Teachers also need to expect the unexpected when pupils are practicing on their own. Even when a teacher has checked that pupils understand something before they practice, they still might make mistakes. Teachers need to check pupil work during practice and may need to correct errors or pause and reteach. Pupils may well make mistakes during practice, but they shouldn't continue to practise these same mistakes over time. Otherwise, there is a risk that mistakes will stick.
 
 ### Presenter exemplification framing
+
 In the next example, you will see an Ambition coach model how they might set up an
 independent practice task. As you watch, pay particular attention to how the coach
 does the following:
+
 - Plans activities around what pupils should think hard about
 - Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work
+
 ### Exemplification: Ambition Institute coach
+
 In this example, I'm going to model how the teacher sets up independent
 practice, which links to the learning in class and the pupils' previous
 learning. I want you to imagine that this is a year eight French lesson. I'm
@@ -92,14 +96,17 @@ Secondly, I designed this practice task to provide just enough support so that p
 Finally, before setting pupils off on the task, I asked a couple of questions to check that they had understood. Again, my questions focused on the content that I wanted them to think particularly hard about. Pupils were clear about what they needed to do and were supported to do it well.
 
 ### Presenter key ideas
+
 In this video, we've explored why practice is so important for learning and some
 examples of what good practice looks like. Now, read through the key ideas of the
 video. Which of these do you feel that the example illustrated the best?
+
 - Planning activities around what you want pupils to think hard about
-- Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work 
+- Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work
 - Breaking tasks down into constituent components when first setting up independent practice
+
 ### Presenter summary
+
 Getting practice right takes time and effort, but it promises huge rewards. If
 we want pupils to remember what we teach them, they have to think about it. They
-have to practise.  {/details}
-
+have to practise. {/details}

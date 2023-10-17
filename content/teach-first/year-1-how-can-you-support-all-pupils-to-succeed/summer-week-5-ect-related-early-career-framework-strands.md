@@ -23,4 +23,3 @@ _5e. Adapting lessons, whilst maintaining high expectations for all, so that all
 _8i. Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching._
 
 _8n. Understanding the right to support (e.g. to deal with misbehaviour)._
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-
 ## Setting the scene, and the core concepts and principles of the subject
 
 ### Intended outcomes
@@ -15,13 +14,13 @@ Learn how to support pupils to build increasingly complex mental models, by:
 
 - Discussing curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge
 - Revisiting the big ideas of the subject over time and teaching key concepts through a range of examples
-- Drawing explicit links between new content and the core concepts and principles in the subject.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+- Drawing explicit links between new content and the core concepts and principles in the subject.
 
 ### Activities
 
 ###Welcome to module 10 (25 minutes)
 
-Suggested dialogue for mentors: 
+Suggested dialogue for mentors:
 
 Welcome to module 10 called ‘Revisiting the importance of subject and curriculum knowledge’. As you know, this module builds on your learning from Year 1.
 
@@ -50,6 +49,7 @@ What are some of the ways teachers can support each other with curriculum design
 - Discuss with a variety of colleagues to get examples of how other teachers approach this.
 
 Why should the big ideas be revisited over time?
+
 - The big ideas are the key ideas in a subject: the ones that provide the foundation upon which everything else builds.
 - It is necessary to direct pupils to the knowledge and skills needed in a particular subject area as this will help to structure the acquisition of new learning.
 - Mastering the big ideas can deepen understanding and knowledge.
@@ -62,6 +62,7 @@ Why should you teach concepts using a range of examples?
 - A wide range of examples helps pupils understand the breadth of the domain.
 
 How will you know if you have used a sufficient number of examples?
+
 - Testing pupils' understanding will help you work out if you have given enough examples – after a few examples, ask the students to apply their understanding. If they cannot, then you will need to provide more examples.
 - Asking pupils more complex questions will test how well they have grasped the abstract concept.
 
@@ -107,11 +108,11 @@ Together, look at the lesson that the ECT is planning to teach soon. Pose the fo
 
 1. What new concepts are being taught in this lesson?
 2. In what ways does this new concept link to the core concepts and principles of the subject?
-3. How do you plan to make the links explicit between this new concept and the core concepts and principles of the subject?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+3. How do you plan to make the links explicit between this new concept and the core concepts and principles of the subject?
 
 ### Planning for action
 
-The ECT is going to discuss curriculum design with a colleague. Help the ECT plan for this conversation by writing a list of questions. 
+The ECT is going to discuss curriculum design with a colleague. Help the ECT plan for this conversation by writing a list of questions.
 
 Before beginning:
 
@@ -119,11 +120,10 @@ Before beginning:
 - Identify who it will be most useful to speak to in order to achieve this (subject lead, curriculum lead, same subject or different subject).
 - How will this support the ECT’s practice?
 
-Plan out three to five questions the ECT will ask their colleague. The questions from earlier in this topic could be used to help. Agree a time to observe the ECT. It would work well to suggest the lesson that has been discussed in this topic. 
+Plan out three to five questions the ECT will ask their colleague. The questions from earlier in this topic could be used to help. Agree a time to observe the ECT. It would work well to suggest the lesson that has been discussed in this topic.
 
 The focus of the observation will be:
 
 - The extent to which the ECT is able to demonstrate that they are revisiting the big ideas of the subject
 - The range of examples the ECT is using to exemplify concepts
-- The extent to which the ECT is drawing explicit links between new content and the core concepts and principles of the subject.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-
+- The extent to which the ECT is drawing explicit links between new content and the core concepts and principles of the subject.

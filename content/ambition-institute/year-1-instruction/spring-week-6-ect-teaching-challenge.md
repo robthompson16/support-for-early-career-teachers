@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-6-ect-reflect"
 ---
 
-
 Ms Garcia feels increasingly confident at identifying key content and presenting it effectively, building on pupil prior knowledge. However, she notices that sometimes pupils grasp key ideas quickly, while at other times pupils struggle to do so at all. Sometimes it is individuals or groups of pupils that struggle, at other times the whole class. How can she adapt her teaching to better meet the needs of all pupils?
 
 ## Key idea
@@ -56,15 +55,14 @@ The aim of responsive teaching is to support pupil success. If pupils are practi
 
 Teaching assistants can adapt teaching for assigned pupils, for example pupils with special educational needs or disabilities. However, they need to be prepared for the lesson by the teacher, and supplement not replace teacher support (EEF, 2018). For example, providing they can further break down tasks during guided practice.
 
-
-
 ### Key takeaways
-Ms Garcia can effectively adapt her teaching if she understands that:
-- adapting teaching means identifying key adaptations and deploying them responsively to ensure pupils experience a high success rate 
-- whole class questioning can expose what pupils understand to inform responsive teaching 
-- teachers need to understand key pupil differences and potential barriers to learning, especially for pupils with special educational needs or disabilities, and prepare solutions _before_ the lesson 
-- worked examples and careful grouping can support pupils to fill knowledge gaps or correct misconceptions
 
+Ms Garcia can effectively adapt her teaching if she understands that:
+
+- adapting teaching means identifying key adaptations and deploying them responsively to ensure pupils experience a high success rate
+- whole class questioning can expose what pupils understand to inform responsive teaching
+- teachers need to understand key pupil differences and potential barriers to learning, especially for pupils with special educational needs or disabilities, and prepare solutions _before_ the lesson
+- worked examples and careful grouping can support pupils to fill knowledge gaps or correct misconceptions
 
 ### Further reading
 
@@ -72,7 +70,6 @@ Deunk, M. I., Smale-Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J. (
 
 {details}
 References.
-
 
 Christodoulou, D. (2017). _Making Good Progress: The Future of Assessment for Learning._ Oxford: OUP.
 
@@ -98,9 +95,8 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 
 Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that all teachers should know. _American Educator,_ 36, 12–20. <a href="http://bit.ly/ecf-ros." target="_blank" rel="noopener">bit.ly/ecf-ros</a>
 
-Wiliam, D. (2010). What Counts as Evidence of Educational Achievement? The Role of Constructs in the Pursuit of Equity in Assessment. _Review of Research in Education, 3_4, 254-284.
+Wiliam, D. (2010). What Counts as Evidence of Educational Achievement? The Role of Constructs in the Pursuit of Equity in Assessment. \_Review of Research in Education, 3_4, 254-284.
 
 Wiliam, D., &amp; Leahy, S., (2015). _Embedding Formative Assessment._ Florida: Learning Sciences International.
 
 {/details}
-

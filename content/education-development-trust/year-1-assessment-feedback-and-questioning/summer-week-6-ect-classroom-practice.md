@@ -4,8 +4,6 @@ previous_title: "Instructions"
 previous_path: "/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-6-ect-instructions"
 ---
 
-
-
 ## Area 1: Avoid common assessment pitfalls
 
 ### By trying this activity, you will...
@@ -55,7 +53,6 @@ For summative assessments to be most useful, they should be standardised, carefu
 
 Think about an upcoming series of lessons in which you would like to assess pupils’ learning and work through the questions here.
 
-
 - Is there an externally validated or widely used in-school assessment that I can use? If not, what task can I use instead?
 - Does the task test the understanding or knowledge I want to assess?
 - Will all pupils be able to understand the language used in the task?
@@ -94,16 +91,14 @@ For example:
 - Will there be complete silence for the whole lesson? What happens if a pupil does not adhere to this?
 - What should pupils do when they think they have finished?
 
-
-
 ### In your notepad
-Reflect on your practice: 
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
+Reflect on your practice:
 
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?
 
 ## Area 2: Stimulate pupil thinking and check for understanding
 
@@ -127,10 +122,10 @@ Reflect on your practice:
 #### Pose-pause-pounce
 
 - Teacher poses a question, e.g. “Imagine we had no records about the past at all, except everything to do with sport, how much about the past could we find out about?”
-- Teacher pauses while pupils have thinking time or paired discussion, e.g. “Discuss what you are thinking with your partner.”_They might pay attention to the talk between pupils.
+- Teacher pauses while pupils have thinking time or paired discussion, e.g. “Discuss what you are thinking with your partner.”\_They might pay attention to the talk between pupils.
 - Teacher pounces on a pupil/group to see what they think e.g. "So what does this group think?” or “I think I like what you’re talking about here, can you explain that to me?”
 
-Bounce the idea round the room asking pupils to build or challenge on what’s already been said, e.g. _“This group has said something really interesting. Ollie, can you explain? What does everyone else think about that? Eliza, do you agree with Ollie? Does anyone disagree?”
+Bounce the idea round the room asking pupils to build or challenge on what’s already been said, e.g. \_“This group has said something really interesting. Ollie, can you explain? What does everyone else think about that? Eliza, do you agree with Ollie? Does anyone disagree?”
 
 #### Use follow up questions
 
@@ -156,16 +151,14 @@ It could also be helpful to ask a peer or your mentor to observe you and to time
 
 In the next lesson you teach, use a stopwatch/timer to practise ensuring that you provide adequate wait time for pupils.
 
-
-
 ### In your notepad
+
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?
 
 ## Area 3: Check prior knowledge and understanding during lessons
 
@@ -239,12 +232,11 @@ Another way you could do this is: If this is the answer, what is the question? I
 - Give pupils time to improve their work based on your feedback.
 - You could also use marking codes here if pupils are familiar with them, e.g. tick for something correct, circle for something that needs to be corrected.
 
-
-
 ### In your notepad
+
 Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?

@@ -38,15 +38,13 @@ The focus of the lesson is for pupils to shade 3D objects to show light and shad
 
 When starting pupils off on a task, it is also important to check they understand what to do before they begin. This helps to ensure they can begin immediately. There are a number of ways you can do this, but one way is to ask pupils to repeat instructions back to you before setting them off.
 
-
-
 ### Reflection
+
 Think about an activity you recently set. Consider the following questions and record
 your response in your notepad:
 
-* how successful were pupils at this activity and why do you think that was?
-* is there anything you would do differently next time?
-
+- how successful were pupils at this activity and why do you think that was?
+- is there anything you would do differently next time?
 
 ## Providing further guides and scaffolds
 
@@ -86,9 +84,8 @@ Using checklists can be an effective way to scaffold pupils’ cognition by ensu
 
 This can help to break the task down into its constituent components and prompt students’ thinking during independent practice. The following examples demonstrate how this might look in different contexts:
 
-
-
 ### Literacy example:
+
 If the independent practice requires pupils to describe a character using metaphors
 and similes, the checklist might consist of the following:
 
@@ -100,10 +97,8 @@ Have I used a metaphor effectively? E.g. Pools of blue and hazel stare steadily 
 
 Have I re-read my work to check it makes sense?
 
-
-
-
 ### Science example:
+
 If independent practice is to balance chemical equations, the checklist might be:
 
 Have I replaced the name of each substance with its symbol or formula?
@@ -111,7 +106,6 @@ Have I replaced the name of each substance with its symbol or formula?
 Have I checked whether the equation is balanced?
 
 If the equation is not balanced, have I used numbers to balance it?
-
 
 If you are in a setting where pupils can’t read yet, such as Early Years, you can use images as a visual prompt.
 
@@ -125,11 +119,8 @@ Listen to Elizabeth Arkle talk about how she uses checklists to scaffold pupils 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUqnQuR50cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   This year in English, I really wanted to make children’s planning of their
@@ -251,17 +242,17 @@ There are some key features that can support effective collaboration:
 - Groupings – it is important that you carefully select pupils who will work together well.
 
 ### Collaborative practice in action
+
 Watch one of the videos below to see how collaboration can be used as a form of pupil
 practice. Consider the following questions and record your response in your notepad:
 
-* what might the teacher have done prior to this activity to ensure this
-      collaboration is successful?
-* what prior knowledge did the pupils need?
+- what might the teacher have done prior to this activity to ensure this
+  collaboration is successful?
+- what prior knowledge did the pupils need?
 
-####Collaborative practice – Early Years - Bethan Hughes at Reach Academy 
+####Collaborative practice – Early Years - Bethan Hughes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RgT8AYLLOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Collaborative practice – Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/Li2PfDr7Lyk)
 
@@ -269,25 +260,22 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2DHaa1YISHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Collaborative practice – Primary [AD]](https://youtu.be/IlZLgcRaej8)
 
 ### Reflection
+
 Choose one of the videos below to hear an example of how collaboration is used in
 the classroom and answer the following questions in your notebook:
 
-* how could you use collaboration in your classroom?
-* what steps would you need to take to make this successful?
+- how could you use collaboration in your classroom?
+- what steps would you need to take to make this successful?
 
 ####Collaborative learning – using roles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T714LRwSzoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 {details}
 Video transcript.
-
 
 Collaborative learning is an effective way of encouraging and developing talk in the classroom. Effective collaboration can support pupils to develop their understanding of a concept or topic as it provides pupils with an opportunity to hear and evaluate ideas that might be different to their own.
 
@@ -313,10 +301,8 @@ Collaborative learning is something that I ensure is at the heart of every lesso
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Q_h_eNOlAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Collaborative learning can be a very productive learning activity for students. However, there is a caveat: it has to be very carefully planned and structured, with very clear timings and very clear stages to the activity, or very clear roles for students who are taking part. Students also have to be very much prepared for the task in terms of their prior knowledge of the topic, if you want them to be successful and successfully engage with the collaborative activity.
 
@@ -324,22 +310,22 @@ There are lots of different ways to set up collaborative activities. I would use
 
 These collaborative structures have very clear stages and instructions; students work collaboratively towards a common goal. They all have to take part to achieve that goal, but they are doing this in a framework that is very much directed by the teacher in terms of the timing and moving through each stage of the activity.
 
-One example of this is a _consensus activity_ where students aim towards reaching consensus. So, students are given a question or a debating point that they work on alone before they share their ideas together, and then they discuss those ideas with the group at large, with the whole class at large. So for example, with a recent year 10 class, we were working on _Macbeth_and I posed the question or the debating point: “Macbeth is a wholly evil character. Discuss”. First the students were asked to work independently, they didn't communicate with their group colleagues at all at first. They had to think about their key ideas, their initial thoughts, maybe some evidence in response to that question of Macbeth being wholly evil. Once they've had that time, which is important, that prior knowledge, activating that prior knowledge was important, once that time was up, I signalled for them to get together in their groups and each of them took turns to share their ideas. Again, that was very much controlled by me through timings. The aim was to stimulate some debate but also to look at any similarities that students might have once they had shared their ideas, in order that they could craft a group consensus in response to that debating point on _Macbeth_. When directed, someone from each group acted as a spokesman and they shared their ideas with the class at large, so we had a whole class discussion after the collaborative activity.
+One example of this is a _consensus activity_ where students aim towards reaching consensus. So, students are given a question or a debating point that they work on alone before they share their ideas together, and then they discuss those ideas with the group at large, with the whole class at large. So for example, with a recent year 10 class, we were working on _Macbeth_and I posed the question or the debating point: “Macbeth is a wholly evil character. Discuss”. First the students were asked to work independently, they didn't communicate with their group colleagues at all at first. They had to think about their key ideas, their initial thoughts, maybe some evidence in response to that question of Macbeth being wholly evil. Once they've had that time, which is important, that prior knowledge, activating that prior knowledge was important, once that time was up, I signalled for them to get together in their groups and each of them took turns to share their ideas. Again, that was very much controlled by me through timings. The aim was to stimulate some debate but also to look at any similarities that students might have once they had shared their ideas, in order that they could craft a group consensus in response to that debating point on \_Macbeth_. When directed, someone from each group acted as a spokesman and they shared their ideas with the class at large, so we had a whole class discussion after the collaborative activity.
 
 The features of this task that made it successful were:
 
 - Every student had a clear role to play
-- The task was very structured in terms of timings and when we are moving through each stage 
-- Students had enough prior knowledge to be able to succesfully engage with the task 
+- The task was very structured in terms of timings and when we are moving through each stage
+- Students had enough prior knowledge to be able to succesfully engage with the task
 - And they were given that little bit of individual time at the very beginning of the task just in order to think about that prior knowledge, to kind of reactivate that prior knowledge, I suppose, before the group consensus
-We could contrast that very structured approach with something I've done in the past
-which wasn't successful. I would pose a question to a group, so "discuss this in
-groups" I would say after I'd given them a topic area. Now, that didn't give them
-any struture at all. And I have done this before in the past, I'll hold my hands
-up. The students lacked direction; some students did nothing; some students dominate
-the conversation. They weren't given time to think about prior knowledge, to activate
-that prior knowledge, to formulate their ideas. So this task, when I've done that
-in the past, were unsuccessful, a lot of students didn't benefit from that.
+  We could contrast that very structured approach with something I've done in the past
+  which wasn't successful. I would pose a question to a group, so "discuss this in
+  groups" I would say after I'd given them a topic area. Now, that didn't give them
+  any struture at all. And I have done this before in the past, I'll hold my hands
+  up. The students lacked direction; some students did nothing; some students dominate
+  the conversation. They weren't given time to think about prior knowledge, to activate
+  that prior knowledge, to formulate their ideas. So this task, when I've done that
+  in the past, were unsuccessful, a lot of students didn't benefit from that.
 
 There are lots of different ways you can actually group students. I would tend to group students in terms of ability, but you can have mixed ability groups, based on their prior attainment for instance. You should always bear in mind, whenever you are putting groups together, potential pastoral or behavioural concerns within the group, that is very, very important, those things that could manifest when students are working together.
 
@@ -349,10 +335,8 @@ There are lots of different ways you can actually group students. I would tend t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oMbiVyt2Hms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Group work can serve a really useful function. It builds on and can help to develop pupils’ confidence, as well as ensuring effective preparatory thinking and planning before any high-stakes questioning or writing.
 
@@ -380,10 +364,8 @@ Choose one of the videos below to listen as a teacher talks through an example o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rC3NGjx-LFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 When revising multiplying and dividing by 10, 100 and 1000, I noticed that a small group of pupils were still struggling to grasp this concept, particularly when decimals were involved. The scaffold I used was a number slider so that when working out a calculation, the pupils could use the scaffold to see what was actually happening to the place value of the digits when being multiplied or divided.
 
@@ -405,10 +387,8 @@ After independent practice, the pupils were able to be confident in multiplying 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BIhJP3lg_38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Both within a lesson and throughout a series of lessons, it is important that there is a logical progression. This often takes the form of initially presenting new information through explanations and models, then practicing new material and skills in a collaborative way, before providing pupils time for independent work. Throughout this process scaffolding should be provided and then eventually removed as pupils’ knowledge develops and they require a greater level of challenge. To support pupils to be successful in their work, I try to be consistent in the strategies and structures I use to explain key concepts. I find this helps to build pupils' confidence and consequently increase their levels of motivation.
 
@@ -428,10 +408,8 @@ What is important to note in this example is that the principle of progression f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52TAHDyMsPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 One example of when I used scaffolding and then gradually removed it was when I tasked my pupils with answering a source utility question. This is one of the more complex History skills as it requires pupils to study sources and determine how useful they are for a given enquiry by evaluating both their content and source. Therefore, I scaffolded learning by first modelling how to approach answering a question like this and then gradually removed this scaffold throughout the lesson.
 
@@ -453,33 +431,31 @@ I always challenge pupils to progress to independence – the scaffolding must b
 
 The level of scaffold and the length of time you provide pupils with will depend on the task and the pupil’s current understanding. Therefore, it will most likely look different for different pupils. This will be explored further in module five.
 
-
-
 ### Application
+
 Guided and independent practice will be observed in your next mentor meeting. To help you to prepare for this, identify the lesson you will teach and spend the next 15 minutes planning to include effective practice.
 
 When planning guided practice, remember to consider:
 
-* what will pupils need to know prior to guided practice? This will inform
-    what to include in your explanations and modelling
-* what key teaching points will the guided practice focus on? These will be
-    the parts pupils are asked to contribute to.
-* what methods or strategies will you utilise? E.g. thinking aloud, partially
-    completed examples
-* how does guided practice build on from your explanation and modelling?
-* how does this guided practice prepare pupils for their independent activity?
+- what will pupils need to know prior to guided practice? This will inform
+  what to include in your explanations and modelling
+- what key teaching points will the guided practice focus on? These will be
+  the parts pupils are asked to contribute to.
+- what methods or strategies will you utilise? E.g. thinking aloud, partially
+  completed examples
+- how does guided practice build on from your explanation and modelling?
+- how does this guided practice prepare pupils for their independent activity?
 
 You could also refer to last week’s online study materials and reflect on your
 previous mentor meeting to support you.
 
 When planning independent practice remember to:
 
-* plan a practice activity focused around the material pupils have learnt,
-    ensuring they have the required knowledge to complete the task
-* provide further guides and scaffolds where appropriate
-* if using collaboration, consider how you set pupils up for this to ensure it
-    is successful.
-
+- plan a practice activity focused around the material pupils have learnt,
+  ensuring they have the required knowledge to complete the task
+- provide further guides and scaffolds where appropriate
+- if using collaboration, consider how you set pupils up for this to ensure it
+  is successful.
 
 ## Additional resources
 
@@ -491,21 +467,18 @@ Listen to Sharon Stevenson talk about the importance of independent practice in 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XK27caSBbTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
+Independent practice in Key Stage One builds pupils confidence and enables the teacher to make an assessment on strategies pupils are using and to gain an understanding of what pupils have learnt. The teacher knows what pupils interests are and where challenge or support is needed to revisit a particular concept that maybe proving tricky for pupils.
 
+The teacher needs to be clear on expected learning outcomes and the steps needed through scaffolding. This will ensure pupils are ready and prepared for working independently with success. Pupils' resilience to work independently and the desire to achieve is key in this area. The teacher should ensure relationships with all pupils are strong, consistent and respectful in order for the pupils to develop confidence in their learning within the classroom environment.
 
-Independent practice in Key Stage One builds pupils confidence and enables the teacher to make an assessment on strategies pupils are using and to gain an understanding of what pupils have learnt. The teacher knows what pupils interests are and where challenge or support is needed to revisit a particular concept that maybe proving tricky for pupils. 
- 
-The teacher needs to be clear on expected learning outcomes and the steps needed through scaffolding.  This will ensure pupils are ready and prepared for working independently with success.  Pupils' resilience to work independently and the desire to achieve is key in this area. The teacher should ensure relationships with all pupils are strong, consistent and respectful in order for the pupils to develop confidence in their learning within the classroom environment.
+The teacher needs to take risks often to allow pupils to make mistakes and to create a culture of risk taking as a way of the pupils learning and remembering more. Pupils should be encouraged to attempt tasks and challenges on their own when they are ready but also reassured that they can ask for help, clarification and support as and when required.
 
-The teacher needs to take risks often to allow pupils to make mistakes and to create a culture of risk taking as a way of the pupils learning and remembering more.  Pupils should be encouraged to attempt tasks and challenges on their own when they are ready but also reassured that they can ask for help, clarification and support as and when required. 
+Teachers make judgements on individual pupil performance during independent tasks throughout every lesson based on observation, marking of work and through questioning. This will inform the teacher which pupils are confident to work with independence and those who still require encouragement and further scaffolding.
 
-Teachers make judgements on individual pupil performance during independent tasks throughout every lesson based on observation, marking of work and through questioning. This will inform the teacher which pupils are confident to work with independence and those who still require encouragement and further scaffolding. 
- 
-It is important to review and discuss independent learning with pupils in order for them to further develop confidence and to ensure they have opportunities to reflect on their own learning.  This feeds into assessment for learning so the teacher can make adjustments in planning to ensure all pupils achieve. 
+It is important to review and discuss independent learning with pupils in order for them to further develop confidence and to ensure they have opportunities to reflect on their own learning. This feeds into assessment for learning so the teacher can make adjustments in planning to ensure all pupils achieve.
 
 {/details}
 
@@ -515,10 +488,8 @@ Listen to Joanna Macaulay talk about the importance of independent practice in s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CGY6VyXby4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 The ability of pupils to apply their learning in a new context is the benchmark that something has been learnt. According to Hattie, “learning is the process of developing sufficient surface knowledge to then move to a deeper understanding such that one can appropriately transfer this learning to new tasks and situations”. Independent practice is used to develop this deeper understanding.
 

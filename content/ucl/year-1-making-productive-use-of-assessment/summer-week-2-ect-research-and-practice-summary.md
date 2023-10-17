@@ -6,17 +6,15 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-2-ect-self-study-activities"
 ---
 
-
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
-
-
 
 ### Case study: part 1
 
 #### Questioning for assessment in a Year 11 history lesson
+
 Seda wants to introduce a topic on the Puritan Threat, part of a unit on Elizabethan
 England. Pupils have already studied the Religious Settlement and Catholic Threat,
-so they have some knowledge of the Puritans. 
+so they have some knowledge of the Puritans.
 
 Seda is keen to identify any misconceptions
 pupils have acquired in order to plan the subsequent lessons to correct them. She’s
@@ -24,8 +22,7 @@ taught this topic before and knows that pupils typically struggle with some of t
 core ideas underpinning the topic.
 
 What could Seda do to check her pupils’ existing understanding of these core
-  ideas at the start of the topic?
-
+ideas at the start of the topic?
 
 Assessment is a broad term, covering a wide range of teaching and learning activity. ‘Assessment of learning’ (or summative assessment), used after a period of teaching/learning, aims to find out what pupils know or can do at a given point in time. ‘Assessment for learning’ (or formative assessment), used during a period of teaching/learning, aims to find out where pupils are now and where they need to go next, as well as to provide feedback on how to get there. Assessment may also be used to establish pupils’ prior knowledge and understanding at the outset of a sequence of learning. With these different purposes come different methods of assessment. Assessment can add significantly to a teacher’s workload, so it is important to become familiar with your school’s expectations and to learn efficient methods from colleagues.
 
@@ -41,20 +38,18 @@ To support pupil learning through effective formative assessment, you could draw
 - activating students as learning resources for one another (e.g. by explicitly teaching strategies such as peer-assessment)
 - activating students as owners of their own learning (e.g. by explicitly teaching pupils strategies to monitor and regulate their own learning)
 
-
-
 ### Case study: part 2
-Seda could use these strategies with her class by planning some activities at the beginning of the topic which encourage pupils to share their current understanding about the core ideas. This would give her the information she needs to plan the rest of the topic. 
+
+Seda could use these strategies with her class by planning some activities at the beginning of the topic which encourage pupils to share their current understanding about the core ideas. This would give her the information she needs to plan the rest of the topic.
 
 She could devise a few diagnostic questions and use whole-class response techniques to gather responses from all pupils. Pupils could respond by:
 
-- writing short answers (up to a sentence) on a mini-whiteboard and holding these up so the teacher can see all answers at once 
+- writing short answers (up to a sentence) on a mini-whiteboard and holding these up so the teacher can see all answers at once
 - using their fingers to respond to a multiple-choice question with numbered optional responses (i.e. if they think the answer is option 1, they hold up 1 finger; if option 4, 4 fingers)
-Before collecting answers from pupils, Seda could give them a chance to discuss their
-ideas in small groups or with talk partners. This gives pupils a chance to share
-their thinking in a low-stakes environment and build confidence before sharing their
-answers with the whole class. 
-
+  Before collecting answers from pupils, Seda could give them a chance to discuss their
+  ideas in small groups or with talk partners. This gives pupils a chance to share
+  their thinking in a low-stakes environment and build confidence before sharing their
+  answers with the whole class.
 
 Summative assessment sums up, at a given time (for example, the end of a unit), where learners are in their learning. It is also referred to as ‘assessment of learning’, in contrast to ‘assessment for learning’. Summative assessments are often more useful and reliable when compared against an external benchmark and conducted in controlled conditions. This should improve the reliability of the information that the teacher gets from the assessment.
 
@@ -78,30 +73,27 @@ To use questions to support the accurate and productive use of assessment, you c
 - use multiple-choice questions to identify knowledge gaps and misconceptions during lessons (a good source of well-constructed multiple-choice questions can be past examination papers, if these are available in your phase and specialism)
 - prompt pupils to elaborate when responding to questioning to check that correct answers stem from secure understanding (e.g. ‘tell me how you reached that answer’, ‘what tells you that this is the correct answer?’ or ‘can you explain to me why this answer is incorrect?’)
 
-
-
 ### Case study: part 3
+
 High-quality multiple-choice questions make use of all options to tell the teacher something about pupils’ understanding:
 
 - there can be one correct answer or more than one
 - the incorrect answers, or ‘distractors’, are linked to common errors or misunderstandings - the design of these incorrect answers should be approached as carefully as the design of the correct answer(s)
-By noting which incorrect answers pupils give, teachers can learn more about the
-misunderstandings that pupils hold. This helps the teacher to decide what to do next
-in their teaching.
+  By noting which incorrect answers pupils give, teachers can learn more about the
+  misunderstandings that pupils hold. This helps the teacher to decide what to do next
+  in their teaching.
 
 In Seda’s case, she could use her knowledge of the typical errors that pupils have made when she taught this topic previously to help her to write a usefully diagnostic question, or questions, to frame her initial assessment of pupils’ understanding.
 
-
 Performance is used to describe ‘what a pupil can do at a given moment.’ How well they do in a test, for example, can be described as their performance. Teachers draw inferences about what pupils have learned by looking at their performance in assessments. Externally validated assessment instruments – exams and standardised tests – are useful for determining a pupil’s current level of performance within a particular domain. However, there are disadvantages to the use of high-stakes tests, since a single point of assessment (performance) is, by definition, not a reliable measure of what a pupil has really learned. It is therefore more valid and reliable to draw conclusions about what pupils have learned by looking at patterns of performance over a number of assessments. You will explore this idea further in the ECT training session for this module.
-
-
 
 ### Case study: part 4
 
 #### What did Seda do? The principles of assessment in practice
+
 Seda decides to write several multiple-choice questions as a starter activity, with
 common misconceptions built into the distractors (wrong answers). Pupils quickly
-tackle the questions. 
+tackle the questions.
 
 Seda asks them to then discuss and justify their answers with
 their talk partners – talk partners are set by the seating plan and have been arranged
@@ -111,8 +103,8 @@ in some cases and important misconceptions in others.
 
 Seda selects some pairs to explain their answers to each question and the reasoning behind these answers. She uses further questioning and discussion to encourage pupils to expand on their answers and to highlight and correct the misconceptions she noted previously in relation to Puritan beliefs and roles in Elizabethan society.
 
-Seda was aware of the typical confusion pupils experience in differentiating religious groups in Elizabethan England. She knew that identifying and clarifying those misconceptions was essential to pupils understanding the new topic. Using multiple-choice questioning with deliberate distractors allowed her to quickly identify her pupils’ prior knowledge and misconceptions so that these could be addressed before they interfered with the new topic. 
+Seda was aware of the typical confusion pupils experience in differentiating religious groups in Elizabethan England. She knew that identifying and clarifying those misconceptions was essential to pupils understanding the new topic. Using multiple-choice questioning with deliberate distractors allowed her to quickly identify her pupils’ prior knowledge and misconceptions so that these could be addressed before they interfered with the new topic.
 
-She wanted pupils to justify their answers to the multiple-choice questions in order to better understand why some may have confused their thinking and to reassure herself that others’ correct answers were built on secure knowledge. Doing this in talk partners gave less-confident pupils the opportunity to check understanding in a low-stakes way and the teacher the chance to monitor this. 
+She wanted pupils to justify their answers to the multiple-choice questions in order to better understand why some may have confused their thinking and to reassure herself that others’ correct answers were built on secure knowledge. Doing this in talk partners gave less-confident pupils the opportunity to check understanding in a low-stakes way and the teacher the chance to monitor this.
 
 As a result of this lesson, Seda was able to better organise future lessons. In this case, she decided to incorporate some quizzes and concept-matching starter activities throughout the lesson sequence to revise the Puritans’ basic beliefs and to help her give more tailored support for those who needed the content further broken down.

@@ -4,16 +4,15 @@ heading: "Mentor materials"
 caption: "Autumn week 4"
 ---
 
-
 ## Observation discussion - using worked or partially completed examples
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Observation
 
-### Outcome: 
+### Outcome:
 
 To have practised using worked or partially completed examples.
 
@@ -33,4 +32,3 @@ Your teacher will have explored using worked and partially completed examples in
 
 1. What implications do storage and retrieval practice have for their teaching?
 2. How can partially completed examples be used to reduce distractions and keep the attention focused on key learning points?
-

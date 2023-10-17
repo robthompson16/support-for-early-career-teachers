@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-6-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the research and practice summary on this week’s topic. As you read, reflect on:
@@ -28,9 +27,8 @@ To help you write this vignette, you could:
 - describe what happened
 - try and connect your actions to their consequences, using the ideas in this week’s research and practice summary and those from previous weeks in Module 1
 
-
-
 ### Example: tricky behaviour in Year 10 computing
+
 ‘My Year 10 computing class can be tricky, particularly after lunch as lots of them
 play football during the break and arrive hot and excitable. Often I struggle to
 get them to settle and this can ‘blow up’ into confrontation with some pupils who
@@ -46,7 +44,7 @@ my reminder as ‘you need to be working quietly on this task’ rather than ‘
 so that I was emphasising my expectations positively. By using strategies consistently
 with all pupils I seem to be reducing some of the initial perceptions of unfairness,
 so there are fewer incidences where pupils feel they’re being picked on. I am pleased
-that my consistency and tenacity seems to be paying off with this class.’ 
+that my consistency and tenacity seems to be paying off with this class.’
 
 In this vignette you can see that there are strategies in use both to pre-empt disruptive behaviour (planning of activities, use of predictable routines, clear expectations) and also to respond to disruptive behaviour as it arises (early and low-level interventions). These are contributing to a predictable, secure environment in which behaviour is managed effectively.
 
@@ -84,4 +82,3 @@ Make some initial notes about this lesson and a possible observation focus. You 
 ### Next Steps: 5 mins
 
 Bring your vignettes, your checklist and notes from this session to your next mentor meeting. Be ready to discuss your learning with your mentor.
-

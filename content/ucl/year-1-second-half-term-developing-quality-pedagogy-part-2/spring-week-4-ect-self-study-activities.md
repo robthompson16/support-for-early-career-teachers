@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spring-week-4-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -40,4 +39,3 @@ Look ahead to your next mentor meeting, where you will learn how to:
 5i. Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
 
 5j. Build in additional practice or remove unnecessary expositions.
-

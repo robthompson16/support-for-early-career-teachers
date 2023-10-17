@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 4"
 ---
 
-
 ## Observation discussion - positive and least invasive behaviour management strategies
 
 ### Teaching techniques to focus feedback on
@@ -45,5 +44,4 @@ Discuss possible behaviour management strategies alongside the school’s behavi
 
 Discuss when teachers should contact parents and what the process is for doing so.
 
-Discuss with teachers that they have the right to support and if they are finding behaviour challenging, they should seek support from colleagues. 
-
+Discuss with teachers that they have the right to support and if they are finding behaviour challenging, they should seek support from colleagues.

@@ -6,17 +6,18 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-6-ect-teaching-chal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VXmlZYepobM?list=PL4IuMlmijgAfTwwEiZmMp28Eaf66S3a1R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
 ### Presenter intro: Peps McCrea
+
 Consistency is a powerful tool that teachers can develop. Behaving in the same way
 over time helps pupils to know what to expect from their teacher. This creates trust.
 It also helps to create a predictable and secure environment that we know benefits
 all pupils.
+
 ### Presenter main
+
 In practice, consistency applies to many parts of teaching. It means giving clear
 expectations that set out what you would like pupils to do, modelling the behaviours
 you expect to see, and supporting pupils to do the same through positive reinforcement,
@@ -32,24 +33,25 @@ Here's one way of rewarding positive behaviour.
 1. Briefly state the behaviour.
 2. Set out the reward.
 3. Explain how this will help the pupil to achieve a long-term goal.
-Linking positive behaviour to success in learning may help pupils to be motivated
-by intrinsic factors, rather than extrinsic ones.
+   Linking positive behaviour to success in learning may help pupils to be motivated
+   by intrinsic factors, rather than extrinsic ones.
 
 Here's one suggestion for how you might give a sanction.
 
 1. Briefly state the behaviour.
 2. State the consequence.
 3. Explain to pupils how they can get back on track.
-For example: _“Callum, you were talking when Iris was giving her answer. That means you missed out on hearing her great answer. You need to pay attention to what everyone says during class discussions. You can use those ideas in your own work, and it shows you value others.”_
-Issuing sanctions in a consistent manner each time helps teachers and pupils to
-remain calm. It also deescalates the situation and ultimately helps to build
-trust.
+   For example: _“Callum, you were talking when Iris was giving her answer. That means you missed out on hearing her great answer. You need to pay attention to what everyone says during class discussions. You can use those ideas in your own work, and it shows you value others.”_
+   Issuing sanctions in a consistent manner each time helps teachers and pupils to
+   remain calm. It also deescalates the situation and ultimately helps to build
+   trust.
 
 Rewards and sanctions are not the only way of encouraging positive behaviour. Teachers need to help pupils behave in a way that supports learning because they want to do it for themselves, but rewards and sanctions can help pupils to get there, so teachers need to know what the system in their school is.
 
 The more that pupils see a teacher behaving in the same way over time, the more likely they are to associate that teacher with those qualities. If teachers behave in a way that is consistent, pupils will feel that their teacher is consistent. This, in turn, creates a sort of trusting relationship that benefits pupils' learning.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of one way to respond to a pupil who's
 been repeatedly off task. As you watch, focus on the following:
 
@@ -57,6 +59,7 @@ been repeatedly off task. As you watch, focus on the following:
 - Applies sanctions and rewards in line with school policy, escalating behaviour incidents as appropriate.
 
 ### Exemplification
+
 In this example, I'm going to model how to give a sanction to a pupil who is not
 doing what I have asked. I want you to imagine that I'm teaching a year 10
 science class. Pupils are working on an independent writing task, comparing two
@@ -93,11 +96,12 @@ Later in the lesson, having focused for the remainder of the task, Tom had produ
 
 I treated Tom in the same way as other pupils, holding him to account when he was off task, praising his efforts when appropriate. My tone was the same throughout the model, formal and calm. This consistent tone shows pupils that I'm able to manage the situation and that I will maintain my expectations I have set out.
 
-Finally, my language was consistent. I used language and a structure that my pupils are now familiar with. _“Face the front”_is a short, quick phrase that clearly tells pupils what to do, and one which I always use. And I use the same format for issuing a sanction: state the error, state the consequence, and explain how to get back on track.
+Finally, my language was consistent. I used language and a structure that my pupils are now familiar with. \_“Face the front”\_is a short, quick phrase that clearly tells pupils what to do, and one which I always use. And I use the same format for issuing a sanction: state the error, state the consequence, and explain how to get back on track.
 
 Responding to pupil behaviour in the same way over time means that I can act quickly and fairly. This normally deescalates negative behaviour and maintains a positive learning environment.
 
 ### Presenter key ideas
+
 In this video, we have considered why it's important that teachers are consistent
 and looked at some ways in which they can achieve this. Take a moment to read the
 key ideas. Which ones do you think the example best illustrated?
@@ -107,9 +111,10 @@ key ideas. Which ones do you think the example best illustrated?
 - Using consistent language and non-verbal signals for common classroom directions.
 
 ### Presenter summary
+
 Responding consistently to pupil behaviour can be hard in the beginning. It can
 be difficult for teachers to know what they will say and do on the spot. Picking
 one specific response to plan and practise outside of the classroom really helps
 you to know what to do when you're standing in front of your pupils. Plan and
-practise in advance so you can be consistent in the moment. 
+practise in advance so you can be consistent in the moment.
 {/details}

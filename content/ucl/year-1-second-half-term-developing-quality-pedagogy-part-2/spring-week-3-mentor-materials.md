@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 3"
 ---
 
-
-## Making new concepts accessible through targeted support 
+## Making new concepts accessible through targeted support
 
 ### Learning intentions
 
@@ -29,8 +28,7 @@ The learning outcomes from their self-directed study were to learn that:
 
 This is not supported by evidence and attempting to tailor lessons to learning styles is unlikely to be beneficial.
 
-In this session, you will facilitate your mentee in developing their understanding of why it is important to evaluate pupils’ knowledge, understanding and skills and how this can be achieved (discussions with pupils, during whole-class feedback, checking classwork, summative assessment of their work, etc.) Through discussion, your mentee should be able to identify when certain pupils need more help to improve their knowledge, understanding and skills; what help they need; and the best way to adapt their teaching to support them. You will address the educational research which refutes the idea that lessons need to cater for pupils’ ‘learning styles’ - this does not improve learning.  
-
+In this session, you will facilitate your mentee in developing their understanding of why it is important to evaluate pupils’ knowledge, understanding and skills and how this can be achieved (discussions with pupils, during whole-class feedback, checking classwork, summative assessment of their work, etc.) Through discussion, your mentee should be able to identify when certain pupils need more help to improve their knowledge, understanding and skills; what help they need; and the best way to adapt their teaching to support them. You will address the educational research which refutes the idea that lessons need to cater for pupils’ ‘learning styles’ - this does not improve learning.
 
 ### Meeting activities
 
@@ -56,19 +54,19 @@ Key concepts -
 
 - how did you balance introducing new content with teaching key concepts?
 - what were the key concepts within this topic?
-- how well do your pupils know and understand these concepts - how do you know?  
+- how well do your pupils know and understand these concepts - how do you know?
 
 Adapting a resource -
 
-- how did you adapt it in the lesson to support pupils? 
+- how did you adapt it in the lesson to support pupils?
 - how did you adapt it in the lesson to stretch pupils?
 - did any of your pupils request additional resources?
 
-Intervention in class -  
+Intervention in class -
 
 - did it seem effective?
 - how did you support pupils who didn’t have the required knowledge, understanding or skills compared to other pupils?
-- how did you identify key pupils that needed help?  
+- how did you identify key pupils that needed help?
 - how did you adapt questions to stretch and/or support pupils in their learning?
 
 Successful outcomes -
@@ -92,4 +90,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

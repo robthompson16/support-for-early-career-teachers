@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 2"
 ---
 
-
 ## Fundamental principles of effective assessment
 
 ### Learning intentions
@@ -29,7 +28,6 @@ In their self-directed study session last week (week 1 of Module 4), your mentee
 This week (week 2 of Module 4), your mentee should have attended ECT training focused on statements 6.2, 6a, 6b and 6c of the Early Career Framework.
 
 In this session you will help your mentee build on their learning from both their self-directed study and the ECT training session. You may find it helpful to work through the materials available to your ECT to support the training session as part of your preparation for this ECT mentor meeting.
-
 
 ### Meeting activities
 
@@ -89,4 +87,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

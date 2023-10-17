@@ -6,13 +6,11 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-4-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jv59fPBxEt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena Moore
+
 Each of our pupils is individual. Each of them enters the classroom with their own
 pre-existing knowledge base, drawn from lots of different sources: their experiences,
 their prior learning, their interests and their values. And this prior knowledge
@@ -20,7 +18,9 @@ plays an important role in pupil learning. It helps pupils to make sense of what
 they learn, and to remember in the long term. Teachers need to understand why prior
 knowledge matters, identify what prior knowledge their pupils have, and know how
 to use it in their teaching.
+
 ### Presenter main
+
 Prior knowledge matters a lot. Firstly, prior knowledge helps pupils to make sense
 of what they're learning about. If a pupil reads a text about football and they already
 know a lot about the topic, they will find it easier to access and understand. Secondly,
@@ -34,6 +34,7 @@ Once teachers have a better understanding of what their pupils do and do not kno
 One thing to bear in mind is that transferring what we know from one discipline to a new, unfamiliar context can be difficult. Just because pupils know how to analyse a historical source, doesn't mean they'll be able to apply the same skills when analysing a poem. The most useful prior knowledge to build on will be that which is closest to the subject specific content that you are teaching.
 
 ### Presenter exemplification framing
+
 In the following example, you will see an Ambition Institute coach model how they
 might build on pupil prior knowledge, during a starter activity. As you watch, pay
 particular attention to how they do the following:
@@ -42,6 +43,7 @@ particular attention to how they do the following:
 - Links what pupils already know to what is being taught
 
 ### Exemplification: Ambition Institute Coach
+
 In this example I'm going to model how we can use the starter activity to
 connect new knowledge with pupils' existing knowledge. I want you to imagine I'm
 teaching a year eight History lesson about how religion changed during the reign
@@ -72,6 +74,7 @@ In this model, I connected new content to pupils' existing knowledge. In the fir
 Secondly, I identified a potential misconception in their prior knowledge. In this example, pupils know that Edward VI was the younger son. But typically, they tend to think that it is the eldest child who succeeds to the throne. I asked a direct question to check for this misconception and then gave the correct answer with a clear explanation about why it was right. Thinking about what pupils already know helps me to identify what knowledge will help them in understanding new learning. As well as anything that might get in the way of it.
 
 ### Presenter key ideas
+
 This video has given you an overview of the importance of identifying and building
 on pupils' prior knowledge. Which of these key ideas, do you routinely address?
 
@@ -81,7 +84,7 @@ on pupils' prior knowledge. Which of these key ideas, do you routinely address?
 - Structuring tasks and questions to enable the identification of knowledge gaps and misconceptions
 
 ### Presenter summary
+
 What we know determines what we can learn. Teachers need to think carefully
 about the prior knowledge that pupils have, so that they can build on what they
-know and support them when prior knowledge is weak.  {/details}
-
+know and support them when prior knowledge is weak. {/details}

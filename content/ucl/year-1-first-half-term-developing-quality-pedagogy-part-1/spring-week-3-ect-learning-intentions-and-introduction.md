@@ -13,16 +13,16 @@ next_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/sprin
 
 ## Learning Intentions for this session
 
-You will learn that: 
+You will learn that:
 
-* effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned
-* questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems
-* practice is an integral part of effective teaching. Ensuring pupils have repeated opportunities to practise, with appropriate guidance and support, increases success 
+- effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned
+- questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems
+- practice is an integral part of effective teaching. Ensuring pupils have repeated opportunities to practise, with appropriate guidance and support, increases success
 
 Through the theory to practice activities, you will also learn how to make good use of expositions by:
 
-* combining a verbal explanation with a relevant graphical representation of the same concept or process, where possible
-* using concrete representation of abstract ideas. For example, making use of analogies, metaphors, examples and non-examples
+- combining a verbal explanation with a relevant graphical representation of the same concept or process, where possible
+- using concrete representation of abstract ideas. For example, making use of analogies, metaphors, examples and non-examples
 
 ## Introduction
 

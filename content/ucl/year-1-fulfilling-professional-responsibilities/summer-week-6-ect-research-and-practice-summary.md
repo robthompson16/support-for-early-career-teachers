@@ -6,14 +6,12 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-6-ect-self-study-activities"
 ---
 
-
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions on how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
-
-
 
 ### Case study: part 1
 
 #### Improving Harry’s questioning
+
 Harry is a very effective teacher who works hard to keep improving. His pupils are
 doing well and enjoy their English lessons, and Harry’s colleagues recognise the
 excellent work he is doing.
@@ -21,7 +19,6 @@ excellent work he is doing.
 Following a series of peer observations with colleagues, Harry has decided that he wants to further develop his use of questioning.
 
 What should Harry think about when planning relevant professional development?
-
 
 During the early years of your career, you can make rapid progress in your development as a teacher through effective professional development. Not all professional development is equally powerful, though – the types of professional development and how you engage with it make all the difference.
 
@@ -44,21 +41,21 @@ Other sources of information to guide your professional development:
 - feedback from colleagues – colleagues can bring a fresh perspective and may have specialist knowledge that can help you to improve. Seeking their constructive challenge, feedback and critique can help you to improve
 - pupil data and views – ultimately, effective teacher professional development is about improving pupil outcomes. Therefore, it is important to use information about pupils, including their views, to inform your reflections. However, it is important to be mindful of the limitations of the data you are using and to exercise professional judgement in interpreting this data, as you would in all cases
 
-
-
 ### Case study: part 2
 
 #### Harry’s professional development
+
 Harry knows that effective questioning can fulfil many different purposes, including
 checking pupils’ prior knowledge. Therefore, questioning is a powerful way of supporting
 pupils’ learning. Harry also knows about some of the things that research evidence
 suggests can improve questioning, including:
-- prompting pupils to elaborate when responding to ensure that correct answers stem from a secure understanding 
+
+- prompting pupils to elaborate when responding to ensure that correct answers stem from a secure understanding
 - allowing sufficient thinking time after posing questions
 - targeting a range of pupils to answer questions, rather than relying on volunteers to respond to provide a better overview of the understanding of all pupils in a group
-Despite knowing these things, Harry routinely finds that he does not do them consistently,
-instead reverting to old habits in the midst of classroom activity – this is the
-gap between ‘knowing’ and ‘doing’. 
+  Despite knowing these things, Harry routinely finds that he does not do them consistently,
+  instead reverting to old habits in the midst of classroom activity – this is the
+  gap between ‘knowing’ and ‘doing’.
 
 These ‘old habits’ are well-embedded, and it will
 require sustained effort to improve Harry’s approaches to questioning. To achieve
@@ -67,9 +64,9 @@ focus of his professional development. He actively plans lots of opportunities t
 practise, sometimes scripting out key questions or interactions in advance of a lesson.
 He also works with colleagues who provide advice about refining his questioning techniques,
 and he arranges to have some coaching and feedback over a 6-week period from an expert
-colleague. 
+colleague.
 
 Harry’s coach provides ongoing support and challenge around his goal of
 improving his questioning. Harry finds that this sustained focus on the 3 areas he’s
 identified over a period of time really helps him to embed improved approaches to
-questioning in his practice. 
+questioning in his practice.

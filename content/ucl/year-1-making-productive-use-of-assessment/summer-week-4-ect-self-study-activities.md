@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-4-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -68,4 +67,3 @@ While teaching during the coming week, make a point of connecting learning from 
 Write a reminder to yourself to capture key learning from this activity in your Learning Log, if you are using one.
 
 Be ready to share this and your other learning from this session with your mentor in your next meeting with them.
-

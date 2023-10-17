@@ -45,4 +45,3 @@ _8h. Communicating with parents and carers proactively and making effective use 
 _8n. Understanding the right to support (e.g. to deal with misbehaviour)._
 
 _8o. Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (e.g. textbooks)._
-

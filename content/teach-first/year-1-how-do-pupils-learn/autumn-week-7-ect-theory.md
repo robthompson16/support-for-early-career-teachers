@@ -34,7 +34,6 @@ Metacognitive regulation is when pupils plan, monitor and evaluate their thinkin
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Metacognition-model-min-scaled.jpg" alt="Diagram showing how metacognitive regulation occurs as a cyclical process. Pupils use their metacognitive knowledge to plan their cognitive strategy. Then they will monitor this strategy during use and evaluate it after, therefore improving their metacognition." />
 </figure>
 
-
 #### Planning
 
 When approaching a task, effective metacognitive learners have knowledge of what the task is asking them to do, knowledge of the cognitive strategies they could use, and knowledge of their own ability. They should use this information to plan the best cognitive strategy to use.
@@ -47,9 +46,8 @@ When using a specific cognitive strategy during a task, pupils should monitor ho
 
 Once pupils have completed the task, they should evaluate how successful they were, so they know which strategies to use next time. By doing this, they begin to learn from their own experiences and refine their approach to completing similar tasks.
 
-
-
 ### Example
+
 To help make this clear, let’s link back to session 1 and the maths example we explored
 when thinking about avoiding working memory overload. Imagine a pupil has been set
 the question of solving 1365 x 189. Effective learners will apply metacognitive regulation
@@ -57,11 +55,13 @@ whilst answering that question. An example of their metacognitive thinking is sh
 below:
 
 #### Step 1: planning
+
 First, the pupil examines the question. They can see it's multiplication from the
 operator symbol used. They know they are good at their times tables, so they decide
 to use their times tables to work it out.
 
 #### Step 2: monitoring
+
 Second, when using their times tables, they become a little confused about which
 numbers they have multiplied and which numbers they still have left. They think they
 need to add some amounts together but are unsure. They realise that the strategy
@@ -70,18 +70,19 @@ strategy much easier because they can keep track of which numbers they have alre
 multiplied, and they are able to complete the question.
 
 #### Step 3: evaluating
+
 After the task, they reflect on their initial approach and decide that when trying
 to multiply large numbers, they will use long multiplication rather than their times
 tables.
 
 #### Summary
+
 In the above example, the pupil has been able to self-regulate their learning. They
 were able to acknowledge their own strengths and weaknesses when completing a task
 and, as a result, identified which strategy is most successful for them when multiplying
 large numbers together. When they come across a similar problem in the future, they
 can use what they have learned to inform their choice of cognitive strategy. This
-will refine their ability to solve these types of question. 
-
+will refine their ability to solve these types of question.
 
 As you progress through the modules in this programme, sessions will return to the concept of self-regulation and metacognition several times. As you revisit and retrieve these concepts, the content within the modules will help build your knowledge of strategies that you can use to support the development of metacognition in your pupils.
 

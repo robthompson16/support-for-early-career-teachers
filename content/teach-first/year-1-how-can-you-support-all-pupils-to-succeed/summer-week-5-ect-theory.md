@@ -18,12 +18,10 @@ Pupils with SEND may need a more personalised level of adaptive practice in orde
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cdDHLcx6Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 The SEND Code of Practice – Kenny Wheeler
 
 {details}
 Video transcript.
-
 
 What is the SEND Code of Practice?
 
@@ -69,10 +67,10 @@ An important consideration for you, as their teacher, relates to the steps you t
 
 In part, the Code of Practice encourages teachers to take a step back and consider the information that already exists. Essentially, you are not starting with a blank page, there will be data and other key information that can support you in adjusting your approach to help pupils access the curriculum. For example:
 
-- Primary schools will have the Early Years profile to draw on and gauge the areas of development for a pupil. There will also be information from the phonics screening as well as internal assessments which show a learner’s profile. 
+- Primary schools will have the Early Years profile to draw on and gauge the areas of development for a pupil. There will also be information from the phonics screening as well as internal assessments which show a learner’s profile.
 - Secondary schools will have data and information from feeder Primary schools as well as that produced by the assessments, they run such as CAT scores, reading assessments and again, they will have their own in-house assessment systems that they can draw information from.
-There may also be additional information by way of reports from specialists which
-detail where an individual’s relative strengths and weaknesses lie.
+  There may also be additional information by way of reports from specialists which
+  detail where an individual’s relative strengths and weaknesses lie.
 
 Parents will also be an invaluable source of information relating to their child. They will be able to share their own observations, insights and experiences of their child’s development. This insight might also include strategies and approaches that work as well as highlighting key areas of difficulty so make sure you invest time in communicating with them to involve them in the process.
 
@@ -107,17 +105,14 @@ The cycle is continuous and can span a short period of time (around 2 weeks) or 
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Graduated-Approach-2.jpg" alt="The pupil works through the graduated approach in a cycle, moving from Assess to Plan, Do and Review." />
 </figure>
 
-
 Each stage of the approach is outlined in the Code of Practice. However, listen again to Kenny Wheeler as he explains each step of the approach with some tangible examples.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2UTcJjjbP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 The graduated approach – Kenny Wheeler
 
 {details}
 Video transcript.
-
 
 Chapter 6.44 to Chapter 6.56 of the Code of Practice highlights the graduated approach that teachers can take in order to find out what may help a pupil and what might not help them.
 
@@ -131,15 +126,15 @@ At this point we are gathering / collating the evidence we have to hand; this mi
 
 - our own observations within the classroom or around the school
 - assessments that we may have carried out
-- assessments from other members of staff such as previous class teachers or teaching assistants 
-- paperwork that may have been shared by the SENCo (also look on the shared area where info is often stored) 
-- the pupil themselves describing where they feel they experience difficulties but also where they feel they have relative strengths 
+- assessments from other members of staff such as previous class teachers or teaching assistants
+- paperwork that may have been shared by the SENCo (also look on the shared area where info is often stored)
+- the pupil themselves describing where they feel they experience difficulties but also where they feel they have relative strengths
 - we might seek views from parents (although this could come later on once you have more information and a clearer idea of what we feel the issues actually are)
-What is the issue? What are your concerns relating to the pupil, what is it that
-you have noticed within the classroom? What behaviours are we seeing? We are looking
-to gather evidence, we are not looking to come up with a diagnosis – that might come
-in a subsequent assess, plan, do and review cycle and would be the carried out with
-the involvement of outside professionals.
+  What is the issue? What are your concerns relating to the pupil, what is it that
+  you have noticed within the classroom? What behaviours are we seeing? We are looking
+  to gather evidence, we are not looking to come up with a diagnosis – that might come
+  in a subsequent assess, plan, do and review cycle and would be the carried out with
+  the involvement of outside professionals.
 
 Then we are looking to '**plan**'.
 
@@ -151,9 +146,9 @@ Things we might do at this stage could be:
 - Having worksheets to look at rather than working from the board
 - Giving pupils additional processing time
 - Providing scaffolds to support writing or independent tasks
-These plans need to be shared so that all staff adopt a consistent approach. For
-some of you that might be talking with teaching assistants so that they complement
-what you are doing.
+  These plans need to be shared so that all staff adopt a consistent approach. For
+  some of you that might be talking with teaching assistants so that they complement
+  what you are doing.
 
 Then we move on to the '**do**' part of the cycle, putting into action what you have planned, trying out different approaches and seeing their impact. Most importantly, doing something rather than waiting for someone else to take responsibility.
 
@@ -187,12 +182,10 @@ Watch the video below to hear from Kelly Challis from the Driver Youth Trust, as
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ognIWQWbGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Using the Graduated Approach – Kelly Challis
 
 {details}
 Video transcript.
-
 
 Difficulties with reading and spelling not only create many challenges for those who have dyslexia**,** but also for those other young people who are quietly struggling with literacy difficulties in our education system without a diagnosis**.**
 
@@ -200,7 +193,7 @@ When using the graduated approach, I need to make sure there is movement around 
 
 In the **‘assess’** stage, I not only use summative and formative assessments, but I also take into consideration the views and experiences of the learner’s parents and carers, as well as the learner’s own view:**what**are they finding difficult, and **why**? It is important at this stage to discuss with the SENCo any standardised scores from educational psychology assessments to make sure I understand their meaning and application to my planning.
 
-In order to teach according to each child’s educational needs as far as possible, it is essential to see them as a_whole_ person, complete with individual strengths and weaknesses. The information I gather helps me personalise my teaching and address their specific needs.
+In order to teach according to each child’s educational needs as far as possible, it is essential to see them as a*whole* person, complete with individual strengths and weaknesses. The information I gather helps me personalise my teaching and address their specific needs.
 
 In the **‘plan’**stage of the graduated approach there are 2 areas which need to be considered. First of all, what can I include in my teaching to respond to my pupil with dyslexia’s identified needs? If they have a poor working memory, I must ensure I do not overload this, taking care not to give several instructions at a time. In addition, I need to plan mini-plenaries or Q&amp;As to refresh their memories and gauge their understanding. The SEND Code of Practice is clear that research informs us that the most impact on learner progress comes from the quality of teaching in the classroom.
 
@@ -212,12 +205,12 @@ So what do these changes mean for my learners? It means they can navigate texts 
 
 Some of the adaptations and considerations I have made in my teaching to support my learners with literacy difficulties and dyslexia are:
 
-- I make information on the white board as clear and uncluttered as possible. I also number the start of each line or topic clearly. 
-- My displays around the classroom are informative and updated regularly. I explain and talk about what is in the displays **,** illustrating how they can be helpful and supportive. 
+- I make information on the white board as clear and uncluttered as possible. I also number the start of each line or topic clearly.
+- My displays around the classroom are informative and updated regularly. I explain and talk about what is in the displays **,** illustrating how they can be helpful and supportive.
 - I consider the readability of worksheets, for example the layout, size and type of font. I tend to use Arial, 12 point, and avoid underlining by using boxes or bold. If learners are to write on the worksheet then I make sure they have enough space to write legibly.
-These adaptations help learners to navigate texts with more ease and allows them
-to problem solve using resources, such as displays, independently, rather than raising
-their hand for me to help them.
+  These adaptations help learners to navigate texts with more ease and allows them
+  to problem solve using resources, such as displays, independently, rather than raising
+  their hand for me to help them.
 
 At the **‘review’** stage, when looking at the impact of teaching a learner with literacy difficulties or dyslexia, I cannot overstate the importance of listening to the views of both my learners and their parents or carers. Their input provides me with valuable insights and informs my subsequent planning.
 
@@ -227,8 +220,8 @@ The majority of my pupils with literacy difficulties or dyslexia will have their
 
 Having heard from Kelly, now think of a pupil in your class who has a learning need. Consider:
 
-* steps you have already taken to overcome any barriers to their learning
-* where those actions fall in relation to the stages of the graduated approach (plan, assess, do, or review)
+- steps you have already taken to overcome any barriers to their learning
+- where those actions fall in relation to the stages of the graduated approach (plan, assess, do, or review)
 
 Note down how you would help this pupil using some or all of the following graduated approach prompts (you can <a href="/assets/materials/teach-first-Module-5-graduated-approach-example.docx">download this example to help you with this activity</a>).
 
@@ -238,7 +231,7 @@ Build a holistic picture of the pupil's learning needs by gathering information 
 
 #### Plan
 
-Using the information gathered above, generate a hypothesis about the type of support that could work. 
+Using the information gathered above, generate a hypothesis about the type of support that could work.
 
 #### Do
 
@@ -246,6 +239,6 @@ Implement the planned support.
 
 #### Review
 
-Did the support work?Any information gathered in response to the testing of a hypothesis is useful. 
+Did the support work?Any information gathered in response to the testing of a hypothesis is useful.
 
-You can discuss your notes at the final mentor session of this module. 
+You can discuss your notes at the final mentor session of this module.

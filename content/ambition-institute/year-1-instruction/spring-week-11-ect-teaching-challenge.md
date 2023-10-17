@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-11-ect-reflect"
 ---
 
-
 Ms Crosby is increasingly pleased that her questioning is prompting classroom talk but she is unsure how best to structure it to ensure it is having the intended effect. How can she keep pupils talking ‘on-task’ and what groups are best for pupils to learn in? How can Ms Crosby best support talk and thinking that underpins pupil learning?
 
 ## Key idea
@@ -56,14 +55,13 @@ As with all expectations, Ms Crosby should circulate to monitor and reinforce th
 
 Pair and group work needs to be explicitly taught, scaffolded and practised like all effective learning (Rosenshine, 2012). Attempting to help pupils discover new ideas for themselves through talk without adequate support is likely to be ineffective (Coe et al., 2014).
 
-
-
 ### Key takeaways
-Ms Crosby can facilitate high quality classroom talk if she understands that:
-- classroom talk can support pupil learning and is a form of ‘practising’ new ideas 
-- teachers can develop successful pupil talk by establishing clear routines and expectations 
-- teachers can establish effective whole class, pair and group talk through pre-planning and supporting pupil groups
 
+Ms Crosby can facilitate high quality classroom talk if she understands that:
+
+- classroom talk can support pupil learning and is a form of ‘practising’ new ideas
+- teachers can develop successful pupil talk by establishing clear routines and expectations
+- teachers can establish effective whole class, pair and group talk through pre-planning and supporting pupil groups
 
 ### Further reading
 
@@ -71,7 +69,6 @@ Jay, T., Willis, B., Thomas, P., Taylor, R., Moore, N., Burnett, C., Merchant, G
 
 {details}
 References.
-
 
 Alexander, R. (2018). Developing dialogic teaching: genesis, process, trial. _Research Papers in Education, 33_(5), 561-598.
 
@@ -92,4 +89,3 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor, B. &amp; Travers, M. C. (2018). Learners’ attitudes to mixed-attainment grouping: examining the views of students of high, middle and low attainment. _Research Papers in Education, 1522_, 1–20. <a href="http://bit.ly/ecf-ter">bit.ly/ecf-ter</a>
 
 {/details}
-

@@ -6,12 +6,10 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-5-ect-self-study-activities"
 ---
 
-
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-
-
 ### Observations and conclusions
+
 After another difficult Year 8 geography lesson, Amy is concerned about her pupils.
 She hoped that her enthusiasm for geography would quickly develop pupils’ love of
 learning geography, but this does not seem to be happening.
@@ -23,9 +21,8 @@ Amy’s mentor challenges Amy to more clearly separate out what she observes in 
 What might be going on for Amy’s pupils in the situations she is experiencing?
 
 What factors might be behind what Amy is observing in her class? What
-  strategies might she use to engage her pupils more effectively in their
-  learning?
-
+strategies might she use to engage her pupils more effectively in their
+learning?
 
 Self-regulation refers to a pupil’s ability to monitor, evaluate and modify their emotions and behaviours. This includes, for example, controlling emotions of anger, frustration or embarrassment – all common emotions experienced by pupils across their school career. The most effective learners are able to effectively regulate their own emotions, meaning they are better able to learn well, and to form positive relationships with others. If pupils struggle with this it can affect their own learning and future lives and may also negatively affect their peers.
 
@@ -52,9 +49,8 @@ Resilience is linked to pupils’ beliefs about their ability to succeed – the
 - be specific in your use of praise so that it is clear to pupils when and how they are ‘succeeding’ (e.g. ‘that was an excellent answer because…’ or ‘what an improvement since last week. You’ve really improved your…’)
 - praise pupils’ attitude and effort as well as outcomes of their work – emphasise the importance of learning behaviours that lead to success in the longer term
 
-
-
 ### Supporting pupils’ resilience and beliefs about success
+
 Amy reflected on her mentor’s feedback and decided to explore her pupils’ behaviour
 some more. She observed them with another teacher and was impressed at how engaged
 the class was in their learning, but she also noticed that many of the class seemed
@@ -68,7 +64,6 @@ Next, Amy reviews the support that she gives to pupils. After reviewing pupils�
 Amy is already confident with how she uses praise – especially when it comes to praising effort and perseverance. Even so, Amy realises that she could be more specific with some of her praise and compare what pupils are doing now with what they have previously done to highlight improvements.
 
 Together, these new approaches will help to develop pupils’ resilience and self-belief, which will help all pupils experience meaningful success.
-
 
 Motivation is important for pupils’ success at school and later life chances. It is usually defined as a kind of driving force that influences the selection, direction, and continuation or discontinuation of behaviours.
 
@@ -86,9 +81,8 @@ It is important to recognise that motivation is not visible, and that it is easy
 - explore their long-term goals – whether or not they articulate them freely, most pupils have long-term goals. However, there is often a mismatch between these goals and what pupils think they need to do to achieve them. Discussing long-term goals with pupils and linking this to their learning can be highly motivational. For instance, you may be able to make connections between pupils’ goals and their current learning that they are not aware of such as between the digestive system in biology and a pupil interested in becoming a chef. You might also highlight to pupils the value of transferable skills that they are developing, and where qualifications are a prerequisite to the career path that they wish to follow
 - develop intrinsic motivation – extrinsic motivation can be a very powerful driver, but it is not always sustainable for pupils in the long term – into adulthood – because it relies on an external source of reward and sanction. You should help your pupils to journey from needing extrinsic motivation towards having the intrinsic motivation to work without external input. As well as supporting pupils to master challenging content and connect learning to personal goals, you can help them to find interest and enjoyment in their studies. For instance, by demonstrating your own enthusiasm for what you are teaching, or through the pedagogical approaches you use
 
-
-
 ### Motivating reluctant learners
+
 Much of what Amy is now doing will help to increase her pupils’ motivation as well
 as their resilience and self-belief. As pupils experience meaningful success more
 often, they will likely experience increased motivation, too.

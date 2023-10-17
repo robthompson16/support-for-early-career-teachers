@@ -24,7 +24,7 @@ Motivate pupils, by:
 
 - Supporting pupils to master challenging content, which builds towards long-term goals.
 - Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
-- Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.                                            
+- Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.
 
 ## Introduction
 

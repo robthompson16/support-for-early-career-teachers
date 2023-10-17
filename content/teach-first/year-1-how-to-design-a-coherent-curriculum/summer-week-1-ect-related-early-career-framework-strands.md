@@ -15,4 +15,3 @@ _3c. Working with experienced colleagues to accumulate and refine a collection o
 _3d. Using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by experienced colleagues that carefully sequence content)._
 
 _3f. Discussing curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge._
-

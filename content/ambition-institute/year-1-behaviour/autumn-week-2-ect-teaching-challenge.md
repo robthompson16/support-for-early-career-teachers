@@ -53,16 +53,15 @@ When routines are established, not only do they create more time and a better en
 
 Is it realistic for Mr Price to expect all the pupils he teaches to meet his high expectations and adopt routines? Research suggests that clear expectations and predictable consequences are beneficial to both pupils with and without special educational needs, and especially useful for younger pupils (DfE, 2017; Gathercole et al., 2006).
 
-
-
 ### Key takeaways
+
 Mr Price can use routines to establish positive behaviour for learning by understanding
 that:
-- routines can create a positive and motivating climate in the classroom 
-- high expectations can improve pupil behaviour at both a classroom and school level 
-- for routines to take hold expectations must be clearly communicated and modelled 
-- for routines to stick they need to be revised, re-practised and reinforced
 
+- routines can create a positive and motivating climate in the classroom
+- high expectations can improve pupil behaviour at both a classroom and school level
+- for routines to take hold expectations must be clearly communicated and modelled
+- for routines to stick they need to be revised, re-practised and reinforced
 
 ### Further reading
 
@@ -70,7 +69,6 @@ IES. (2008). Reducing behavior problems in the elementary school classroom. <htt
 
 {details}
 References.
-
 
 Department for Education. (2017). SEN support: A rapid evidence assessment. <a href="http://bit.ly/ecf-dfe" target="_blank" rel="noopener">bit.ly/ecf-dfe</a>
 
@@ -81,4 +79,3 @@ Gathercole, S., Lamont, E., &amp; Alloway, T. (2006). Working memory in the clas
 Kern, L. &amp; Clemens, N.H. (2007). Antecedent strategies to promote appropriate classroom behavior. Psychology in Schools, 44, 65-75.
 
 {/details}
-

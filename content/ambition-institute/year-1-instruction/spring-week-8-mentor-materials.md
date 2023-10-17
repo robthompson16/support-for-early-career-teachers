@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 8"
 ---
 
-
 ## Explicit teaching
 
 ### Select a development area
@@ -13,15 +12,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: I do
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher introduces new content by linking new learning to pupils' prior knowledge. 
+- Teacher introduces new content by linking new learning to pupils' prior knowledge.
 - Teacher uses concrete examples in order to explain new concepts.
 - Teacher models the steps pupils need to take to achieve success in a process.
 
 {details}
 Example precise target: Teacher models the steps pupils need to take to achieve success in a process.
-
 
 - **Not doing it at all:** As you are modelling or explaining, pause at key points, e.g. after each step or chunk of explanation, and ask a question to check whether pupils understand.
 - **Doing it but needs some improvement:** s you are modelling or explaining, ask questions that target pupils' understanding of important and challenging aspects of the process or explanation.
@@ -31,18 +29,18 @@ Example precise target: Teacher models the steps pupils need to take to achieve 
 
 ### Development area 2: We do
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher regularly checks for pupils' understanding when they are modelling processes or explaining concepts, especially of important and challenging aspects pupils need to have secured. 
-- Teacher checks for understanding of the whole class at key points in the lesson. 
+- Teacher regularly checks for pupils' understanding when they are modelling processes or explaining concepts, especially of important and challenging aspects pupils need to have secured.
+- Teacher checks for understanding of the whole class at key points in the lesson.
 - Teacher efficiently adapts teaching in response to pupils' gaps in understanding to enable them to be ready to apply their learning.
 
 ### Development area 3: You do
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher designs an independent practice task that enables pupils to apply the knowledge and skills that have been taught in the lesson ensuring pupils are stretched and supported. 
-- Teacher designs independent practice so that pupils can be successful and develop fluency. 
+- Teacher designs an independent practice task that enables pupils to apply the knowledge and skills that have been taught in the lesson ensuring pupils are stretched and supported.
+- Teacher designs independent practice so that pupils can be successful and develop fluency.
 - Teacher identifies pupils who require extra support during the practice task and responds to that need.
 
 ### Observe
@@ -67,4 +65,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Use questioning to check pupils’ understanding of knowledge, skills and concepts to ensure these are secure before they practise independently.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

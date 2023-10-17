@@ -69,15 +69,11 @@ It would be useful to share your findings (sensitively). If a group activity did
 
 For example: ‘I am going to give you some feedback on how we did that group activity. I thought Group X performed really well. I heard them speaking politely to each other. I heard them asking each other good questions. As a result, their work is very good. Group Y did not do so well at supporting each other through the task – you got annoyed with each other when you thought it wasn’t going well. What could you do differently next time?’
 
-
-
 ### In your notepad
 
-Reflect on your practice: 
+Reflect on your practice:
 
-* which idea(s) for practice did you try?
-* what did you do?
-* what happened?
-* what will you do next?
-
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?

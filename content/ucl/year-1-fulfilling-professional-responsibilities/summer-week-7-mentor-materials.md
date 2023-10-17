@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 7"
 ---
 
-
 ## Review of year 1 and planning for year 2
 
 ### Learning intentions
@@ -14,12 +13,9 @@ Your ECT will:
 - Review their participation in and learning from this first year
 - Plan ahead for the second year of their teaching career
 
-
 ### Topic introduction
 
 In this final session of Module 5, you will work with your mentee to review their progress this year and to plan actions for the coming year that will continue to develop them as a professional.
-
-
 
 ### Meeting activities
 
@@ -41,4 +37,3 @@ Next Steps 5 mins
 Agree with your mentee how they will follow up on the outcomes of this session.
 
 There are no further ECT mentor meetings in Year 1. You have now completed Year 1 of the Early Career Teacher programme.
-

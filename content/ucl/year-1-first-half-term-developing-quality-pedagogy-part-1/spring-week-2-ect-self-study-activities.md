@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/spring-week-2-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -17,14 +16,14 @@ Read the Research and Practice Summary on this week’s topic. As you read, refl
 
 #### Self-assessment
 
-Think back to the last two weeks of your teaching (if it helps, think about one curriculum area, or one class) and focus on where you have used explicit modelling and scaffolding. 
+Think back to the last two weeks of your teaching (if it helps, think about one curriculum area, or one class) and focus on where you have used explicit modelling and scaffolding.
 
-Refer back to the research and practice summary on the previous page, then note down some examples of where you have done the following activities: 
+Refer back to the research and practice summary on the previous page, then note down some examples of where you have done the following activities:
 
-* exposition
-* shared practice
-* guided practice
-* independent practice
+- exposition
+- shared practice
+- guided practice
+- independent practice
 
 Ask yourself what went well and what did not go so well. Doing this will help establish your priorities for the independent planning exercise below.
 
@@ -45,4 +44,3 @@ To support you with independent planning:
 ### Next Steps: 5 mins
 
 Bring your planning notes from this session to your next mentor meeting. Be ready to discuss this activity with your mentor and work with them to review and refine your planning.
-

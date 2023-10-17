@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-3-ect-reflect"
 ---
 
-
 Mr Jones has reviewed the curriculum for his next topic: he is confident about the learning goals, has refreshed his knowledge of the key ideas and has talked to colleagues about how pupils can best learn them. However, the amount and range of content appears huge. He is unsure how he will find time to cover everything in depth. What should he prioritise teaching?
 
 ## Key idea
@@ -43,15 +42,14 @@ Developing pupils’ knowledge does not just mean teaching isolated facts: menta
 
 While it is important that supporting content brings critical content to life and makes it meaningful, teachers need to be careful that it does not distract from pupils remembering critical content.
 
-
-
 ### Key takeaways
+
 Mr Jones can help students to develop their mental models and think more effectively
 about his subject by:
-- focusing on developing pupil knowledge in order to ultimately develop pupil capabilities and understanding 
-- developing his mental model using available resources and reflecting on what this implies in terms of the important knowledge he wants to teach 
-- prioritising types of knowledge and identifying which is critical subject content – concepts, knowledge, skills and principles – that he wants pupils to retain, while teaching enough supporting content to give pupils access to a broad and balanced curriculum
 
+- focusing on developing pupil knowledge in order to ultimately develop pupil capabilities and understanding
+- developing his mental model using available resources and reflecting on what this implies in terms of the important knowledge he wants to teach
+- prioritising types of knowledge and identifying which is critical subject content – concepts, knowledge, skills and principles – that he wants pupils to retain, while teaching enough supporting content to give pupils access to a broad and balanced curriculum
 
 ### Further reading
 
@@ -60,8 +58,7 @@ Deans for Impact (2015). _The Science of Learning._ [bit.ly/ecf-dea](http://bit.
 {details}
 References.
 
-
-Chi, M. T. (2009). Three types of conceptual change: Belief revision, mental model transformation, and categorical shift. _International handbook of research on conceptual change,_89-110. Routledge.
+Chi, M. T. (2009). Three types of conceptual change: Belief revision, mental model transformation, and categorical shift. \_International handbook of research on conceptual change,\_89-110. Routledge.
 
 Counsell, C. (2018). The indirect manifestation of knowledge. _The dignity of the thing_ [blog]. <a href="http://bit.ly/ecf-cou" target="_blank" rel="noopener">bit.ly/ecf-cou</a>
 
@@ -76,4 +73,3 @@ Willingham, D.T. (2006). How knowledge helps. _American Educator_. <a href="http
 Willingham, D. T. (2009) _Why don’t students like school?_ San Francisco, CA: Jossey Bass.
 
 {/details}
-

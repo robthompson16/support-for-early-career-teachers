@@ -18,10 +18,8 @@ Listen to the module expert Ben Riley, the Executive Director of Deans for Impac
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FMlIBrKpKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Hi, I'm Benjamin Riley, the Founder and Executive Director of Dean's for Impact – a US based, non-profit organisation working to ensure that all children are taught by well-prepared teachers. And part of our work is about making sure that teachers are well prepared by having a firm understanding of how pupils learn. So that’s what I’m going to try to explain to you today in a very short video – how do pupils learn? We don’t have a lot of time, so let’s dive right in.
 
@@ -36,34 +34,32 @@ Here’s the good news: Our minds are more alike than different in how we think 
   </figcaption>
 </figure>
 
-
 On one side, we have a model of the mind and there’s two pieces of this:
 
-1.	Working Memory
-2.	Long Term Memory
+1. Working Memory
+2. Long Term Memory
 
 Working memory is where all conscious thought takes place. Right now, your working memory is hearing me speak certain words and is processing what those mean. Long-term memory has all the things that you have stored in your mind, so as ideas are coming into your head, you’re drawing upon things you already know to make sense of the new things that are coming into your head. And then, over here on the other side you have the environment. And this is just a generic description for everything that exists outside of your mind – all of the information that may funnel towards you is part of the environment.
 
-So, there are some interesting aspects of this model that I think are vital for teachers to know. The first is that, and this is a real challenge, that working memory is quite limited and as far as we can tell, is basically unchangeable. So, what that means is that it’s hard for us to think. If you’ve ever done some sort of task where you suddenly felt yourself giving up, it’s because you literally reach what some would call cognitive overload – your working memory essentially got to the point where it was too strenuous for you to continue to think about something. So that’s a real challenge that teachers have to work around. The good news is that, as far as we can tell, your capacity to add to your long-term memory, in other words your capacity to learn things, is limitless. And the really good news is, the more that you add to the long-term memory, the easier it becomes to learn new things. Our ability to understand new ideas depends on the ideas that we already know. So, in some ways, the central task of teaching is to take knowledge that exists in the world, in the environment, bring it to pupils, funnel it through their working memories such as it were, and then hopefully get to the point where it becomes stored in long-term memory. That’s not easy to do and it’s actually I think the central challenge of teaching, is that every pupil comes with different uh background knowledges and they have different ability to understand new ideas and just to give you a quick example: If you’re hearing me speak these words and understanding what I’m saying, it’s because you have the English language as part of your long-term memory, but I’m guessing not all of you have the same level of knowledge of the language of English as the rest. Some of you may have English as your second or third or fourth language that you learned. Some of you may still be trying to learn it and so as I’m speaking these words, you’re actually probably spending more of your working memory to try and understand what I’m saying. I might be speaking too fast; I might have used a vocabulary word you’re unfamiliar with. This sort of challenge is the same one that every teacher faces day in and day out. They have students with different, different sets of background knowledge and they have to figure out what it is they need to do in order to reach them and have them engaged with the ideas and information that they want to engage them with. 
+So, there are some interesting aspects of this model that I think are vital for teachers to know. The first is that, and this is a real challenge, that working memory is quite limited and as far as we can tell, is basically unchangeable. So, what that means is that it’s hard for us to think. If you’ve ever done some sort of task where you suddenly felt yourself giving up, it’s because you literally reach what some would call cognitive overload – your working memory essentially got to the point where it was too strenuous for you to continue to think about something. So that’s a real challenge that teachers have to work around. The good news is that, as far as we can tell, your capacity to add to your long-term memory, in other words your capacity to learn things, is limitless. And the really good news is, the more that you add to the long-term memory, the easier it becomes to learn new things. Our ability to understand new ideas depends on the ideas that we already know. So, in some ways, the central task of teaching is to take knowledge that exists in the world, in the environment, bring it to pupils, funnel it through their working memories such as it were, and then hopefully get to the point where it becomes stored in long-term memory. That’s not easy to do and it’s actually I think the central challenge of teaching, is that every pupil comes with different uh background knowledges and they have different ability to understand new ideas and just to give you a quick example: If you’re hearing me speak these words and understanding what I’m saying, it’s because you have the English language as part of your long-term memory, but I’m guessing not all of you have the same level of knowledge of the language of English as the rest. Some of you may have English as your second or third or fourth language that you learned. Some of you may still be trying to learn it and so as I’m speaking these words, you’re actually probably spending more of your working memory to try and understand what I’m saying. I might be speaking too fast; I might have used a vocabulary word you’re unfamiliar with. This sort of challenge is the same one that every teacher faces day in and day out. They have students with different, different sets of background knowledge and they have to figure out what it is they need to do in order to reach them and have them engaged with the ideas and information that they want to engage them with.
 
-Now, the good news is that that’s the fun of teaching and that, with this model in mind, you will hopefully have a better sort of grasp of how to think about why is a student struggling and what you might do to address it. 
+Now, the good news is that that’s the fun of teaching and that, with this model in mind, you will hopefully have a better sort of grasp of how to think about why is a student struggling and what you might do to address it.
 
 So, lets end with a quick quiz:
 
 What is it that you can add to, and improve with a student? Can you change their:
 
-a)	Working memory
+a) Working memory
 
-b)	Long-term Memory
+b) Long-term Memory
 
-c)	Both
+c) Both
 
-d)	Neither
+d) Neither
 
 The answer of course is B – that with the right instruction you can help students improve their long-term memory. And if that doesn’t sound inspiring enough, I will just say that by improving that knowledge you really empower your students to empower themselves and to really continue to not only learn things but to enjoy it and to want to learn.
 
 So that’s a lot to cover in 5 minutes but I’ve given you a brief overview of how pupils learn, and I hope it’s helpful!
-
 
 {/details}
 
@@ -78,7 +74,6 @@ As you have heard from Ben Riley, a useful way to think about memory is as a sys
   </figcaption>
 </figure>
 
-
 Long-term memory can be considered a store of knowledge that changes and grows as pupils learn. The knowledge remains in the long-term memory until it is needed, when it enters the working memory. For example, if you were asked the question how many legs a spider has, you would remember that the answer is eight. This knowledge has been drawn into your working memory from your long-term memory.
 
 Working memory is the site of awareness and thinking, where we hold information that is being actively processed by our mind. The working memory draws upon both the environment and long-term memory to process things. It is very small in capacity and, unlike long-term memory, its capacity cannot be changed.
@@ -87,14 +82,13 @@ Within your working memory might be the things you are noticing from your enviro
 
 The working memory also processes information into long-term memory for storage and later retrieval. It is important to note that the working memory has a very small capacity. Pupils with a learning difficulty that affects their working memory may have a smaller capacity still and will require information to be provided in small steps. For all pupils, the limitations of the working memory have fundamental implications for the process of teaching and learning. This is explored in the next section of the module.
 
-
-
 ### Activity
+
 Having heard from Ben Riley and read further around the Willingham model of the mind,
 consolidate your understanding of this topic by answering the following question:
-- what is the role of the working and long-term memory in the process of learning?
-Prepare to share this explanation with your mentor during your next mentor interaction.
 
+- what is the role of the working and long-term memory in the process of learning?
+  Prepare to share this explanation with your mentor during your next mentor interaction.
 
 ## The limitations of the working memory
 
@@ -132,10 +126,8 @@ The answers to these three questions will provide a starting place for your plan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OToo6B6DVW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 I was preparing to teach the module ‘USA 1945-75’ to my year 10 GCSE history class. We were focusing specifically on the ‘Red Scare’, a period of heightened fear of Communism and its threat to the United States in the late 1940s and early 1950s, and we were working towards answering the enquiry question: ‘How did the international situation make Americans more fearful of communism?’.
 
@@ -171,12 +163,11 @@ In the next session we will look at ways to introduce new knowledge to pupils th
 
 Reflect on your learning from this session by considering how you have introduced new ideas or concepts to your pupils to date.
 
-
-
 ### Reflection
+
 Consider a new idea or concept you have taught, which pupils struggled to understand.
 
 On reflection, what knowledge and/or vocabulary did you assume that they had?
-  How did this impact on their learning?
+How did this impact on their learning?
 
 Prepare to share your reflections with your mentor.

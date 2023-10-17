@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 6"
 ---
 
-
 ## Putting effective marking and feedback into practice
 
 ### Learning intentions
@@ -19,21 +18,17 @@ Make marking manageable and effective, by:
 
 - Recording data only when it is useful for improving pupil outcomes.
 
-
-
 ### Topic introduction
 
 In their self-directed study session and mentor meeting last week, your mentee extended their knowledge of planning effective and manageable marking and feedback.
 
 In this final session of Module 4, you will help your mentee build on learning from last week and across the module as a whole. You will also work with your mentee to revisit and complete the self-assessment audit for Module 4 to evaluate their learning at the end of this module.
 
-
 ### Research and practice summary
 
 There is no Research and Practice Summary for this session, in which you are working with your mentee to refine their practice and revisit the Module 4 audit at the end of the module.
 
-If you wish to refresh your knowledge of the Module 4 research, you may choose to refer back to specific aspects of the previous Research and Practice Summaries 
-
+If you wish to refresh your knowledge of the Module 4 research, you may choose to refer back to specific aspects of the previous Research and Practice Summaries
 
 ### Meeting activities
 
@@ -100,4 +95,3 @@ Next Steps 5 mins
 Return to the Module 4 self-assessment audit that your mentee completed at the beginning of this module. Ask your mentee to self-assess against the criteria listed. Celebrate those instances where they have made progress since the beginning of the module. Support your mentee in action planning around any areas still identified as requiring further support. Ask your mentee to record these actions in their Learning Log, if they are using one.
 
 This is the final session of Module 4. There are no further activities for this module.
-

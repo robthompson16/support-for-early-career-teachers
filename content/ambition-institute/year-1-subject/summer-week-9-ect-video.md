@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-subject/summer-week-9-ect-teaching-challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6xmvKr05F4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Harry Fletcher-Wood
+
 Every lesson teachers make lots of decisions that have an impact on what they teach
 and what pupils learn. They make decisions about whether a pupil has understood something
 or if they need to go back and reteach it. In order to ensure that we make good decisions
 and act in ways that will have the most impact on pupils' learning, we need to think
 carefully about what we assess and how we assess it. Designing and delivering formative
 assessment can help teachers make better decisions.
+
 ### Presenter mainA great way of understanding what formative assessment is,
+
 is to consider the definition that Paul Black and Dylan William gave in their influential
 work 'Inside the Black Box'. And assessment is formative if it leads a teacher to
 make a better decision about next steps. Effective formative assessment allows teachers
@@ -41,11 +41,15 @@ One further point is that while formative assessment is good at capturing what p
 When designed and delivered well, formative assessment can help show teachers how learning is going and help them make good decisions about what to do next.
 
 ### Presenter exemplification framing
+
 In the next example, you'll see a model of planning formative assessment. As you
 watch pay particular attention to the following:
-- Plan a formative assessment task that is linked to the lesson objective 
+
+- Plan a formative assessment task that is linked to the lesson objective
 - Think ahead about what would indicate understanding
+
 ### Exemplification: Sarah Cottingham and Paula Delaney
+
 _COACH (SARAH COTTINGHAM): What's the learning goal of this lesson?_
 
 _ECT (PAULA DELANEY): To form the lowercase letter M._
@@ -79,16 +83,20 @@ _COACH: So how could you refine the question to make sure that the answer you ge
 _ECT: I could give them a couple of statements and ask them to choose which one is correct. So for example, I could say, is it better to write lots of letters quickly or to write one letter accurately?_
 
 _COACH: That's a good idea. Only one of those answers is right. And the right answer being accurate tells you what you want to find out._
+
 ### Presenter key ideas
+
 In this video, we've explored the importance of formative assessment and
 provided some practical strategies for designing it. Before we finish, take a
 moment to read over the key ideas that the video has covered. Which ideas do you
 think the example illustrated best?
+
 - Making use of formative assessment
 - Planning formative assessment tasks linked to lesson objectives
 - Thinking ahead about what would indicate understanding (e.g. by using diagnostic questions to pinpoint knowledge gaps)
+
 ### Presenter summary
+
 The better teachers know what their pupils have understood or misunderstood the more
 they'll be able to adapt their teaching in response. Formative assessment helps teachers
-make better decisions.  {/details}
-
+make better decisions. {/details}

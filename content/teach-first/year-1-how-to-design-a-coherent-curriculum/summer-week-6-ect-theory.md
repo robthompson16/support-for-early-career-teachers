@@ -17,21 +17,18 @@ In session 3 you learnt about how to use worked and partially completed examples
 
 Now watch the video of either Emily (Primary and Secondary) or Maria (Early Years) as they share how they have planned to develop their pupils’ mental models across a scheme of work.
 
-* which features of session 3 and session 4 have Emily or Maria used?
-* how have they balanced exposition, repetition, practice of critical skills
-      and knowledge over the course of the scheme?
+- which features of session 3 and session 4 have Emily or Maria used?
+- how have they balanced exposition, repetition, practice of critical skills
+  and knowledge over the course of the scheme?
 
 Record your answers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E0s05gKtTLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Developing pupils' mental models across a scheme of work – Emily Maule
 
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   Building up pupils’ mental models is of paramount importance as this is what
@@ -77,36 +74,31 @@ Video transcript.
 </span>
  {/details}
 
-
 ### Video script - How have you planned to develop your pupils’ mental models across a scheme of work?
-
 
 The final version of this video will be available from spring 2021, as the publication of this programme was fast-tracked in response to disruptions to this year’s initial teacher training.
 
-
- Despite the fact that we teach topics/themes/core texts that break up the year, the vast majority of the EYFS is one long continuous curriculum that runs from birth to year 1. Thinking of it like that helps to remind practitioners of the need to build up pupils’ mental models across the EYFS, as they need to frequently revisit their learning and make those cross curricular links to develop now and be able to achieve success in learning as they get older. The key way that I do this is through the explicit teaching of vocabulary, both topic specific and general conversation. In our setting both high frequency words and new story nouns are introduced and repeated with an action to help our students who struggle with communication to also retain the vocabulary. This is an approach that is used throughout the school, as we know that the use of consistent non-verbals (such as ‘yes’ and ‘no’) allows students to free up some of their working memory. I try to use BSL as frequently as possible for this, i.e. in our retelling of ‘The Leopard’s Drum’, we used the BSL signs for each of the animals. These signs then acted as a piece of scaffolding for students who needed it when retelling the story.&nbsp; Secondly, and perhaps most importantly, I use retrieval practice in both this series of lesson and all (see Rosenshine for more on this). Quizzing is something that I initially found challenging to incorporate into EYFS but found that once I had dedicated a considerable amount of time to&nbsp; embedding the routines with pupils, i.e. TTYP, Show Me (see TLAC for more on these AFL techniques) I discovered that it was an incredibly useful strategy to ensure children were retaining key knowledge and vocabulary from previous sessions. Finally, in this scheme, as with all schemes, I made sure to create lots of opportunities for modelling following an, I do, We/You do approach. My EYFS works in a way that not all students will engage in the same activity at the same time as we need to develop the whole child and think of their Characteristics of Effective Learning. However, this being the case it is crucial that all students have the chance to observe and participate in writing opportunities. Writing is particularly important as we can see from data that that is the area where most children struggle to achieve. Pre-writing activities and talk in particular, such as we see in this scheme with opportunities to re-tell and engage in class discussion, are key. More students are entering school working below the expected standard for Communication and Language, so we need to first embed these prime areas before moving onto the specific. 
-
-
+Despite the fact that we teach topics/themes/core texts that break up the year, the vast majority of the EYFS is one long continuous curriculum that runs from birth to year 1. Thinking of it like that helps to remind practitioners of the need to build up pupils’ mental models across the EYFS, as they need to frequently revisit their learning and make those cross curricular links to develop now and be able to achieve success in learning as they get older. The key way that I do this is through the explicit teaching of vocabulary, both topic specific and general conversation. In our setting both high frequency words and new story nouns are introduced and repeated with an action to help our students who struggle with communication to also retain the vocabulary. This is an approach that is used throughout the school, as we know that the use of consistent non-verbals (such as ‘yes’ and ‘no’) allows students to free up some of their working memory. I try to use BSL as frequently as possible for this, i.e. in our retelling of ‘The Leopard’s Drum’, we used the BSL signs for each of the animals. These signs then acted as a piece of scaffolding for students who needed it when retelling the story.&nbsp; Secondly, and perhaps most importantly, I use retrieval practice in both this series of lesson and all (see Rosenshine for more on this). Quizzing is something that I initially found challenging to incorporate into EYFS but found that once I had dedicated a considerable amount of time to&nbsp; embedding the routines with pupils, i.e. TTYP, Show Me (see TLAC for more on these AFL techniques) I discovered that it was an incredibly useful strategy to ensure children were retaining key knowledge and vocabulary from previous sessions. Finally, in this scheme, as with all schemes, I made sure to create lots of opportunities for modelling following an, I do, We/You do approach. My EYFS works in a way that not all students will engage in the same activity at the same time as we need to develop the whole child and think of their Characteristics of Effective Learning. However, this being the case it is crucial that all students have the chance to observe and participate in writing opportunities. Writing is particularly important as we can see from data that that is the area where most children struggle to achieve. Pre-writing activities and talk in particular, such as we see in this scheme with opportunities to re-tell and engage in class discussion, are key. More students are entering school working below the expected standard for Communication and Language, so we need to first embed these prime areas before moving onto the specific.
 
 ### Reflection
+
 Now review and edit your scheme of work, considering the questions below:
 
-* where will you build on pupils’ prior knowledge?
-* where would it support pupils’ understanding to use worked and partially
-      completed examples?
-* how will you build in spaced exposition and practice?
-* where will you build in retrieval practice?
+- where will you build on pupils’ prior knowledge?
+- where would it support pupils’ understanding to use worked and partially
+  completed examples?
+- how will you build in spaced exposition and practice?
+- where will you build in retrieval practice?
 
 When thinking about the last two questions, it is important to think more broadly
 about where your scheme fits into the wider curriculum. For example, you may want
 to include practice of information taught in a previous scheme of work, or the retrieval
-of knowledge previously taught. 
+of knowledge previously taught.
 
 Working with colleagues to facilitate this will support
 the overall sequencing and coherence of your curriculum.
 
 Prepare to share your evolving scheme of work with your mentor.
-
 
 ## The difficulty of transferring knowledge
 
@@ -114,31 +106,29 @@ When thinking about supporting pupils to build increasingly complex mental model
 
 For example, we might want pupils to use their mathematical knowledge in a geographical context and assume that they can transfer their knowledge of the use scale factors and maps to a geography task. This assumption is understandable, but pupils are unlikely to be able to do this well because ‘the use of scale factors’ is an abstract idea and they are being asked to use this knowledge in an unfamiliar context. This assumption can lead to a frustrating experience for both teacher and pupils.
 
-
-
 ### Reflection
+
 From what you have learnt across the modules so far, what do you think the
-  teacher could do to support pupils to transfer their knowledge from one
-  discipline to another?
+teacher could do to support pupils to transfer their knowledge from one
+discipline to another?
 
 Please record your ideas.
 
 Below are some ways the teacher, in the previous example, could support the transfer of knowledge:
 
-* check that pupils have the foundational knowledge of scale factors and maps
-    that is required
-* check that pupils have the foundational geographical knowledge required
-* draw explicit links to this prior knowledge and support pupils to bring the
-    right ideas from their long-term memory into their working memory
-* provide examples of this knowledge being used in a maths context (that they
-    are familiar with) and a geographical context (which is new) and get pupils
-    to compare examples
+- check that pupils have the foundational knowledge of scale factors and maps
+  that is required
+- check that pupils have the foundational geographical knowledge required
+- draw explicit links to this prior knowledge and support pupils to bring the
+  right ideas from their long-term memory into their working memory
+- provide examples of this knowledge being used in a maths context (that they
+  are familiar with) and a geographical context (which is new) and get pupils
+  to compare examples
 
 Use worked examples and partially completed examples to support pupils to
-    apply their prior knowledge in this new context. 
+apply their prior knowledge in this new context.
 
 How do these suggestions compare with your own ideas?
-
 
 ## Thinking critically within a subject area
 

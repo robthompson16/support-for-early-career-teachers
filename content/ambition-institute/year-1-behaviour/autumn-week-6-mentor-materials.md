@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Consistency
 
 ### Select a development area
@@ -14,37 +13,35 @@ Consider the development areas for this topic (below). Then make a note of the a
 ### Development area 1: Consistency of language
 
 #### Focused development area
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-- Teacher addresses pupils consistently and adopts language that reinforces the school's culture and values. 
-- Teacher uses language that communicates the high expectations they have of pupils and supports them to have high expectations of themselves. 
-- Teacher uses language that states positively what they need pupils to do.  
+
+- Teacher addresses pupils consistently and adopts language that reinforces the school's culture and values.
+- Teacher uses language that communicates the high expectations they have of pupils and supports them to have high expectations of themselves.
+- Teacher uses language that states positively what they need pupils to do.
 
 ### Development area 2: Issuing sanctions
 
 #### Focused development area
 
 - Teacher, with the support of a colleague, identifies which behaviours warrant which sanctions in line with the school's behavioural policy, and plans to address behaviours consistently and as positively as possible.
-- Teacher always delivers sanctions calmly, using language and non-verbals that are likely to de-escalate the situation and enable teaching and learning to continue. 
+- Teacher always delivers sanctions calmly, using language and non-verbals that are likely to de-escalate the situation and enable teaching and learning to continue.
 - Teacher consistently seeks to re-engage pupils after issuing a sanction.
 
 {details}
 Example precise target: Teacher, with the support of a colleague, identifies which behaviours warrant which sanctions in line with the school's behavioural policy, and plans to address behaviours consistently and as positively as possible.
 
-
 - **Not doing it at all:** With the support of a colleague, ensure you are clear on which categories of behaviour warrant which levels of sanction in line with the school's behavioural policy, including behaviours that arise as a result of issuing a sanction (secondary behaviours).
 - **Doing it but needs some improvement:** With the support of a colleague, plan how you will respond consistently to behaviours that require different levels of response in line with the school’s behavioural policy.
-- **Doing it well and needs some stretch:**  With the support of a colleague, plan to use a consistent format for supporting pupils to change their behaviour, e.g. state the behaviour, state the consequence, tell them what to do to get back on track.
-
+- **Doing it well and needs some stretch:** With the support of a colleague, plan to use a consistent format for supporting pupils to change their behaviour, e.g. state the behaviour, state the consequence, tell them what to do to get back on track.
 
 {/details}
 
-### Development area 3: Consistent expectations 
+### Development area 3: Consistent expectations
 
 #### Focused development area
 
-- Teacher uses a format for delivering simple expectations and makes this into an efficient routine. 
-- Teacher ensures pupils understand their expectations in relation to the conditions in which they are working (noise level, time limit, individually etc). 
-- Teacher checks and supports pupils to meet expectations.                                                                                                                                                    
+- Teacher uses a format for delivering simple expectations and makes this into an efficient routine.
+- Teacher ensures pupils understand their expectations in relation to the conditions in which they are working (noise level, time limit, individually etc).
+- Teacher checks and supports pupils to meet expectations.
 
 ### Observe
 
@@ -67,4 +64,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Contribute positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

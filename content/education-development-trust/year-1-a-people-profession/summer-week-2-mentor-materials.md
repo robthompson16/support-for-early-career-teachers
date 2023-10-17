@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 2"
 ---
 
-
 ## Building trusting relationships with parents
 
 ### Intended outcomes
@@ -21,7 +20,7 @@ Learn how to build trusting relationships, by:
 
 Learn how to build effective working relationships, by:
 
-- Communicating with parents/carers proactively and making effective use of parents’ evenings to engage parents/carers in their children’s schooling.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+- Communicating with parents/carers proactively and making effective use of parents’ evenings to engage parents/carers in their children’s schooling.
 
 ### Activities
 
@@ -30,7 +29,7 @@ Learn how to build effective working relationships, by:
 Reflect on the progress the ECT has made throughout Year 1 in terms of relationships with parents, carers and families. Before starting the discussion, it may be useful to cover some guidelines to help frame the conversation:
 
 - This is a great opportunity to unpick what worked well in building relationships with parents, carers and families throughout the first year.
-- It is also a good opportunity to reflect on what was less effective. 
+- It is also a good opportunity to reflect on what was less effective.
 - Remember why this is important: effective relationships with parents/carers can improve pupils’ motivation, behaviour and academic success.
 - The conversation should be purposeful and focused on improvement. If something did not go very well, the mentor and ECT can work together to really unpick why it didn’t work.
 - The emphasis should be on the steps the ECT took, rather than on the parent or carer.
@@ -52,10 +51,10 @@ The mentor should remind the ECT that:
 - All teachers have difficult experiences with parents/carers sometimes.
 - It is important to focus on the actions of the pupil rather than make comments about the pupil, e.g. ‘Taylor’s work here lacks focus – as you can see he does not complete tasks,’ not ‘Taylor is lazy and doesn’t finish his work.’
 - Parents, carers and families want what is best for their child; although they may be saying something that is difficult to hear, behind this is likely to be a message that can help the ECT to better understand the pupil’s individual circumstances and how to support their needs.
-- Parents, carers and families may feel frustrated at having to discuss their children’s learning needs with multiple professionals; teachers may wish to check with colleagues and school communication records before contacting them if appropriate. 
+- Parents, carers and families may feel frustrated at having to discuss their children’s learning needs with multiple professionals; teachers may wish to check with colleagues and school communication records before contacting them if appropriate.
 - Maintaining a positive, polite, respectful approach throughout is key.
 - It is all right to draw a conversation to a close and say that you will be back in touch at a later date.
-- Support is always available from colleagues, e.g. to join conversations with the ECT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+- Support is always available from colleagues, e.g. to join conversations with the ECT.
 
 ###Building effective working relationships with parents (30 mins)
 
@@ -70,12 +69,12 @@ Hello, Mrs Brierly, it is Ms Smith here calling about Jonah’s English lessons.
 Together, discuss what is said in the script, for example:
 
 - The specific praise given
- - The sort of language used
+- The sort of language used
 - What the impact of the positive phone call might be.
 
 Together, identify a pupil whose parents/carers the ECT is planning to contact with positive praise or any other common scenario that would be helpful to the ECT. If they do not have one in mind, select one here (and re-emphasise the importance of this proactive communication). Prepare a script for this conversation, identifying:
 
-- What praise they will give 
+- What praise they will give
 - What they are hoping to achieve with this
 - What sort of language they will use.
 
@@ -87,30 +86,30 @@ The ECT should deliver their script with the mentor acting as the parent. The me
 
 In the self-directed study materials, the ECT also considered the importance of parents’ evening conversations. The mentor may want to use the handout from Activity 6.2:
 
-- Take into account, and plan for, any parents/carers whose first language is not English. 
+- Take into account, and plan for, any parents/carers whose first language is not English.
 - Use plain English and avoid education jargon with all parents/carers.
 - Have the points you will make planned out for each pupil in advance.
 - Highlight a success the pupil has had (this could be to do with progress, behaviour, homework, organisation etc.).
 - Give precise evidence for pupil achievement and progress.
 - Address room for improvement – be precise about what you mean and why you are saying this.
-- If there are issues or concerns with a particular pupil that have been ongoing for a while, they should have been discussed with parents/carers prior to parent’s evening. Parents’ evening is a chance to continue the discussion. You may also seek support from more senior colleagues. 
+- If there are issues or concerns with a particular pupil that have been ongoing for a while, they should have been discussed with parents/carers prior to parent’s evening. Parents’ evening is a chance to continue the discussion. You may also seek support from more senior colleagues.
 - As far as you can, keep the discussion positive and keep the emphasis on moving forward.
-- Work with the pupil and parent/carer to agree targets moving forward. 
+- Work with the pupil and parent/carer to agree targets moving forward.
 - Give the parents/carers opportunities to ask questions.
-- Ensure that you follow up with parents/carers if and when you see improvements or otherwise. 
+- Ensure that you follow up with parents/carers if and when you see improvements or otherwise.
 
 Together, read the following example script from a parents’ evening conversation:
 
 Hello, Mr Jackson, thank you so much for coming here tonight. I just wanted to begin by saying that Amir has shown an improvement in his written work. He has been using full stops and capital letters much more regularly recently, which is really great to see. I have an example here if you would like to take a look. As we spoke about last week, I am still concerned about Amir’s lack of focus in paired and group tasks. He often gets distracted and loses focus too easily. Moving forward I would like to see him making a real effort to engage with the task he is given. Amir, can I ask you what you think might help you stay on task? Together, discuss the script. The following points could be discussed:
 
 - What praise was given
-- What improvement points were given 
-- How the feedback was structured 
+- What improvement points were given
+- How the feedback was structured
 - The fact that parents’ evening wasn’t the first time Amir’s father had been told about the issue with his behaviour.
 
 With a particular pupil in mind, script a conversation for parents’ evening. Before beginning to write, decide:
 
-- Key points of information to be shared in the conversation 
+- Key points of information to be shared in the conversation
 - What the ECT hopes to gain from the conversation (i.e. as well as sharing information, what information could they gain that would help them)
 - How they will manage if the conversation becomes difficult.
 
@@ -129,7 +128,7 @@ Before the next topic the ECT will carry out a short observation in a colleague�
 Agree who they will observe and when. As with all observations it is important that the ECT thinks about how they will approach this task in terms of building and maintaining professional relationships. Ask the ECT to consider the perspective of the colleague whose lesson is being observed:
 
 - How will they explain to their colleague what it is they are focusing on?
-- Will they share their focus questions ahead of the observation? 
+- Will they share their focus questions ahead of the observation?
 - How will they agree when the best time for this observation will be? This observation will take 20 minutes, probably the last 20 minutes of a lesson, so they will need to take this into account.
 - What if the lesson goes less well than expected? How can they handle this well?
 
@@ -139,15 +138,15 @@ This will link to the next topic as the ECT will be thinking about how they can 
 
 ### Intended outcomes
 
-The intended outcomes of this topic are for Early Career Teachers to: 
+The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- A culture of mutual trust and respect supports effective relationships 
+- A culture of mutual trust and respect supports effective relationships
 
 Learn how to build trusting relationships, by:
 
-- Responding consistently to pupil behaviour                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+- Responding consistently to pupil behaviour
 
 ### Activities
 
@@ -178,7 +177,7 @@ Some key points for the conversation include:
 - Understanding pupils’ individual circumstances
 - Proactively highlighting successes to parents/carers (rather than only communicating negatives)
 - Providing opportunities for all pupils to succeed.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
 ###Building trusting relationships with pupils (15 minutes)
 
 The ECT should feed back their reflections from the lesson observation agreed in the last topic and identify two or three strategies used by the teacher that they can use in their own practice, focusing on:
@@ -187,7 +186,7 @@ The ECT should feed back their reflections from the lesson observation agreed in
 - The ways in which they learn about and build on pupils’ prior knowledge and experiences
 - Their approaches to managing behaviour
 - Evidence of mutual trust and respect between pupil and teacher.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
 ###Consistent responses to behaviour (15 minutes)
 
 Thinking back to module 1, the ECT should:
@@ -222,16 +221,15 @@ For more detail around this, look back at Activity 1.4 in the self-directed stud
 
 In advance of next topic, the ECT and the mentor should agree a time when the ECT will collect evidence from pupils to learn about their views of what characterises a positive relationship with teachers. This information can be recorded using the adaptable handout on pupil voice prompts, asking pupils to write down three words that characterise effective relationships of a teacher with their pupils, adapting the question appropriately for pupils’ ages. The intention is for the ECT to learn about what works well for pupils in building a relationship of trust and mutual respect, so the focus is on all teachers, not on themselves.
 
-The ECT might find it helpful, therefore, to ask this question of pupils in a different class (perhaps the mentor’s) rather than their own. Decide together who the ECT will ask. The information gained will be used in the next mentor topic and could also be useful for Training topic 6.2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+The ECT might find it helpful, therefore, to ask this question of pupils in a different class (perhaps the mentor’s) rather than their own. Decide together who the ECT will ask. The information gained will be used in the next mentor topic and could also be useful for Training topic 6.2.
 
 ### Planning for action
 
 The next two topics will look at how the ECT works effectively with other specialist staff in school. The ECT should prepare for this by engaging in the relevant self-directed study materials, and particularly, in advance of the next topic, Activity 6.4: Working with the SENCO.
 
-In the next topic a colleague (careers advisor or pastoral leader) will be invited along and there will be an opportunity to ask questions and get support with a specific class. 
+In the next topic a colleague (careers advisor or pastoral leader) will be invited along and there will be an opportunity to ask questions and get support with a specific class.
 
 Ask the ECT to:
 
 - Choose a class they would like support with
-- Note down any questions they plan to ask the colleague about their role and about how the colleague’s work relates to the chosen class group.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-
+- Note down any questions they plan to ask the colleague about their role and about how the colleague’s work relates to the chosen class group.

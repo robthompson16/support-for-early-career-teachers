@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 5"
 ---
 
-
 ## Final presentation of module inquiry, and module review
 
 ### Mentor materials content
@@ -96,4 +95,3 @@ To support this self-assessment, you might share with them a model, e.g.
 Next Steps 5 mins
 
 Note that Module 9, the final module of the programme, begins after the half-term.
-

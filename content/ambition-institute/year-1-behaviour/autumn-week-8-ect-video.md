@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-8-ect-teaching-chal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wwwLmWUSmz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Peps McCrea
+
 Pupils are more likely to attempt a task if they feel they can do it. This isn't
 unusual. Most people are put off doing something that feels difficult in favour of
 something that feels easier. It's important that teachers think about the supports
 they can put in place to enable and encourage all pupils to access their learning,
 including pupils with SEND. Providing structured support of learning can lead to
 positive behaviour and help all pupils to thrive.
+
 ### Presenter main
+
 Providing structured, supportive learning is about ensuring that all pupils can access
 the content and think hard. When pupils are able to access their learning, they're
 more likely to experience success. This can be motivating and lead to positive behaviour.
@@ -33,11 +33,15 @@ Modelling learning and providing examples is another important way of supporting
 Putting supports in place like breaking learning down and modelling does not just mean making it easy. Activities should require pupils to put in effort and think, but if a pupil can't access what they're learning, it's likely to have a negative impact on how they act in the classroom. Providing structured, supportive learning can help pupils to experience success, which in turn has a positive impact on behaviour.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of how to provide structured support of
 learning. As you watch, pay particular attention to the following:
+
 - Breaks complex material into smaller steps
 - Checks pupils’ understanding of instructions before a task begins
+
 ### Exemplification: Ambition Institute coachA really good way of
+
 supporting learning is to take an end goal and break it into smaller chunks.
 These smaller chunks feel more doable and help to guide pupil thinking. Imagine
 that I'm teaching a reception class how to form the lowercase letter m.
@@ -53,6 +57,7 @@ Before I started the model, I made sure that every pupil was paying attention by
 After I delivered my initial model, I would ask pupils to help me form another letter, prompting them to tell me the key steps. This will give them another good example and allow me to check that they have understood the task before getting them to work on their own. When pupils are clear about what they should do and how they can be successful, it motivates them to get started.
 
 ### Presenter key ideas
+
 In this video, we have explored how providing structured, supportive learning can
 improve pupil behaviour, and considered some of the ways in which teachers can do
 this. Now read through the following key ideas that the video has covered. Which
@@ -61,10 +66,11 @@ ones do you feel that the example illustrated the best?
 - Break complex material into smaller steps
 - Reduce distractions that take attention away from what is being taught
 - Check pupils’ understanding of instructions before a task begins
+
 ### Presenter summary
+
 When pupils find learning too difficult, they can easily disengage. Breaking
 complex material down into smaller chunks and taking them through it step by
 step shows them that they can be successful. And when pupils feel like they are
-able to do something, they're much more likely to give it a go. 
+able to do something, they're much more likely to give it a go.
 {/details}
-

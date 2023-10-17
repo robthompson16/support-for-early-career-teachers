@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 5"
 ---
 
-
 ## Reviewing learning - adapting teaching to respond to the strengths and needs of all pupils
 
 ### Learning intentions
@@ -12,7 +11,6 @@ caption: "Spring week 5"
 Learning Intentions for this session:
 
 A review of your mentee’s progress on this module, focusing on Standard 5 – Adapting Teaching.
-
 
 ### Topic introduction
 
@@ -24,8 +22,6 @@ Over the course of this module, your mentee has learned how to:
 - group pupils effectively
 
 At the start of the module, you together analysed your mentee’s development needs in relation to these aspects of adaptive teaching by conducting an audit of their needs and strengths against Standard 5. Now that you have reached the end, it is time to review their progress.
-
-
 
 ### Meeting activities
 
@@ -85,4 +81,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
 2. what success will ‘look like’ in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
-

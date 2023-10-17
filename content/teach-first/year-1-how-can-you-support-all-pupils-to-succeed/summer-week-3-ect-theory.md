@@ -15,7 +15,6 @@ What strategies do you think would be considered high-quality teaching?
 {details}
 Feedback.
 
-
 All the strategies would be considered as high-quality teaching.
 
 You may recognise the strategies above as they have been covered earlier in the programme. The strategies listed are just some of the areas that would be considered high-quality teaching - there are many more. The first step in supporting all pupils to achieve success is to develop your teaching practice so that you consistently deliver high-quality teaching. As the English SEND Code of Practice states:
@@ -39,12 +38,10 @@ Listen and make notes as Katherine Fas talks about how she has prepared for and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6B-fLFPsZvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Adaptive teaching – Katherine Fas
 
 {details}
 Video transcript.
-
 
 All pupils learn at different rates and require different levels of support to achieve, so it’s important we adapt our teaching to meet the needs of all learners in the class.
 
@@ -69,22 +66,21 @@ In summary, the 5 greatest tools for me in adapting my lessons for the learners 
 - Planning for questioning that will support and extend
 - Ensuring a fluid group structure
 - Using marking and feedback opportunities effectively and consistently, ensuring that these are built into lesson and classroom culture
- {/details}
+  {/details}
 
 In your notebook, list at least four strategies that Katherine uses to adapt her teaching.
 
 {details}
 Feedback.
 
-
 There are many ways that you can prepare for adaptive teaching, but the areas that Katherine talks about are listed below. You may have grouped her ideas differently to this representation, which is fine.
 
-- Considering prior knowledge and assessing the pupil’s current ability. 
-- Identifying pupils who have less prior knowledge and pre-teaching them key vocabulary. 
-- Providing scaffolds to pupils within a lesson, including by working with a group of pupils. 
-- Using formative assessment throughout the lesson to identify pupils who may need additional support or further challenge. 
+- Considering prior knowledge and assessing the pupil’s current ability.
+- Identifying pupils who have less prior knowledge and pre-teaching them key vocabulary.
+- Providing scaffolds to pupils within a lesson, including by working with a group of pupils.
+- Using formative assessment throughout the lesson to identify pupils who may need additional support or further challenge.
 - Using self-assessment and marking to provide effective feedback and decide how to group pupils in the following lesson.
- {/details}
+  {/details}
 
 ## Developing prior knowledge through pre-teaching
 
@@ -113,11 +109,11 @@ When identifying what material to pre-teach, you will need to have secure subjec
 
 When planning content to pre-teach, you should follow the same principles as you would when planning explanations during a lesson. Information should be broken down into small chunks and made memorable to avoid working memory overload. Pre-teaching should be an extension of the teaching sequence, breaking down the foundational knowledge into even smaller steps. Therefore, key vocabulary or facts that will be present during the lesson can be a good focus for a pre-teaching session. The example below demonstrates what this might look like in practice.
 
-
-
 ### Example
+
 If teaching a lesson on the Ancient Egyptians, the key vocabulary or facts that might
 be identified for pre-teaching are:
+
 - Egypt
 - Ancient Egyptians
 - tomb
@@ -125,9 +121,8 @@ be identified for pre-teaching are:
 - pyramid
 - hieroglyphics
 - shaduf
-For best effect, the words above should be accompanied with a graphical representation
-to support pupil understanding. 
-
+  For best effect, the words above should be accompanied with a graphical representation
+  to support pupil understanding.
 
 ## What might a pre-teaching session entail?
 
@@ -135,31 +130,28 @@ The aim of any pre-teaching session is to teach pupils key information that will
 
 There are many ways that a pre-teaching session might run in school and it will be up to you to decide what is best for your pupils based on their needs and the material being taught. There is no one size fits all. You will need to decide on the number of pupils to include in the pre-teaching session, how long the session should run for, and how regular the sessions should be. You will also need to consider how the session should be delivered. It would be beneficial to work closely with your SENCo and other special education professionals to support you in making these decisions.
 
-
-
 ### Example of how a teacher could run a pre-teaching session
+
 Adam, a class teacher, is about to begin a new topic on Ancient Egyptians. Through assessment and his understanding of pupils’ needs within his class, he identifies 4 pupils who would benefit from pre-teaching.
 
 He looks at the first lesson he will teach and identifies key subject-specific vocabulary that will be present in the lesson. He knows that he must be selective with which vocabulary to choose - he doesn’t want to choose too many words and overload pupils’ working memory. As a result, he chooses five words that he believes the pupils will be least familiar with and which will appear most frequently.
 
 He plans to run a ten-minute session to teach pupils the key vocabulary. During the session, he begins by explaining the vocabulary with the use of pictures, actions and non-examples (where appropriate) and asks probing questions to check understanding. He then presents one word to the group and asks them to share what it means with their partner. He works his way through the remaining vocabulary and provides corrective or affirmative feedback to pupils.
 
-
 In this example, the teacher is delivering the session. However, if you have additional adults available, they may be able to run the session provided you give them the correct resources and information that they need. If you don’t feel as though you have the available time and don’t have an additional adult to support with pre-teaching, the resource could be sent home with pupils. Parents or carers can work with their child to pre-teach material ahead of the lesson.
 
 Working closely with parents and carers is very important when supporting all pupils to succeed and is something that will be explored in later sessions.
 
-
-
 ### Application to practice
+
 In this activity, you will begin to plan how you can support pupils who have different levels of prior knowledge to access a lesson you will soon teach. Draft a plan for a pre-teaching session to be delivered in school by yourself or by an additional adult, or to be sent home for parents or carers to deliver.
 
 Use the following points to help you when planning:
 
-- identify the next lesson or topic where you think pupils will benefit from pre-teaching 
-- identify pupil(s) who will benefit from pre-teaching either based on their prior knowledge or your understanding of their needs 
+- identify the next lesson or topic where you think pupils will benefit from pre-teaching
+- identify pupil(s) who will benefit from pre-teaching either based on their prior knowledge or your understanding of their needs
 - identify key vocabulary or facts to include in the session
-- plan how you, an additional adult or a parent or carer will deliver the session 
+- plan how you, an additional adult or a parent or carer will deliver the session
 - make use of existing well-designed resources where possible
-You will share this with your mentor in your next meeting and this will be the practice
-focus. 
+  You will share this with your mentor in your next meeting and this will be the practice
+  focus.

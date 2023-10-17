@@ -8,11 +8,8 @@ Watch the video.- The video outlines what you will cover in this Block.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RSQBAZygnR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   In Year 1, you completed Block 3 ‘Developing effective classroom practice
@@ -92,4 +89,3 @@ Video transcript.
   covered all of the foundations which you need to be an effective teacher.
 </span>
  {/details}
-

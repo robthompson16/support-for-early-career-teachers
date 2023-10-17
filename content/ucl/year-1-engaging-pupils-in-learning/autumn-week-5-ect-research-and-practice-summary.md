@@ -6,19 +6,16 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-5-ect-self-study-activities"
 ---
 
-
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-
-
 ### Critical thinking, transfer and schemata in a values-led Year 6 PE lesson
+
 Rachel passionately believes that PE is a great way to inculcate important life-skills
 and values in her pupils. She must also keep to the National Curriculum.
 
 As you read this summary, think about how Rachel can use an invasion game
-  lesson to teach her pupils important values that they can think critically
-  about and apply elsewhere.
-
+lesson to teach her pupils important values that they can think critically
+about and apply elsewhere.
 
 A school’s curriculum sets out its vision for the knowledge, values and skills that it wishes its pupils to learn. Since the 1988 Education Reform Act, there has been a National Curriculum in England and Wales which specifies the core of what should be covered within the state education sector. At GCSE and A level, the National Curriculum also forms the basis for the specifications written by examination boards. Contemporary curriculum guidance makes clear that schools are expected to go beyond the core curriculum. In particular, schools have a responsibility to identify the specific knowledge, skills and values that will benefit their pupils. At all stages of education, therefore, teachers and school leaders determine the details of what is taught and how this content is sequenced. In order to teach a carefully sequenced and coherent curriculum, teachers need a sound knowledge of the essential concepts, skills and principles of the subject. It is therefore essential that teachers develop and maintain a high level of subject knowledge through initial and continuing professional development.
 
@@ -70,15 +67,14 @@ To help you to support pupils to transfer their knowledge, you should:
 - model the connections yourself (e.g. by saying how you use the knowledge or ideas in your own life)
 - draw comparisons between the subjects your pupils learn, whether you teach them across subjects or the teaching is shared by colleagues (e.g. a history teacher could refer to the war poetry their class had studied in English)
 
-
-
 ### Transfer: Helen, a Pupil Referral Unit teacher explains her thinking
-"Many of the PRU pupils initially struggle to see the point in learning.  
+
+"Many of the PRU pupils initially struggle to see the point in learning.
 
 "In order
 to get them to see their PRU experience as a whole, we look for cross-curricular
 links, and I aim to include transferrable skills where possible in my lessons. So,
-when I am teaching about climates, I will get pupils to draw climate graphs. 
+when I am teaching about climates, I will get pupils to draw climate graphs.
 
 "Before
 doing this, we will look at different types of graphs, and I will ask pupils what
@@ -90,77 +86,81 @@ complete the graph element independently with little help.”
 
 How might this apply equally to Rachel?
 
-
-
-
 ### What did Rachel do?
+
 Here is a recreation of Rachel’s lesson plan, with a commentary about why it worked
 well.
 
 #### Aim
+
 To teach the 3Cs (co-operation, communication,
 collaboration) through an uneven-sided invasion game.
 
 #### Initial instruction
+
 "Cooperation, communication and
-collaboration are really important in life and in sport. 
+collaboration are really important in life and in sport.
 
 "Working in a team, make
 a plan to help you achieve success in a game of ‘pass/head/kick’. In your team,
 discuss and make a list of what helps you to achieve success in a team game."
 
 #### Explanation of rules
+
 Teams are 4 attackers ‘v’ 2 defenders.
 
 Attack: teams of 4 have to move the ball from one end of the court to the other.
 They can either throw, head or kick the ball in any combination, but they must
 throw, kick and head at least once before scoring. They cannot use two of the
-same technique one after the other. 
+same technique one after the other.
 
 Defence: teams of 2 have to try to intercept
 the ball to prevent the attackers from getting the ball to the opposite end of
 the court.
 
 #### Warm-up
+
 Practise throwing, catching and heading the ball
 between pairs.
 
 #### Play the game
+
 Rachel monitors the play and keeps a record of
 how her pupils show the 3Cs.
 
 #### Plenary
+
 Rachel often uses the 'Evaluate Act Reflect (EAR)' method so the pupils have a framework for their thinking. Rachel stops the lesson for the ‘EAR’ part of the
 lesson:
 
- * evaluate. How successful has your strategy been? What could you change to improve
-        your chances of success?
-* act. Now, go back to the games to try out your new approach/strategy
-* reflect. Thinking about how effectively you worked as a team: What did your team
-        do to achieve success? How well did you practise the 3Cs? What could
-        your team have done better? What do you think are the important
-        ingredients to making a team a success? What have you learned about the
-        3Cs that would help you be more successful in other lessons or
-        situations?
- 
+- evaluate. How successful has your strategy been? What could you change to improve
+  your chances of success?
+- act. Now, go back to the games to try out your new approach/strategy
+- reflect. Thinking about how effectively you worked as a team: What did your team
+  do to achieve success? How well did you practise the 3Cs? What could
+  your team have done better? What do you think are the important
+  ingredients to making a team a success? What have you learned about the
+  3Cs that would help you be more successful in other lessons or
+  situations?
+
 This lesson is consistent with core knowledge requirements of the National
 Curriculum, where pupils are required to communicate, collaborate and compete
 with each other and evaluate and recognise their own success. They develop
 physical competence in throwing, catching, kicking, controlling and heading the
-ball. 
+ball.
 
 Rachel believes in the 3Cs’ attribute and in the values of fairness and
 respect, which are built into team games like this. The warm-up enabled Rachel
 to check the prior learning of her pupils in these physical skills. She could
-give feedback on their 3Cs as she monitored them at play. 
+give feedback on their 3Cs as she monitored them at play.
 
 This lesson enabled
 pupils to develop a range of core knowledge and skills relating to their
 physical, cognitive, social and affective development. These are all skills that
 are important and have application across the wider curriculum and life beyond
-school. Her questioning in EAR drew attention to that transfer. 
+school. Her questioning in EAR drew attention to that transfer.
 
 As the EAR phase
 unfolded, it also allowed the pupils to think critically about successful team
 strategies. By using EAR, Rachel helps her pupils to develop increasingly
-complex schemata for adding new ideas to existing knowledge. 
+complex schemata for adding new ideas to existing knowledge.

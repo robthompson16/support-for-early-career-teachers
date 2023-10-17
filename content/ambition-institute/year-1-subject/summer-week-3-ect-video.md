@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-subject/summer-week-3-ect-teaching-challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/22JKOwWBtyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Chloe Wardle
+
 Everything that we decided to include in a lesson should help pupils to achieve clear
 learning goals. But it can often feel like there is a large amount of content to
 cover. Teachers need to identify the different types of knowledge that a lesson includes,
 and know why they are there. How do different bits help to develop pupil understanding?
 Identifying different types of knowledge helps teachers to understand the best routes
 through the content and what areas they might prioritise.
+
 ### Presenter main
+
 When you look at a lesson, there is often a daunting amount of content to teach.
 It would be overwhelming to present pupils with a mass of content, but we can't simply
 cut out all the detail either. Instead teachers need to create a meaningful pathway
@@ -37,13 +37,17 @@ Both critical and supporting content are important. Supporting material may prov
 When teachers have a good understanding of the critical content and supporting material in a lesson, and how they are connected, they can sequence learning in a coherent way. They can identify prior knowledge that links to the critical material, and ensure that the lesson builds on that. They will know when to introduce supporting material and when to move on from it, and which content they will need to revisit in order to strengthen it. They can take their pupils on a better learning journey.
 
 ### Presenter exemplification framing
+
 In the next model, you will hear part of a coaching conversation. The focus of the
 conversation is to identify the different types of knowledge that one particular
 lesson covers, and the order in which they should come. As you watch pay particular
 attention to how they do the following:
-- Identify essential concepts, knowledge, skills and principles of the subject 
+
+- Identify essential concepts, knowledge, skills and principles of the subject
 - Sequence lessons so that pupils secure foundational knowledge before encountering more complex content
+
 ### Exemplification: Sarah Cottingham and Paula Delaney
+
 _COACH (SARAH COTTINGHAM): So our goal for this coaching session is to understand what content you're teaching in the lesson, and why that each piece of content is there. So we want to know the most critical content and what the role of the supporting material is playing in their learning. Remind me what the scheme of work is? What is the overall learning goal of the lesson? And how is the lesson connected to the goal in the scheme of work?_
 
 _&nbsp;ECT (PAULA DELANEY): So this is a year 3 scheme of work about the rainforests. And the learning goal for this lesson is to understand some of the differences between their lives and the lives of tribal families. And so far pupils have a good understanding of what a rainforest is and the vast amount of species and plants that the rainforest supports. But in this lesson, they will be learning more about the people that the rainforest supports. Later on pupils will learn what deforestation is. So a key goal of this scheme of work is understanding the detrimental effect of deforestation. In this lesson, pupils need to acquire an understanding of how vital the rainforest is to the people that live there, so they can recognise how bad deforestation is for the people that rely on it._
@@ -51,16 +55,17 @@ _&nbsp;ECT (PAULA DELANEY): So this is a year 3 scheme of work about the rainfor
 _COACH: Great. I know that you've looked at the suggested lesson resources to identify what pupils are learning. Can you show me the list of knowledge and skills that you've identified?_
 
 _&nbsp;ECT: Yep, here's the list._
-- _To know that most children in the UK tend to live with their parents_ 
-- _To know that in the Amazon rainforest children live with their extended family in tribes_ 
-- _To know that children in the UK have free access to healthcare via the NHS_ 
-- _To know that tribal families in the Amazon rainforest have limited access to healthcare clinics or hospitals but instead rely on local plants and remedies_ 
-- _To know that many of the medicines we use in the UK come from plants which grow in the Amazon rainforest_ 
-- _To know that children in the UK must now be in education or training until at least the age of 16. In England the age is 18_ 
-- _To know that education in the Amazon rainforest can take many different forms as communities can be quite small and remote: some pupils may have lessons which are delivered remotely while others attend small schools where there are pupils of different ages taught by the same teacher_ 
-- _To know that in the UK much of the food we eat is bought from shops and supermarkets_ 
+
+- _To know that most children in the UK tend to live with their parents_
+- _To know that in the Amazon rainforest children live with their extended family in tribes_
+- _To know that children in the UK have free access to healthcare via the NHS_
+- _To know that tribal families in the Amazon rainforest have limited access to healthcare clinics or hospitals but instead rely on local plants and remedies_
+- _To know that many of the medicines we use in the UK come from plants which grow in the Amazon rainforest_
+- _To know that children in the UK must now be in education or training until at least the age of 16. In England the age is 18_
+- _To know that education in the Amazon rainforest can take many different forms as communities can be quite small and remote: some pupils may have lessons which are delivered remotely while others attend small schools where there are pupils of different ages taught by the same teacher_
+- _To know that in the UK much of the food we eat is bought from shops and supermarkets_
 - _To know that in the Amazon rainforest communities tend to work together to grow and produce their own food locally or hunt for it using tools they have developed specifically for this purpose_
-_COACH: Great. So now I want you to think about which of the content you would describe as critical. So by critical, I mean, it's the content that you want your pupils to remember in the long term. Perhaps because there's lots of other ideas that relate to it, or because it's critical to their understanding of other concepts in the scheme of work like deforestation or sustainability._
+  _COACH: Great. So now I want you to think about which of the content you would describe as critical. So by critical, I mean, it's the content that you want your pupils to remember in the long term. Perhaps because there's lots of other ideas that relate to it, or because it's critical to their understanding of other concepts in the scheme of work like deforestation or sustainability._
 
 _ECT: Okay. Sure. I think that this is the content that I would describe as critical._
 
@@ -82,7 +87,9 @@ _COACH: I agree. And looking back at your original list, I would suggest that th
 _ECT: I think it would be good to start by looking at the different food sources in the rainforest. This gives pupils an opportunity to recall what they know about the different plant and animal species in there. This is something we explored in previous lessons. It also helps them to visualize what rainforest are like. And they will need to do this before they can think about the lives of the people who live in the rainforests._
 
 _COACH: What would pupils need to learn next?_
+
 ### Presenter exemplification analysis
+
 There were a couple of key ideas to highlight from this conversation. First,
 both the coach and the early career teacher were clear about what they wanted
 their pupils to remember from the lesson. From a longer list of knowledge, they
@@ -94,17 +101,20 @@ different plants and animal species found in the Amazon rainforest.
 This is only a snapshot of a longer coaching conversation, so it cannot show the full detail of everything discussed. However, even from this short example, it is clear that the early career teacher was thinking deeply about what pupils were learning in the lesson, what purpose each piece of content served and the best order in which to teach it. This will enable the early career teacher to plot a clear path through the large amount of content, ensuring that the pupils secure and revisit the big ideas of a subject over time.
 
 ### Presenter key ideas
+
 In this video, we have explored how to identify different types of knowledge in a
 lesson, and how to sequence them. Before we finish, read over the key ideas that
 we have covered. Which ones do you feel that the example illustrated the best?
-- Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components. 
-- Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content. 
+
+- Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components.
+- Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content.
 - Revisiting the big ideas of the subject over time and teaching key concepts through a range of examples.
+
 ### Presenter summary
+
 Thinking hard about what you are teaching is a vital part of a teacher's role.
 Examining different types of knowledge in a lesson and how it is connected helps
 teachers to know what they're teaching and why. They can then use this knowledge
 to make decisions in the classroom that can help motivate pupils in their
-learning and develop sophisticated mental models of their subject. 
+learning and develop sophisticated mental models of their subject.
 {/details}
-

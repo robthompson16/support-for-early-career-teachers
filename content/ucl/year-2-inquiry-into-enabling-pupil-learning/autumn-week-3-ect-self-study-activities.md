@@ -43,30 +43,17 @@ Schools retain data on all sorts of aspects pertaining to the behaviour of pupil
 
 When collecting these sorts of data, it is helpful to bear in mind:
 
-
-
-#####  Validity
+##### Validity
 
 The sources you analyse will contain much more data than you need for your inquiry. It may be interesting, but don’t be distracted: only collect the evidence that helps answer your question. For example, if you are investigating the boys in a class, look for the data only on them.
 
-
-
-
-
-
-
 ##### Reliability
-The data you find might be true for a particular time in the past – are they still true now? For example, is a pupil’s past behaviour record reliable evidence of their behaviour patterns now?       
 
+The data you find might be true for a particular time in the past – are they still true now? For example, is a pupil’s past behaviour record reliable evidence of their behaviour patterns now?
 
-
-
-                                                                                    
 #####Manageability
 
-For a short inquiry such as this, you must be selective: don’t attempt to analyse all possible sources. Look first for the naturally occurring data: those which are available to you as a normal part of your job.                                                                       
-
-
+For a short inquiry such as this, you must be selective: don’t attempt to analyse all possible sources. Look first for the naturally occurring data: those which are available to you as a normal part of your job.
 
 Meera looked at the behaviour data on the school’s system relating to all her classes but noticed that most problems were occurring in her Year 8; hence, she decided to look further only at those data. By doing so, she noticed a pattern that most of the pupils she regularly set detentions for were boys who speak English as an Additional Language (EAL).
 
@@ -80,24 +67,14 @@ Your question may have been something like:
 
 When collecting evidence of pupils’ attitudes in a short inquiry, it is helpful to bear these three rules in mind when asking your questions:
 
-
-
 #####Are they valid?
-Only ask the questions that you need the answers to for your inquiry.                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Only ask the questions that you need the answers to for your inquiry.
 
-
-
-
-#####Are they reliable? 
-Make sure your pupils understand the questions and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…                                                                                                                                                        
-
-
-
+#####Are they reliable?
+Make sure your pupils understand the questions and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…
 
 #####Is it manageable?
 Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. When can you collect pupil voice data? Can you do it in your lesson by a show of hands, or by speaking to a small group for 3 minutes while their classmates get on with independent learning? Do you need 5 minutes of a break time? Don't use up more of your – or their – time than is strictly necessary.
-
-
 
 Sam decided to give his class a short, hand-up survey. Because he wanted to be sure he understood those findings and could rely on them, he then interviewed a small, representative sample of pupils in focus groups over three morning breaks.
 
@@ -118,4 +95,3 @@ Meera, in Case Study B, said:
 ### Next Steps: 5 mins
 
 Bring your simple evidence statement and any supporting data to your next mentor meeting. Be ready to discuss this with your mentor. In that meeting, you will discuss with your mentor any alteration to your practice that might make a positive difference to your pupils.
-

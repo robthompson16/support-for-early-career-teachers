@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
 ## Setting the scene and providing high-quality feedback
 
 ### Intended outcomes
@@ -21,7 +20,7 @@ Learn how to provide high-quality feedback, by:
 - Scaffolding self-assessment by sharing model work with pupils, highlighting key details.
 - Thinking carefully about how to ensure feedback is specific and helpful when using peer- or self-assessment.
 - Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (e.g. using whole class feedback or well supported peer- and self-assessment).
-- Reducing the opportunity cost of marking (e.g. by using abbreviations and codes in written feedback).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+- Reducing the opportunity cost of marking (e.g. by using abbreviations and codes in written feedback).
 
 ### Activities
 
@@ -42,12 +41,12 @@ Some questions for discussion:
 - You’ve had a whole year since you learned about effective assessment, feedback and questioning practices. We looked at things such as the ways in which assessment provides us with important information, helps to expose misconceptions and identify pupils’ prior knowledge. How do you think you have developed in these areas in the last year?
 - Can you give me a specific example of a time when you think assessment/feedback/questioning went particularly well?
 - What areas do you feel you still need to work on?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
 ###Understanding the evidence (15 minutes)
 
 Guidance to mentors:
 
-The ECT should have read the ‘Understanding the Evidence’ section of the self-directed study materials ahead of the topic. You should also read them to familiarise yourself with the content. In this part of the mentor topic, you will be asking questions to check the ECT’s understanding of what they have read. 
+The ECT should have read the ‘Understanding the Evidence’ section of the self-directed study materials ahead of the topic. You should also read them to familiarise yourself with the content. In this part of the mentor topic, you will be asking questions to check the ECT’s understanding of what they have read.
 
 The guidance below provides a full range of responses which show understanding. However, you should not treat this as a ‘test’ of the ECT’s knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
 
@@ -65,7 +64,7 @@ How can this be supported through feedback?
 
 - Restructuring understandings
 - Confirming to students that they are correct or incorrect
-- Indicating that more information is available or needed 
+- Indicating that more information is available or needed
 - Pointing to directions students could pursue
 - Indicating alternative strategies to understand particular information.
 
@@ -85,9 +84,9 @@ What different approaches to efficient marking and feedback are there?
 
 What problems are there with self- and peer-assessment and how can these be overcome?
 
-- Pupils can do it badly in which case they don’t realise what mistakes they’ve made and continue to repeat them. 
+- Pupils can do it badly in which case they don’t realise what mistakes they’ve made and continue to repeat them.
 - This can be overcome through the use of high-quality success criteria and modelling.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
 ###Providing high-quality feedback (30 minutes)
 
 Guidance for mentors:
@@ -100,19 +99,19 @@ Model work helps pupils gain an understanding about what quality learning ‘loo
 
 1. Prepared model work:
 
-    - Pupils see a complete example, so they know what they are aiming for.
-    - Teacher can share multiple prepared responses showing a variety of high-quality responses
-    - Can be used to identify errors and how to address them
-    - Pupils see the product or outcome they are aiming for
-    - Pupils and teacher can analyse, dissect and evaluate the features within a model.
+   - Pupils see a complete example, so they know what they are aiming for.
+   - Teacher can share multiple prepared responses showing a variety of high-quality responses
+   - Can be used to identify errors and how to address them
+   - Pupils see the product or outcome they are aiming for
+   - Pupils and teacher can analyse, dissect and evaluate the features within a model.
 
 2. Worked examples:
 
-    - Improve learning by reducing cognitive load during skill acquisition
-    - Model the process or procedure and thinking required to solve a particular problem, as well as showing the product
-    - Can be used more than once and completed in collaboration with pupils with pupils partly or fully leading the worked example depending on the level of scaffold required.
+   - Improve learning by reducing cognitive load during skill acquisition
+   - Model the process or procedure and thinking required to solve a particular problem, as well as showing the product
+   - Can be used more than once and completed in collaboration with pupils with pupils partly or fully leading the worked example depending on the level of scaffold required.
 
-Watch the video from this week's ECT  self-study materials.
+Watch the video from this week's ECT self-study materials.
 
 Pose the questions:
 
@@ -140,4 +139,3 @@ If the mentor is unable to observe, perhaps the ECT could record that part of th
 Alternatively, the ECT could write down some reflections and bring them to share at the next topic.
 
 In the following topic, ECTs will have the opportunity to discuss efficient approaches to marking with a colleague who you should invite along to the topic. Identify which colleague to invite and send them an email. This could be someone from the same department/phase or someone who is considered an excellent practitioner. It could also be you.
-

@@ -4,12 +4,11 @@ heading: "Subject"
 caption: "Year 1"
 ---
 
-
 In this module you'll cover:
 
-* the curriculum
-* your mental model of the subject or phase you teach and its implications for your planning
-* how to know what pupils have understood, the barriers you face in doing so and how to respond to their needs
+- the curriculum
+- your mental model of the subject or phase you teach and its implications for your planning
+- how to know what pupils have understood, the barriers you face in doing so and how to respond to their needs
 
 ## Week 1: module overview and re-contracting
 
@@ -29,7 +28,7 @@ Introduces foundational elements of subject and supports teachers and mentors to
 
 ## Week 2: planning backwards from learning goals
 
-Focuses on the importance of subject excellence and starting with what teachers want pupils to learn. 
+Focuses on the importance of subject excellence and starting with what teachers want pupils to learn.
 
 Duration: 40 minutes.
 
@@ -39,7 +38,7 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Focuses on the importance of subject excellence and starting with what teachers want pupils to learn. 
+Focuses on the importance of subject excellence and starting with what teachers want pupils to learn.
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-2-mentor-materials)
 
@@ -61,7 +60,7 @@ Looks at the differing nature of subjects, the importance of mental models, know
 
 ## Week 4: gaps and misconceptions
 
-Explores the need to identify and respond to gaps in pupil knowledge and pupil misconceptions. 
+Explores the need to identify and respond to gaps in pupil knowledge and pupil misconceptions.
 
 Duration: 40 minutes.
 
@@ -71,13 +70,13 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Explores the need to identify and respond to gaps in pupil knowledge and pupil misconceptions. 
+Explores the need to identify and respond to gaps in pupil knowledge and pupil misconceptions.
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-4-mentor-materials)
 
 ## Week 5: acquisition before application
 
-Explores the role secure relevant knowledge can play prior to application and how to build and check for high success rates. 
+Explores the role secure relevant knowledge can play prior to application and how to build and check for high success rates.
 
 Duration: 40 minutes.
 
@@ -87,7 +86,7 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Explores the role secure relevant knowledge can play prior to application and how to build and check for high success rates. 
+Explores the role secure relevant knowledge can play prior to application and how to build and check for high success rates.
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-5-mentor-materials)
 
@@ -202,4 +201,3 @@ Duration: 40 minutes.
 Focuses on aspects of effective feedback so that pupils can put it into action to improve their understanding.
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-12-mentor-materials)
-

@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-6-ect-reflect"
 ---
 
-
 Ms Mahrez is able to tackle disruptive classroom behaviour when it arises, but some of her pupils need constant monitoring to keep them on task and others do little more than the minimum required to complete the task. What can she do to create an even more productive learning environment?
 
 ## Key idea
@@ -57,14 +56,13 @@ In short, consistency is a powerful tool for promoting high expectations, enabli
 
 Teaching pupils strategies to develop their ability to self-regulate their emotions can also lead to more consistent pupil responses in the long term - for example, developing pupil emotional language to express the problems they are experiencing and self-calming strategies to support them to learn more effectively when the content is challenging (EEF, 2018). Supporting pupil success can also help (IES, 2008). Enabling pupils to be successful can minimise emotional barriers while developing emotional self-regulation.
 
-
-
 ### Key takeaways
-Ms Mahrez can improve the effectiveness of her classroom by understanding that:
-- consistency entails predictably modelling and enforcing classroom systems. It is most effective when positive reinforcement moves pupils towards intrinsic motivation 
-- consistency can improve teacher-pupil relationships and school culture by promoting shared values 
-- over time, consistently enabling pupils to be successful can improve pupil wellbeing, motivation, behaviour and academic outcomes
 
+Ms Mahrez can improve the effectiveness of her classroom by understanding that:
+
+- consistency entails predictably modelling and enforcing classroom systems. It is most effective when positive reinforcement moves pupils towards intrinsic motivation
+- consistency can improve teacher-pupil relationships and school culture by promoting shared values
+- over time, consistently enabling pupils to be successful can improve pupil wellbeing, motivation, behaviour and academic outcomes
 
 ### Further reading
 
@@ -72,7 +70,6 @@ Rathmann K., Herke M., Hurrelmann K. & Richter M. (2018). Perceived class climat
 
 {details}
 References.
-
 
 Chapman, R. L., Buckley, L., &amp; Sheehan, M. (2013). School-Based Programs for Increasing Connectedness and Reducing Risk Behavior: A systematic review. _Educational Psychology Review, 25_(1), 95-114.
 
@@ -89,4 +86,3 @@ Murdock-Perriera, L. A., &amp; Sedlacek, Q. C. (2018). Questioning Pygmalion in 
 Rathmann K., Herke M., Hurrelmann K. &amp; Richter M. (2018). Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. _PLOS ONE_<a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">. bit.ly/ecf-rat</a>
 
 {/details}
-

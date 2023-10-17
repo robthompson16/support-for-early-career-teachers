@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 3"
 ---
 
-
 ## Managing workload and well-being
 
 ### Mentor materials content
@@ -40,11 +39,11 @@ Technology: tool or tyrant
 Marsha and Greg are enthusiastic and proactive in looking for opportunities to improve their teaching. Marsha has recently completed a web-based course on teaching online, and Greg has been experimenting with using different technologies to support his teaching. Reflecting on their recent learning, they draw up a list of experiences that includes:
 
 - I can use specialist software to set quizzes for pupils that are marked automatically (takes a while to set up but saves time overall and gives pupils instant feedback)
- - I can get really bogged down in playing around with lots of new features – important to stay focused on the task and not on unnecessary extras that look nice but don’t directly improve learning
- - I needed help at the beginning because this was all new to me – I’m glad I asked the head of learning technology for her advice and support
- - there are some really exciting opportunities for new pedagogies, like helping pupils collaborate with each other online
+- I can get really bogged down in playing around with lots of new features – important to stay focused on the task and not on unnecessary extras that look nice but don’t directly improve learning
+- I needed help at the beginning because this was all new to me – I’m glad I asked the head of learning technology for her advice and support
+- there are some really exciting opportunities for new pedagogies, like helping pupils collaborate with each other online
 - pupils think they can contact me at any time by email or instant message – I’m finding it hard to switch off in the evenings, and now some parents are starting to demand that I reply to emails in the evening, too
- - my online diary has made it much easier for me to schedule planning for each subject and to set reminders so I stick to my schedule
+- my online diary has made it much easier for me to schedule planning for each subject and to set reminders so I stick to my schedule
 
 Marsha and Greg are typical of many teachers in their desire to keep improving their practice. They have clearly found ways to make technology work for them – around their teaching and for managing workload – but they have also encountered some possible challenges to their workload and well-being.
 
@@ -102,7 +101,6 @@ To help shape this discussion you could:
 
 Next Steps: 5 mins
 
-You will have time in the final session of this module to complete a formal action plan with your mentee. For now, encourage them to make notes of any ideas that they have about specific actions they would like to incorporate into this plan and to keep these safe until the final session of the module. 
+You will have time in the final session of this module to complete a formal action plan with your mentee. For now, encourage them to make notes of any ideas that they have about specific actions they would like to incorporate into this plan and to keep these safe until the final session of the module.
 
 Note the date of your next mentor meeting, when you will work with your mentee to draft an action plan for their professional responsibilities as they move into their third year as a teacher.
-

@@ -44,17 +44,13 @@ When reinforcing her modelling, Ms Mahrez should ensure her words and actions li
 
 Getting the balance between pupil success and encouraging pupil errors is challenging for Ms Mahrez. Teachers should aim for a high success rate (Coe et al., 2014) while developing pupil emotional self-regulation to support them to address the inevitable negative feelings around errors.
 
-
-
 ### Key takeaways
 
 Teachers can create a positive environment where behaviour promotes learning by understanding that:
 
-- teacher expectations affect pupil attitudes, values and behaviours, and therefore influence learning outcomes 
-- teachers are role-models for pupils. What teachers say and do will influence pupil behaviour, attitudes and values 
+- teacher expectations affect pupil attitudes, values and behaviours, and therefore influence learning outcomes
+- teachers are role-models for pupils. What teachers say and do will influence pupil behaviour, attitudes and values
 - teachers can promote pupil behaviour which is resilient and motivated by developing pupil emotional self-regulation. This means they have a healthy approach to failure as part of the learning process and also ensures pupils regularly experience meaningful success
-
-
 
 ### Further reading
 
@@ -64,8 +60,6 @@ EEF. (2019). Improving Social and Emotional Learning in Primary Schools. [bit.ly
 
 {details}
 References.
-
-
 
 <span style="font-weight: 400;">
   Black, P., &amp; Wiliam, D. (2009). Developing the theory of formative
@@ -133,4 +127,3 @@ References.
   <span style="font-weight: 400;">bit.ly/ecf-tsi</span>
 </a>
  {/details}
-

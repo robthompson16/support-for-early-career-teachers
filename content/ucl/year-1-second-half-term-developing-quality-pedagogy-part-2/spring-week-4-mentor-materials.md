@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
-## Meeting individual needs and balancing workload 
+## Meeting individual needs and balancing workload
 
 ### Learning intentions
 
@@ -15,13 +14,11 @@ Your ECT will learn how to:
 - plan to connect new context with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge
 - build in additional practice or remove unnecessary expositions
 
-
 ### Topic introduction
 
 In their self-directed study session earlier this week, your mentee extended their knowledge of meeting the individual needs of their pupils whilst balancing their workload. They should have annotated a scheme of learning for the next three lessons, applying their understanding of expositions, foundational concepts and efficiency.
 
 In this session, you will reflect on the notes they have made on the scheme of learning and consider how what is learned can be applied to your mentee’s teaching in the future.
-
 
 ### Meeting activities
 
@@ -42,8 +39,8 @@ Analyse artefacts
 Look at the annotated scheme of learning and the table of notes which the mentee did as part of their self-directed study.
 
 | Foundational Concepts | Potential Misconceptions | Potential resources/expositions | Efficient? (my workload) |
-| --------------------------- | ------------------------------ | ------------------------------------- | ------------------------------ |
-|                             |                                |                                       |                                |
+| --------------------- | ------------------------ | ------------------------------- | ------------------------ |
+|                       |                          |                                 |                          |
 
 Trying not to interrupt, listen to your mentee as they explain the misconceptions they expect may arise and how they will efficiently plan resources and expositions to address them.
 
@@ -88,4 +85,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

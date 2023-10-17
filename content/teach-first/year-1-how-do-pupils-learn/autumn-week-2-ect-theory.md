@@ -24,18 +24,17 @@ An example of how a complex idea could be broken into smaller steps can be seen 
 
 ## Introducing new knowledge to pupils
 
-
-
 ### Reflection
+
 Think carefully about the example above and make notes on the following questions:
-1. Why does breaking the explanation down into these five steps avoid overloading the working memory? 
-2. What prior knowledge is the teacher assuming the pupils have? 
-3. Would the explanation be different if the pupils were already proficient at a number of the steps? 
+
+1. Why does breaking the explanation down into these five steps avoid overloading the working memory?
+2. What prior knowledge is the teacher assuming the pupils have?
+3. Would the explanation be different if the pupils were already proficient at a number of the steps?
 4. What else would breaking the explanation down into these steps support the teacher to do?
 
-
-
 ### Breaking down complex tasks
+
 Watch the videos below of teachers breaking down an idea into smaller steps. As you
 watch, consider what prior knowledge the teachers are assuming that the pupils already
 have. Do you agree with the steps they have chosen? How have the teachers avoided overloading
@@ -45,14 +44,12 @@ the working memory?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CM9jeyC2BdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-If you require an audio description over the video, please watch this version:  <a href="https://youtu.be/Y8wvI_3pUAg" target="_blank" rel="noopener">Introducing new knowledge to pupils - Reach Academy [AD]</a>
+If you require an audio description over the video, please watch this version: <a href="https://youtu.be/Y8wvI_3pUAg" target="_blank" rel="noopener">Introducing new knowledge to pupils - Reach Academy [AD]</a>
 <br>
 
 ####Breaking down complex tasks – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBynqRpjwyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Breaking down complex tasks – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/pQHsB0FxkaE)
 
@@ -62,7 +59,6 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXRCZ-SoRaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Breaking down complex tasks – Primary - Shauna Warnock at One Degree Academy [AD]](https://youtu.be/PnCgen50xwQ)
 
 <br>
@@ -70,7 +66,6 @@ If you require an audio description over the video, please watch this version: [
 ####Breaking down complex tasks – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m12qNCnKHLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Breaking down complex tasks – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/rFGTqT6D45g)
 
@@ -99,7 +94,6 @@ Combining a verbal explanation with a relevant diagram or visual representation 
   </figcaption>
 </figure>
 
-
 This course took advantage of this principle when you were introduced to the Willingham model of the mind. As the concept is not linear and relies on the relationship between the different elements of the mind, if this model was explained using only text, the concept would have been harder to explain and understand.
 
 ####Combining verbal and graphical representation – John Hutchinson
@@ -108,10 +102,8 @@ Listen to teacher Jon Hutchinson talk about how he has learnt to effectively com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8oGAk2_IM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 So we know that information is processed by pupils through a few different sensory inputs. The two main ones being the auditory and the visual inputs and those different sensors have different advantages and disadvantages, so through auditory input we have a linear explanation. It can be very rich but it also means that we're limited by that linear nature whereas if we present something visually we're able to present that information in a non-linear way so we can show organizations and connections that we might not be able to do so easily in an auditory way. And so we want to capitalise on the way that dual coding can help us embed the information that we want pupils to learn in a more robust and sophisticated way. And so we capitalized on a few different ways, one of which is we hugely cut down on the extraneous load that we expect, that we put on pupils, so I know that I used to put lots and lots of text on the board when I was teaching a topic, especially one I wasn't confident on, mainly because I wanted to read it off the board but we know that's likely to really overload the pupils and they can't process both their own internal auditory voice from reading the text and listening to me and so that will result in cognitive overload, so we now use just key images when we're using slideshows and presentations and the explanation will come from the teacher. That might mean that what was on the board gets printed off so that the teacher can read it out over the image. So that when people see that sort of image, or imagine that sort of concrete example, they bring back to mind the rich explanation the teacher gave as well.
 
@@ -129,7 +121,6 @@ This Early Years teacher is using graphics to support her explanation of how to 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RiaMqgvJuCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Early Years [AD]](https://youtu.be/ACQe5bDwYtM)
 
 ####Combining verbal and graphical representation - Primary
@@ -137,7 +128,6 @@ If you require an audio description over the video, please watch this version: [
 This KS2 teacher uses a timeline to help place the Vikings in their historical context.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DdJegB7Ltok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Primary [AD]](https://youtu.be/8i5Y_F_07ds)
 
@@ -147,26 +137,23 @@ See how the teacher helps organise pupil thinking and makes connections using a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEG82OMp9Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Secondary [AD]](https://youtu.be/cSblnDhG2rA)
 
 ####Combining verbal and graphical representations - Specialist setting
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8W_nYqvHhP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representations - Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/36Ta6gK0vGw)
 
-
-
 ### Activity
+
 Consider an upcoming explanation, or an explanation that you have recently done with
 a class.
-- Decide where you could effectively combine a clear verbal explanation and _relevant_ graphical representation to support pupils’ understanding 
+
+- Decide where you could effectively combine a clear verbal explanation and _relevant_ graphical representation to support pupils’ understanding
 - How will it support your explanation and reduce the load on the working memory?
-Your mentor will be observing how you combine verbal explanations and graphical representations
-in your teaching practice. Bring your reflections and examples to your mentor interaction
-for review and discussion after your observation.
+  Your mentor will be observing how you combine verbal explanations and graphical representations
+  in your teaching practice. Bring your reflections and examples to your mentor interaction
+  for review and discussion after your observation.
 
 You may also be asked to discuss your example at your next training session.
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-
 ## Setting the scene and reflecting on your own practice
 
 ### Intended outcomes
@@ -15,7 +14,7 @@ Learn that:
 
 - Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 - How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
-- Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+- Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils.
 
 ### Activities
 
@@ -27,16 +26,17 @@ The first part of this topic will be a chance to look back at the progress the E
 
 If you were the mentor last year, it may be relevant/appropriate for you to offer your opinion on successes and ongoing areas for development.
 
-Suggested dialogue for mentors: 
+Suggested dialogue for mentors:
 
-Welcome to module 9 called ‘Enhancing your classroom practice’. As you know, this module builds on your learning from Year 1, focusing on pupil grouping and tailoring. In Year 1, you looked at what it means to be an ‘effective teacher’. 
+Welcome to module 9 called ‘Enhancing your classroom practice’. As you know, this module builds on your learning from Year 1, focusing on pupil grouping and tailoring. In Year 1, you looked at what it means to be an ‘effective teacher’.
 
 Some questions for discussion:
 
 - You’ve had a whole year since you learned about what it means to be an effective teacher in module 3. We looked at things such as modelling, scaffolding, effective expositions, breaking materials down into steps and practice. How do you think you have developed in these areas in the last year?
 - Being an effective teacher means being able to influence pupils’ beliefs about learning as well as their grade/outcomes. Have you got any examples where you think that has happened?
 - What areas do you feel you still need to work on?  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+
 ###Understanding the evidence (20 minutes)
 
 Guidance to mentors:
@@ -90,11 +90,9 @@ Questions to ask ECT:
 - What has it been like setting homework? Have you been consistent?
 - How have you achieved a link between classwork and homework?
 - What aspects of this example represent ‘quality’ homework?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ### Planning for action
 
 Ask the ECT what they will do differently as a result of today’s topic? When will they do this by?
 
-In the next topic you will be looking at paired and group work and how to facilitate it successfully. Ask the ECT to reflect on what group work they use already in their classroom? Ask them to be particularly observant of any paired or group work between now and the next topic so they can reflect with you on what works well and what the main challenges are.    
-
+In the next topic you will be looking at paired and group work and how to facilitate it successfully. Ask the ECT to reflect on what group work they use already in their classroom? Ask them to be particularly observant of any paired or group work between now and the next topic so they can reflect with you on what works well and what the main challenges are.

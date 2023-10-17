@@ -6,20 +6,20 @@ next_path: "/ambition-institute/year-1-subject/summer-week-6-ect-teaching-challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yNjn83sX4uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Chloe Wardle
+
 We want our pupils to remember and use what we teach them in the long term. We want
 them to be able to solve complex problems in the wider world. In order to do that,
 their knowledge needs to be deeply rooted so that they don't forget it and well connected
 so that they can spot when they should use it. To deepen understanding, teachers
 need to give pupils plenty of opportunities to think about new content and help them
 to connect that knowledge together.
+
 ### Presenter main
+
 Deepening understanding means thinking of ways to ensure that pupils can remember
 and use what they learn in the long term. It means helping pupils to develop knowledge
 that is securely embedded so that they don't forget it. It also means ensuring that
@@ -28,11 +28,12 @@ transfer their knowledge from one context to another, which can be hard to do. F
 example, if pupils connect business letters with formal writing and they know the
 different elements of formal writing, when they are given a task to write a business
 letter it should prompt them to recall relevant knowledge such as:
+
 - to write in a formal style
 - to limit overly descriptive language
 - to avoid the use of abbreviations
-The better connected our knowledge is, the more useful it is to us. How then can
-teachers help pupils to deepen their understanding?
+  The better connected our knowledge is, the more useful it is to us. How then can
+  teachers help pupils to deepen their understanding?
 
 One way to ensure a depth of understanding is to identify the essential concepts, knowledge and skills of a subject, and revisit these big ideas over time. There is a limit to how many ideas teachers can revisit, so they need to make sure that they are selecting the most important ones. What is the core content of a lesson or unit of work?
 
@@ -43,10 +44,14 @@ Finally, teachers can provide pupils with a range of different examples when tea
 Ultimately, deepening understanding is about building mental models that are securely rooted and well connected. The greater the depth of understanding, the more likely pupils are to remember and apply what they learn in the future.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of how to interleave concrete and abstract
 examples. As you watch, pay particular attention to the following:
+
 - Draws attention to the underlying structure of problems.
+
 ### Exemplification: Ambition Institute coach
+
 For the purpose of this model, imagine I'm teaching a year seven Geography
 class. I'm going to explain to them what a protective measure is. I'm doing this
 so that I can model how to interleave concrete and abstract examples.
@@ -66,20 +71,21 @@ To create this example, I came up with a definition of the abstract concept, ide
 This is just one way in which teachers can interleave abstract and concrete examples to deepen understanding. To be effective, teachers need to look for ways to do this across a sequence of learning and gradually reduce the need to rely on concrete examples as a support.
 
 ### Presenter key ideas
+
 In this video, we have looked at why it is important to deepen pupil understanding.
 And some of the ways in which teachers may do this. Take a moment now to read over
 the key ideas that we have covered. Which of the following ideas do you feel the
 example illustrated the best?
-- Revisiting the big ideas of the subject over time and teaching key concepts through a range of examples 
+
+- Revisiting the big ideas of the subject over time and teaching key concepts through a range of examples
 - Interleaving concrete and abstract examples, slowly withdrawing concrete examples and drawing attention to the underlying structure of problems
+
 ### Presenter summary
+
 Whatever subject or phase we are teaching, it is important to remember that
 teaching pupils something once or in just one way will never be enough to
 provide a secure understanding. Instead, we need to look for ways that we can
 deepen understanding so that pupils can retain and use what they learn in lots
 of different ways.
 
-
-
 {/details}
-

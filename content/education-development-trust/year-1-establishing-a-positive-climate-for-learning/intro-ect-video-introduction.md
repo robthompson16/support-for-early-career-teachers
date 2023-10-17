@@ -4,7 +4,6 @@ previous_title: "What you will learn"
 previous_path: "/education-development-trust/year-1-establishing-a-positive-climate-for-learning/intro-ect-what-you-will-learn"
 ---
 
-
 ### Time allocation
 
 10 minutes with 1.1a
@@ -15,11 +14,8 @@ Watch the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1ESaVcFPoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   Welcome to Block 1. Block 1 is about creating an effective climate for
@@ -76,10 +72,10 @@ Video transcript.
 
 <span style="font-weight: 400;">The </span>
 <span style="font-weight: 400;">
-  teachers we remember the most are those who were fair and consistent in how
-  they treated us. They are also the ones we knew had high expectations of both
-  our behaviour and what we could achieve. They inspired us to do more, do
-  better and produce our best. 
+teachers we remember the most are those who were fair and consistent in how
+they treated us. They are also the ones we knew had high expectations of both
+our behaviour and what we could achieve. They inspired us to do more, do
+better and produce our best. 
 </span>
 
 <span style="font-weight: 400;">
@@ -104,4 +100,3 @@ Video transcript.
   learning will follow before too long.
 </span>
  {/details}
-

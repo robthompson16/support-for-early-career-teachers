@@ -14,13 +14,11 @@ However frustrating, the fact is that if your pupils do not remember the new kno
 
 An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory
 
-
-
 ### In your notepad
+
 Look at the definitions below for long-term memory and working memory.
 
 Are you clear on the difference between long-term and working memory?
-
 
 | Long-term memory                                                                                                                                                                                                                                   | Working memory                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +28,6 @@ Are you clear on the difference between long-term and working memory?
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-2.2.1-How-the-mind-works-Opt-1.png" alt="The diagram provides a simple illustration of the mind, indicating that experiences of the external Environment enter the Working Memory (the site of awareness and thinking) before being stored in the Long-term Memory (as factual knowledge and procedural knowledge). Arrows indicate that information can also be recalled from the Long-term Memory to be used in the Working Memory when needed." />
 </figure>
 
-
 Both long-term and working memory play important roles in learning.
 
 When we encounter something new which has the potential to be learnt - for example learning about lines of symmetry in maths - it is first processed in the working memory before transitioning into the long-term memory once it has been learnt.
@@ -39,7 +36,7 @@ New information that we notice in our environment (e.g. what the teacher is teac
 
 When the pupil learns the definition of symmetry and how to recognise lines of symmetry in shapes this new knowledge will either be forgotten or begin its journey to move into their long-term memory where it can be called upon when needed - in other words it has been learnt.
 
-### Long-term memory 
+### Long-term memory
 
 Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge
 
@@ -52,16 +49,15 @@ Of course, not all information that makes its way into our long-term memory will
 - retrieval strength, or how often you access the memory over time; and
 - storage strength, or how deeply embedded the information was in your long-term memory including how many schemata the individual item is linked to.
 
-
-
 ### Example
+
 In the example below, the teacher applies their understanding of long-term memory,
 schema and working memory when introducing new content:
 
-* how does the teacher help pupils to retrieve information from their
-    long-term memory?
-* what techniques do they use to make the information available in the working
-    memory for the next task?
+- how does the teacher help pupils to retrieve information from their
+  long-term memory?
+- what techniques do they use to make the information available in the working
+  memory for the next task?
 
 Teacher: “We’ve been reading some really spooky stories and today we are going to
 start thinking about some vocabulary we can use when we draft our own scary stories.
@@ -85,8 +81,7 @@ Teacher: “Now, have a look around the room and you can see lots of different i
 
 Teacher: “Wow, we have so many amazing words for everyone here! I am now going to put these up on the wall so you can look up and use both the pictures and now our word banks to inspire your writing! Let’s read and talk about them as we put them up”.
 
-
-### Working memory 
+### Working memory
 
 Working memory is where information that is being actively processed is held, but its capacity is limited and can be overloaded
 
@@ -131,7 +126,6 @@ An Early Years classroom, the video shows how a teacher takes prior knowledge in
 {details}
 Video script.
 
-
 Pupils have been listening to and participating in a variety of songs and stories on a space travel theme, the initial interest for which was originally observed during free play.
 
 The role play area has subsequently been developed to include a rocket and related resources. The teacher has noted that the children have begun to use previously introduced space travel story vocabulary in their play and are beginning to talk about where they will go on their adventures. The teacher is keen to introduce a new word: future.
@@ -166,53 +160,51 @@ At the end of the day, the practitioner talks to the children about their plans 
 
 Another practical way you can avoid overloading working memory is to only introduce new material in small, manageable steps (Rosenshine, 2012). Ensuring pupils master foundational material and that it has had time to embed in the long-term memory before moving on will prevent working memory from becoming overloaded and support pupils to engage with more complex material. This is also true when teaching complex material to pupils: breaking it down and supporting pupils’ working memory with partially completed examples can help avoid cognitive overload.
 
-
-
 ### Example
+
 In the examples below, both teachers want their pupils to learn some complex material
 about the effects of war on a country. Think about these questions:
 
-* which teacher will be more successful?
-* how does Teacher B take cognitive load into account when teaching the
-    material?
- 
+- which teacher will be more successful?
+- how does Teacher B take cognitive load into account when teaching the
+  material?
+
 Example A:
 
-* teacher A teaches the content from the front. They speak for 35
-            minutes to cover all of the key factors related to the effects of
-            war
-* the teacher has planned to begin with an overview of the overall
-            impact under specific headings (Social, Economic, Political) and
-            then work backwards to explain the contributing factors (Debt,
-            Displacement, Lack of Education etc)
- * after 35 minutes they pause for questions from the pupils of which
-            there are a few, but mostly about the last point the teacher made
- * the teacher sets the pupils a writing task to describe the main
-            effects of war for the remaining 20 minutes of the lesson.
+- teacher A teaches the content from the front. They speak for 35
+  minutes to cover all of the key factors related to the effects of
+  war
+- the teacher has planned to begin with an overview of the overall
+  impact under specific headings (Social, Economic, Political) and
+  then work backwards to explain the contributing factors (Debt,
+  Displacement, Lack of Education etc)
+- after 35 minutes they pause for questions from the pupils of which
+  there are a few, but mostly about the last point the teacher made
+- the teacher sets the pupils a writing task to describe the main
+  effects of war for the remaining 20 minutes of the lesson.
 
-Example B: 
+Example B:
 
-* teacher B teaches the same content from the front
-* however, they introduce each factor one at a time
-* the order of the content has been carefully sequenced to ensure that
-            more complex ideas are only introduced once foundational factors
-            have been covered (for example, building up to the concept of
-            socio-economic impact only after understanding the effects of debt
-            and mass unemployment).
-* after they introduce each factor, they pause, and both take
-            questions and pose questions to the pupils. They respond to these
-            questions with further explanations and examples.
-* they provide the pupils with a workbook to complete. Each factor has
-            a page which has been broken into key categories. For example, there
-            is a section on ‘Definition’, ‘Example’, ‘Three key points’,
-            ‘Important vocabulary’.
-* the teacher has partially completed some of the boxes, for example
-            adding the key vocabulary and pupils need to add the definitions or
-            including the definition and pupils need to add the key vocabulary.
-* the teacher gives pupils a few minutes to complete the page in their
-            workbook after each factor is introduced before continuing.
-* this takes up the entire lesson
-
+- teacher B teaches the same content from the front
+- however, they introduce each factor one at a time
+- the order of the content has been carefully sequenced to ensure that
+  more complex ideas are only introduced once foundational factors
+  have been covered (for example, building up to the concept of
+  socio-economic impact only after understanding the effects of debt
+  and mass unemployment).
+- after they introduce each factor, they pause, and both take
+  questions and pose questions to the pupils. They respond to these
+  questions with further explanations and examples.
+- they provide the pupils with a workbook to complete. Each factor has
+  a page which has been broken into key categories. For example, there
+  is a section on ‘Definition’, ‘Example’, ‘Three key points’,
+  ‘Important vocabulary’.
+- the teacher has partially completed some of the boxes, for example
+  adding the key vocabulary and pupils need to add the definitions or
+  including the definition and pupils need to add the key vocabulary.
+- the teacher gives pupils a few minutes to complete the page in their
+  workbook after each factor is introduced before continuing.
+- this takes up the entire lesson
 
 ### 3. Reduce distractions which take attention away from what is being taught so that attention is focused on the content
 
@@ -243,10 +235,8 @@ Watch this video of a GCSE Biology lesson. A science teacher is trying to teach 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ql3JJCkUnao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video script.
-
 
 Teacher: Today we are learning about DNA. DNA controls the colour of our eyes and our skin and other things. We are going to do an activity which demonstrates how the chromosomes work in pairs to pass on information to a new cell. Chromosomes make up our DNA. If the pairs are messed up, that is when we get things like diseases, but they also decide whether we are male or female when we are born because of the X and Y. If you have the same, you’re a girl and different you’re a boy. You’ve got 23 socks in your pile, and I want you to try and match them up as fast as you can to the socks on the washing lines like our chromosomes pair up! Everyone ready? OK, go!
 
@@ -272,10 +262,8 @@ Watch this video of the same GCSE Biology content being taught differently by th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ5jmAg3cbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video script.
-
 
 Teacher: Today we are learning about DNA. Does anyone know what DNA means?
 
@@ -299,25 +287,22 @@ Teacher: Interesting you should ask… there is a very rare condition…
 
 {/details}
 
-
-
 ### Remember
+
 You can reduce cognitive overload in the classroom using some of these techniques:
 
-* linking new learning to existing prior knowledge in the long-term memory to
-    free up working memory space
-* minimising the complexity of tasks so that pupils can focus on the content
-    rather than being distracted
-* breaking new and complex content into small, manageable amounts to introduce
-    to pupils
-* taking your time with new material ‒ don’t rush, give pupils time to process
-* use memory aids like writing on the whiteboard so pupils don’t need to use
-    working memory when attempting tasks
- 
+- linking new learning to existing prior knowledge in the long-term memory to
+  free up working memory space
+- minimising the complexity of tasks so that pupils can focus on the content
+  rather than being distracted
+- breaking new and complex content into small, manageable amounts to introduce
+  to pupils
+- taking your time with new material ‒ don’t rush, give pupils time to process
+- use memory aids like writing on the whiteboard so pupils don’t need to use
+  working memory when attempting tasks
 
 {details}
 References.
-
 
 Baddeley, A. (2003) Working memory: looking back and looking forward. Nature reviews neuroscience, 4(10), 829‒839.
 
@@ -349,4 +334,3 @@ Willingham, D. T. (2009) Why don’t students like school? San Francisco, CA: Jo
 Wittwer, J., &amp;amp; Renkl, A. (2010) How Effective are Instructional Explanations in Example-Based Learning? A Meta-Analytic Review. Educational Psychology Review, 22(4), 393–409.[Online] Accessible from <a href="https://doi.org/10.1007/s10648-010-9136-5">https://doi.org/10.1007/s10648-010-9136-5</a>
 
 {/details}
-

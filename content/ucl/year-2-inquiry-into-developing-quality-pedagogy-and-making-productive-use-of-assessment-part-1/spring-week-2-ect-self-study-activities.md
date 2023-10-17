@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-1/spring-week-2-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 5 mins
 
 Read the case studies on this week’s topic, or the one that is most relevant to the exploratory question you are investigating. As you read, reflect on:
@@ -88,4 +87,3 @@ Louise, in Case Study C, said:
 Bring your simple evidence statement and any supporting data to your mentor meeting next week and be ready to discuss this with them.
 
 In that meeting, you will discuss with your mentor any alteration to your practice that might make a positive difference to your pupils.
-

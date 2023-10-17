@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-2-ect-reflect"
 ---
 
-
 Ms Stones wants to ensure pupils experience maximum learning in each lesson. She knows she needs to challenge pupils with new learning content but is unsure how to decide the right amount of content to do this. How could she identify and divide up content, and check if learning is taking place? How can she adapt others' plans for her own classes to achieve this?
 
 ## Key idea
@@ -47,9 +46,8 @@ Ms Stones’ assessment may pick up that pupils are not yet secure in their thin
 
 One approach to breaking learning down could be to set steps which pupils can already easily do, to ensure success. However, setting easy work might suggest the teacher has low expectations, which is likely to negatively affect pupil confidence and motivation (Coe et al., 2014). Furthermore, if pupils are not set challenging enough tasks, they will not learn as much.
 
-
-
 ### Key takeaways
+
 Ms Stones can deliver more effective instruction by identifying the learning content
 if she understands that:
 
@@ -57,14 +55,12 @@ if she understands that:
 - breaking learning down should make thinking manageable enough for pupils to experience a high success rate
 - identifying manageable steps is tricky, so teachers should check all pupils’ key learning, and provide further support to ensure a high success rate
 
-
 ### Further reading
 
 Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. _American Educator,_ 36(1), 12–20. [bit.ly/ecf-ros.](http://bit.ly/ecf-ros.)
 
 {details}
 References.
-
 
 Christodoulou, D. (2017). Making Good Progress: _The Future of Assessment for Learning._ Oxford, OUP.
 
@@ -81,4 +77,3 @@ Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. 
 Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco, Jossey-Bass.
 
 {/details}
-

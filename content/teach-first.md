@@ -20,7 +20,7 @@ In this module you'll hear an education expert talking about the features of eff
 
 ### [Second half-term: how can you use assessment and feedback to greatest effect?](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect)
 
-In this module you'll hear from education experts about why assessment should be at the heart of your teaching. You'll also explore ways to give purposeful feedback to your pupils and what you can learn from summative data sets. 
+In this module you'll hear from education experts about why assessment should be at the heart of your teaching. You'll also explore ways to give purposeful feedback to your pupils and what you can learn from summative data sets.
 
 ## Year 1: Summer term
 
@@ -47,4 +47,3 @@ There are no new materials.
 ### [First half term](/teach-first/year-2-first-half-term)
 
 There are no new materials.
-

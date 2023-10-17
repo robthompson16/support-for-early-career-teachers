@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## The importance of prior learning
 
 ### Intended outcomes
@@ -22,7 +21,6 @@ Learn how to avoid overloading working memory by:
 Learn how to build on pupils’ prior knowledge, by:
 
 - Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 ### Activities
 
@@ -53,7 +51,7 @@ All of the above will be true for pupils as well. Prior knowledge plays a really
 - Any new material we learn (such as the definition of the word clade) connects to existing knowledge we have in our long-term memory. When you introduce a new idea or concept to pupils if it can be connected to their prior knowledge, they will have a much better chance of both understanding and remembering it.
 - As pupils move through school, they will encounter more complex and difficult ideas and concepts. They will more easily be able to grasp these if they have secure prior knowledge. By making explicit links to the prior knowledge needed for a complex idea, pupils will be more successful.
 
-Pose the question: How can teachers take into account prior knowledge when teaching new content? 
+Pose the question: How can teachers take into account prior knowledge when teaching new content?
 
 Prompts:
 
@@ -95,25 +93,22 @@ Pose the question: Based on the prior knowledge context, should you include all 
 
 - Help the ECT to narrow down the content in the lesson. They may not need to cut anything but help them to weigh up whether there is too much new content for pupils to cope with.
 - Hint: Think about:
-    - The age of the pupils (younger pupils will cope with less new content because they have less prior knowledge)
-    - The difficulty of the new content (How complex is the content? Is it abstract or concrete? Abstract ideas will be more difficult therefore you should introduce less content)
-    - How confident is the teacher in the prior knowledge? (Did they teach it themselves? Do they have strong evidence that pupils have secure prior knowledge? If not, choose less new content and spend longer on the prior knowledge needed).
+  - The age of the pupils (younger pupils will cope with less new content because they have less prior knowledge)
+  - The difficulty of the new content (How complex is the content? Is it abstract or concrete? Abstract ideas will be more difficult therefore you should introduce less content)
+  - How confident is the teacher in the prior knowledge? (Did they teach it themselves? Do they have strong evidence that pupils have secure prior knowledge? If not, choose less new content and spend longer on the prior knowledge needed).
 
 ####2. Plan an explanation that links the new content to previously learnt material.
 
 For the lesson, identify a new piece of content that they will be introducing. Together, script an explanation for how they will directly link the new content to previously learnt material.
 
-Example: 
+Example:
 
 “Today we are going to be expanding single brackets. Expanding single brackets is very similar to calculating the area of a rectangle. Do you remember the week before half term when we spent time working out the area of lots of rectangles? (Pause for pupils to comment) Can anyone remember the formula we used? (Pupils respond with length x width) Brilliant, that is exactly the same as what we will be doing for expanding a single bracket but this time the length is the variable outside the bracket and the width is the variables inside the bracket. Let’s look an example together…”
 
 ### Planning for action
-
-
 
 Ask the ECT to practise the explanation they have just scripted.
 
 Ask the ECT to confirm when they will teach the lesson they have discussed.
 
 In the next topic you will be looking at uncovering misconceptions. If the mentor is not from the same phase or subject area you may want to invite another colleague who has this expertise to support the ECT to the next topic. Agree with the ECT who you will invite now. Alternatively, the ECT could speak to this colleague in advance of the next topic to ask for common misconceptions linked to a topic they will be teaching soon. They should bring this with them to the next topic.
-

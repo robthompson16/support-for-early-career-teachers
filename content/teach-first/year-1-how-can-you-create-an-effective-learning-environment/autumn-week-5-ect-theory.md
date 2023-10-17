@@ -42,19 +42,17 @@ Any consequence you issue must be delivered consistently.
 
 Watch the video below to hear Tom Bennett discuss this in more detail. Make notes on the following questions:
 
-* why is consistency important?
-* why is it important to be consistent with the whole school community?
-* how can you ensure you demonstrate consistency in your behavioural
-      expectations?
+- why is consistency important?
+- why is it important to be consistent with the whole school community?
+- how can you ensure you demonstrate consistency in your behavioural
+  expectations?
 
 ####The importance of clarity and consistency – Tom Bennett
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXlJz11L-hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Nothing you do in a classroom will bed in with the students behaviourally unless it's incredibly consistent. If you want something to be a norm, if you want a given behaviour to be the norm, if you want a routine to be normal then it must be done, demonstrated and explained consistently. That this is much harder than many teachers I think suspect, it's something much harder than many schools suspect and it's where many teachers and schools get it wrong.
 
@@ -88,36 +86,32 @@ As a teacher, you are a key role model, who can influence the attitudes, values 
 
 The language you use will support you to do this as demonstrated in the non-example and example below.
 
-
-
 ### Non-example
+
 “You just can’t listen, can you? Move your card down.”
 
 This labels the pupil, not their behaviour. This may have a negative impact on the pupil’s self-esteem and may make them more likely to think they can’t achieve and thus ‘give-up’. It may also be damaging to your relationship with this pupil as it doesn’t help to create a respectful and trusting learning environment and doesn’t take the pupil’s feelings into consideration.
 
-
-
-
 ### Example
+
 “James, you’re talking, I’m moving your name down. Look this way like I know you
 can. Thanks.”
 
-This labels the negative behaviour (talking) not the pupil, and gives them a solution for how to get back on track. It is also much more positive. 
+This labels the negative behaviour (talking) not the pupil, and gives them a solution for how to get back on track. It is also much more positive.
 
 Below are the key features that make this example successful:
 
-* names the pupil so there is no uncertainty around who the teacher is
-    addressing ("James")
-* identifies the negative behaviour so the pupil knows why they are receiving
-    a consequence ("you’re talking")
-* states the consequence _("I’m moving your name down") \* ends positively and assumes respectful cooperation ("Look this way like I know you can. Thanks") ## Deferred The defining feature of a deferred consequence is that it places ownership on the pupil by giving them the option to follow your instructions or face a more severe consequence later. Unlike the quick correction you might use to correct a behaviour first time round, a deferred consequence is more serious and will take place later – for example at break time, lunch time, or after school. This type of consequence should be used when a pupil continues to disrupt a lesson or to disobey your instructions and the consequence given should align with the behavioural policy or class sanctions you have set. ### Example If you have already asked a pupil to put their phone away two times and they still haven’t, you would give them the choice_ to do this or face the consequences
-of not doing this. To issue this deferred consequence, you might say:
+- names the pupil so there is no uncertainty around who the teacher is
+  addressing ("James")
+- identifies the negative behaviour so the pupil knows why they are receiving
+  a consequence ("you’re talking")
+- states the consequence _("I’m moving your name down") \* ends positively and assumes respectful cooperation ("Look this way like I know you can. Thanks") ## Deferred The defining feature of a deferred consequence is that it places ownership on the pupil by giving them the option to follow your instructions or face a more severe consequence later. Unlike the quick correction you might use to correct a behaviour first time round, a deferred consequence is more serious and will take place later – for example at break time, lunch time, or after school. This type of consequence should be used when a pupil continues to disrupt a lesson or to disobey your instructions and the consequence given should align with the behavioural policy or class sanctions you have set. ### Example If you have already asked a pupil to put their phone away two times and they still haven’t, you would give them the choice_ to do this or face the consequences
+  of not doing this. To issue this deferred consequence, you might say:
 
 <em data-rich-text-format-boundary="true">
   “If you choose not to put the phone away, I’ll have to ask you to stay back
   after class.”
 </em>
-
 
 By giving pupils the choice before issuing that more severe consequence, you give them the opportunity to correct their behaviour. This supports their emotional and behavioural self-regulation, which can impact upon their success at school and beyond.
 
@@ -129,21 +123,19 @@ Watch the video below of a teacher giving a pupil a consequence in your phase. C
 
 How is the consequence delivered?
 
-* consistent
-* depersonalised
-* deferred
+- consistent
+- depersonalised
+- deferred
 
-####Issuing a consequence – Early Years -  Maria Craster at One Degree Academy
+####Issuing a consequence – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLs3aLf6D90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-If you require an audio description over the video, please watch this version: [Issuing a consequence – Early Years -  Maria Craster at One Degree Academy [AD]](https://youtu.be/hbuejQ3a6Yw)
+If you require an audio description over the video, please watch this version: [Issuing a consequence – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/hbuejQ3a6Yw)
 
 ####Issuing a consequence – Primary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihjfhfkr0uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Primary [AD]](https://youtu.be/bb0vn3Kdlzk)
 
@@ -151,23 +143,20 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CaEyn3_HoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Secondary [AD]](https://youtu.be/RoVb4n9IRig)
 
-
-
 ### Reflection
+
 Think of a time when you have issued a consequence to a pupil and consider the following
 questions:
 
-* how did you issue the consequence?
-* what impact did this have on the pupil’s and their peers’ learning?
-* thinking about what helps to make delivering consequences effective
-      (consistent, depersonalised, deferred), what might you do differently next
-      time and why?
+- how did you issue the consequence?
+- what impact did this have on the pupil’s and their peers’ learning?
+- thinking about what helps to make delivering consequences effective
+  (consistent, depersonalised, deferred), what might you do differently next
+  time and why?
 
 Record your reflection in your notepad.
-
 
 In your next mentor meeting, you will have the opportunity to share your reflections and discuss how you can deliver effective consequences in line with your school’s behaviour policy.
 
@@ -189,33 +178,35 @@ In your next mentor meeting, you will have the opportunity to discuss what you h
 
 To prepare for this, choose one case study below and decide how you would address the pupil’s behaviour in line with your school’s approach. Make notes ready to discuss with your mentor in your next meeting.
 
-
 ### Early Years challenging behaviour case study
 
-
-
 #### Pupil background
+
 Pupil A is in Reception. He hasn't been to a nursery prior to attending Reception. He joined at the beginning of the year. He doesn’t have a mother but lives with his dad and two older brothers who attend the same school. His dad engages with school when he can. He works shifts so sometimes is unavailable to speak to at the beginning or end of the day. When this happens, his sister collects his children from school. His dad is concerned about his son's behaviour and regularly asks for ways to support his son both at school and at home.
+
 #### The incident
-Pupil A occasionally demonstrates aggressive behaviour. In the past, he has thrown items in the classroom such as pencils or building blocks but has never harmed another pupil until this incident. He was exploring Numicon in the sandpit in the outdoor learning area. Another pupil came over to join him. Immediately, Pupil A shouted “No” and then threw the Numicon piece at that child’s face and bit his arm leaving a bruise.  
+
+Pupil A occasionally demonstrates aggressive behaviour. In the past, he has thrown items in the classroom such as pencils or building blocks but has never harmed another pupil until this incident. He was exploring Numicon in the sandpit in the outdoor learning area. Another pupil came over to join him. Immediately, Pupil A shouted “No” and then threw the Numicon piece at that child’s face and bit his arm leaving a bruise.
 
 ### Primary challenging behaviour case study
 
-
-
 #### Pupil background
+
 This pupil is in year 6. He joined the school halfway through year 4 and comes from a challenging background. His parents are separated and have been for the duration of his time at our school. Both parents hold very different views on behaviour and as a result have different expectations of their child which can confuse him as it muddles the boundaries we try to set at school. His mother is approachable and willing to try and support him in school but often makes excuses for his lack of engagement or disruptive behaviour, often blaming the lesson for not being engaging or challenging enough for him, whereas their father is very strict and holds extremely high expectations of him. He sees his father every other weekend and I always notice a difference in his behaviour after spending time with his father. I have no contact with his father as his mother is his primary carer. He has very low self-esteem and resilience.
+
 #### The incident
-The pupil regularly demonstrates challenging behaviour across a range of settings throughout the day. On one occasion, I was teaching long division, explaining the steps and asking pupils to attempt further questions on their whiteboards. Whilst I was teaching, I could see he was not tracking me or following my explanation. When asked to complete examples on his whiteboard, he rested his head on his arms and ignored my request.  
+
+The pupil regularly demonstrates challenging behaviour across a range of settings throughout the day. On one occasion, I was teaching long division, explaining the steps and asking pupils to attempt further questions on their whiteboards. Whilst I was teaching, I could see he was not tracking me or following my explanation. When asked to complete examples on his whiteboard, he rested his head on his arms and ignored my request.
 
 ### Secondary challenging behaviour case study
 
-
-
 #### Pupil background
+
 The student (Student A) is in year 11. He and his twin brother (Student B) have officially attended the school since arriving in year 8 following their parents’ divorce, but both have low attendance, with the student in question on the verge of persistent non-attendance in year 10. The boys live with their mother, though Student B has spent periods living with their father. Mother is personally supportive, but struggles to influence the behaviour of the boys, often accepting their misbehaviour or non-attendance in order to maintain her own relationship with them and avoid the risk of them returning to their father. Father refuses to interact with school. Both boys are socially active, with reports of smoking, drinking and anti-social behaviour outside of school. Both students are theoretically bright, but have limited motivation and concentration, content gaps due to absence, and a tendency to react aggressively or ‘walk out’ when challenged.
+
 #### The incident
-Student A and Student B are both in the same class for their English lessons, and regularly distract each other when present. Student B’s attendance has been noticeably higher than his brother’s. In the run-up to a set of mock exams, both students, following some pressure on and support from both parents, were going through a phase of regular attendance. While revising poetry, some of which Student A had not studied due to absence, Student A was distracted by Student B. When reprimanded, Student B focused on the work in question. Student A continued to attempt to catch his brother’s attention. He refused to engage with the tasks given, rejected support offered, and eventually threw his pen across the table, asserted that he couldn’t do it and couldn’t see the point, added “Fuck this”, and walked out of the lesson.  
+
+Student A and Student B are both in the same class for their English lessons, and regularly distract each other when present. Student B’s attendance has been noticeably higher than his brother’s. In the run-up to a set of mock exams, both students, following some pressure on and support from both parents, were going through a phase of regular attendance. While revising poetry, some of which Student A had not studied due to absence, Student A was distracted by Student B. When reprimanded, Student B focused on the work in question. Student A continued to attempt to catch his brother’s attention. He refused to engage with the tasks given, rejected support offered, and eventually threw his pen across the table, asserted that he couldn’t do it and couldn’t see the point, added “Fuck this”, and walked out of the lesson.
 
 It’s important that you don’t feel alone in dealing with challenging behaviour - you have a right to be supported by your school to deal with it. If you do encounter incidents that you are unsure how to deal with or don’t feel confident to address, you should seek support from your mentor, a member of your senior leadership team and possibly your SENCo. Managing behaviour is a whole school responsibility so you shouldn’t feel as though you have to act alone.
 
@@ -225,20 +216,18 @@ Some consequences or sanctions can have a negative impact upon your relationship
 
 ####How do you repair and build relationships? – Tom Bennett
 
-Listen to Tom Bennett in the video below talking about the importance of repairing relationships and holding restorative conversations to improve pupils’ behaviour. 
+Listen to Tom Bennett in the video below talking about the importance of repairing relationships and holding restorative conversations to improve pupils’ behaviour.
 
 Whilst watching the video, consider the following questions and make notes in your notepad:
 
-* why is it important to hold restorative conversations – what are the three
-      key messages you can convey during these?
-* when is the best time to hold restorative conversations?
+- why is it important to hold restorative conversations – what are the three
+  key messages you can convey during these?
+- when is the best time to hold restorative conversations?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktEzi6NO30k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Ok, so how do you repair relationships? What do you do when things go wrong either with an individual pupil or with an entire class (hopefully not)? There's lots of things that can be done. In fact, there's lots of things that must be done and one of the first things that must be thought of is ‘what are the consequences for these actions?’, ‘What needs to happen?’ So for example if you have got a whole school consequence system, if you have a C1 or C2 or students are meant to lose golden time or students are meant to have their parents called at home or have a postcard home or whatever the consequence of the action is, it's terribly important that you follow that to the letter unless there's a reasonable exception to be made. The reason why that's important is because you're not just upholding the norm for that child but also for the entire class. Students need to know that their actions matter and if that means a mild sanctioned, then so be it. If you take the sanction away, and you can't run classes entirely on sanction, but if you take the sanction away, then you lose the deterrent effect which might be implicit in that sanction. So, try to be as consistent as possible even if you don't like or feel like giving the sanctions. In fact particularly even then because you don't want to come across as unfair to the children by only letting children off because they normally behave well or perhaps there’s some kind of invisible bias - you like them more than others, and that would be a dreadful norm to try to communicate to the children.
 
@@ -247,36 +236,35 @@ So that's the sanction or reward element but perhaps more importantly is how do 
 - where they went wrong
 - what need to do to improve
 - and why they're still valued and why they're still wanted as a member of a classroom.
-We can reprimand students, for example, for misbehaving and do so in a positive way.
-We can say things like ‘I expect better of you and I know you can do better’ and
-‘is there a reason why you weren't behaving?’ and we might start to unpick and unpack
-perhaps some other, deeper reasons why children are misbehaving. They may be being
-bullied or going through, parents going through divorces at home and so on. That's
-what we need to try to find out, particularly if there are patterns of misbehaviour.
-But in the conversation where we reintegrate the child into the classroom, we need
-to establish those three things:
+  We can reprimand students, for example, for misbehaving and do so in a positive way.
+  We can say things like ‘I expect better of you and I know you can do better’ and
+  ‘is there a reason why you weren't behaving?’ and we might start to unpick and unpack
+  perhaps some other, deeper reasons why children are misbehaving. They may be being
+  bullied or going through, parents going through divorces at home and so on. That's
+  what we need to try to find out, particularly if there are patterns of misbehaviour.
+  But in the conversation where we reintegrate the child into the classroom, we need
+  to establish those three things:
 - What went wrong?
 - What you can do better.
 - And you are still valued, and I want you in the classroom, but I want you to be better.
-If the child can acknowledge and understand those three things, there is a chance
-that behaviour will improve. What mustn't happen is that the child is simply reintroduced
-into the classroom environment because being removed from the classroom environment,
-being asked to wait outside in the corridor, being given some kind of sanction is
-not in itself restorative - it does not cure or improve people. What it tends to
-do is give the class a respite, which is important but isn't going to be focused
-on restoring the behaviour of the student. So, give them ways forward.
+  If the child can acknowledge and understand those three things, there is a chance
+  that behaviour will improve. What mustn't happen is that the child is simply reintroduced
+  into the classroom environment because being removed from the classroom environment,
+  being asked to wait outside in the corridor, being given some kind of sanction is
+  not in itself restorative - it does not cure or improve people. What it tends to
+  do is give the class a respite, which is important but isn't going to be focused
+  on restoring the behaviour of the student. So, give them ways forward.
 
 And the time to do this, the time to have this conversation - it depends. If the student’s misbehaviour is small, if the reasons for it are fairly mundane like they were just mucking around, then the response and the restorative conversation and the attempt to repair needs to be as quickly as possible: the next break time, the next lunch time, at the end of the day and so on. Perhaps even in the class if it’s a very small incident. But if the student’s behaviour is extreme or they become very upset or you've become very upset, then the time to have that conversation is not immediately. Because when people are agitated or upset or adrenaline's rushing to the system and when the blood is hot, those are not the best times to have rational, intelligent conversations. Those are the times to think to yourself, ‘we need a bit of breathing space and we need to separate ourselves and allow ourselves to calm down’. You cannot control a fire, you can certainly contain it and let it burn itself out and even the most agitated student will calm down and even the most agitated teacher will calm down. So, be aware of you and yourself in this process and ask yourself ‘is this the right time for me to have this sort of conversation?’ But crucially the conversation must be had and if it's a small incident, it can be a short conversation. If it’s a bigger one, it needs to be a long, more extended conversation, possibly using other parties from the school, possibly using people from the student's home as other parties to try to sustain and support the reintegration.
 
 {/details}
 
-
-
 ### Reflection
+
 Think about an occasion when you think a consequence or sanction might have impaired
 your relationship with a pupil. Consider the following questions and record your
 reflection in your notepad:
 
-* why do you think this interaction impaired your relationship?
-* what did you do to address this and why was this effective/ineffective?
-* what might you do differently next time?
+- why do you think this interaction impaired your relationship?
+- what did you do to address this and why was this effective/ineffective?
+- what might you do differently next time?

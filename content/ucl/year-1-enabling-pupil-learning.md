@@ -4,8 +4,7 @@ heading: "First half-term: enabling pupil learning"
 caption: "Year 1"
 ---
 
-
-In this module you'll focus on how you set up your classroom as a learning environment. 
+In this module you'll focus on how you set up your classroom as a learning environment.
 
 You'll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
 
@@ -13,8 +12,7 @@ You'll be able to reflect on the different ways you can influence your environme
 
 During your first week of a module, you and your mentor will take a look at the topics being covered, establish your level of confidence and agree areas to focus on.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -26,8 +24,8 @@ During the first week of the module, you should take a look at the topics being 
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- work through the self-study materials below
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -40,8 +38,8 @@ Duration: 45 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT
+- see what the ECT is learning
+- structure your catch-up with the ECT
 
 [View mentor materials](/ucl/year-1-enabling-pupil-learning/autumn-week-2-mentor-materials)
 
@@ -49,8 +47,8 @@ Use the materials below to:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 45 minutes.
 
@@ -62,8 +60,8 @@ Duration: 45 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT
+- see what the ECT is learning
+- structure your catch-up with the ECT
 
 [View mentor materials](/ucl/year-1-enabling-pupil-learning/autumn-week-3-mentor-materials)
 
@@ -71,8 +69,7 @@ Use the materials below to:
 
 You don’t have any self-study materials this week, but there will be a meeting with your mentor to discuss this topic.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -84,8 +81,8 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 45 minutes.
 
@@ -97,8 +94,8 @@ Duration: 45 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT
+- see what the ECT is learning
+- structure your catch-up with the ECT
 
 [View mentor materials](/ucl/year-1-enabling-pupil-learning/autumn-week-5-mentor-materials)
 
@@ -106,8 +103,8 @@ Use the materials below to:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 45 minutes.
 
@@ -119,26 +116,24 @@ Duration: 45 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT
+- see what the ECT is learning
+- structure your catch-up with the ECT
 
 [View mentor materials](/ucl/year-1-enabling-pupil-learning/autumn-week-6-mentor-materials)
 
 ## Week 7: exploring yourself as a role model
 
-You don’t have any self-study materials this week, but there will be a meeting with your mentor to discuss this topic. 
+You don’t have any self-study materials this week, but there will be a meeting with your mentor to discuss this topic.
 
 Your mentor should also see how you are putting what you’ve learnt into practice by watching you teach for 10 to 15 minutes.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT
+- see what the ECT is learning
+- structure your catch-up with the ECT
 
 [View mentor materials](/ucl/year-1-enabling-pupil-learning/autumn-week-7-mentor-materials)
-

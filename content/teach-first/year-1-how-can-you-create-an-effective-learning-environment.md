@@ -4,12 +4,11 @@ heading: "First half-term: how can you create an effective learning environment?
 caption: "Year 1"
 ---
 
-
 In this module you'll explore what effective learning environments look like and strategies you can use to achieve them.
 
 ## Week 1: introduction
 
-Go through the module introduction to see what you'll be learning. 
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -17,7 +16,7 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Go through the module introduction to see what the ECT will be learning. 
+Go through the module introduction to see what the ECT will be learning.
 
 [View mentor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-1-mentor-materials)
 
@@ -25,8 +24,8 @@ Go through the module introduction to see what the ECT will be learning.
 
 During the first topic of the module you need to:
 
-* work through the self-study materials below
-* meet your mentor to discuss what you'll be doing in the weeks ahead
+- work through the self-study materials below
+- meet your mentor to discuss what you'll be doing in the weeks ahead
 
 Duration: 50 minutes.
 
@@ -38,17 +37,17 @@ Duration: 50 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom    
+- see what the ECT is learning
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-2-mentor-materials)
 
 ## Week 3: creating a positive and respectful classroom environment
 
- For this topic you’ll need to:
+For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 30 minutes.
 
@@ -60,8 +59,8 @@ Duration: 30 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- see what the ECT is learning
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-3-mentor-materials)
 
@@ -69,8 +68,8 @@ Use the materials below to:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 40 minutes.
 
@@ -82,8 +81,8 @@ Duration: 40 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- see what the ECT is learning
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-4-mentor-materials)
 
@@ -91,8 +90,8 @@ Use the materials below to:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 50 minutes.
 
@@ -110,8 +109,8 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 40 minutes.
 
@@ -123,8 +122,8 @@ Duration: 40 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom  
+- see what the ECT is learning
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-6-mentor-materials)
 
@@ -132,8 +131,8 @@ Use the materials below to:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 50 minutes.
 
@@ -145,8 +144,7 @@ Duration: 50 minutes.
 
 Use the materials below to:
 
-* see what the ECT is learning 
-* structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom  
+- see what the ECT is learning
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-7-mentor-materials)
-

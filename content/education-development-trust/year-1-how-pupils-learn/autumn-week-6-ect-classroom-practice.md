@@ -95,17 +95,14 @@ Three strategies which the research literature cites as having beneficial outcom
 - Use questioning to get pupils to unpick the misconception.
 - Ask pupils to then correct their own work.
 
-
-
 ### In your notepad
+
 As you work this through activity try to answer the following questions:
 
-* which idea(s) for practice did you try? 
+- which idea(s) for practice did you try?
 
-* what did you do? 
+- what did you do?
 
-* what happened? 
+- what happened?
 
-* what will you do next?
-
-
+- what will you do next?

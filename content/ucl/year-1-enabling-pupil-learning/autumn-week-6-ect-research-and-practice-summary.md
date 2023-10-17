@@ -6,20 +6,17 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-6-ect-self-study-activities"
 ---
 
-
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-
-
 ### Overcoming a difficult few weeks
+
 James started in his new school in September. He is delighted with how effectively
 he has established his high expectations and how well pupils have responded to these.
 
 However, as the October half-term approaches, James is increasingly aware that some of his expectations are being challenged by pupils. His mentor reassures him that this is very common and that it matters how he responds – this is an important opportunity for James to reinforce and maintain the strong start that he has made.
 
 What should James think about to reinforce and maintain the high expectations
-  he has established?
-
+he has established?
 
 You have already learnt about how to effectively establish your expectations. You saw how you can use the following four stages to establish and maintain routines and expectations for behaviour:
 
@@ -46,11 +43,10 @@ Responding consistently to pupil behaviour is important for two reasons:
 - reinforcing expectations – if you only sometimes reinforce your expectations in how you use sanctions and rewards, then pupils quickly learn that your expectations are optional. Over time, you will likely find that pupils adhere less and less to your high behavioural expectations
 - fairness – pupils have a strong sense of fairness, so if they notice (or perceive) they are being treated differently than their peers this can undermine your relationship with them. Therefore, it is important to ‘be fair’ and to ‘be seen to be fair’. This can include, for example, using least-intrusive interventions (see week 3 of Module 1) so that pupils don’t feel that they are being singled out in front of their peers, and linking your use of rewards and sanctions to the school behaviour policy. By being explicit like this, you make it clear to pupils why they are being sanctioned and others know what they need to do to achieve the rewards that their peers receive
 
-
-
 ### Case study
 
 #### Setting pupils up to succeed: consistency and persistence
+
 James was coming to dread his Friday afternoon lessons. It seemed that pupils could
 sense the weekend coming and were especially tricky to teach at this time. He felt
 that two pupils in particular consistently caused low-level disruption that affected
@@ -68,22 +64,22 @@ James’s mentor also suggested some strategies to work on. She felt that the di
 
 Based on this feedback, James set himself the following targets:
 
-* target the two pupils with clarification questions when giving task
-    instructions, to make sure that they fully understand expectations from the
-    outset
-* focus on using consistent language and non-verbal signals for common
-    directions in the classroom, so that he can more easily remind the pupils of
-    his expectations while they are working. This includes a non-verbal ‘shhh’
-    gesture for when they get chatty, which James can use without distracting
-    other pupils
+- target the two pupils with clarification questions when giving task
+  instructions, to make sure that they fully understand expectations from the
+  outset
+- focus on using consistent language and non-verbal signals for common
+  directions in the classroom, so that he can more easily remind the pupils of
+  his expectations while they are working. This includes a non-verbal ‘shhh’
+  gesture for when they get chatty, which James can use without distracting
+  other pupils
 
 James’ situation is not unique. All teachers experience these kinds of challenges
-from time to time, especially less experienced teachers. 
+from time to time, especially less experienced teachers.
 
 By consistently and persistently
 applying the principles you have learnt in this module, you will be able to address
-these challenges and support all pupils to learn well in your class. 
+these challenges and support all pupils to learn well in your class.
 
 Remember that
 you are not alone in this endeavour and that you can expect assistance and support
-from colleagues, which can often make all the difference. 
+from colleagues, which can often make all the difference.

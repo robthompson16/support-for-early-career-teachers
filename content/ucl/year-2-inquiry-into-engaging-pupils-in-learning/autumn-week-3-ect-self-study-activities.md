@@ -42,25 +42,14 @@ It is useful to remember that pupil work—whether it is performed (as in art, d
 
 When collecting this sort of data, it is helpful to bear in mind:
 
-
-
 #####Validity
-The sources you analyse will contain much more data than you need for your inquiry. It may be interesting, but don’t be distracted: only collect the evidence that helps answer your question. For example, if you are investigating the boys in a class, look for the data only on them. 
-
-
-
-
+The sources you analyse will contain much more data than you need for your inquiry. It may be interesting, but don’t be distracted: only collect the evidence that helps answer your question. For example, if you are investigating the boys in a class, look for the data only on them.
 
 #####Reliability
-The data you find might be true for a particular time in the past—is it still true now? For example, is a pupil’s past behaviour record reliable evidence of their behaviour patterns now? 
-
-
-
-
+The data you find might be true for a particular time in the past—is it still true now? For example, is a pupil’s past behaviour record reliable evidence of their behaviour patterns now?
 
 #####Manageability
-For a short inquiry such as this, you must be selective: don’t attempt to analyse all possible sources. Creating codes—for when you spot similar issues arising in different sources—is a handy way to make sense of the data.                                                            
-
+For a short inquiry such as this, you must be selective: don’t attempt to analyse all possible sources. Creating codes—for when you spot similar issues arising in different sources—is a handy way to make sense of the data.
 
 Kishan and his colleague reviewed samples of pupil work from both their classes on reading comprehension to see if the same problems arose in different types of text. This seemed like a reliable way of checking the problems their pupils had with comprehension and misconceptions.
 
@@ -75,24 +64,14 @@ Your question may have been something like:
 
 When collecting evidence of pupils’ attitudes in a short inquiry, it is helpful to bear these three rules in mind when asking your questions:
 
-
-
 #####Are they valid?
-Only ask the questions that you need the answers to for your inquiry.                                                                                                                                                                                                                                                                              
-
-
-
+Only ask the questions that you need the answers to for your inquiry.
 
 #####Are they reliable?
-Make sure your pupils understand the questions, and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but… 
-
-
-
-
+Make sure your pupils understand the questions, and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…
 
 #####Is it manageable?
-Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them.                                                                                                                                                         
-
+Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them.
 
 Yemi and her colleague got useful data when they asked their pupils to write their answers to questions and to note when they used supporting texts. They followed this up with three or four focused interviews to gain a more reliable understanding of their pupils’ problems in chemistry.
 
@@ -115,4 +94,3 @@ Kishan, in Case Study B, said:
 Bring your simple evidence statement and any supporting data to your mentor meeting next week and be ready to discuss this with them.
 
 In that meeting, you will discuss with your mentor any alteration to your practice that might make a positive difference to your pupils.
-

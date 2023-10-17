@@ -23,4 +23,3 @@ _6n. Using verbal feedback during lessons in place of written feedback after les
 _6o. Understanding that written marking is only one form of feedback._
 
 _6p. Reducing the opportunity cost of marking (e.g. by using abbreviations and codes in written feedback)._
-

@@ -71,13 +71,11 @@ As you watch, notice how the teacher uses both acknowledgement (to highlight whe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnpGwCjYCFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Precise praise and acknowledgement - Early Years [AD]](https://youtu.be/VDL0JJPlnBw)
 
 ####Precise praise – Primary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fOhpOCVrYbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Precise praise – Primary [AD]](https://youtu.be/hhKtDCB-he8)
 
@@ -85,16 +83,14 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nirkX3ld9pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-
 ### Reflection
+
 In your next mentor session, your mentor will observe you using precise praise and
 acknowledgement. To help you prepare, reflect on your current teaching practice and
 consider:
-- How do you currently acknowledge or praise pupils? 
-- How could you improve this to make it more effective and meaningful for pupils?
 
+- How do you currently acknowledge or praise pupils?
+- How could you improve this to make it more effective and meaningful for pupils?
 
 ### Engaging parents and carers
 
@@ -120,11 +116,8 @@ Building effective relationships is easier when pupils believe that their feelin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/didSxbidJWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <span style="font-weight: 400;">
   It's a grey Wednesday morning in November. You have left the house in a hurry,
@@ -152,16 +145,16 @@ Video transcript.
 <span style="font-weight: 400;">Secondly, we will consider how </span>
 <b>feelings drive behaviours</b>
 <span style="font-weight: 400;">
-  
-  and how our ability to respond empathically to those around us will support
-  you, as teacher, to build responsive relationships with pupils.
+
+and how our ability to respond empathically to those around us will support
+you, as teacher, to build responsive relationships with pupils.
 </span>
 
 <span style="font-weight: 400;">Thirdly, we will explore how </span>
 <b>high expectations</b>
 <span style="font-weight: 400;">
-  
-  can be maintained through a finely tuned balance of
+
+can be maintained through a finely tuned balance of
 </span>
 <b>empathy with clear boundaries.</b>
 
@@ -268,12 +261,11 @@ Video transcript.
 </span>
  {/details}
 
-
-
 ### Reflection
+
 Think about your teaching practice and consider the following questions. Record your
 reflections:
-- Would you describe your classroom environment as trusting and respectful? If so, why? If not, why not? 
-- What steps have you already taken to develop trust and respect in your classroom? 
-- What further steps could you take?
 
+- Would you describe your classroom environment as trusting and respectful? If so, why? If not, why not?
+- What steps have you already taken to develop trust and respect in your classroom?
+- What further steps could you take?

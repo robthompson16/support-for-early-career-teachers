@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 5"
 ---
 
-
 ## Low-level disruption
 
 ### Select a development area
@@ -15,18 +14,19 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher decides with a colleague the behaviours they expect of pupils and communicates and demonstrates these visible behaviours to pupils, linking them to the school's culture and values. 
-- Teacher looks for and reinforces positive behaviours by acknowledging them in pupils. 
-- Teacher reminds pupils of their behavioural expectations to pre-empt low-level disruption.       
-                                                                                                                                                                                                                                                                            
-### Development area 2: Least intrusive anonymous reminders   
+- Teacher decides with a colleague the behaviours they expect of pupils and communicates and demonstrates these visible behaviours to pupils, linking them to the school's culture and values.
+- Teacher looks for and reinforces positive behaviours by acknowledging them in pupils.
+- Teacher reminds pupils of their behavioural expectations to pre-empt low-level disruption.  
+
+
+### Development area 2: Least intrusive anonymous reminders
 
 #### Focused development area
 
 - Teacher monitors the class to ensure pupils are meeting behavioural expectations
 - Teacher signals non-verbally to pupils that they should change their behaviour
-- Teacher uses anonymous whole-class, verbal reminders to support pupils to change their behaviour so that it meets expectations if a non-verbal reminder has not worked. 
-- Teacher stops talking mid-sentence if a pupil interrupts in order to signal that they will not continue until the interruption has stopped. 
+- Teacher uses anonymous whole-class, verbal reminders to support pupils to change their behaviour so that it meets expectations if a non-verbal reminder has not worked.
+- Teacher stops talking mid-sentence if a pupil interrupts in order to signal that they will not continue until the interruption has stopped.
 - Teacher gives pupils adequate time to act upon their reminder, checking and responding to their behaviour in line with the school's behavioural policy.
 
 {details}
@@ -34,17 +34,17 @@ Example precise target: Teacher signals non-verbally to pupils that they should 
 
 - **Not doing it at all:** As soon as you spot a pupil(s) who is beginning to go off task, move closer towards where they are sitting (maintaining an appropriate distance) and use your proximity to show them they are accountable for changing their behaviour.
 - **Doing it but needs some improvement:** As soon as you spot a pupil(s) who is beginning to go off task, use a non-verbal signal to communicate what they need to do to meet behavioural expectations, e.g. move your hand as if writing to signal to the pupil(s) that they should continue to write.
-- **Doing it well and needs some stretch:**  When you are speaking to the class, use non-verbal signals to communicate to a pupil(s) that they should remain focused on you without interrupting the flow of your teaching, e.g. move towards them or use eye contact or a non-verbal signal to indicate that they should be listening to you.
+- **Doing it well and needs some stretch:** When you are speaking to the class, use non-verbal signals to communicate to a pupil(s) that they should remain focused on you without interrupting the flow of your teaching, e.g. move towards them or use eye contact or a non-verbal signal to indicate that they should be listening to you.
 
 {/details}
 
-### Development area 3: Least intrusive named reminders       
+### Development area 3: Least intrusive named reminders
 
 #### Focused development area
 
 - Teacher uses a quick, quiet reminder to a named pupil.<br/>
-- Teacher gives the pupils adequate time to act upon their reminder. 
-- Teacher reverts back to the original tone and register and gets straight back to teaching, as soon as the pupil is back on task.                                                                                                                                                                                                                                                                                                                                                                                                      
+- Teacher gives the pupils adequate time to act upon their reminder.
+- Teacher reverts back to the original tone and register and gets straight back to teaching, as soon as the pupil is back on task.
 
 ### Observe
 
@@ -66,5 +66,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Respond consistently to pupil behaviour.
 - Teaching and rigorously maintaining clear behavioural expectations (e.g. for contributions, volume level and concentration).
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

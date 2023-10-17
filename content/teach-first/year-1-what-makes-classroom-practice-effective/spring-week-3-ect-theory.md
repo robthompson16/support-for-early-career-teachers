@@ -14,19 +14,17 @@ Therefore, it is important you provide multiple opportunities for pupils to prac
 
 Listen to Claire Stoneman talk about the important of practise and answer the following questions in your notebook:
 
-* why is practice important?
-* why is guided practice important?
-* what can you provide to fuel motivation when pupils practise?
-* why is it important to begin to remove scaffolds?
+- why is practice important?
+- why is guided practice important?
+- what can you provide to fuel motivation when pupils practise?
+- why is it important to begin to remove scaffolds?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LzpNY1w_B3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Importance of Practice - Claire Stoneman
 
 {details}
 Video transcript.
-
 
 This is the element of the lesson or sequence of lessons where the pupils are applying their knowledge and practising. Practising is a crucial part of learning and at any phase of schooling we need to build in opportunities for practice. Mark Enser invites us to consider the difference between practice and performance and says that in the classroom we need to consider what our pupils’ final performance will involve and then add in small steps of practice that will build towards the successful outcome.
 
@@ -70,15 +68,13 @@ _If pupil success is much higher than 80%…_
 
 Then you may need to give them more of a challenge by deepening their knowledge further. You may begin by gradually reducing the level of scaffold by increasing the levels of depth of knowledge required for the task. One way to do this is through the questioning, which will be explored in the final session of this module.
 
-
-
 ### Reflection
+
 Think about a time you had a low success rate from one or many pupils either during
 guided or independent practice and answer the following questions in your notepad:
 
-* what do you think caused the low success rate?
-* when you noticed many pupils were making mistakes, what did you do?
-
+- what do you think caused the low success rate?
+- when you noticed many pupils were making mistakes, what did you do?
 
 ## Guided practice
 
@@ -97,17 +93,17 @@ In Maths, this might be a teacher working out an equation and asking for pupils 
 During this time, it is important that you give feedback on pupils’ answers or ideas and address any misconceptions that arise.
 
 ### What does guided practice look like?
+
 Watch one of the videos below to see how a teacher uses guided practice to build
 pupils’ independence and answer the following questions:
 
-* how do they scaffold pupils’ responses?
-* how do they ensure all pupils are thinking, even if only to share their
-      ideas with the class?
+- how do they scaffold pupils’ responses?
+- how do they ensure all pupils are thinking, even if only to share their
+  ideas with the class?
 
 ####Forms of guided practice – Early Years at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/grrqvBA9lDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Early Years at Reach Academy [AD]](https://youtu.be/AuTNvUrHeOY)
 
@@ -115,20 +111,17 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EjejRnXwd4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Primary at Reach Academy [AD]](https://youtu.be/Vd0kDnWdm-Y)
 
 ####Forms of guided practice – Secondary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbJhvKLRK5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Secondary at Reach Academy [AD]](https://youtu.be/LuABgJ7NQO4)
 
 ####Forms of guided practice – Specialist setting - John Reed at Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9A1F6OCGY_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Specialist setting - John Reed at Ellen Tinkham School [AD]](https://youtu.be/BP-czP_B1CU)
 
@@ -146,31 +139,31 @@ Shared writing is a form of guided practice where a teacher writes with and in f
 
 Some general principles of shared writing are:
 
-* generate writing based on pupils’ ideas they share
-* remind, prompt and challenge pupils so the writing remains focused on the
-    skills and vocabulary being developed
-* model good writing skills such as rereading the text and listening to the
-    flow of composition so the next sentence can be composed
-* keep the pace brisk to ensure pupils don’t lose focus but include pauses for
-    ‘thinking time’
+- generate writing based on pupils’ ideas they share
+- remind, prompt and challenge pupils so the writing remains focused on the
+  skills and vocabulary being developed
+- model good writing skills such as rereading the text and listening to the
+  flow of composition so the next sentence can be composed
+- keep the pace brisk to ensure pupils don’t lose focus but include pauses for
+  ‘thinking time’
 
 Shared writing is the guided phase used to develop pupil independence in writing. It engages the whole class during teaching instruction but can also be used as a support to groups of pupils during writing tasks.
 
 In a sequence, it would come after teacher input, where a teacher models writing without pupil input using ‘Think Aloud’, but before independent practice, where pupils are asked to work without adult support.
 
 ### Shared writing in the classroom
+
 Watch one of the videoa below to see a teacher using shared writing and answer the following
 questions in your notepad:
 
-* what prior knowledge would pupils need in order to contribute during
-      shared writing?
-* what was the impact of shared writing on pupils’ engagement and learning?
-* how did the teacher maintain high expectations or address misconceptions?
+- what prior knowledge would pupils need in order to contribute during
+  shared writing?
+- what was the impact of shared writing on pupils’ engagement and learning?
+- how did the teacher maintain high expectations or address misconceptions?
 
-####Shared writing – Early Years - Bella Sidenius at Reach Academy  
+####Shared writing – Early Years - Bella Sidenius at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6v3OWqqLO8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Shared writing – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/fF5Z5TZYRhA)
 
@@ -178,13 +171,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wR38LtjSQG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Shared writing – Primary at Reach Academy [AD]](https://youtu.be/-wcQo6XpEus)
 
-####Shared writing – Secondary - Phil Fowkes at Reach Academy 
+####Shared writing – Secondary - Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNDodhg4tes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Shared writing – Secondary - Phil Fowkes at Reach Academy[AD]](https://youtu.be/hAAg9wJ2rxA)
 
@@ -200,19 +191,17 @@ Pupils' level of understanding during guided practice should be continually revi
 
 Equally, if pupils are very confident during guided practice, you may need to reduce the level of support or guidance you are providing.
 
-
-
-
 ### Application to practice
+
 Identify a lesson you will teach in the next week and plan to include guided practice. When doing so, consider the following points:
 
-* what will pupils need to know prior to guided practice? This will inform
-      what to include in your explanations and modelling
-* what key teaching points will the guided practice focus on? These will be
-      the parts they are asked to contribute to
-* what methods or strategies will you utilise? E.g. thinking aloud,
-      partially completed examples
-* how does guided practice build on from your explanation and modelling?
+- what will pupils need to know prior to guided practice? This will inform
+  what to include in your explanations and modelling
+- what key teaching points will the guided practice focus on? These will be
+  the parts they are asked to contribute to
+- what methods or strategies will you utilise? E.g. thinking aloud,
+  partially completed examples
+- how does guided practice build on from your explanation and modelling?
 
 This plan will be a focus of your next mentor interaction where you will share and
 discuss what you have planned so far.

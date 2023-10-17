@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-subject/summer-week-7-ect-teaching-challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7wOpbLugbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Chloe Wardle
+
 Literacy is essential for learning. Literacy is about words that we encounter in
 speech and text and the ways in which we use them. Whatever subject you teach, words
 are a critical way in which you share meaning. Every subject provides opportunities
 to develop pupil literacy and every teacher needs to consider how they can do this
 well.
+
 ### Presenter main
+
 Literacy is about our use of words. To access the curriculum, pupils need to understand
 the meaning of a vast array of words, whether they come across them in speech or
 text. Literacy applies to speaking, listening, reading and writing. When it applies
@@ -36,11 +36,15 @@ Teachers also need to think about how they can teach words that are specific to 
 Some lessons will provide more opportunities than others to develop literacy. A lesson that's focused primarily on a practical task like learning to kick a football will provide fewer opportunities to develop literacy than an English lesson. But even in entirely practical lessons, teachers and pupils still use words. Teachers need to choose the words that they use carefully and make the most of every opportunity they have to develop pupil literacy.
 
 ### Presenter exemplification framing
+
 In the next example, you will see one way of teaching a new word to a class. As you
 watch, pay particular attention to the following:
+
 - Provides a concrete model of the word that she is teaching
 - Uses high-quality talk to support pupils to extend their vocabulary
+
 ### Exemplification: Ambition Institute coachI want you to imagine that I'm
+
 teaching a year four class during a unit of work on the Romans. I'm going to
 model how to explicitly teach a new word to them. It's early on in the unit and
 we're learning about when and why the Romans first invaded Britain. In this
@@ -75,18 +79,20 @@ Second, I used high-quality talk to help the pupils extend their vocabulary. Pup
 After this, I would have got pupils to write down a definition in their books, using key words as a scaffold. This concept will come up lots in history units so it's important that pupils are secure with it. I'll support pupils to use the word invade by using it my teaching and including it in vocabulary banks or talking and writing frames. These supports will be gradually withdrawn as pupils demonstrate that they have successfully acquired this new word.
 
 ### Presenter key ideas
+
 In this video, we have explored the importance of developing pupil literacy and highlighted
 some practical ways in which all teachers can do this. Before we finish, take a moment
 to read over the key ideas that we have covered. Which of the following ideas do
 you think that the example illustrated the best?
-- Recognise that every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines 
-- Know that modelling helps pupils to understand new processes and ideas; good models make abstract ideas concrete and accessible 
+
+- Recognise that every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
+- Know that modelling helps pupils to understand new processes and ideas; good models make abstract ideas concrete and accessible
 - Know that high-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary
+
 ### Presenter summary
+
 Literacy is fundamental to pupils' success in school and their future life
 chances. The more literate pupils are, the more that they can understand and
 learn. Improving pupils' generic and subject specific literacy through explicit
 teaching, modelling and talk can help pupils to access a subject and drive
-learning.  {/details}
-
-
+learning. {/details}

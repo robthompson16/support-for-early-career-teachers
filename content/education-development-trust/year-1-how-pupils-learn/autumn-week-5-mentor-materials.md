@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 5"
 ---
 
-
 ## Sequencing content from foundational skills to more complex
 
 ### Intended outcomes
@@ -13,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn how to avoid overloading working memory by:
 
-- Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+- Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content
 
 ### Activities
 
@@ -29,7 +28,7 @@ Ask the ECT whether they used any of the activities you explored in the last top
 
 Explain to the ECT that the purpose of this topic is to think about how they sequence knowledge and content in a lesson or over a series of lessons to ensure that pupils secure foundational knowledge before encountering more complex content.
 
-Pose the question: 
+Pose the question:
 Why do we need to sequence content so that pupils secure foundational knowledge before encountering more complex content?
 
 Mentor notes:
@@ -54,9 +53,6 @@ Mentor notes:
 
 - If the mentor is not an expert in this phase or subject, it might be helpful to have another colleague join for this part of the topic to help identify what is foundational and what is complex.
 
-
-
-
 ### Planning for action
 
 Now that the ECT has mapped the content from foundational to complex, go through each box and number them in order of the sequence they will introduce them.
@@ -65,7 +61,7 @@ Remember, this should be from foundational to complex and might span one lesson 
 
 Agree with the ECT what their next steps are:
 
-- Planning the lessons with the content in the order agreed 
+- Planning the lessons with the content in the order agreed
 - When will they do this by?
 
 In the next topic you will be looking at breaking complex ideas into smaller steps. Ask the ECT to bring an example of a complex idea which they will be teaching soon. This could be the concept at the top of their brick wall from today’s topic but might be something completely different. It could be a task which involves multiple, complex steps.
@@ -79,7 +75,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 Learn that:
 
 - Breaking complex material into smaller steps (e.g. using partially completed examples to focus pupils on the specific steps)
-- Reducing distractions that take attention away from what is being taught (e.g. keeping the complexity of a task to a minimum, so that attention is focused on the content)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+- Reducing distractions that take attention away from what is being taught (e.g. keeping the complexity of a task to a minimum, so that attention is focused on the content)
 
 ### Activities
 
@@ -116,14 +112,13 @@ Ask the ECT to think about some complex material that they know they will need t
 Pose the question: What do you want pupils to do/learn?
 
 ####Notes for mentor:
+
 - Remember that our working memory capacity is limited.
 - When it becomes overloaded, for example by too many pieces of information, we are unable to learn.
-- Smaller steps allow pupils to experience success and it is important for pupils to experience success with complex material, otherwise they might just give up in the future. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+- Smaller steps allow pupils to experience success and it is important for pupils to experience success with complex material, otherwise they might just give up in the future.
 
 ### Planning for action
 
 Pose the question: How has today’s topic made you think differently about the activities you do in your classroom?
 
-Ask the ECT to confirm their next steps based on the mentor topics.  
-
+Ask the ECT to confirm their next steps based on the mentor topics.

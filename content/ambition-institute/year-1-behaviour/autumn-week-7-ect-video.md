@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-7-ect-teaching-chal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clQadkPPyy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Peps McCrea
+
 We want our classrooms to feel like good places. We want the classroom environment
 to be positive, secure, and safe. We want all pupils to know that their efforts will
 be acknowledged, their successes will be celebrated, and that they can learn from
 their mistakes. Teachers can create this positive environment and within it pupils
 can thrive.
+
 ### Presenter mainA positive environment is one in which all pupils are supported
+
 to learn and develop, whatever their starting points. The teacher has high expectations
 of their ability and they're able to focus on their learning without getting distracted,
 encountering barriers or worrying about making mistakes. They are provided with helpful
@@ -38,6 +38,7 @@ Of course, creating a positive learning environment doesn't mean that we avoid a
 Teachers have a huge influence on pupils. It's in their grasp to create an environment where pupils succeed.
 
 ### Exemplification framing
+
 Let's look at a model of how you can actively build a positive learning environment.
 You're about to watch an example of how to respond to a pupil error. As you watch,
 pay particular attention to the following:
@@ -46,6 +47,7 @@ pay particular attention to the following:
 - Creates a culture of respect and trust
 
 ### Exemplification: Ambition Institute coach
+
 One way in which teachers can build a positive learning environment is to make
 pupils feel safe enough to reveal errors. I'm going to model a way of responding
 to mistakes. I'm teaching a year nine maths class and they have just been
@@ -91,6 +93,7 @@ This model also demonstrated a way of creating a culture of respect and trust in
 This is one example of how you can create a positive learning environment but it won't be as effective on its own. Positive learning environments grow through an accumulation of small steps that teachers can plan and practise. Over time, and with a consistent approach, they can ensure that classrooms are a safe place for all pupils to learn.
 
 ### Presenter key ideas
+
 In this video we've thought about what a positive learning environment might look
 like and some of the ways in which teachers can achieve this. Before we finish, have
 a look at the key ideas. Which of these are best illustrated by the model?
@@ -98,9 +101,10 @@ a look at the key ideas. Which of these are best illustrated by the model?
 - Creating a positive environment where making mistakes and learning from them and the need for effort and perseverance are part of the daily routine
 - Acknowledging and praising pupil effort and emphasising progress being made
 - Creating a culture of respect and trust in the classroom that supports all pupils to succeed (e.g. by modelling the types of courteous behaviour expected of pupils)
+
 ### Presenter summary
+
 Creating a positive environment is an essential task for all teachers. It can
 have a profound impact on pupils’ attitudes to learning and success at school.
 We need to think carefully about this environment and take small, purposeful
-steps to ensure that it works for all pupils.  {/details}
-
+steps to ensure that it works for all pupils. {/details}

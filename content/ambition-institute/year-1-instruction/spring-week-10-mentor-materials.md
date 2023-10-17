@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 10"
 ---
 
-
 ## Questioning
 
 ### Select a development area
@@ -13,36 +12,35 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: All pupils thinking hard
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher embeds a routine of no hands up questioning to encourage all pupils to think about their responses, i.e. ask a question, pause to give pupils time to think and finally, say the name of the pupil you would like to answer. 
+- Teacher embeds a routine of no hands up questioning to encourage all pupils to think about their responses, i.e. ask a question, pause to give pupils time to think and finally, say the name of the pupil you would like to answer.
 - Teacher gives pupils appropriate wait time to process and reflect on the question they have been asked.
 
 {details}
 Example precise target: Teacher gives pupils appropriate wait time to process and reflect on the question they have been asked.
-
 
 - **Not doing it at all:** Explain to pupils that you will be pausing after questions to give them all time to think and, when delivering questions, use a short pause to allow them time to think before saying the name of the pupil you would like to answer the question.
 - **Doing it but needs some improvement:** Explain to pupils that you will be pausing after questions to give them all time to think and, when delivering questions, vary the length of your pause depending on how challenging your question is for pupils, e.g. a challenging question means a longer pause.
 - **Doing it well and needs some stretch:** Vary the length of the pause after you ask a question depending on how challenging it is likely to be for pupils to give them appropriate time to think. During the pause, scan the room to gauge when pupils might be ready to answer.
 
 {/details}
-                                                                                                                                                                                                                                                                                   
+
 ### Development area 2: Checking for understanding
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher, with the support of a colleague, plans questions about the key knowledge they need to check and are clear on the answers pupils need to give to show that this knowledge is secure before they move on. 
-- Teacher asks questions that cause pupils to elaborate upon their answers in order to ensure they stem from a secure understanding of the underlying concept. 
-- Teacher asks questions to samples of pupils so they can efficiently make inferences from their responses. 
+- Teacher, with the support of a colleague, plans questions about the key knowledge they need to check and are clear on the answers pupils need to give to show that this knowledge is secure before they move on.
+- Teacher asks questions that cause pupils to elaborate upon their answers in order to ensure they stem from a secure understanding of the underlying concept.
+- Teacher asks questions to samples of pupils so they can efficiently make inferences from their responses.
 - Teacher uses methods to get responses to important questions from the whole class so they can check all pupils' understanding.
 
 ### Development area 3: Extending pupils’ thinking
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher deliberately asks a range of types of questions that get pupils to extend their thinking, e.g. by justifying their answers or prompting them to use challenging vocabulary. 
-- Teacher reframes their questions to provide greater scaffolding or greater stretch. 
+- Teacher deliberately asks a range of types of questions that get pupils to extend their thinking, e.g. by justifying their answers or prompting them to use challenging vocabulary.
+- Teacher reframes their questions to provide greater scaffolding or greater stretch.
 - Teacher models high-quality oral language, including high-quality vocabulary, and insists upon it in pupils' answers.
 
 ### Observe
@@ -66,4 +64,3 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Prompt pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding.
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
 ## Strengthening pupils' subject knowledge
 
 ### Intended outcomes
@@ -14,14 +13,14 @@ The intended outcomes of this topic are for Early Career Teachers to:
 Learn how to develop fluency, by:
 
 - Providing tasks that support pupils to learn key ideas securely (e.g. quizzing pupils so they develop fluency with times tables).
-- Using retrieval and spaced practice to build automatic recall of key knowledge.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+- Using retrieval and spaced practice to build automatic recall of key knowledge.
 
 ### Activities
 
 ###Reviewing lesson observation (5 minutes)
 
 Discuss the lesson observation agreed in the last topic. What was successful? What could be better? What will the ECT do next?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
 ###Reflecting on prior learning (10 minutes)
 
 Recap the learning from the previous topic.
@@ -52,7 +51,7 @@ Can you name three specific ways that you do this in your lessons?
 - Review prior learning – ask questions, recap or begin the lesson with an activity that makes pupils think about related content.
 - Ask questions explicitly about how the work links to the big ideas of the subject.
 - Preview material – tell pupils what they are going to learn about and how it links to what they already know/big ideas of the subject.
-                                                                                                                                                                                                                                                                                                                   
+
 ###Develop pupils’ fluency (35 minutes)
 
 Guidance to mentors:
@@ -71,7 +70,7 @@ The mentor may want to extend the discussion by asking the ECT to consider an ex
 
 Pose the question: What type of tasks have you used to support pupils to learn key ideas securely (i.e. be able to retrieve them from long-term memory)?
 
-Can you show me examples? 
+Can you show me examples?
 
 Retrieval practice ideas:
 
@@ -89,5 +88,4 @@ Retrieval practice ideas:
 
 Ask the ECT what they will do next as result of today’s topic? When will they do this by?
 
-In the next topic, ECTs will need to bring to the topic a writing task that they plan on doing with pupils soon. Discuss and agree with the ECT what writing task is going to be brought to the topic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-
+In the next topic, ECTs will need to bring to the topic a writing task that they plan on doing with pupils soon. Discuss and agree with the ECT what writing task is going to be brought to the topic.

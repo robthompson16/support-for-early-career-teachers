@@ -8,15 +8,11 @@ next_path: "/education-development-trust/year-2-deepening-assessment-feedback-an
 - As you do this, make notes in response to the key questions below.
 - You will need to take the notes with you to your mentor session for discussion with your mentor.
 
-
-
 ### In your notepad
 
 Key questions:
 
-* what different approaches to efficient marking are there?
-* what different approaches to efficient feedback are there?
-* what problems are there with self- and peer-assessment and how can these
-      be overcome?
-
-
+- what different approaches to efficient marking are there?
+- what different approaches to efficient feedback are there?
+- what problems are there with self- and peer-assessment and how can these
+  be overcome?

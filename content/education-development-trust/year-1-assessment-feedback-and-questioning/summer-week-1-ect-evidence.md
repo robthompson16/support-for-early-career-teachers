@@ -28,12 +28,12 @@ Black & Wiliam, 2009; Christodoulou, 2017)
 Of course, this information is only useful if you do something with it. Adapting your teaching (something you explored in Block 3) and giving useful feedback to pupils so that they can improve their work is what makes “assessment and feedback two of the most important strategies that teachers use to support pupils’ learning.” (Hattie, 2017)
 
 Unfortunately, assessment and feedback are not always done well, as Professor Rob Coe has observed: "It is now a rare thing, in my experience, to meet any teacher in England who
-    would not claim to be doing [formative] assessment.
+would not claim to be doing [formative] assessment.
 
 "And yet, the evidence suggests that during the fifteen years of this intensive intervention to
-    promote [formative] assessment, despite its near universal adoption and
-    strong research evidence of substantial impact on attainment, there has been
-    no (or at best limited) effect on learning outcomes nationally."
+promote [formative] assessment, despite its near universal adoption and
+strong research evidence of substantial impact on attainment, there has been
+no (or at best limited) effect on learning outcomes nationally."
 
 Why might this be? It’s unlikely to be down to teachers’ good intentions and effort, but it is easy to focus on the wrong things. If assessment fails to improve pupils’ learning, it has missed the point.
 
@@ -54,7 +54,6 @@ Consider Pictures A, B and C below. Which pupils are “learning best”?
   </figcaption>
 </figure>
 
-
 <figure>
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-kid2-1.jpg" alt="Photo shows two students are laughing at the computer in class." />
   <figcaption>
@@ -62,14 +61,12 @@ Consider Pictures A, B and C below. Which pupils are “learning best”?
   </figcaption>
 </figure>
 
-
 <figure>
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-kid3-1.jpg" alt="Photo shows a tired school boy with hand on face sitting at desk with classmates in classroom." />
   <figcaption>
     Picture C
   </figcaption>
 </figure>
-
 
 By just looking at the pictures, you might make some assumptions about this – your assumptions might be true but they could also be wrong. Therefore, to avoid being over-influenced by potentially misleading factors we must assess learning through activities, homework and tests to objectively identify what pupils know, understand and can do.
 
@@ -87,50 +84,45 @@ Taken from Wiliam & Leahy (2015).
 
 You make multiple decisions a day as a teacher, even multiple decisions during every lesson. Assessment should be used to support your decision making – what to teach and what not to teach. If you are carrying out an assessment task, you should be clear about the reason why. But what does this look like in practice?
 
-
-
 ### The types of questions you might use assessment to answer
 
-These could include: 
+These could include:
 
-* what do my pupils already know about this topic?
-* what difficulties do my pupils have with this concept/skill?
-* what expertise do my pupils have already related to this concept/skill?
-* do my pupils have any misconceptions related to this concept/skill?
-* have my pupils understood the key ideas we have been learning about?
+- what do my pupils already know about this topic?
+- what difficulties do my pupils have with this concept/skill?
+- what expertise do my pupils have already related to this concept/skill?
+- do my pupils have any misconceptions related to this concept/skill?
+- have my pupils understood the key ideas we have been learning about?
 
-And 
+And
 
-* can I move onto the next step in the learning?
-* an my pupils link ideas to work we have done previously?
-* what have my pupils learned today?
-* how will I use the responses from pupils to inform my planning and teaching?
+- can I move onto the next step in the learning?
+- an my pupils link ideas to work we have done previously?
+- what have my pupils learned today?
+- how will I use the responses from pupils to inform my planning and teaching?
 
-Consider the following example: 
+Consider the following example:
 
-Teacher A is going to be starting a new topic on Henry VIII. 
+Teacher A is going to be starting a new topic on Henry VIII.
 
 Before she begins teaching she wants to know how much her pupils know about the Tudors already as some of them covered it in the previous year. Therefore, she will create an
-  assessment on Tudors. 
+assessment on Tudors.
 
 The purpose of this assessment will be to check prior
-  knowledge and work out pupil starting points. From talking to her colleagues,
-  she has established that another teacher has created a short multiple-choice
-  quiz about the Tudors. 
+knowledge and work out pupil starting points. From talking to her colleagues,
+she has established that another teacher has created a short multiple-choice
+quiz about the Tudors.
 
 Teacher A decides to use this and adapt it to suit what
-  she wants to see if pupils know. Once pupils have completed this quiz, the
-  teacher will be able to clearly see the starting point of her pupils and will
-  be able to plan or adapt her lessons to draw on and develop this learning.
-
-
-
+she wants to see if pupils know. Once pupils have completed this quiz, the
+teacher will be able to clearly see the starting point of her pupils and will
+be able to plan or adapt her lessons to draw on and develop this learning.
 
 ### In your notepad
+
 What is the purpose of the assessment?
 
 How does the teacher draw on the support of colleagues?
-
 
 One way of informing your assessment planning is to work with your colleagues to identify efficient and effective approaches to assessment. Colleagues will be able to provide ideas they have found work well with your pupils, especially in terms of how they manage to gather evidence from _all_ pupils in the class and then use this to make decisions about what next in their teaching. The video that follows gives some examples of the types of things experienced teachers do in this area.
 
@@ -142,11 +134,8 @@ There are lots of different strategies mentioned in the video. Note them down as
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0q8c448TXe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 **Teacher 1:** At the end of each lesson I give my pupils two questions,
 one a calculation problem and the other a worded problem. This helps me identify
@@ -171,19 +160,19 @@ or little cards and the pupils hand me their answers as they leave the lesson. T
 allows me to have a few words as they go out, and is a nice way to end the session.
 I then read through their answers, sometimes there and then for a snapshot of progress,
 or later when I’m planning the next lesson I can sort the tickets into three piles:
-1. Pupils who have understood, 2. Pupils who have sort of understood, 3. Pupils who
-have not understood. This gives me the big picture quickly and easily. It helps me
-know my starting point for the next set of lessons, and what misconceptions are likely
-to persist.  {/details}
 
+1. Pupils who have understood, 2. Pupils who have sort of understood, 3. Pupils who
+   have not understood. This gives me the big picture quickly and easily. It helps me
+   know my starting point for the next set of lessons, and what misconceptions are likely
+   to persist. {/details}
 
 ### In your notepad
+
 How are the teachers in this video planning to use assessment to gain
-      information about pupils’ learning?
+information about pupils’ learning?
 
 How do their assessment methods help them to be more efficient in their
-      planning and teaching?
-
+planning and teaching?
 
 ### To be of value, teachers use information from assessments to inform the decisions they make; in turn, pupils must be able to act on feedback for it to have an effect
 
@@ -191,7 +180,7 @@ Have you ever spent an entire evening diligently marking a set of books with det
 
 This is one of the greatest errors we make as teachers. If you are going to take the time to provide feedback to pupils then you need to allow time for pupils to act on it otherwise you will not help pupils to improve. Therefore, good assessment needs to both provide you with _useful_ information (i.e. you can put it to use) and it also needs to provide actionable information for your pupils.
 
-Dylan Wiliam and Paul Black’s work _Inside the Black Box_, published in 1998, is considered the seminal text in relation to assessment and has influenced assessment practices in schools up and down the country. 
+Dylan Wiliam and Paul Black’s work _Inside the Black Box_, published in 1998, is considered the seminal text in relation to assessment and has influenced assessment practices in schools up and down the country.
 
 At times, however, these practices did not reflect the research they were based on. At its core, formative assessment stressed the need for assessment to be something that teachers and students respond to in order to reflect and adapt their practice but in too many cases, the "assessment" became more about collecting data than improving outcomes. Indeed, Wiliam would later say that he should have used the term “responsive teaching” rather than formative assessment.
 
@@ -202,19 +191,14 @@ Watch the video below and consider:
 - How does the teacher provide opportunities for pupils to respond to feedback during lessons? What are the steps they follow?
 - How do you provide opportunities for pupils to respond to feedback in your classroom?
 
-
 #### Providing opportunities for pupils to respond to feedback
-
 
 Watch this video of teachers explaining how they provide opportunities for pupils to act on feedback.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mSsapIMZPCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 **Teacher 1:** When I first started teaching I felt so frustrated that
 all the time I spent marking books was pointless. After I marked a piece of work
@@ -242,50 +226,40 @@ So, feedback has to give pupils a chance to act on it. What else do we know abou
 
 Feedback can be given:
 
-* verbally
-* during, as well as after, lessons by the teacher or other experts (e.g. teaching assistants, books or online sources)
-* with careful support and guidance, from pupil to pupil
+- verbally
+- during, as well as after, lessons by the teacher or other experts (e.g. teaching assistants, books or online sources)
+- with careful support and guidance, from pupil to pupil
 
 High-quality feedback, whether it is written or verbal, needs to:
 
-* be accurate and clear
-* encourage further effort
-* provide specific guidance on how to improve
+- be accurate and clear
+- encourage further effort
+- provide specific guidance on how to improve
 
 High-quality feedback is explicit about what is involved in achieving success in a task _and_ what pupils need to do to improve (Sadler, 1989; Hattie, 2009). It has a positive impact on learner outcomes by providing specific, actionable guidance for pupils to improve their learning (Kluger & DeNisi, 1996; Hattie & Timperley, 2007; Hattie, 2014; EEF, 2018).
 
 ### Feedback tips
 
-#### Be accurate and clear    
+#### Be accurate and clear
 
-
- - Clear, simple language 
-- Clarify learning intentions and criteria for success 
-- Be linked to the learning goal they are working towards 
-- Outline what success looks like 
+- Clear, simple language
+- Clarify learning intentions and criteria for success
+- Be linked to the learning goal they are working towards
+- Outline what success looks like
 - Be clear on how pupils will know when they have got there
-
-                    
 
 #### Encourage further effort
 
-
-- Praise pupils for the parts that were done well 
-- Ask pupils to do something further to their work 
-- Highlight approaches that helped pupils to be successful, which they could use in other tasks: over time this can support pupils to monitor and regulate their own learning 
-
-
+- Praise pupils for the parts that were done well
+- Ask pupils to do something further to their work
+- Highlight approaches that helped pupils to be successful, which they could use in other tasks: over time this can support pupils to monitor and regulate their own learning
 
 #### Provide specific guidance
 
-
-- Provide clear actions to further improve their work 
+- Provide clear actions to further improve their work
 - Provide further scaffolding (e.g. examples) or challenge (e.g. now try…)
 
-
-
 Done well, verbal feedback from teacher to pupil in class has the dual benefit of being both effective _and_ efficient. As it is given in the moment it also reduces “waiting time” between the mistake or error and the feedback the pupil receives. This means teachers are able to respond quickly with additional support to individuals as appropriate (Black et al., 2004; Gibson et al., 2015) and there is less chance of the pupil repeating the mistake and therefore reinforcing it.
-
 
 ####Live marking
 
@@ -295,7 +269,6 @@ When pupils are doing a written task, it can be useful to walk around the room a
 
 {details}
 Video script.
-
 
 NARRATION
 A practical strategy that you can use to provide high-quality feedback to your pupils is live marking. This will allow in the moment feedback and opportunities for pupils to reflect on their work and improve it.
@@ -319,13 +292,10 @@ Callum, I really like that you have used a simile to describe the trees moving, 
 
 {/details}
 
-
-
 ### In your notepad
 
-* how is the teacher in the video supporting the learning of all the pupils?
-* what are the benefits of offering feedback in the moment?
-
+- how is the teacher in the video supporting the learning of all the pupils?
+- what are the benefits of offering feedback in the moment?
 
 Not all feedback will be able to be provided verbally. Written feedback is still a common way for teachers to communicate with their pupils. A recent focus on effective marking from the EEF (2016) makes some recommendations emerging from the evidence, which could aid teachers when thinking about effective, sustainable approaches to marking:
 
@@ -338,44 +308,51 @@ Not all feedback will be able to be provided verbally. Written feedback is still
 (Adapted from the EEF, A marked improvement?
 A review of the evidence on written marking, 2016.)
 
-
-
 ### In your notepad
+
 Have a look at the different examples of feedback given below and answer the
 questions:
 
-* which feedback do you think is the best example of written feedback?
-* do any of the examples meet all three of our criteria for good feedback by being accurate and clear, encouraging further effort, and providing specific guidance on how to improve? 
-* how might you improve the quality of the feedback?
+- which feedback do you think is the best example of written feedback?
+- do any of the examples meet all three of our criteria for good feedback by being accurate and clear, encouraging further effort, and providing specific guidance on how to improve?
+- how might you improve the quality of the feedback?
 
 #### Example A
+
 7/10. Good.
+
 #### Example B
+
 Great job – you have worked hard! Next time try to check your spelling as you go.
+
 #### Example C
+
 This is a good piece of work – you have used new vocabulary correctly in your writing.
+
 #### Example D
+
 You have focused on improving the level of detail in your explanations. This is much better than last time. Your next target is to use a greater variety of descriptive words.
+
 #### Example E
+
 You have explained one of the key ideas well. To gain full marks, there are two other ideas you should explain. For example, why does the theme of loneliness keep coming up? How does the relationship between the main characters develop during the book?
 
 #### Key points to remember
 
 Things to avoid:
 
-* spending a lot of time asking questions that only a few pupils answer
-* assessments that are too easy or too difficult for the majority of pupils
-* testing pupils on things they don’t need to know
-* spending a lot of time planning, creating and marking assessment.
-
+- spending a lot of time asking questions that only a few pupils answer
+- assessments that are too easy or too difficult for the majority of pupils
+- testing pupils on things they don’t need to know
+- spending a lot of time planning, creating and marking assessment.
 
 As well as focusing on specific actions for pupils, it is important that you provide adequate time for pupils to respond to feedback.
 
-According to 'A marked improvement? A review of the evidence on written marking, EEF (2016)': 
+According to 'A marked improvement? A review of the evidence on written marking, EEF (2016)':
 
-"Often students don’t want to go back and look at something they’ve finished, they want to move on to the next thing – it’s a cultural thing. 
+"Often students don’t want to go back and look at something they’ve finished, they want to move on to the next thing – it’s a cultural thing.
 
-"In the past we just assumed that they went away and checked feedback, but they obviously didn’t because we see their reactions where they’re reflecting on their work and finding that difficult – unpleasant – and actually demoralising at points. 
+"In the past we just assumed that they went away and checked feedback, but they obviously didn’t because we see their reactions where they’re reflecting on their work and finding that difficult – unpleasant – and actually demoralising at points.
 
 "So, we are engaged in a whole language shift in the classroom where we say look, assessment is not about saying how good you are and placing a value on how good you are. It’s about assessing where our weaknesses are and how we can fix them – and that is a good thing!”
 
@@ -383,8 +360,6 @@ One effective strategy for dealing with this is to use DIRT (Directed Improvemen
 
 {details}
 References.
-
-
 
 Black, P., Harrison, C., Lee, C., Marshall, B. &amp; Wiliam, D. (2004) Working inside the Black Box: Assessment for Learning in the Classroom. _Phi Delta Kappan_, 86(1), 8–21. Accessible from:<a href="https://eric.ed.gov/?id=EJ705962"> https://eric.ed.gov/?id=EJ705962</a>
 
@@ -402,7 +377,7 @@ Education Endowment Foundation (2018) Sutton Trust-Education Endowment Foundatio
 
 Education Endowment Foundation (2018) Sutton Trust-Education Endowment Foundation Teaching and Learning Toolkit. Accessible from: <a href="https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit">https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit</a>
 
-Gibson, S., Oliver, L. &amp; Dennison, M. (2015) _Workload Challenge: Analysis of teacher consultation responses_. Department for Education. Accessible from:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/485075/DFE-RR456A_-_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf"> https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment*data/file/485075/DFE-RR456A*-_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf</a>. [retrieved 18 March 2020].
+Gibson, S., Oliver, L. &amp; Dennison, M. (2015) _Workload Challenge: Analysis of teacher consultation responses_. Department for Education. Accessible from:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/485075/DFE-RR456A_-_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf"> https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment*data/file/485075/DFE-RR456A*-\_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf</a>. [retrieved 18 March 2020].
 
 Harlen, W. &amp; James, M. (1997) Assessment and Learning: differences and relationships between formative and summative assessment, Assessment in Education: Principles. _Policy and Practice_, 4:3, 365–379.
 
@@ -426,10 +401,8 @@ Wiliam, D. &amp; Christadoulou, D. (2017) Assessment, marking and feedback. In H
 
 Muijs, D., &amp; Reynolds, D. (2017) _Effective teaching: Evidence and practice_. Thousand Oaks, CA: Sage.
 
-Wiliam, D. (2010) What Counts as Evidence of Educational Achievement? The Role of Constructs in the Pursuit of Equity in Assessment_. Review of Research in Education_, 34, 254–284.
+Wiliam, D. (2010) What Counts as Evidence of Educational Achievement? The Role of Constructs in the Pursuit of Equity in Assessment*. Review of Research in Education*, 34, 254–284.
 
 Wiliam, D. &amp; Leahy, S. (2015) Embedding Formative Assessment: Practical Techniques for K-12 Classrooms, Learning Sciences International. West Palm Beach, Florida.
 
-
 {/details}
-

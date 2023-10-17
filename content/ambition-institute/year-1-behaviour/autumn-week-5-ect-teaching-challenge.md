@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-5-ect-reflect"
 ---
 
-
 Ms Silva feels she can secure positive behaviour from most pupils most of the time. However, she occasionally finds a few pupils are not following her instructions or are being disruptive in subtle ways. For example, having whispered conversations during a silent task, or turning around to talk to others when she is not looking. Ms Silva worries that, over time, others will begin to follow suit. How can she address this low-level disruption?
 
 ## Key idea
@@ -46,14 +45,13 @@ Teachers do not need to respond in a subtle way to every instance of disruption.
 
 Negative pupil emotions can also lead to low-level disruption where pupils avoid learning. This can happen where pupils suspect they might fail at a task, especially when failure poses a threat to their positive self-image (Kluger & DeNisi 1996). In the longer-term, teachers can address this by developing pupils’ ability to self-regulate their emotions (EEF, 2017). Immediately, teachers can usually avoid this issue by ensuring clear expectations and reminders give pupils the best chance of being successful. Teachers can also make extra reminders and help private, to preserve pupil self-image in front of their peers and give pupils time to respond to the correction, to overcome possible emotional responses to having their behaviour corrected.
 
-
-
 ### Key takeaways
-Ms Silva can begin to address low-level disruption by understanding that:
-- addressing low-level disruption means supporting pupils to meet clear behavioural expectations that ensure the learning environment is effective and that pupils remain on task 
-- this can be achieved through proactively communicating expectations and reactively reminding pupils in a way which is consistent, proportionate and reinforces wider school expectations 
-- consistently addressing low-level disruption can improve pupil-teacher relationships and classroom culture
 
+Ms Silva can begin to address low-level disruption by understanding that:
+
+- addressing low-level disruption means supporting pupils to meet clear behavioural expectations that ensure the learning environment is effective and that pupils remain on task
+- this can be achieved through proactively communicating expectations and reactively reminding pupils in a way which is consistent, proportionate and reinforces wider school expectations
+- consistently addressing low-level disruption can improve pupil-teacher relationships and classroom culture
 
 ### Further reading
 
@@ -61,7 +59,6 @@ EEF (2019) Improving behaviour in schools. [http://bit.ly/ecf-](http://bit.ly/ec
 
 {details}
 References.
-
 
 Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great teaching: Review of the underpinning research. Durham University<a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">. bit.ly/ecf-coe</a>
 

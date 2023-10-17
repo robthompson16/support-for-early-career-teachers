@@ -23,4 +23,3 @@ _1f. Teaching and rigorously maintaining clear behavioural expectations (e.g. fo
 ### Managing Behaviour
 
 _7m. Supporting pupils to master challenging content, which builds towards long-term goals._
-

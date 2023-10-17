@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 2"
 ---
 
-
 ## Workload and wellbeing
 
 ### Learning intentions
@@ -21,7 +20,6 @@ Manage workload and wellbeing, by:
 ### Topic introduction
 
 In the training session for this module, your mentee explored ideas around being (a) professional. One of the key responsibilities of any professional is to manage their workload and wellbeing. Teaching can be a demanding profession, with surveys consistently finding that teachers work long hours. A specific challenge for teachers is that there is not a clearly defined end point for their work – for instance, resources can always be ‘a little better’. Therefore, it is crucial to effectively prioritise their workload and to determine when ‘good is good enough’.
-
 
 ### Research and practice summary
 
@@ -83,7 +81,6 @@ They began by jointly reviewing the existing resources for the scheme of work as
 
 By working together, Aisha and her colleague were able to save considerable time. They also avoided recreating lots of unnecessary resources – wherever possible, they adapted existing materials. By pooling their expertise as well as their time, the final product was better than either would have produced alone.
 
-
 ### Meeting activities
 
 Throughout the session, try to refer explicitly to the Learning Intentions, and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan sections of this session.
@@ -100,37 +97,37 @@ Theory to Practice: 35 mins
 
 1. Discuss with mentor
 
-    Talk to your mentee about the issues and strategies raised in this week’s research and practice summary, and how they apply to your mentee at present.
+   Talk to your mentee about the issues and strategies raised in this week’s research and practice summary, and how they apply to your mentee at present.
 
-    You could explore the following questions:
+   You could explore the following questions:
 
-    - which issues explored in the summary are particularly pertinent for your mentee?
-    - what strategies does your mentee already use successfully to manage their workload and wellbeing?
-    - what, specifically, are the top 2 or 3 issues your mentee finds most challenge their workload and wellbeing?
-    - are there patterns to how these issues present themselves? For example, are they linked to their timetable, to weekly/monthly/termly cycles in the school calendar/other?
+   - which issues explored in the summary are particularly pertinent for your mentee?
+   - what strategies does your mentee already use successfully to manage their workload and wellbeing?
+   - what, specifically, are the top 2 or 3 issues your mentee finds most challenge their workload and wellbeing?
+   - are there patterns to how these issues present themselves? For example, are they linked to their timetable, to weekly/monthly/termly cycles in the school calendar/other?
 
 2. Sharing of practice
 
-    Share with your mentee strategies you have used, or seen colleagues use, that specifically address the challenges your mentee has highlighted.
+   Share with your mentee strategies you have used, or seen colleagues use, that specifically address the challenges your mentee has highlighted.
 
-    As you share these examples:
+   As you share these examples:
 
-    - be as specific as you can about the nature of the issue, the actions taken and the impact of these actions on workload and wellbeing
-    - connect back to the principles/strategies identified in the research and practice summary above
+   - be as specific as you can about the nature of the issue, the actions taken and the impact of these actions on workload and wellbeing
+   - connect back to the principles/strategies identified in the research and practice summary above
 
 3. Analysis of artefacts/collaborative planning
 
-    With reference to the mentee’s planner, online calendar and/or other approaches to planning their workload, work together to devise practical strategies that:
+   With reference to the mentee’s planner, online calendar and/or other approaches to planning their workload, work together to devise practical strategies that:
 
-    - address the issues that most challenge their workload and wellbeing at present
-    - proactively help to pre-empt issues that may challenge workload and wellbeing in the future
+   - address the issues that most challenge their workload and wellbeing at present
+   - proactively help to pre-empt issues that may challenge workload and wellbeing in the future
 
-    To make the most of this activity:
+   To make the most of this activity:
 
-    - build on the positive strategies your mentee already has in place
-    - draw on the successful strategies that you have shared from your own practice and that of colleagues
-    - prompt your mentee to be as specific as possible in setting out the strategies they will put in place going forward. For example, if they are committing to at least one evening a week when they will not work beyond 5pm, use their planner to identify a day when this is most feasible/beneficial and encourage them to add this to their planner as a reminder
-    - explore opportunities for you to support your mentee, either with specific challenges or through collaborating on planning, preparation and/or making use of shared resources
+   - build on the positive strategies your mentee already has in place
+   - draw on the successful strategies that you have shared from your own practice and that of colleagues
+   - prompt your mentee to be as specific as possible in setting out the strategies they will put in place going forward. For example, if they are committing to at least one evening a week when they will not work beyond 5pm, use their planner to identify a day when this is most feasible/beneficial and encourage them to add this to their planner as a reminder
+   - explore opportunities for you to support your mentee, either with specific challenges or through collaborating on planning, preparation and/or making use of shared resources
 
 Next Steps: 5 mins
 
@@ -141,4 +138,3 @@ Agree with your mentee how they will now put their strategies from this week’s
 3. how they will evaluate their success in taking these actions
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

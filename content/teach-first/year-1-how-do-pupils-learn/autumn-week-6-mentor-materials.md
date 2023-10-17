@@ -4,12 +4,11 @@ heading: "Mentor materials"
 caption: "Autumn week 6"
 ---
 
-
 ## Observation discussion - practise using a low stakes quiz to strengthen pupils’ retrieval
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Observation
 
@@ -38,4 +37,3 @@ Work with your teacher to support them in either improving their current low sta
 1. How does a quiz help to develop pupils’ mental model?
 2. Why is it important to revisit and recap knowledge over time?
 3. How could you build further receival practice into the rest of the topic?
-

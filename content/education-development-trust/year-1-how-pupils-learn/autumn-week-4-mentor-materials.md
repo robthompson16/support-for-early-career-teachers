@@ -4,20 +4,19 @@ heading: "Mentor materials"
 caption: "Autumn week 4"
 ---
 
-
 ## Uncovering misconceptions
 
 ### Intended outcomes
 
 The intended outcomes of this topic are for Early Career Teachers to:
- Learn that:
+Learn that:
 
-- Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly    
+- Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly
 
-Learn how to building on pupils’ prior knowledge by: 
-    
+Learn how to building on pupils’ prior knowledge by:
+
 - Identifying possible misconceptions and planning how to prevent these forming
-- Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+- Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed
 
 ### Activities
 
@@ -34,7 +33,6 @@ Ask the ECT whether they have taught the section of the lesson that they scripte
 Pose the question: What is a misconception?
 
 Definition: Misconceptions are ‘a belief or an idea that is not based on correct information, or that is not understood by people’ (Oxford Dictionary).
-
 
 Pose the question: What are examples of misconceptions that you have come across so far in your teaching?
 
@@ -106,19 +104,8 @@ Work together to plan how this would work in this classroom:
 - Do they need any resources/changes in their classroom to make it work?
 - What questions will they ask to uncover the pupils’ understanding for that particular topic?
 
-
-
-
-
-
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-
 ### Planning for action
 
 Ask the ECT to choose at least one of the activities above to encourage pupils to share emerging understanding of the topic they will teach. Agree when they will do this and ask them to bring their reflections to the next meeting.
 
 In the next mentor topic, you will be looking at sequencing content from foundational to more complex. The ECT will need to provide an example of a topic which they will teach, likely over a few lessons. Discuss now what this might be and ask the ECT to decide and bring it with them to the next meeting.
-

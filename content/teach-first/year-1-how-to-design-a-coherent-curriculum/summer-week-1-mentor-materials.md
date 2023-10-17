@@ -4,12 +4,11 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
 ## Discussion - deciding topic for scheme of work and where to go for expert guidance
 
 ### Practice focus
 
-### Interaction: 
+### Interaction:
 
 Discussion
 
@@ -28,4 +27,3 @@ Your teacher will bring to this session ideas about what topic they’d like to 
 4. What topic are you thinking of choosing for your unit of work? Why?
 5. Discuss which colleagues are best placed to share their expertise and experience of teaching the chosen topic.
 6. Share your top recommendations for high-quality teaching and learning resources.
-

@@ -6,12 +6,11 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-5-ect-teaching-chal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gebOYHdS8ZI?list=PL4IuMlmijgAfTwwEiZmMp28Eaf66S3a1R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
 ### Presenter intro: Peps McCrea
+
 Low-level disruption refers to relatively small but persistent distractions that
 many teachers will come across. Pupils talking when the teacher is, refusing to work
 with a talk partner, prodding a pupil when sitting on the carpet. These are distractions
@@ -21,7 +20,9 @@ in meaningful activity, such as child-initiated play. It may be tempted to ignor
 low-level disruption, but it can reduce both the amount and quality of thought that
 pupils give to their work. So teachers need to find ways of reducing low-level disruption
 and supporting all pupils to stay on task.
+
 ### Presenter main
+
 When teachers respond quickly to low-level disruption, they send a clear message
 to their pupils that they have high expectations of them all. They show that they
 want to create the most effective learning environment possible, one in which all
@@ -39,6 +40,7 @@ Sometimes addressing an individual pupil directly with a concise reminder will b
 It's important that teachers respond to low-level disruption calmly and consistently using a neutral tone, including reference to the shared values of the classroom and school, and applying them fairly to all pupils. This can help to create a supportive and inclusive environment that benefits all pupils.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of how to respond to low level disruption.
 Look out for the following.
 
@@ -46,6 +48,7 @@ Look out for the following.
 - Responds consistently to pupil behaviour
 
 ### Exemplification: Ambition Institute coach
+
 Low-level disruption can be a real problem in classrooms, and we need to address
 it quickly. I'm going to model some of the ways in which you can do this. The
 context is a year 10 music lesson. The pupils have been working at their
@@ -83,6 +86,7 @@ A proactive approach I used was to use a positive frame. When some of the pupils
 Finally, I modelled how to respond on an individual basis where appropriate. Riley wasn't sitting still and listening to the composition as he had been asked to do. So I walked up to his desk and give him a clear reminder: _“Riley, hands off the keyboard”_. As with the previous examples, I used a quiet tone so as not to escalate the situation, but equally, I made my expectations clear. There should be no room for confusion or disagreement here. Notice that my tone throughout was formal and neutral when issuing the intervention. I reverted to my original tone when pupils were back on task. I want to respond to low-level disruption in the same consistent manner whenever it occurs. Spot it, address it and get back on with the lesson as quickly as possible.
 
 ### Presenter key ideas
+
 This video has covered a range of ideas and strategies to help you respond to low-level
 disruption. Read over the key ideas before you finish. Which of these ideas will
 you focus on first?
@@ -92,10 +96,10 @@ you focus on first?
 - Respond consistently to pupil behaviour.
 
 ### Presenter summary
+
 Responding to low-level disruption isn't something that only new teachers should
 think about. Staying on task can be difficult for all pupils. Learning requires
 effort, and sometimes it feels hard. All teachers need to be aware of this and
 know how they will respond when a pupil gets off task. This will help to
-maintain a positive and effective learning environment for all. 
+maintain a positive and effective learning environment for all.
 {/details}
-

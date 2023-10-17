@@ -6,7 +6,7 @@ previous_path: "/education-development-trust/year-2-enhancing-classroom-practice
 
 ### Paired and group activities can increase pupil success, but to work effectively pupils need guidance, support and practice
 
-We’ve all sat through training sessions where we are asked to work with a group of people, sometimes strangers, and answer a question on a sheet of flip chart paper. We can remember the awkwardness as we politely, but silently, negotiate who speaks first. There is the sense of danger as you weigh up whether being the person who records the ideas means you are excused from being the person who has to stand up and feed back, or if the fact that no-one can read your handwriting means that you will _have _to do it. We also remember the sense of frustration that one person is dominating the discussion, and that what they’re saying seems to be completely missing the point of the task. Bad group work is truly awful.
+We’ve all sat through training sessions where we are asked to work with a group of people, sometimes strangers, and answer a question on a sheet of flip chart paper. We can remember the awkwardness as we politely, but silently, negotiate who speaks first. There is the sense of danger as you weigh up whether being the person who records the ideas means you are excused from being the person who has to stand up and feed back, or if the fact that no-one can read your handwriting means that you will \_have \_to do it. We also remember the sense of frustration that one person is dominating the discussion, and that what they’re saying seems to be completely missing the point of the task. Bad group work is truly awful.
 
 As a classroom teacher, you will probably have considerable control over the way you ask pupils to complete tasks. You will have learned a lot already about the practicalities of managing pupils in the classroom. When you first started teaching last year, you may have had grand plans for complex group activities only to find that managing behaviour and the ‘classroom traffic’ that this can create was a challenge. As a new teacher, this can take up a lot of your planning time and attention in class. You might have recognised that for many tasks, pupils can work effectively when working individually and as a result have minimised group work activities. This Block will give you the chance to think in detail about how to balance the benefits to pupils’ learning with classroom management and efficiency.
 
@@ -35,74 +35,70 @@ A number of elements can support group work to be effective. These include:
 - Group goals, in which the group works together towards a shared goal, reward or recognition
 - Individual accountability, in which the success of the group depends on the individual learning of each group member
 
- 
-
 ### Have a look at these two examples
 
 #### Example A
 
-Informal group learning: 
+Informal group learning:
 
-* the teacher has not planned explicitly for group work but feels that the
-      task should be performed in a group
-* pupils are given a task to carry out as a group but the teacher does not
-      provide specific roles or guidance to the group beyond that they need to
-      work together to complete the task: "You’re going to work together to
-      complete the experiment, off you go"
-* each pupil tends to carry out a separate activity which contributes to the
-      completion of the task, but this depends on how functional each group is
-* rewards are provided to individuals within the task: "Now you have
-      completed the task, you need to write it up individually and I will mark
-      it"
+- the teacher has not planned explicitly for group work but feels that the
+  task should be performed in a group
+- pupils are given a task to carry out as a group but the teacher does not
+  provide specific roles or guidance to the group beyond that they need to
+  work together to complete the task: "You’re going to work together to
+  complete the experiment, off you go"
+- each pupil tends to carry out a separate activity which contributes to the
+  completion of the task, but this depends on how functional each group is
+- rewards are provided to individuals within the task: "Now you have
+  completed the task, you need to write it up individually and I will mark
+  it"
 
 #### Example B
 
 Structured team learning
 
-* the teacher has planned explicitly for group work within the lesson,
-      planning that there will be specific roles for pupils within each group: "Number 1s will find out about the reactions of Group 1 metals. Number 2s
-      will get the information about their physical properties. Number 3s will
-      find out about their uses"
-* the teacher has also developed a set of success criteria around what good
-      group work will look like and the team will be rated by the teacher
-      against this set of criteria: "High performing groups will: speak politely
-      and respectfully to each other, use group work voices (other groups should
-      not be able to hear your conversions), listen to each other, encourage and
-      support each other"
-* the teacher monitors and provides feedback and guidance on the quality of
-      both group work and task progress
-* pupils will also be assessed as individuals so that they take
-      accountability for their role within the team: "Now we’ll have a quick
-      test and see what you have each learned. We’ll mark your tests
-      individually and then combine your scores to see which team has improved
-      the most since last time"
+- the teacher has planned explicitly for group work within the lesson,
+  planning that there will be specific roles for pupils within each group: "Number 1s will find out about the reactions of Group 1 metals. Number 2s
+  will get the information about their physical properties. Number 3s will
+  find out about their uses"
+- the teacher has also developed a set of success criteria around what good
+  group work will look like and the team will be rated by the teacher
+  against this set of criteria: "High performing groups will: speak politely
+  and respectfully to each other, use group work voices (other groups should
+  not be able to hear your conversions), listen to each other, encourage and
+  support each other"
+- the teacher monitors and provides feedback and guidance on the quality of
+  both group work and task progress
+- pupils will also be assessed as individuals so that they take
+  accountability for their role within the team: "Now we’ll have a quick
+  test and see what you have each learned. We’ll mark your tests
+  individually and then combine your scores to see which team has improved
+  the most since last time"
 
 #### In your notepad
 
-Answer the following questions: 
+Answer the following questions:
 
-* which is preferable, example A or B?
-* why?
-* what are three implications for your practice?
-
-
+- which is preferable, example A or B?
+- why?
+- what are three implications for your practice?
 
 ### How pupils are grouped is also important
 
 Care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 
 "Effective small group work is not something that just happens when we put
-    pupils into groups. For small group work to be effective, a number of
-    elements need to be taken into account in the structuring of the task.
-    The teacher needs to make clear that cooperation between pupils in the group
-    is desired." 
+pupils into groups. For small group work to be effective, a number of
+elements need to be taken into account in the structuring of the task.
+The teacher needs to make clear that cooperation between pupils in the group
+is desired."
+
 <p style="text-align: right;">
   <span style="font-weight: 400;">
                                                                       (Muijs
     &amp; Reynolds, 2017)
   </span>
 </p>
-
 
 There are many different ways in which pupils can be grouped, for example:
 
@@ -150,8 +146,6 @@ A teacher explains how she would like the groups to be set up for an activity.
 
 {details}
 Video script.
-
-
 
 <span style="font-weight: 400;">
   Teacher: As you know, this term our topic is ‘The Restless Earth’ and you have
@@ -224,11 +218,12 @@ Video script.
 </span>
 
 <span style="font-weight: 400;">Each group needs the following resources:</span>
-1. A3 map of the island for annotation by the Geologist 
-2. Decision-making sheet (Crisis manager) 
-3. A4 map of the island for part 2 of the task 
+
+1. A3 map of the island for annotation by the Geologist
+2. Decision-making sheet (Crisis manager)
+3. A4 map of the island for part 2 of the task
 4. Notepaper for the information coordinator
- {/details}
+   {/details}
 
 ## Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low-attaining pupils
 
@@ -245,16 +240,15 @@ This means pupils of very similar prior attainment level working together for sp
 The aim of this type of grouping is to match tasks, activities and support to pupils’ current capabilities, so that all pupils have an appropriate level of challenge while maintaining high expectations and access to a rich curriculum. This might enable you to spend more time with lower attainment pupils, using in-lesson intervention as an effective and efficient way to support them. The evidence on within-class attainment grouping indicates that it is likely to be beneficial for all learners, providing an average benefit of three months’ additional progress. However, there appears to be less benefit for lower-attaining pupils than for others. In England, within-class attainment grouping tends to be more common in primary than in secondary schools (EEF, 2018).
 
 - Heterogeneous or mixed attainment groupings
-  
 
 This means that pupils of diverse attainment levels are grouped together. This might allow for within-group scaffolding to take place, i.e. higher attaining pupils are able to provide support to lower ability pupils. There are some known positive effects for higher-attaining pupils of taking on this role.
 
 It is important that you do not stick to one type of grouping, especially within-class attainment groups, because you run the risk of creating a perception that attainment is fixed. There can be particular implications for pupils who are considered low-attainment. Groups should be flexible _between subjects_, i.e. groups for literacy are not the same for maths and revert to normal mixed groups for other subjects, and – over time – can be changed regularly in line with assessment data.
 
 According to Steenbergen et al., 2016, the findings of the research on the effects of grouping by attainment on the academic and personal outcomes of students have suggested positive benefits for students assigned to high groups (Kulik &amp; Kulik, 1982; Kerckhoff,
-  1986; Ireson &amp; Hallam, 2001). The progress of students in lower groups,
-  however, was found to be delayed by one or two months each year, and their
-  confidence and engagement were undermined (Higgins et al., 2015).
+1986; Ireson &amp; Hallam, 2001). The progress of students in lower groups,
+however, was found to be delayed by one or two months each year, and their
+confidence and engagement were undermined (Higgins et al., 2015).
 
 ## Homework can improve pupil outcomes, particularly for older pupils, but it is likely that the quality of homework and its relevance to main class teaching is more important than the amount set
 
@@ -262,20 +256,20 @@ Different schools will have different approaches to homework. The most important
 
 ### Potential benefits of homework
 
-####Short-term: 
+####Short-term:
 
-- Better retention of facts and knowledge 
-- Increased understanding 
-- Improved information processing skills 
-- Improved critical thinking skills 
+- Better retention of facts and knowledge
+- Increased understanding
+- Improved information processing skills
+- Improved critical thinking skills
 - Possibility of extending the curriculum
 
-####Long term: 
+####Long term:
 
-- Development of better study habits 
-- Development of better attitudes towards school 
-- Encouragement of learning outside school hours 
-- Independent learning 
+- Development of better study habits
+- Development of better attitudes towards school
+- Encouragement of learning outside school hours
+- Independent learning
 - Time organisation
 
 Most schools will have a policy in relation to homework in terms of when and how much should be set. As a classroom teacher, you will not have control over this. However, it is likely that you have considerable control over the _type_ of homework set. It is difficult to isolate the effects of homework from other factors that might contribute to pupils’ achievement. The benefits of homework are largely dependent on its _quality_ and the extent to which it relates to what pupils need to learn within the class. For example, if pupils are set an entirely discrete homework project for a term that does not relate to what they are learning in lessons, it is likely that there will be fewer gains in progress.
@@ -296,14 +290,10 @@ Homework is an ideal opportunity to apply what you learnt in Block 8 about effec
 {details}
 References.
 
-
-
 Deunk, M. I., Smale-Jacobse, A. E., de Boer, H., Doolaard, S., &amp; Bosker, R. J. (2018) Effective differentiation Practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. _Educational Research Review_, _24_(February), 31–54.<a href="https://doi.org/10.1016/j.edurev.2018.02.002"> https://doi.org/10.1016/j.edurev.2018.02.002</a>.
 
 Education Endowment Foundation (2018) Sutton Trust-Education Endowment Foundation Teaching and Learning Toolkit. Accessible from:<a href="https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/"> https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/</a> [retrieved 10 October 2020].
 
 Muijs, D., &amp; Reynolds, D. (2017) _Effective teaching: Evidence and practice_. Thousand Oaks, CA: Sage.Steenbergen-Hu, S., Makel, M. C., &amp; Olszewski-Kubilius, P. (2016) What One Hundred Years of Research Says About the Effects of Ability Grouping and Acceleration on K-12 Students Academic Achievement: Findings of Two Second-Order Meta-Analyses. _Review of Educational Research_ (Vol. 86).<a href="https://doi.org/10.3102/0034654316675417"> https://doi.org/10.3102/0034654316675417</a>.
 
-
 {/details}
-

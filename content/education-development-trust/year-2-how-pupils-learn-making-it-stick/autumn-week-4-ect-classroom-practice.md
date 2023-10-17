@@ -51,15 +51,11 @@ previous_path: "/education-development-trust/year-2-how-pupils-learn-making-it-s
 - Tell them you want them to write down as much as they can remember about the topic.
 - At the end of the three minutes, hand out success criteria and get pupils to either self-mark or peer-mark to see how many of the key aspects they were able to remember.
 
-
-
 ### In your notepad
 
 Reflect on your practice:
 
-* which idea(s) for practice did you try? 
-* what did you do?
-* what happened?
-* what will you do next?
-
-
+- which idea(s) for practice did you try?
+- what did you do?
+- what happened?
+- what will you do next?

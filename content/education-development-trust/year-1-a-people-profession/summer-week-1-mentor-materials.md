@@ -4,27 +4,26 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
 ## Setting the scene and effective professional relationships
 
 ### Intended outcomes
 
 The intended outcomes of this topic are for Early Career Teachers to:
 
- Learn that:
+Learn that:
 
--  A culture of mutual trust and respect supports effective relationships
+- A culture of mutual trust and respect supports effective relationships
 - Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues
 
 Learn how to build trusting relationships, by:
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations
 
 ### Activities
 
 ###Reflecting on learning (10 minutes)
 
-In this first topic, the mentor should explain to the ECT the importance of beginning the mentor topics with a shared understanding of this module. 
+In this first topic, the mentor should explain to the ECT the importance of beginning the mentor topics with a shared understanding of this module.
 
 Ask the ECT to:
 
@@ -41,7 +40,7 @@ Make sure the following key points are covered in the discussion:
 - The role of the SENCO and when to seek their support.
 
 If the ECT has not looked at the self-study materials yet, the mentor could work through the first activity with them now.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
 ###Building professional relationships (35 minutes)
 
 Guidance for mentors:
@@ -55,7 +54,7 @@ Pose the question: What are the three most important things you have learned abo
 
 The mentor should give their answers to the following questions and the ECT should ask any questions they have around this.
 
-- What advice would you give your NQT self about building relationships with staff when you first started in your first school? 
+- What advice would you give your NQT self about building relationships with staff when you first started in your first school?
 - Who was the first person you went to for advice when you began teaching?
 - What do you wish you'd known about working with parents when you started teaching?
 - How do you work with colleagues to both contribute to the wider life of the school and to better understand and meet pupils’ individual needs?
@@ -63,7 +62,7 @@ The mentor should give their answers to the following questions and the ECT shou
 Together, answer the following questions:
 
 - How would you define 'School Community'? Who makes up that community?
-- When has support from colleagues made a positive impact on your well-being? 
+- When has support from colleagues made a positive impact on your well-being?
 
 Pose the following questions:
 
@@ -78,7 +77,7 @@ Pupil X has consistently been misbehaving in your lessons. She has been talking 
 When you have made an outline of the information you would like to gain, roleplay this with the mentor playing the pastoral head the following ways:
 
 - Being helpful and supportive and offering useful advice/assistance.
-- Being resistant to help and questioning the ECT about what they are doing.                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+- Being resistant to help and questioning the ECT about what they are doing.
 
 ### Planning for action
 
@@ -125,4 +124,3 @@ The ECT should then be able to practise delivering their script in role play wit
 - How well the conversation focused on the pupil’s strengths
 - Any difficult aspects of the conversation where the ECT felt uncomfortable, if at all
 - Which part of the conversation was most helpful in supporting the pupil’s academic performance or behaviour.
-

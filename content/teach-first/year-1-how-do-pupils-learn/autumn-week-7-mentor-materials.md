@@ -4,12 +4,11 @@ heading: "Mentor materials"
 caption: "Autumn week 7"
 ---
 
-
 ## Discussion - self-regulated learning and metacognition
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Discussion
 
@@ -33,6 +32,7 @@ To support you in probing their understanding, you may want to discuss/ask the f
 The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
+
 After discussing self-regulation and metacognition with your teacher, help them to identify potential barriers to their pupils’ ability to self-regulate their learning. This could be things such as the pupil’s awareness of their strengths and weaknesses, their ability to reflect on and adapt strategies they are using, their motivation and engagement with learning.
 This is an introduction to self-regulation and metacognition. Developing pupils’ self-regulation and metacognition will also be built on throughout the rest of the programme.
 
@@ -42,7 +42,7 @@ This is an introduction to self-regulation and metacognition. Developing pupils�
 2. Why will metacognition look different in different subjects?
 
 ### Additional resources:
+
 [Education Endowment Foundation's metacognition and self-regulated learning guidance report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (pages 8 to 11 would be particularly useful to read ahead of the mentor session)
 
 [Education Endowment Foundation's podcast on metacognition](https://educationendowmentfoundation.org.uk/news/trialled-and-tested-podcast-metacognition/)
-

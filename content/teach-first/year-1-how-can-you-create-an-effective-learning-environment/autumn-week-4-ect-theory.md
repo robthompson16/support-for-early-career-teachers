@@ -39,38 +39,32 @@ In the classroom, you may choose to address low-level disruption by employing th
 
 The advantage of this technique is that the teaching does not stop while the disruption is being addressed, so the flow of the lesson is not interrupted in any way. It is also a respectful way to refocus pupils because it gives them an opportunity to self-regulate their behaviour without being shamed or embarrassed in front of their peers.
 
-
-
 ### Example 1&nbsp;– Using proximity
+
 If you notice a pupil no longer following the text during whole class reading, you
 might walk closer to where they are sitting whilst continuing to read, to prompt
 them to follow the text. Here, you’re using your own proximity to the pupil to redirect
 their attention, without needing to say any words. Other pupils are unlikely to even
-be aware that you are intervening. 
-
-
-
+be aware that you are intervening.
 
 ### Example 2 - Using gestures
+
 If a pupil is fiddling with their pen or whiteboard during a phonics lesson, you
 might use a downward hand gesture to signal to the child to put their pen down whilst
-the rest of the pupils continue to read sounds that you point to on the board. 
-
+the rest of the pupils continue to read sounds that you point to on the board.
 
 These are great ways to refocus off-task pupils without stopping teaching. However, such interventions can become invasive if not performed correctly.
 
-
-
 ### Non-exampleA pupil is fiddling with their pen or whiteboard during a phonics
+
 lesson, so you use a downward hand gesture to signal to the child to put their pen
 down and _wait_, looking at them intently with a frown on your face until
-they do. 
+they do.
 
 In the non-example above, the teacher stops teaching. Therefore, the rest of the class has stopped learning and are now watching the non-verbal communication between the teacher and the off-task pupil. This may embarrass the pupil and causes lost learning time. Always aim to use non-verbal interventions discreetly whilst continuing to teach your lesson.
 
-
-
 ### ‘Non-verbal Intervention’ in action
+
 Watch a video of a teacher using non-verbal interventions.
 
 Consider the impact this has on the individual pupils and on the class’s learning.
@@ -79,13 +73,11 @@ Consider the impact this has on the individual pupils and on the class’s learn
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qavKwV9hEaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Non-verbal intervention - Early Years [AD]](https://youtu.be/agNHlU0LWPs)
 
 ####Non-verbal Intervention – Primary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nH1J1NKeYmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: <a href="https://www.youtube.com/watch?v=Opg2ORNT2HY">
 Non-verbal Intervention – Primary – Reach Academy [AD]
@@ -95,11 +87,9 @@ Non-verbal Intervention – Primary – Reach Academy [AD]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Go9F0pYbaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: <a href="https://youtu.be/oGavydEX150" target="_blank" rel="noopener">
-    Non-verbal Intervention – Secondary [AD]
-  </a>
-
+Non-verbal Intervention – Secondary [AD]
+</a>
 
 What happens if the pupil does not correct their behaviour?
 
@@ -120,9 +110,8 @@ This intervention is best framed in a positive way – by describing the solutio
 
 If you want to increase accountability of individual pupils, you could non-verbally indicate to a specific pupil whilst still speaking to the whole class.
 
-
-
 ### ‘Positive Group Correction’ in action
+
 Watch a video of a teacher using positive group correction.
 
 Consider the impact this has on the pupils and the classroom environment.
@@ -131,16 +120,13 @@ Consider the impact this has on the pupils and the classroom environment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAaKk5LMm_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Positive Group Correction – Early Years [AD]](https://youtu.be/Ggtoxe4U4AM)
 
 ####Positive group correction – Primary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UOx5sU3ACcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: <a href="https://youtu.be/EIe2_Y5-Lr8" target="_blank" rel="noopener">Positive group correction – Primary [AD]</a>
-
 
 What happens if the pupil does not correct their behaviour?
 
@@ -154,24 +140,21 @@ Anonymity reduces the level of disruption caused, as it prevents pupils from bei
 
 This technique also gives pupils more ownership over their behaviour as they identify for themselves that they are one of the pupils who isn’t ready. This has the added benefit of encouraging independence and self-regulation.
 
-
-
 ### ‘Anonymous Individual Correction’ in action
+
 Watch the video of a teacher using anonymous individual correction with their pupils.
 
 Consider the impact this has on the class's learning and on the pupils’ sense of autonomy and independence.
 
-####Anonymous individual correction –  Early Years - Bethan Hughes at Reach Academy
+####Anonymous individual correction – Early Years - Bethan Hughes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lciWJdNTCAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-If you require an audio description over the video, please watch this version: [Anonymous individual correction –  Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/e8UQZXOi9Os)
+If you require an audio description over the video, please watch this version: [Anonymous individual correction – Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/e8UQZXOi9Os)
 
 ####Anonymous individual correction – Primary – Francesca Reid at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mlMhO4sQ9Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: <a href="https://youtu.be/PZvu7VrV6xM" target="_blank" rel="noopener">Anonymous individual correction – Primary [AD]</a>
 
@@ -179,10 +162,7 @@ If you require an audio description over the video, please watch this version: <
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdYwxyC2H_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Anonymous Individual Correction – Secondary - Phil Fowkes at Reach Academy [AD]](https://youtu.be/q4Zd94dmZO0)
-
-
 
 What happens if the pupil does not correct their behaviour?
 
@@ -210,9 +190,8 @@ Why is this effective?
 
 These features help to create a culture of mutual trust and respect which supports the development of effective relationships.
 
-
-
 ### ‘Private Individual Correction’ in action
+
 Watch the video of a teacher using private individual correction with their pupils.
 
 Consider the impact this has on the class's learning and on the pupils’ sense of autonomy and independence.
@@ -221,25 +200,20 @@ Consider the impact this has on the class's learning and on the pupils’ sense 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3CimgVGzlGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: <a href="https://youtu.be/9TwU1oanji8" target="_blank" rel="noopener">Private individual correction – Primary [AD]</a>
 
 ####Private individual correction – Secondary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWaqkrNG02c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this
-    version: <a href="https://youtu.be/1gzCYPk-DTM" target="_blank" rel="noopener">Private individual correction – Secondary [AD]</a>
+version: <a href="https://youtu.be/1gzCYPk-DTM" target="_blank" rel="noopener">Private individual correction – Secondary [AD]</a>
 
 ####Private individual correction – Specialist setting - Robyn Emmerson at Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3d8UC8lOXlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Private individual correction – Specialist setting - Robyn Emmerson at Ellen Tinkham School [AD]](https://youtu.be/sZsQyoHcodg)
-
-
 
 What happens if the behaviour is repeated?
 
@@ -266,22 +240,19 @@ Here’s how to do this:
 3. Bring the class focus back to the positive behaviour that’s happening in the classroom
 4. Reinforce the pupil’s now on-task behaviour (if it occurs)
 
-
-
 ### Example 1 - Singing a counting song in Early Years:
-“Javed, I need to hear you. Brilliant singing at the back… Much better Javed.” 
 
-
+“Javed, I need to hear you. Brilliant singing at the back… Much better Javed.”
 
 ### Example 2 - Independent task in Primary or Secondary
+
 “Arfaan, pencil moving. Brilliant concentration Toufika and Samantha... That’s much
-better Arfaan.” 
+better Arfaan.”
 
 It is of course important that you only acknowledge the now on-task behaviour if the pupil is exhibiting it. Don’t be tempted to praise an individual if they have not shown compliance.
 
-
-
 ### ‘Lightning-quick public correction’ in action
+
 Watch a video of a teacher using lightning-quick public correction with their pupils.
 
 Consider the impact this has on the pupils' and the class’s learning.
@@ -290,25 +261,20 @@ Consider the impact this has on the pupils' and the class’s learning.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3d8UC8lOXlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Lightning quick public correction – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/VJlaUM_Lkr0)
 
 Lightning-quick public correction – Secondary – Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0aMQ89IeUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-If you require an audio description over the video, please watch this version: 
+If you require an audio description over the video, please watch this version:
 <a href="https://youtu.be/K41mfw03CyE" target="_blank" rel="noopener">Lightning-quick public correction – Secondary [AD]</a>
 
 ####Lightning-quick public correction – Specialist setting - Helen Colley at Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-I2_RYiK0-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Lightning-quick public correction – Specialist setting - Helen Colley at Ellen Tinkham School [AD]](https://youtu.be/CS1IdqMPDbI)
-
-
 
 What happens if the behaviour is repeated?
 
@@ -322,16 +288,11 @@ One final technique that you may use, not so much to address low-level disruptio
 
 ‘Private Individual Precise Praise’ is when you go over to an individual pupil during independent work and whisper some positive praise for the good work or behaviour they have exhibited.
 
-
-
 ### Example
 
 You walk over to a pupil, crouch down near them and whisper, “Tom, the explanation you gave to the class just now was outstanding – well done.”
 
-
 This is a strategy that can help you to build effective and trusting relationships with pupils by balancing correction of behaviour or work with praise.
-
-
 
 ### Reflection
 
@@ -339,7 +300,7 @@ In your next mentor session, your mentor will observe you using positive and lea
 
 Think of a time when you have intervened with an off-task pupil to correct their behaviour:
 
-- Did you use the least invasive intervention possible? 
-- How did this impact the pupil? 
-- How did it impact the class and their learning? 
+- Did you use the least invasive intervention possible?
+- How did this impact the pupil?
+- How did it impact the class and their learning?
 - What could you do differently next time?

@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-7-ect-reflect"
 ---
 
-
 Mr Andrews is getting better at identifying and conveying what he wants his pupils to learn. But while his checks for understanding reveal pupils have understood what he has taught, he notices that pupils are not yet able to securely grasp and apply key ideas independently. How can his instruction support pupils to consolidate their learning?
 
 ## Key idea
@@ -50,14 +49,13 @@ Lots of practice at once (cramming) can be effective if pupils know very little 
 
 Homework might be a good opportunity for further practice of what has been learnt in class. Homework can improve pupil outcomes, particularly for older pupils, but it is likely that the quality of the homework and its relevance to main class teaching is more important than the amount set (EEF, 2018).
 
-
-
 ### Summary of key takeaways
-Mr Andrews can support successful practice if he understands that:
-- learning is about remembering and connecting information through thinking hard 
-- purposeful practice which causes pupils to think hard improves their retention 
-- effective instruction includes purposeful practice and regular retrieval
 
+Mr Andrews can support successful practice if he understands that:
+
+- learning is about remembering and connecting information through thinking hard
+- purposeful practice which causes pupils to think hard improves their retention
+- effective instruction includes purposeful practice and regular retrieval
 
 ### Further reading
 
@@ -65,7 +63,6 @@ Deans for Impact (2015). _The Science of Learning_. [bit.ly/ecf-dea](http://bit.
 
 {details}
 References.
-
 
 Coe, R. (2013). _Improving Education: A triumph of hope over experience._ Centre for Evaluation and Monitoring. <a href="http://bit.ly/ecf-coe2" target="_blank" rel="noopener">bit.ly/ecf-coe2</a>
 
@@ -90,4 +87,3 @@ Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. 
 Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco: Jossey Bass.
 
 {/details}
-

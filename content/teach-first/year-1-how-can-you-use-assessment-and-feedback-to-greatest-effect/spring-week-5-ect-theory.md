@@ -33,26 +33,24 @@ Record any notes in your notebook.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1GGBSpgQnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 During the course of a lesson, or sequence of lessons, you build up a picture of your students' learning by using assessments to take multiple inadequate glances through a variety of lenses – moment by moment quizzes, topic questions and so on – and by doing so you can increase your confidence in knowing how your students are doing. In a similar way both self-assessment and peer assessment can help your students increase their confidence in how they're doing. And just as you are learning to develop the skills of teacher assessment, so your students need to learn the skills of self and peer assessment. Self and peer assessments are not just valuable tools for producing information. The very act of thinking hard about your own work or someone else's work can be powerful learning events in and of themselves for the person doing the thinking. Done poorly, however, these approaches take up too much classroom time and can lead to students focusing on the wrong drivers of success. Effective self-assessment is a process in which a student thinks independently about their own work and how it could be improved. For it to be useful, the process should be modelled and scaffolded deliberately for your students as it's often unfamiliar and challenging, and the steps involved need to be transparent and understood by everyone in your classroom.
 
 There are four things that help most teachers use self-assessment effectively:
 
-1. Firstly, provide students with clear and understandable examples of what you want them to learn – modelling the destination in this way can be incredibly powerful in knowing where they're going on the journey. 
-2. Secondly, share specific and understandable success criteria that help your students know how they're doing along the way. 
-3. Plan opportunities for your students to use those success criteria independently to identify both their own successes and the things that they need to improve, and finally, 
+1. Firstly, provide students with clear and understandable examples of what you want them to learn – modelling the destination in this way can be incredibly powerful in knowing where they're going on the journey.
+2. Secondly, share specific and understandable success criteria that help your students know how they're doing along the way.
+3. Plan opportunities for your students to use those success criteria independently to identify both their own successes and the things that they need to improve, and finally,
 4. Plan opportunities for your students to work independently to make the identified improvements and I can't stress that last point enough. The most important thing about feedback is what a student does with it.
-Effective peer assessment involves students thinking about someone else's piece of
-work and how it could be improved. Peer assessment can be a powerful learning tool
-and it's not actually about students marking each other's work, as sometimes it's
-thought, and, structured well, it can have a positive impact both for the student
-receiving the peer assessment feedback as well as for the student giving it. Often
-those students who engage in effective peer assessment tasks become much more aware
-of how to improve their own work by virtue of trying to improve others'.
+   Effective peer assessment involves students thinking about someone else's piece of
+   work and how it could be improved. Peer assessment can be a powerful learning tool
+   and it's not actually about students marking each other's work, as sometimes it's
+   thought, and, structured well, it can have a positive impact both for the student
+   receiving the peer assessment feedback as well as for the student giving it. Often
+   those students who engage in effective peer assessment tasks become much more aware
+   of how to improve their own work by virtue of trying to improve others'.
 
 Peer assessment engages your students in taking on the role of what Dylan William has called ‘learning resources for their peers’ and just as with self-assessment you'll need to provide students with exemplars and success criteria as well as planned opportunities to identify successes and areas for improvement and, crucially, planned opportunities to act on this information.
 
@@ -68,10 +66,8 @@ Hear from fellow teachers as they explain how they have established peer and sel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lpplLFmim9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video script.
-
 
 As an Early Years teacher I find assessment checkpoints (sometimes known as mini plenaries) throughout a period of learning to be an effective way to support self-assessment. After a whole class input to a text or piece of writing, the children in Reception move on to tasks which are to be completed independently or supported by the teacher or teaching assistant. With half the class working independently, it gives a good opportunity to use assessment checkpoints to refocus the children, to assess their understanding of the task, and to remind the children of expectations. Within this time, I ask for the attention of all children and explain (so everyone can hear) what I like about individual children’s work and asking them to look at their own work and see if they have similar or think about how they could put this ‘positive’ into their own work. The modelling of what I'm thinking, and what I think is successful, helps them to self-assess whether they recognise it in their own work.
 
@@ -82,12 +78,11 @@ To support the development of peer-assessment, each week we have a whole class w
 {/details}
 
 ####Self and peer assessment - Primary
-<iframe width="560" height="315" src="https://www.youtube.com/embed/APUTP8nVJsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APUTP8nVJsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
-
 
 Self and peer assessment of writing is something I always plan for at the end of a unit of work. This has had a positive impact on pupil outcomes.
 
@@ -101,10 +96,8 @@ After receiving feedback from their peers or an adult, the pupils then used a co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-HdsQTzwHeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 When planning self and peer assessment, I always start with the ‘why’. For it to be successful, the pupils need to see the purpose in doing it. I like to explain the benefits; such as ‘you can identify mistakes and self-correct', ‘your peer can provide alternative viewpoints or suggestions to develop your work’, they can be a ‘friendly second eye’ catching any errors that you may have made.
 
@@ -120,7 +113,6 @@ When setting this up in the classroom, I saw it as an evolutionary approach that
 {/details}
 
 Prepare for your next mentor interaction by selecting an example of self-assessment completed by a pupil in your class.
-
 
 ### Metacognition and self-assessment
 
@@ -160,8 +152,6 @@ _How did I do?_
 
 The EEF have developed seven practical recommendations that support the teaching and development of metacognition in pupils. Two of these strategies have been covered in this ECF programme. Take five minutes to [review the remaining five](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf).
 
-
-
 ### Effective self and peer assessment
 
 One of the seven recommendations for teaching metacognitive strategies is to encourage pupils to plan, monitor and evaluate their own learning.
@@ -170,9 +160,9 @@ Consider the scenario below. Then, after each verbalised thought question, think
 
 #### Scenario
 
-You have asked your pupils to draw or paint a self-portrait. 
+You have asked your pupils to draw or paint a self-portrait.
 
-Knowing that modelling the task will give pupils a clear idea of what success in the task looks like, you draw your own self-portrait in front of the class. 
+Knowing that modelling the task will give pupils a clear idea of what success in the task looks like, you draw your own self-portrait in front of the class.
 
 Knowing also that an effective way to develop metacognitive strategies and self-regulation in your pupils is to verbalise your thinking, you talk aloud through your model, articulating why you have made the choices that you have.
 
@@ -196,4 +186,3 @@ Knowing also that an effective way to develop metacognitive strategies and self-
     1. Plan 2. Monitor 3. Plan 4. Evaluate 5. Monitor
 </div>
 </details>
- 

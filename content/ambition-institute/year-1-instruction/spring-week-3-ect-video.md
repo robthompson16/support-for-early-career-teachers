@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-3-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gfnFc_4mXn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena MooreA key goal for all teachers is to help their
+
 pupils to learn and remember what they learn. The good news is that we know a lot
 about how learning works and the role that memory plays. Memory is an important factor
 in learning. It affects our ability to pay attention to something, to remember it,
 and to use it. Teachers need to know about the role that memory plays in learning
 and design lessons that maximize its potential.
+
 ### Presenter main
+
 Understanding a bit about how our memories work can help us to make better decisions
 in our teaching. Whilst there's still a lot that we don't know, cognitive scientists
 have learned a huge amount about how our brains process and store information. Teachers
@@ -40,11 +40,15 @@ Next we need to give pupils plenty of opportunities to practise when learning ne
 Getting the balance right between exposition, practice, and retrieval isn't easy. No formula exists about how long to spend on each. The time spent on exposition, practice, and retrieval will vary depending on your pupils' prior knowledge and what it is that you're teaching. Understanding how pupils learn and adapting your teaching to meet this is an important part of high-quality teaching. Ensuring high-quality teaching is an effective approach for all pupils, including those with special educational needs and disabilities. However, some pupils with special educational needs and disabilities may need additional support on top of the high-quality teaching. Teachers should work closely with the SENCo in their school and other support staff, such as teaching assistants, to ensure that they tailor their instruction to specific needs of some pupils.
 
 ### Presenter exemplification framing
+
 In a moment, you're going to watch an Ambition Institute coach model a sequence of
 learning to a year one class. As you watch, focus on how they do the following:
+
 - Breaks complex material into small steps.
 - Balances exposition, repetition, practice and retrieval of critical knowledge and skills.
+
 ### Exemplification: Ambition Institute Coach
+
 In this model, I'm going to show you a sequence of learning that's aligned with
 what we understand about how memory and learning work. For context, imagine that
 I'm teaching a year one class how to form the lowercase letter m. They already
@@ -93,19 +97,20 @@ Finally, I provided lots of opportunities for pupils to practise, to help pupils
 Even in this short sequence of learning, there are many ways in which I was able to take instruction for memory into account, making it more likely that pupils will be able to access and remember what I teach them.
 
 ### Presenter key ideas
+
 In this video, we've explored what we mean by instruction for memory and looked at
 some practical ways in which teachers can assure that their instruction is aligned
 with how pupils learn. Before we finish, read through the key ideas. Which of these
 do you currently take into account the most?
-- Balancing exposition, repetition, practice and retrieval of critical knowledge and skills 
+
+- Balancing exposition, repetition, practice and retrieval of critical knowledge and skills
 - Breaking complex material into smaller steps
 - Reducing distractions that take attention away from what is being taught
+
 ### Presenter summary
+
 It's quite likely that you're already doing some of these things in your
 teaching practice, but everyone can get better. The more you understand about
 how pupils learn, the more effective your teaching will be.
 
-
-
 {/details}
-

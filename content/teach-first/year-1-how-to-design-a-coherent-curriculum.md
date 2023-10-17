@@ -4,12 +4,11 @@ heading: "Second half-term: how to design a coherent curriculum"
 caption: "Year 1"
 ---
 
-
 In this module you'll learn how to design a carefully sequenced and coherent scheme of work, and how this will improve learning for your pupils.
 
 ## Introduction to the module
 
-Go through the module introduction to see what you'll be learning. 
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -17,7 +16,7 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Go through the module introduction to see what the ECT will be learning. 
+Go through the module introduction to see what the ECT will be learning.
 
 [View mentor materials](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-0-mentor-materials)
 
@@ -25,8 +24,8 @@ Go through the module introduction to see what the ECT will be learning.
 
 During the first topic of the module you need to:
 
-* work through the self-study materials below
-* meet your mentor to discuss what you'll be doing in the weeks ahead
+- work through the self-study materials below
+- meet your mentor to discuss what you'll be doing in the weeks ahead
 
 Duration: 25 minutes.
 
@@ -44,8 +43,8 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 50 minutes.
 
@@ -63,8 +62,8 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 55 minutes.
 
@@ -82,8 +81,8 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 45 minutes.
 
@@ -101,8 +100,8 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 35 minutes.
 
@@ -120,8 +119,8 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 60 minutes.
 
@@ -137,14 +136,12 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 7: reflect on the year and next steps for improvement
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting. 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
 Use the materials below to plan a discussion about this topic with the ECT during your catch-up.
 
 [View mentor materials](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-7-mentor-materials)
-

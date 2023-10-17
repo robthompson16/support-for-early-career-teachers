@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-7-ect-reflect"
 ---
 
-
 Mr Jones is increasingly successful in developing pupils’ mental models and helping them to grasp crucial ideas. However, he has become concerned that their written work is not keeping pace with their understanding. He notices pupils struggling to master and use technical vocabulary, and to articulate key ideas clearly. How can Mr Jones improve pupils’ literacy within his subject, and more generally?
 
 ## Key idea
@@ -51,14 +50,13 @@ Promoting literacy might also look different at different ages. For example, for
 
 Promoting reading for pleasure, by using a range of whole-class reading approaches and regularly exposing pupils to high-quality texts, can also support literacy development (EEF, 2016).
 
-
-
 ### Key takeaways
-Mr Jones can help pupils to improve their literacy by:
-- identifying literacy goals for a topic, such as vocabulary to use, challenging texts to read, and forms of writing to practise 
-- sharing and breaking down models of the reading and writing he hopes pupils will master 
-- planning opportunities for high-quality talk, which use key vocabulary to articulate crucial ideas
 
+Mr Jones can help pupils to improve their literacy by:
+
+- identifying literacy goals for a topic, such as vocabulary to use, challenging texts to read, and forms of writing to practise
+- sharing and breaking down models of the reading and writing he hopes pupils will master
+- planning opportunities for high-quality talk, which use key vocabulary to articulate crucial ideas
 
 ### Further reading
 
@@ -66,7 +64,6 @@ EEF (2018). Preparing for Literacy Guidance Report. [bit.ly/ecf-eef6](http://bit
 
 {details}
 References.
-
 
 Beck, I., McKeown, M., and Kucan, L. (2002). Bringing words to life. New York: Guilford.
 
@@ -81,4 +78,3 @@ Scott, C. E., McTigue, E. M., Miller, D. M., &amp; Washburn, E. K. (2018). The w
 Willingham, D. T. (2009). Why don’t students like school? San Francisco, CA: Jossey Bass
 
 {/details}
-

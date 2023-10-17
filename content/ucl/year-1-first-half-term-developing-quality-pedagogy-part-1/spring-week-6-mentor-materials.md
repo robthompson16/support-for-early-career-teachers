@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 6"
 ---
 
-
 ## Developing the learning for standard 4
 
 ### Learning intentions
@@ -14,8 +13,6 @@ Your ECT will learn how to:
 - use the Module 3 ECT audit (year 1) as a stimulus for discussion around the mentee’s current knowledge and practice in relation to Module 3 (ECF standard 4)
 - support the mentee to make accurate judgements about their progress in this module so far
 - agree with the mentee areas for particular focus and further development as they start to apply their understanding to the ‘learn that’ and ‘learn how to’ statements relating to Standard 5 – adaptive teaching
-
-
 
 ### Topic introduction
 
@@ -29,11 +26,9 @@ Secure: I know a lot about this, and/or I do it in my practice consistently and 
 
 One of the roles of the mentor is to support mentees in developing a realistic analysis of strengths and areas for development and equipping them – through reflective practice, modelling and worked examples – to make progress towards unconscious competence in each of the key areas. In this session, you have the opportunity to use the ‘conscious competence’ model again to help your mentee reflect on their understanding in relation to the key ‘learn that’ and ‘learn how’ statements in Standard 4 – classroom practice.
 
-
 ### Research and practice summary
 
 As this session is an opportunity for reflection, there is no research summary – reference may be made to the summaries included in previous sessions.
-
 
 ### Meeting activities
 
@@ -55,12 +50,12 @@ Discussion with mentor<:
 
 Discuss with your mentee their strengths and areas for development in relation to Standard 4.
 
-To support this discussion, use the ‘conscious competence’ model and its relevance to teacher development: 
+To support this discussion, use the ‘conscious competence’ model and its relevance to teacher development:
 
 1. Unconscious Incompetence: You are unaware of the skill and your lack of proficiency
 2. Conscious Incompetence: You are aware of the skill but not yet proficient
 3. Conscious Competence: You are able to use the skill, but only with effort
-4. Unconscious Competence: Performing the skill becomes automatic 
+4. Unconscious Competence: Performing the skill becomes automatic
 
 Your mentee has spent the last 6 weeks exploring their understanding and practice in the following ‘learn how to’ areas:
 
@@ -115,4 +110,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

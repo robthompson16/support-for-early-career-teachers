@@ -14,27 +14,24 @@ You learned about metacognition and some strategies for teaching it as part of B
 
 There are three aspects to self-regulation; cognition, meta-cognition and motivation (EEF, 2017). All three are important, inter-dependent aspects of the learning process and you will need to consider each one carefully when thinking about how to help pupils monitor and regulate their own learning.
 
-
-
 ### Key terms
 
 #### Cognition
 
 The mental processes involved in knowing, understanding and learning.
-  Cognitive strategies include memorisation techniques or subject-specific
-  strategies like how to solve an equation.
+Cognitive strategies include memorisation techniques or subject-specific
+strategies like how to solve an equation.
 
 #### Metacognition
 
 The ways learners monitor and purposefully direct their learning.
-  Meta-cognitive strategies include planning what technique to use, monitoring
-  if it is working and choosing to adapt if it is not.
+Meta-cognitive strategies include planning what technique to use, monitoring
+if it is working and choosing to adapt if it is not.
 
 #### Motivation
 
 Our willingness to engage in meta-cognitive or cognitive strategies. For
-  example, convincing ourselves to revise for a test we have tomorrow.
-
+example, convincing ourselves to revise for a test we have tomorrow.
 
 When giving feedback to pupils, you should make specific reference to the cognitive strategies which they used or could have used. Be aware that because we cannot _see_ cognitive strategies, we are commenting on surface-level evidence. Therefore, feedback might include:
 
@@ -54,14 +51,13 @@ Giving feedback on cognitive processes will help expand pupil awareness of which
 
 Watch the video below and answer the following questions:
 
-* how does the teacher identify which cognitive strategies the pupil has used?
-* how does the teacher give feedback on the effectiveness of these strategies?
-* how does the feedback help the pupil to try new cognitive strategies in the
-    future?
+- how does the teacher identify which cognitive strategies the pupil has used?
+- how does the teacher give feedback on the effectiveness of these strategies?
+- how does the feedback help the pupil to try new cognitive strategies in the
+  future?
 
 {details}
 Video script.
-
 
 Teacher: “Yasin, can you tell me how you solved the problem?”
 
@@ -89,34 +85,29 @@ As Wiliam & Christadoulou (2017) tell us, ‘students will only act on feedback 
 
 |                                             |                                                                                                                                                                                            |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| How to support pupils to self-regulate  | What does this look like in practice                                                                                                                                                   |
+| How to support pupils to self-regulate      | What does this look like in practice                                                                                                                                                       |
 | Provide individual feedback                 | - Personalise feedback. - Provide feedback to each pupil.                                                                                                                                  |
 | Focus on improvement                        | - Tell pupils what they need to do to improve. - Provide specific steps. - Outline the process pupils need to take to improve their response.                                              |
 | Focus on the work rather than the pupil     | - Keep feedback positive. - Ensure feedback is non-judgemental. - Comment on the work produced. - Keep comments constructive and supportive.                                               |
 | Provide feedback on ways to learn           | - Share the most effective ways to learn with pupils. - Show your pupils what good looks like. - Show pupils the value of putting effort in to improving and editing their work.           |
 | Help pupils set realistic, achievable goals | - Model goal-setting. - Encourage your pupils to reflect on where they are and where they want to be. - Show pupils how to set targets for themselves. - Help pupils track their progress. |
 
-
-
 ### In your notepad
 
 Thinking about the table above, how do you support pupils to monitor their
-      own learning? 
+own learning?
 
 What further steps will you take?
-
 
 {details}
 References.
 
-
 Hattie, J., &amp; Timperley, H. (2007) The Power of Feedback. _Review of Educational Research_, _77_(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">https://doi.org/10.3102/003465430298487</a>
 
-Gibson, S., Oliver, L. and Dennison, M. (2015) _Workload Challenge: Analysis of teacher consultation responses_. Department for Education. Accessible from: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/485075/DFE-RR456A_-_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment*data/file/485075/DFE-RR456A*-_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf</a>.
+Gibson, S., Oliver, L. and Dennison, M. (2015) _Workload Challenge: Analysis of teacher consultation responses_. Department for Education. Accessible from: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/485075/DFE-RR456A_-_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment*data/file/485075/DFE-RR456A*-\_Workload_Challenge_Analysis_of_teacher_consultation_responses_sixth_form_colleges.pdf</a>.
 
 Muijs, D., &amp; Reynolds, D. (2017) _Effective teaching: Evidence and practice_. Thousand Oaks, CA: Sage.
 
 Wiliam, D. (2017) Assessment, marking and feedback. In Hendrick, C. and McPherson, R. (Eds.) _What Does This Look Like in the Classroom? Bridging the gap between research and practice_. Woodbridge: John Catt.
 
 {/details}
-

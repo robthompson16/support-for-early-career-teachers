@@ -4,21 +4,24 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-
 ## Observation discussion - combining verbal explanation and graphical representations to reduce working memory overload
 
 ### Teaching techniques to focus feedback on
 
 ### Interaction:
+
 Observation
 
-### Outcome: 
+### Outcome:
+
 To have practised combining verbal explanation and graphical representations to reduce working memory overload.
 
 ### Stimulus
+
 Observe your teacher deliver an explanation where they pair verbal explanation with graphical representation.
 
 ### Praise, probe and set precise actions
+
 The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
@@ -35,4 +38,3 @@ Then work with your teacher to plan this strategy either into the lesson that yo
 1. When have you overloaded your pupils? What was the cause of this and the implication on the learning for the affected pupils?
 2. Why is it important to remove any unnecessary expositions when teaching new material?
 3. How can combining verbal and graphical representation support the working memory?
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 2"
 ---
 
-
 ## Understanding teachers as role models
 
 ### Learning intentions
@@ -50,10 +49,11 @@ Throughout the session, try to refer explicitly to the Learning Intentions, and 
 Review: 5 mins
 
 1. Start this session by briefly checking in with your mentee that they have been able to access and engage with the materials for the first self-study session of this programme. Address any questions or issues they have, which could include topics such as:
-    - how to protect the time and space to engage with their professional learning on this programme
-    - accessing resources needed to support their study (in this case school materials on culture and values)
-    - completing activities as part of self-study (in this case observing a colleague as they manage the beginning of a lesson)
-    - how they are recording their thinking and learning on the programme
+
+   - how to protect the time and space to engage with their professional learning on this programme
+   - accessing resources needed to support their study (in this case school materials on culture and values)
+   - completing activities as part of self-study (in this case observing a colleague as they manage the beginning of a lesson)
+   - how they are recording their thinking and learning on the programme
 
 2. Clarify the Learning Intentions for this session with your mentee.
 
@@ -77,34 +77,34 @@ Theory to Practice: 35 mins
 
 1. Discussion with mentor
 
-    Discuss with your mentee any routines that are mandated by your school’s behaviour policy and teaching and learning policy. Make reference to the relevant policies as appropriate and check that your mentee is clear about what is expected of them. This could include:
+   Discuss with your mentee any routines that are mandated by your school’s behaviour policy and teaching and learning policy. Make reference to the relevant policies as appropriate and check that your mentee is clear about what is expected of them. This could include:
 
-    - routines for moving around the school building
-    - routines for managing behaviour
-    - routines for organising teaching and learning (e.g. required components of lessons)
+   - routines for moving around the school building
+   - routines for managing behaviour
+   - routines for organising teaching and learning (e.g. required components of lessons)
 
 2. Analyse artefacts/scripting
 
-    Work with your mentee to review and refine their scripted entry routine for their classroom, drafted during this week’s self-directed study session.
+   Work with your mentee to review and refine their scripted entry routine for their classroom, drafted during this week’s self-directed study session.
 
-    To support this process you could:
+   To support this process you could:
 
-    - cross-reference the script to this week’s research and practice summary, checking to see how the script does/could draw on ideas drawn from best practice
-    - cross-reference the script to your school’s policies and embedded routines
-    - consider the characteristics of your mentee’s pupils and how these influence your mentee’s expectations
-    - discuss how the routine might be altered to account for differences in pupil characteristics or contexts (e.g. how routines might be different for pupils in different key stages, or in different learning spaces)
-    - ensure that the script is sufficiently detailed that it sets out clearly what is expected of pupils and how your mentee will clarify, model and embed these expectations
+   - cross-reference the script to this week’s research and practice summary, checking to see how the script does/could draw on ideas drawn from best practice
+   - cross-reference the script to your school’s policies and embedded routines
+   - consider the characteristics of your mentee’s pupils and how these influence your mentee’s expectations
+   - discuss how the routine might be altered to account for differences in pupil characteristics or contexts (e.g. how routines might be different for pupils in different key stages, or in different learning spaces)
+   - ensure that the script is sufficiently detailed that it sets out clearly what is expected of pupils and how your mentee will clarify, model and embed these expectations
 
 3. Rehearsal
 
-    Having refined your mentee’s script/routine, work with them to rehearse the script in action.
+   Having refined your mentee’s script/routine, work with them to rehearse the script in action.
 
-    To support this process you could:
+   To support this process you could:
 
-    - play the part of a pupil entering your mentee’s classroom
-    - give feedback on how closely your mentee’s enactment of their routine reflects their script
-    - give feedback on how to improve enactment of the routine
-    - ask your mentee to repeat the routine until they are able to enact it confidently and accurately
+   - play the part of a pupil entering your mentee’s classroom
+   - give feedback on how closely your mentee’s enactment of their routine reflects their script
+   - give feedback on how to improve enactment of the routine
+   - ask your mentee to repeat the routine until they are able to enact it confidently and accurately
 
 4. If you have time you may wish to repeat the processes of scripting and rehearsal with another routine relevant to your mentee. This should be selected according to the phase and specialism of your mentee and their personal learning needs.
 
@@ -119,4 +119,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

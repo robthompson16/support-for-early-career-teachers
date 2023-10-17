@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 9"
 ---
 
-
 ## Assessing for formative purposes
 
 ### Select a development area
@@ -13,7 +12,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Assessing for formative purposes
 
-#### Focused development area     
+#### Focused development area
 
 - Teacher plans an assessment task that checks pupils have understood the key learning from the lesson and enables the identification of common misconceptions.
 - Teacher intentionally checks what pupils are understanding and uses the assessment task to identify gaps in knowledge, errors or misconceptions.
@@ -21,27 +20,25 @@ Consider the development areas for this topic (below). Then make a note of the a
 {details}
 Example precise target: Teacher plans an assessment task that checks pupils have understood the key learning from the lesson and enables the identification of common misconceptions.
 
-
 - **Not doing it at all:** Plan how you will assess pupils in a way that enables you to check pupils' understanding of the key learning.
 - **Doing it but needs some improvement:** Plan how you will assess pupils in a way that enables you to check pupils' understanding of the key learning and deliberately targets a common misconception that pupils may hold related to the key learning
 - **Doing it well and needs some stretch:** Plan how you will assess pupils in a way that enables you to check pupils' understanding of the key learning and deliberately targets multiple common misconceptions pupils may hold related to the key learning.
 
 {/details}
 
-
 ### Development area 2: Whole-class diagnostic questions
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher carefully frames to pupils the purpose of diagnostic questions. 
-- Teacher creates a set of diagnostic questions that specifically assess for understanding and misconceptions related to the critical knowledge they want pupils to have understood. 
+- Teacher carefully frames to pupils the purpose of diagnostic questions.
+- Teacher creates a set of diagnostic questions that specifically assess for understanding and misconceptions related to the critical knowledge they want pupils to have understood.
 - Teacher ensures all pupils know how to display their answer to the diagnostic questions quickly so the teacher can check their responses and gauge pupil understanding.
 
 ### Development area 3: Delivering assessment for formative purposes
 
-#### Focused development area     
+#### Focused development area
 
-- Teacher plans the delivery of a task they are using to assess for formative purposes and follow-up questions to ensure they know if pupil answers stem from secure understanding. 
+- Teacher plans the delivery of a task they are using to assess for formative purposes and follow-up questions to ensure they know if pupil answers stem from secure understanding.
 - Teacher plans the sample size of pupils they will ask their question to and the way they want pupils to show their responses.
 
 ### Observe
@@ -64,5 +61,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Prompt pupils to elaborate to check that a correct answer stems from secure understanding.
 - Monitor pupil work during lessons, including checking for misconceptions.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

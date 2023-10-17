@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 5"
 ---
 
-
 ## Working effectively with colleagues
 
 ### Learning intentions
@@ -20,12 +19,9 @@ Build effective working relationships, by:
 - Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
 - Knowing who to contact with any safeguarding concerns.
 
-
-
 ### Topic introduction
 
 In the ECT online learning community for this module, participants explored approaches to building effective working relationships with parents, carers, families and colleagues. In this session, you will look more closely at the role of specialist colleagues in your school and ways to work effectively with them to ensure that appropriate support is in place for pupils.
-
 
 ### Research and practice summary
 
@@ -66,7 +62,6 @@ Julie realised that although Steve routinely undertook targeted interventions wi
 To work more effectively together, Julie discussed with Steve what the interventions actually involved. Together, they worked out opportunities for making links between these interventions and in-class activities. This included, for example, using consistent language to help pupils make connections between learning in class and in their interventions.
 
 Julie also took the time to sit in on one of the interventions so that she could deepen her own understanding. Finally, Steve and Julie agreed how they would continue to communicate effectively, which included how they would identify pupils most likely to benefit from interventions in the future.
-
 
 ### Meeting activities
 
@@ -126,4 +121,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these actions
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

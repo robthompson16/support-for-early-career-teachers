@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-
 ## Observation and feedback to improve the quality of pedagogy and the productive use of assessment
 
 ### Mentor materials content
@@ -24,6 +23,7 @@ The observation:
 - should not be judged or be used for performance management purposes
 
 The feedback meeting:
+
 - should closely relate to the Early Career Framework (ECF) standards and statements relevant to your mentee’s inquiry
 
 - could, by agreement, lead to further adjustments to their practice and inquiry
@@ -95,4 +95,3 @@ Agree with your mentee how they will now put their learning from this week’s f
 Note the date of your next mentor meeting, when you will have reached the midpoint of the module and so will revisit the Module 8 audit.
 
 Finally, remind your mentee that they have self-directed study time next week. They will use this to continue collecting evidence for their inquiry, and attempt to make a ‘claim’.
-

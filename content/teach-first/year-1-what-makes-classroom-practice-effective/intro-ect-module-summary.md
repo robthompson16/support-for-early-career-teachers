@@ -6,16 +6,15 @@ title: "Module summary"
 
 Effective classroom practice is made up of many components. It’s partly what makes teaching so challenging – there are many components to consider at one given time during a lesson and they are all inextricably linked and intertwined.
 
-Listen to Claire Stoneman, educational writer and former deputy head, talk about the features of effective classroom practice and consider the following questions: 
+Listen to Claire Stoneman, educational writer and former deputy head, talk about the features of effective classroom practice and consider the following questions:
 
-* why is effective classroom practice challenging and how can you develop
-      yours?
-* why is curriculum knowledge at the heart of effective teaching?
+- why is effective classroom practice challenging and how can you develop
+  yours?
+- why is curriculum knowledge at the heart of effective teaching?
 
 Record your response in your notepad.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BfGBvCs0aHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 What makes classroom practice effective? – Claire Stoneman
 

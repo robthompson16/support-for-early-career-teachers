@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-12-ect-reflect"
 ---
 
-
 Ms Kearney is confident when leading the class in instructional sequences that support pupils to make sense of new material. However, pupils sometimes still need input to clarify misunderstandings and correct mistakes. How can Ms Kearney efficiently provide feedback through her instruction to support pupil learning?
 
 ## Key idea
@@ -59,14 +58,13 @@ Feedback and marking are often conflated. Marking is only one type of feedback a
 
 Data from feedback only needs to be recorded when it is useful for improving pupil outcomes. It is usually more beneficial to ensure pupils have received accurate and helpful feedback that they then act upon.
 
-
-
 ### Key takeaways
-Ms Kearney can use feedback to support pupil learning by understanding that:
-- high-quality feedback, written or verbal, is ambitious and specific about how to improve 
-- over time, feedback supports pupils to monitor and regulate their own learning 
-- before setting an assessment, teachers need to decide whether feedback will be given and be able to justify their decision
 
+Ms Kearney can use feedback to support pupil learning by understanding that:
+
+- high-quality feedback, written or verbal, is ambitious and specific about how to improve
+- over time, feedback supports pupils to monitor and regulate their own learning
+- before setting an assessment, teachers need to decide whether feedback will be given and be able to justify their decision
 
 ### Further reading
 
@@ -74,7 +72,6 @@ Black, P., Harrison, C., Lee, C., Marshall, B., & Wiliam, D. (2004). Working ins
 
 {details}
 References.
-
 
 Christodoulou, D. (2017). _Making Good Progress: The Future of Assessment for Learning._ Oxford: OUP.
 

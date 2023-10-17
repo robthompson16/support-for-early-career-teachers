@@ -4,16 +4,15 @@ heading: "Mentor materials"
 caption: "Spring week 6"
 ---
 
-
 ## Observation discussion - effective questioning to extend and challenge pupils
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
 
 Observation
 
-### Outcome: 
+### Outcome:
 
 To have planned and practised effective questioning to extend and challenge pupils.
 
@@ -21,11 +20,11 @@ To have planned and practised effective questioning to extend and challenge pupi
 
 In your last mentor session, you worked with your teacher to plan effective questioning into a lesson. Observe your teacher as they deliver this lesson. You may wish to focus on your teacher’s ability to:
 
-- Avoid self-report questions - ask questions that directly assess pupil understanding of the material being taught  
-- Check whole class understanding  
-- Provide appropriate wait time after asking a question to allow pupils to generate a response 
-- Not complete pupils’ answers 
-- Ask follow-up questions to extend and challenge pupils 
+- Avoid self-report questions - ask questions that directly assess pupil understanding of the material being taught
+- Check whole class understanding
+- Provide appropriate wait time after asking a question to allow pupils to generate a response
+- Not complete pupils’ answers
+- Ask follow-up questions to extend and challenge pupils
 - Provide scaffolds for pupil talk to increase the focus and rigour of dialogue
 
 ### Praise, probe and set precise actions
@@ -42,4 +41,3 @@ Work with your teacher to support them to improve their questioning. You may wis
 2. What are the different ways you can check pupil understanding?
 3. How can you use questions to extend and challenge pupils?
 4. What scaffolds could you provide for pupil talk to increase the focus and rigour of dialogue?
-

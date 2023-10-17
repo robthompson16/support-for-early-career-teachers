@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-9-ect-reflect"
 ---
 
-
 Mr Jones is increasingly confident at using the I-We-You model to lead sequences of instruction. But he finds that some of his pupils become overwhelmed by new content and many pupils struggle when the ideas are abstract or complex. How can his instruction support pupils to be successful when tackling challenging material?
 
 ## Key idea
@@ -43,14 +42,13 @@ Effective scaffolding increases the chances of pupils experiencing success and i
 
 Scaffolding alone cannot overcome limitations in pupil prior knowledge. Strategies like explicitly teaching content and allowing pupils to rehearse this new knowledge are necessary to ensure pupils have adequate knowledge (Rosenshine, 2012).
 
-
-
 ### Key takeaways
-Mr Jones can successfully scaffold his instruction if he understands that:
-- pupils will struggle and working memory will become overloaded if they do not have relevant knowledge of new content – particularly if it is complex or abstract 
-- scaffolding can provide knowledge to support pupils to access new content through modelling, worked examples and guides 
-- scaffolding needs to be removed over time as it can become a barrier once pupil knowledge is developed. However, a high success rate should be maintained
 
+Mr Jones can successfully scaffold his instruction if he understands that:
+
+- pupils will struggle and working memory will become overloaded if they do not have relevant knowledge of new content – particularly if it is complex or abstract
+- scaffolding can provide knowledge to support pupils to access new content through modelling, worked examples and guides
+- scaffolding needs to be removed over time as it can become a barrier once pupil knowledge is developed. However, a high success rate should be maintained
 
 ### Further reading
 
@@ -58,7 +56,6 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 
 {details}
 References.
-
 
 Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). _What makes great teaching. Review of the underpinning research._ Durham University: UK. <a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">bit.ly/ecf-coe</a>
 
@@ -68,9 +65,8 @@ Pashler, H., Bain, P. M., Bottge, B. A., Graesser, A., Koedinger, K., McDaniel, 
 
 Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. _American Educator,_ 12–20. <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">bit.ly/ecf-ros</a>
 
-Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. _Journal of Applied Research in Memory and Cognition_, 5(4), 360-367.
+Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. *Journal of Applied Research in Memory and Cognition*, 5(4), 360-367.
 
 Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco: Jossey - Bass.
 
 {/details}
-

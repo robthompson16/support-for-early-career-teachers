@@ -6,11 +6,8 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-12-ect-teaching-cha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYQvRpkKEeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
-
 
 <h3 class="p1">
   <span class="s1">Presenter intro: Peps McCrea</span>
@@ -38,11 +35,15 @@ Another approach that can help pupils to achieve high expectations is to draw th
 Using intentional and aspirational language, and encouraging effort, also helps to create a classroom culture where pupils become used to working hard and trying their best. Pupils need to experience success in the classroom to feel they're capable of it. This means setting tasks that stretch pupils, and being explicit about the knowledge and skills that they need to acquire in order to carry out these tasks well. Once again, it's about showing pupils how to be successful, not simply setting your expectations high and hoping for the best. Powerful motivating words need to be accompanied by crystal-clear actions.
 
 ### Presenter exemplification framing
+
 In the next example, you will see a model of how to establish high expectations during
 a class discussion. Try to spot the following:
+
 - Teaches and rigorously maintains clear behavioural expectations
 - Acknowledges and praises pupil effort
+
 ### Exemplification: Ambition Institute coach
+
 For the purposes of this model, I want you to imagine that I'm teaching a year
 seven English class "Romeo and Juliet." I'm about to ask a series of questions
 to help consolidate and develop pupil thinking. My expectation is that everyone
@@ -81,6 +82,7 @@ I encouraged all pupils to participate by asking the question to the whole class
 Finally, I helped pupils to experience success through their contributions. When Oliver didn't know the answer to the question, I asked another pupil, and then went back to Oliver to give him the chance to correct his thinking. This provided a great opportunity to remind Oliver and others of their ability to make progress. Pupils benefit when we help them to attribute successes to their efforts rather than to any innate ability.
 
 ### Presenter key ideas
+
 In this video, we've explored why it's important for teachers to have high expectations,
 and how they can help pupils to achieve them. Now read over the key ideas that we've
 covered. Which ideas do you think the example illustrated the best?
@@ -90,14 +92,15 @@ covered. Which ideas do you think the example illustrated the best?
 - Acknowledge and praise pupil effort and emphasising progress being made
 
 ### Presenter summary
+
 You may well have seen some teachers who make setting high expectations look
 easy. Pupil behaviour is exemplary in their classrooms, and they appear to have
 some kind of magic touch. But none of this is really magic. Helping pupils to
 meet high expectations for behaviour as well as academic success occurs when
 teachers consistently show their pupils what to do. It's about being explicit to
 pupils, and constantly reinforcing what we say.
+
 <p class="p2">
   <span class="s1"> </span>
 </p>
  {/details}
-

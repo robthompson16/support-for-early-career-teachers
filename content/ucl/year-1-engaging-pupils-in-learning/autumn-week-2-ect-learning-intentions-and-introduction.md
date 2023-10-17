@@ -13,7 +13,7 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-2-ect-research-a
 
 You will learn that:
 
-- Learning involves a lasting change in pupils’ capabilities or understanding.                                                                                                                                         
+- Learning involves a lasting change in pupils’ capabilities or understanding.
 
 - Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas.
 - An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory.

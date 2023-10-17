@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Spring week 3"
 ---
 
-
 ## Expositions
 
 ### Intended outcomes
@@ -15,7 +14,7 @@ Learn how to make good use of expositions, by:
 
 - Starting expositions at the point of current pupil understanding
 - Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate
-- Using concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+- Using concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples)
 
 ### Activities
 
@@ -52,12 +51,12 @@ Ask:
 - How did that make you feel?
 - [The mentor could insert a story here from a time that this has happened to them].
 - How can you work out what the point of current pupil understanding is?
-    - Through questioning and other forms of formative feedback (this is dealt with explicitly in module 5)
-    - Start the lesson with a short low-stakes quiz
-    - Use a multiple-choice question that exposes misconceptions
-    - Give pupils a homework task that assesses their prior understanding before the lesson
+  - Through questioning and other forms of formative feedback (this is dealt with explicitly in module 5)
+  - Start the lesson with a short low-stakes quiz
+  - Use a multiple-choice question that exposes misconceptions
+  - Give pupils a homework task that assesses their prior understanding before the lesson
 - What are the challenges with this?
-    - You have a whole class of pupils who may be at different starting points.
+  - You have a whole class of pupils who may be at different starting points.
 
 For a lesson that the ECT plans to teach in the next week where a difficult concept is going to be covered, the ECT will work for the rest of this topic on planning an effective exposition.
 
@@ -99,18 +98,17 @@ Pose the question:You can use concrete representations with your expositions to 
 ###Bringing it all together (5 minutes)
 
 Suggested dialogue for mentors: Now that you have looked at the range of ways you could create an effective exposition, what will your final version look like? What is the narrative explanation going to cover? Will you include visuals? Will making it concrete help?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 ### Planning for action
 
-The mentor should agree that they will come and observe the ECT deliver the exposition.  They should explain that they will be looking for the following:
+The mentor should agree that they will come and observe the ECT deliver the exposition. They should explain that they will be looking for the following:
 
 1. How clear was the exposition?
 2. Did the exposition start at the point of current pupil understanding?
 3. Did the graphical representation that was used support pupil understanding?
 4. Did the concrete representations of abstract ideas used support pupil understanding?
 
-It might be possible to film the lesson if there is capability for this available in the school.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+It might be possible to film the lesson if there is capability for this available in the school.
 
 ## Model effectively
 
@@ -118,10 +116,10 @@ It might be possible to film the lesson if there is capability for this availabl
 
 The intended outcomes of this topic are for Early Career Teachers to:
 
- Learn how to model effectively, by:
+Learn how to model effectively, by:
 
 - Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)
-- Exposing potential pitfalls and explaining how to avoid them                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+- Exposing potential pitfalls and explaining how to avoid them
 
 ### Activities
 
@@ -158,12 +156,12 @@ Ask:
 - How did that make you feel?
 - [The mentor could insert a story here from a time that this has happened to them].
 - How can you work out what the point of current pupil understanding is?
-    - Through questioning and other forms of formative feedback (this is dealt with explicitly in module 5)
-    - Start the lesson with a short low-stakes quiz
-    - Use a multiple-choice question that exposes misconceptions
-    - Give pupils a homework task that assesses their prior understanding before the lesson
+  - Through questioning and other forms of formative feedback (this is dealt with explicitly in module 5)
+  - Start the lesson with a short low-stakes quiz
+  - Use a multiple-choice question that exposes misconceptions
+  - Give pupils a homework task that assesses their prior understanding before the lesson
 - What are the challenges with this?
-    - You have a whole class of pupils who may be at different starting points.
+  - You have a whole class of pupils who may be at different starting points.
 
 For a lesson that the ECT plans to teach in the next week where a difficult concept is going to be covered, the ECT will work for the rest of this topic on planning an effective exposition.
 
@@ -205,7 +203,6 @@ Pose the question:You can use concrete representations with your expositions to 
 ###Bringing it all together (5 minutes)
 
 Suggested dialogue for mentors: Now that you have looked at the range of ways you could create an effective exposition, what will your final version look like? What is the narrative explanation going to cover? Will you include visuals? Will making it concrete help?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 ### Planning for action
 
@@ -213,5 +210,4 @@ Suggested dialogue for mentors: Now that you have looked at the range of ways yo
 
 In the next topic, ECTs will be focusing on adapting teaching, namely understanding that pupils are different and considering how to cater effectively for those differences.
 
-They will need to have completed Activity 3.3 in the self-directed study materials, so remind them of this. They will also need to bring a class list for their class or a class they teach, which they want to focus on in the next topic. It would be useful if this class list contained information on pupil differences, e.g. performance data, gender, SEN status etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-
+They will need to have completed Activity 3.3 in the self-directed study materials, so remind them of this. They will also need to bring a class list for their class or a class they teach, which they want to focus on in the next topic. It would be useful if this class list contained information on pupil differences, e.g. performance data, gender, SEN status etc.

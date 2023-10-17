@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
-## Modelling metacognitive strategies 
+## Modelling metacognitive strategies
 
 ### Learning intentions
 
@@ -24,7 +23,6 @@ In their self-directed study session earlier this week, your mentee extended the
 
 - Has an increased understanding of how metacognitive talk and the deployment of key memory strategies (e.g. mnemonics) can result in modelling that has greater impact on learning.
 - Reviews and take steps to improve the quality of homework set, yet retains a manageable workload.
-
 
 ### Meeting activities
 
@@ -69,15 +67,15 @@ Self-assessment
 
 In their self-directed study session, your mentee reflected on their classroom practice since the start of the year and completed a checklist similar to this, where they recorded how frequently they ‘do this’. Now, as a result of their study activities and their mentoring with you, ask them to record their confidence in the same areas. (Look back at the research and practice summary in this week's ECT materials for examples).
 
-| I do this                                | Not at all | Quite | Very confident |
-| -------------------------------------------------- | -------------------- | --------------- | ------------------------ |
-| Think aloud                                  |                      |                 |                          |
-| Time for pupils to monitor progress          |                      |                 |                          |
-| Peer- and self-evaluation                    |                      |                 |                          |
-| Thinking in similar ways for different tasks |                      |                 |                          |
-| Set myself as an example of a learner        |                      |                 |                          |
-| Self-target setting                          |                      |                 |                          |
-| Monitor how they do homework                 |                      |                 |                          |
+| I do this                                    | Not at all | Quite | Very confident |
+| -------------------------------------------- | ---------- | ----- | -------------- |
+| Think aloud                                  |            |       |                |
+| Time for pupils to monitor progress          |            |       |                |
+| Peer- and self-evaluation                    |            |       |                |
+| Thinking in similar ways for different tasks |            |       |                |
+| Set myself as an example of a learner        |            |       |                |
+| Self-target setting                          |            |       |                |
+| Monitor how they do homework                 |            |       |                |
 
 Next Steps 5 mins
 
@@ -88,4 +86,3 @@ Agree with your mentee how they will now put their learning from this week’s s
 3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

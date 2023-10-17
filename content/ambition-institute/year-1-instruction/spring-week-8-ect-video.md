@@ -6,19 +6,19 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-8-ect-teaching-ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KfSoBDnvhso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
 ### Presenter intro: Helena MooreA key aim for teachers is to help pupils to
+
 remember and use what they learn in the future. We want them to be able to work independently.
 In order to get there, pupils need to acquire a body of knowledge and skills, which
 they can use to solve a range of problems. Explicitly teaching knowledge and skills
 can be beneficial. This doesn't mean that pupils are passive in the process. Instead
 it recognizes that pupils need support in order to move from dependence to independence.
+
 ### Presenter main
+
 Explicit teaching describes a particular approach to instruction and it's underpinned
 by what we know about how pupils learn. Explicit teaching means introducing new material
 in steps, working through that material with pupils to check they understand it,
@@ -39,13 +39,17 @@ Teachers need to get the balance right between exposition repetition, practice, 
 Explicit teaching is a really effective way of guiding pupil learning. This doesn't mean pupils should be passive recipients of knowledge. In a subject like English for example, getting pupils to share their personal response to a text is a key skill that we want them to develop. It's part of the joy of reading, but if the pupil can't understand the words in the text or is confused by some of the references the text makes, it may be difficult for them to come up with a response.
 
 ### Presenter exemplification framing
+
 In the next example, you'll see an Ambition Institute coach model a short I, We,
 You sequence, to take you through the key stages of explicit teaching. As you watch
 pay particular attention to how the coach does the following:
+
 - Links what pupils already know to what is being taught
-- Makes the steps in a process memorable and ensures pupils can recall them 
+- Makes the steps in a process memorable and ensures pupils can recall them
 - Encourages pupils to share emerging understanding and points of confusion so that misconceptions can be addressed
+
 ### Exemplification: Ambition Institute coach
+
 I'm about to take you through a short sequence of learning using the I, We, You
 model, so that you can see what explicit teaching looks like in practice.
 Imagine that I'm teaching a year three French lesson. We've been studying the
@@ -103,19 +107,20 @@ Finally, I encouraged pupils to share emerging understanding and points of confu
 In this example, the 'I' and 'We' phases of the sequence helped me to feel confidence that pupils were ready to work independently. They will still have to think hard during independent practice but guiding and checking their thinking beforehand will increase the likelihood of success.
 
 ### Presenter key ideas
+
 In this video we have explored what the term explicit teaching means and provided
 a model to help you think about it: I, We, You. Before we finish, read through the
 key ideas that we have covered. Which ideas do you feel the example illustrated the
 best?
+
 - Link what pupils already know to what is being taught
-- Make the steps in a process memorable and ensure pupils can recall them 
+- Make the steps in a process memorable and ensure pupils can recall them
 - Encourage pupils to share emerging understanding and points of confusion so that misconceptions can be addressed
+
 ### Presenter summary
+
 Explicit teaching helps our pupils to be supported in their learning. By
 providing pupils with the right support when they need it. They are more likely
 to acquire and apply the knowledge and skills that we teach them.
 
-
-
 {/details}
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 4"
 ---
 
-
 ## Supporting the most vulnerable pupils
 
 ### Learning intentions
@@ -37,9 +36,6 @@ Build trusting relationships by:
 
 There is no ECT self-study session this week. In your ECT mentor meeting, you will work with your mentee to help them to explore strategies for liaising productively with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 
-
 ### Research and practice summary
 
 There is no written research and practice summary this week; the video inputs to the ECT training session address this week’s content of the Early Career Framework. You may wish to engage with the training material for the ECT training session in this week, in preparation for this ECT mentor meeting. In particular, you may wish to read the briefing notes for facilitators of the ECT training session.
-
-

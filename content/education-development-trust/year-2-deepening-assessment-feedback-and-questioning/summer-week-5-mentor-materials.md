@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Summer week 5"
 ---
 
-
 ## Make marking manageable - efficiency
 
 ### Intended outcomes
@@ -15,7 +14,7 @@ Learn how to make marking manageable and effective, by:
 
 - Using verbal feedback during lessons in place of written feedback after lessons where possible
 - Understanding that written marking is only one form of feedback
-- Prioritising the highlighting of errors related to misunderstandings, rather than careless mistakes when marking.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+- Prioritising the highlighting of errors related to misunderstandings, rather than careless mistakes when marking.
 
 ### Activities
 
@@ -26,7 +25,7 @@ Ask the ECT to reflect on the previous session.<
 - Have you implemented any of the ideas for efficient approaches to marking and alternative approaches to providing feedback that you learned about from our colleague?
 - How has it gone?
 - Is there anything you haven’t tried yet that you’d like to?
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
 ###Written marking is just one form of feedback (25 minutes)
 
 Read the following to the ECT:
@@ -64,12 +63,11 @@ Suggested dialogue for mentors:
 
 It is important that when you are making you prioritise what you pick out for pupils. This is because a) you have limited time to mark and b) pupils need very specific actions to act on. Too many mistakes can appear overwhelming and they will not know where to begin. It is important to prioritise the highlighting of errors relating to misunderstandings, rather than careless errors. In a piece of work either marked or unmarked that they have brought to the session, can they identify errors related to misunderstanding and careless mistakes.
 
-Pick out two of the misunderstandings and together come up with questions the ECT could write to help correct the misunderstanding. Each one should require effort from the pupil. The ECT should now work through another piece of work on their own and then explain their decisions to the mentor.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Pick out two of the misunderstandings and together come up with questions the ECT could write to help correct the misunderstanding. Each one should require effort from the pupil. The ECT should now work through another piece of work on their own and then explain their decisions to the mentor.
 
 ### Planning for action
 
 Thank the colleague for attending the session. Ask the ECT:
 
 - What have you learned from this session?
-- What are you going to do differently in your practice?  
-
+- What are you going to do differently in your practice?

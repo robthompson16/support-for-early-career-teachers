@@ -4,8 +4,7 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-
-## Module audit 
+## Module audit
 
 ### Learning intentions
 
@@ -16,7 +15,6 @@ Learning Intentions for this session
 - To support the mentee to make accurate judgements of their current knowledge and practice.
 
 - To agree with the mentee areas for particular focus in relation to Module 4.
-
 
 ### Topic introduction
 
@@ -33,14 +31,11 @@ You will need to brief your mentee in advance of the session so that they have a
 - a selection of pupils’ work
 - notes from independent reading and professional learning activities
 
-
-
 ### Research and practice summary
 
 There is no research and practice summary for this session, in which you are working with your mentee to audit their current knowledge and practice in relation to the Early Career Framework. Research and Practice Summaries in subsequent sessions will support you and your mentee in continuing their learning in relation to this content.
 
 If you wish to refresh your knowledge of the M4 content at this stage, you may choose to read ahead so that you can engage with the Research and Practice Summaries for each of the remaining M4 sessions.
-
 
 ### Meeting activities
 
@@ -77,4 +72,3 @@ Agree with your mentee how you will use the outcomes from the audit to inform yo
 In particular, give attention to those statements where your mentee considers their knowledge/practice to be ‘emerging’ and share some examples of how the programme will support them in moving to ‘developing and then on to ‘secure’.
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

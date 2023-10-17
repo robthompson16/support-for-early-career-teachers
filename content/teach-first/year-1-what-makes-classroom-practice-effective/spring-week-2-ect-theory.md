@@ -34,8 +34,6 @@ This involves the teacher and pupils doing a task together. This is where you be
 
 This is the stage where pupils practise new material without adult support. When first setting up independent practice, you may still provide tasks that scaffold pupils’ learning but over time these should be removed to allow pupils to work entirely independently. Rosenshine (2012) recognises that this is vital for pupils to become fluent or automatic in information retrieval or completing a procedure. During this stage, the teacher monitors pupil practice to identify and address misconceptions to individual pupils or the whole class. They also encourage pupils to use metacognitive strategies to monitor their own learning and develop their ability to self-regulate.
 
-
-
 ####Key messages about this process
 Whilst these stages have been separated into three groups, the process of building
 pupil independence should be viewed as a continuum whereby support gradually reduces
@@ -44,7 +42,6 @@ as pupils become more proficient.
 This will not occur in a linear fashion. In practice, you may have to shift back and forth between these three phases during a lesson to address misunderstandings or introduce further challenge.
 
 Throughout this module, building pupils’ expertise over a lesson has been broken down into different phases which are covered in different sessions. However, it is important that you remember the phases are linked and should build on one another.
-
 
 ### Explanations and modelling – why are they so important?
 
@@ -58,19 +55,18 @@ Modelling accompanies an explanation to show pupils how to approach or complete 
 
 Listen to Claire Stoneman talk about explanations and modelling. Consider the following questions and record your response in your notebook:
 
-*what is the purpose of explanations?
-* why are explanations important?
-* what makes explanations effective?
-* why is modelling important?
+\*what is the purpose of explanations?
+
+- why are explanations important?
+- what makes explanations effective?
+- why is modelling important?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ue8YBd-vsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Explanations and modelling - Claire Stoneman
 
 {details}
 Video transcript.
-
 
 In this part of the module we'll be exploring how Rosenshine reminds us to present new material using small steps. And as part of this we’ll cover the importance of explanation and how Rosenshine also reminds us about the importance of providing models. Andy Tharby reminds us that from about the age of two children develop the intellectual ability to ask ‘why’ questions. I'm sure that this is something that those of you working in Early Years Foundation Stage can relate to. As Tharby says, children, especially very young children, go on a tireless hunt for further information and elaboration that might lift the veil on the wonders of the universe. How wonderful, and what a weighty responsibility we have to get our explanations right. So, what's the purpose of an explanation? Tharby reminds us that explanation can have a range of purposes:
 
@@ -78,14 +74,14 @@ In this part of the module we'll be exploring how Rosenshine reminds us to prese
 2. To clarify and expand an idea
 3. To give causes, context and consequences of a situation or event
 4. Or show how facts and concepts are related and connected
-So effective explanations are hugely important. Tharby makes it crystal clear when
-he says, ‘It is near impossible to conceive of effective teaching without explanation’.
-Teacher talk is vital. If the children can't access our expertise through clear,
-precise, knowledgeable explanations they are disadvantaged. And the evidence from
-cognitive science shows that the less prior knowledge a pupil has, the more teacher
-guidance they need. So, explanations are vital for the children we teach to make
-sense of the world around them. It's hard, and again it takes lots of practice for
-a novice teacher. But explanations illuminate.
+   So effective explanations are hugely important. Tharby makes it crystal clear when
+   he says, ‘It is near impossible to conceive of effective teaching without explanation’.
+   Teacher talk is vital. If the children can't access our expertise through clear,
+   precise, knowledgeable explanations they are disadvantaged. And the evidence from
+   cognitive science shows that the less prior knowledge a pupil has, the more teacher
+   guidance they need. So, explanations are vital for the children we teach to make
+   sense of the world around them. It's hard, and again it takes lots of practice for
+   a novice teacher. But explanations illuminate.
 
 In this session, you'll learn to start making links between what you know about working memory and effective explanations. Effective explanations are chunked. The teacher does not overwhelm pupils by presenting too much information at once, as the working memory can become overloaded. Information and new material are presented in small steps and often with many concrete examples. This is where modelling can come in: the importance of concrete examples so the children can see what a good or indeed a bad example looks like. As Tom Sherrington says, ‘providing models is a central feature of giving good explanations’. Models can be used in any phase of schooling and are an important element of the children having a concrete example of what it looks like. Weinstein and Sumeracki remind us that novices find abstract ideas vague and hard to grasp so concrete examples are much easier to remember. Models help to illustrate abstract ideas and make them easier to understand. Models can organize the information for the novice into a well-structured schema.
 
@@ -105,10 +101,8 @@ Ashley Philipson shares an example of when she has used an example and a non-exa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/skBKiNtKejA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 I use concrete examples to model abstract ideas by showing a real-world example that demonstrates the abstract concept. Abstract ideas can be vague and hard to grasp - solidifying an explanation using real-life examples makes it easier for pupils to understand and remember.
 
@@ -126,13 +120,10 @@ After I explained the concept using concrete examples, I checked pupils’ under
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNEy08QiU7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
 
-
-
-Non-examples are the opposite of _examples_. We use examples in our teaching to show a real-world example of an abstract concept we are teaching – this is a fundamental tool in many subjects. Where _examples_ provide an instance of similarity, non-examples provide an instance of contrast.
+Non-examples are the opposite of *examples*. We use examples in our teaching to show a real-world example of an abstract concept we are teaching – this is a fundamental tool in many subjects. Where *examples* provide an instance of similarity, non-examples provide an instance of contrast.
 
 Non-examples are important in teaching as they are another tool which can be used to allow pupils to develop their understanding. Being able to explain why something is not a correct example is as important as knowing the correct examples.
 
@@ -150,12 +141,12 @@ This is a good non-example as some of its features are correct:
 
 - it is a coastal feature _and_
 - initially erosion has contributed to it
-However, it has one difference:
+  However, it has one difference:
 - its final formation is created through deposition.
-If pupils can understand and explain this, it shows they have a much deeper understanding
-of the concepts of erosion and deposition. Rather than learning something just because
-we have told them it is true, they begin to understand why and how, and then key
-concepts begin to make sense.
+  If pupils can understand and explain this, it shows they have a much deeper understanding
+  of the concepts of erosion and deposition. Rather than learning something just because
+  we have told them it is true, they begin to understand why and how, and then key
+  concepts begin to make sense.
 
 In this case pupils will have a deeper understanding of more than just that one example – they understand what erosion and deposition is and the resultant features and can therefore begin to apply this knowledge when explaining the formation of landforms in new contexts.
 
@@ -167,10 +158,8 @@ As Ashley states, non-examples are a great way to show what something isn’t; t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okJ5Ykg_6cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 One point at which I have used non-examples is towards the end of a sequence of teaching, to support self-explanation in order to check and deepen understanding. Take, for example, a year 4 maths objective ‘to add and subtract up to 4 digit numbers’. Once we have worked through the small steps, and all children are able to add numbers using the column method, I have used non-examples to explore common misconceptions. Children often seem to love nothing more than finding your mistakes! Non-examples have worked well here in getting children to watch what happens, think about the mistakes, explain what I have done wrong, but then go on to explain what I should have done.
 
@@ -214,8 +203,6 @@ In simple terms, cognition is the thinking you do when completing a task. Teache
 
 Below is an example of a teacher using ‘Think Aloud’ to model their cognitive process by engaging their prior knowledge when performing a forward roll safely in PE. This has been taken from the [Metacognition and Self-regulated Learning Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (EEF, 2017):
 
-
-
 ####Using the 'think aloud' model: example 1
 
 Preparing for the roll: _“I don’t want to hurt my neck and want to do this neatly. So first, to protect my neck, I need to tuck my chin to my chest like this.”_
@@ -225,7 +212,6 @@ Starting the roll: _“Then when I start to roll, I remember not to roll onto my
 Completing the roll: _“This also means my back is round, so I can smoothly roll like this.”_
 
 Checking pupils’ understanding: _“Now, who can remember what I did first to protect my neck?”_
-
 
 In this example, the teacher has broken down completing a forward roll into constituent components (outlined above) and is narrating the important points pupils need to consider at each stage. Without this narration, the pupils might not know how to break the task down or how to replicate the roll safely and successfully.
 
@@ -239,9 +225,8 @@ Metacognition can be broken down into three different stages:
 
 Below is an example of a teacher using ‘Think Aloud’ to model their metacognitive processes when planning how to answer a History question:
 
-
-
 ### Using the 'think aloud' model: example 2
+
 ‘The main reason why the League of Nations could not stop aggression in the 1930s was because the USA was not a member. Do you agree?’
 
 ####Planning
@@ -250,14 +235,13 @@ Below is an example of a teacher using ‘Think Aloud’ to model their metacogn
 
 “What information am I going to have to include? Well, it mentions the USA not being a member as one reason for aggression, so I know I am going to have to talk about that. Would that be a good essay if I only wrote about one point? What do I know about other essays I have read or written? What makes them effective at demonstrating my opinion?
 
-"Normally I have to discuss three points. I know I will talk about the USA not being a member as one point because it is cited in the question. Do I think that’s the most important point? Or do I think there are other points? What information can help me? Well, if I think back to our other lessons on this, I can recall some other points that we have covered.” 
+"Normally I have to discuss three points. I know I will talk about the USA not being a member as one point because it is cited in the question. Do I think that’s the most important point? Or do I think there are other points? What information can help me? Well, if I think back to our other lessons on this, I can recall some other points that we have covered.”
 
 Teacher asks pupils, “Which other points have we covered? Talk to your partner,” and then discusses their ideas.
 
 “So, I now have three points, I need to consider what information do I know about these. What can I do now to plan and ensure I have enough to write about? Perhaps I will write down some bullet points under each idea to prompt me to include key points in each paragraph.” Teacher models writing down bullet points of information to include.
 
 “Now I need to consider how to structure them. Which order should I put them in? Well I know that to make my opinion clear, it would be helpful to put the strongest point at the beginning.”
-
 
 In this example, the teacher has broken down planning how to approach answering an essay question into constituent components and is narrating their metacognitive thoughts to make these explicit to pupils.
 
@@ -320,6 +304,7 @@ down his back – I must remember to separate two adjectives in a list with a co
 adjectives together to improve my description?” (_Teacher models re-reading sentence to check it makes sense and to check for the use of adjectives_).
 
 #### Example 2:
+
 “I want to describe what the emperor penguin looks like. How will I start my sentence?
 Hmm, I’ll start with ‘The’” (_teacher scribes as they speak_) – “The emperor
 penguin has black feathers down his back. Hold on, I can make that better – has glossy,
@@ -328,27 +313,20 @@ front. Let’s check my work.” (_Teacher models re-reading sentence to check i
 
 Which one do you think is better and why?
 
-
 ### Feedback
 
-
-
 Both examples demonstrate the teacher modelling through Think Aloud, but Example 1 is better as the narration links back to the key teaching points by explicitly using the terminology of the focus of the lesson – adjectives - whereas example two does not.
-
-
-
 
 ## ‘Think Aloud’ in action
 
 Watch the videos below and answer the following questions in your notepad:
 
-* what did the teacher focus their narration on and why do you think this was?
-* how might this impact pupils’ learning?
+- what did the teacher focus their narration on and why do you think this was?
+- how might this impact pupils’ learning?
 
-####Think Aloud – Early Years - Maria Craster at One Degree Academy  
+####Think Aloud – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNrEYWQZ8B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 If you require an audio description over the video, please watch this version: [Think Aloud – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/Y-ZO9yPfx3w)
 
@@ -356,15 +334,11 @@ If you require an audio description over the video, please watch this version: [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lAQCn7BQ-80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Think Aloud – Primary – Alanah Harris at Reach Academy [AD]](https://youtu.be/T13W7K6FAkQ)
 
 ## Summary
 
 Explanations and modelling are vital for building a strong foundational understanding of key knowledge or procedures in pupils. However, merely showing pupils new information or processes is not enough. Pupils need to be given the opportunity to practise new material in order to store it in their long-term memory (Rosenshine, 2012). When introducing material in small steps, pupils need to practise after each step. Providing opportunities for practise is something that will be explored in the next session.
-
-
-
 
 ### Application of modelling
 
@@ -372,6 +346,6 @@ In your next meeting, your mentor will observe you using ‘think aloud’ to ma
 
 Think ahead to the lesson that will be observed and spend the next 15 minutes scripting what you will say whilst using ‘think aloud’ to model. Remember, to ensure ‘think aloud’ is successful you should ensure narration:
 
-* is linked to key teaching points
-* considers pupils prior knowledge
-* models using key terminology
+- is linked to key teaching points
+- considers pupils prior knowledge
+- models using key terminology

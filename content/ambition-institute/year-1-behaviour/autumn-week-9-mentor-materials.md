@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 9"
 ---
 
-
 ## Challenge
 
 ### Select a development area
@@ -13,37 +12,35 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 ### Development area 1: Building complexity
 
-#### Focused development areas  
+#### Focused development areas
 
-- Teacher sets tasks that build in complexity and supports pupils to see this challenge as positive and surmountable. 
-- Teacher asks questions that challenge pupils when their basic knowledge is secure.                                                                                                                                                                                                                                                    
-
+- Teacher sets tasks that build in complexity and supports pupils to see this challenge as positive and surmountable.
+- Teacher asks questions that challenge pupils when their basic knowledge is secure.
 
 ### Development area 2: Championing challenge
 
-#### Focused development area    
+#### Focused development area
 
 - Teacher models the behaviours and mindsets involved in tackling challenging tasks and how to embrace and overcome errors.
 - Teacher promotes challenge using consistent and intentional language, so pupils see it as desirable and understand how it benefits their learning.
-- Teacher praises behaviours pupils use to tackle challenging tasks. 
+- Teacher praises behaviours pupils use to tackle challenging tasks.
 - Teacher helps build a sense of momentum and pace in the class by fostering challenge.
 
 {details}
 Example precise target: Teacher promotes challenge using consistent and intentional language, so pupils see it as desirable and understand how it benefits their learning.
 
-
 - **Not doing it at all:** Use consistent language to describe the benefits of challenging tasks and link this to the benefits to pupils' learning.
-- **Doing it but needs some improvement:**  When pupils are working on tasks they find challenging, remind pupils of the progress they have made through persevering with challenging tasks, e.g. "Last term you were doing ...; you have pushed yourselves, and now you are able to..."
+- **Doing it but needs some improvement:** When pupils are working on tasks they find challenging, remind pupils of the progress they have made through persevering with challenging tasks, e.g. "Last term you were doing ...; you have pushed yourselves, and now you are able to..."
 - **Doing it well and needs some stretch:** During or following a task that pupils found challenging, plan in reflection time that causes pupils to think about the progress they have made through tackling the challenging task. Encourage pupils to use the same positive, intentional language you have used with them to describe the benefits of challenge.
 
 {/details}
 
 ### Development area 3: Removing scaffolding
 
-#### Focused development area    
+#### Focused development area
 
-- Teacher explains the importance of removing scaffolds and models how to gradually do so when knowledge is secure, and pupils are becoming more successful. 
-- Teacher praises pupils who, when they have secure knowledge, challenge themselves by removing scaffolds. 
+- Teacher explains the importance of removing scaffolds and models how to gradually do so when knowledge is secure, and pupils are becoming more successful.
+- Teacher praises pupils who, when they have secure knowledge, challenge themselves by removing scaffolds.
 - Teacher gives pupils concrete and specific ways they can monitor their progress so they know when they should gradually remove scaffolds themselves.
 
 ### Observe
@@ -66,5 +63,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Support pupils to master challenging content which builds towards long-term goals.
 - Help pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching. 
-
+Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

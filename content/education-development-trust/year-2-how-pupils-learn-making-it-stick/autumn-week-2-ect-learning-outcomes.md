@@ -15,16 +15,12 @@ next_path: "/education-development-trust/year-2-how-pupils-learn-making-it-stick
 | 2.7 Regular purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned.             |
 | 2.8 Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall. |
 
-
-
 ### In your notepad
 
 #### Key questions
 
-* why is it important that pupils remember what they have learned?
-* what is practice testing and what impact does it have?
-* why is feedback during practice important?
-* what makes retrieval practice so effective in helping pupils to remember
-      over time?
-
-
+- why is it important that pupils remember what they have learned?
+- what is practice testing and what impact does it have?
+- why is feedback during practice important?
+- what makes retrieval practice so effective in helping pupils to remember
+  over time?

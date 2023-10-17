@@ -4,18 +4,20 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-
 ## Observation discussion - giving effective verbal feedback
 
 ### Teaching techniques to focus feedback on
 
-### Interaction: 
+### Interaction:
+
 Observation
 
-### Outcome: 
+### Outcome:
+
 To have planned for and practised giving effective verbal feedback.
 
 ### Stimulus
+
 Teachers are giving verbal feedback to pupils almost constantly throughout the day. In the online study materials however, your teacher has been directed to towards an example verbal feedback:
 
 - Group Verbal Feedback
@@ -23,9 +25,11 @@ Teachers are giving verbal feedback to pupils almost constantly throughout the d
 How the teacher gives verbal feedback to individual and the class will be the focus of this observation.
 
 ### Praise, probe and set precise actions
+
 The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
+
 During the ‘practise’ section of the mentor interaction, script and practise either:
 
 - An improved delivery of the feedback given in the observed lesson. Was it specific enough to support pupils to progress?
@@ -36,4 +40,3 @@ During the ‘practise’ section of the mentor interaction, script and practise
 1. What does verbal feedback usually look like in your classroom?
 2. How do you know if your feedback is effective?
 3. When do you give pupils time to act on the feedback that you give them?
-

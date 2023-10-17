@@ -8,4 +8,3 @@ next_path: "/education-development-trust/year-2-how-pupils-learn-making-it-stick
 - As you do this, take notes on the points made.
 - At the end, answer the key questions below.
 - You will need to take your answers with you to your mentor session for discussion with your mentor.
-

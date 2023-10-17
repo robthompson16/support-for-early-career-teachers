@@ -4,12 +4,11 @@ heading: "First half-term: establishing a positive climate for learning"
 caption: "Year 1"
 ---
 
-
 In this module you'll learn about teaching your pupils how to behave in your classroom, setting clear expectations and reinforcing these with consistent routines.
 
 ## Module introduction
 
-Go through the module introduction to see what you'll be learning. 
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -18,7 +17,7 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Go through the module introduction to see what the ECT will be learning. 
+Go through the module introduction to see what the ECT will be learning.
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-0-mentor-materials)
 
@@ -26,8 +25,8 @@ Go through the module introduction to see what the ECT will be learning.
 
 During the first week of the module you need to:
 
-* work through the self-study materials below
-* meet your mentor to discuss what you’ll be learning in the weeks ahead
+- work through the self-study materials below
+- meet your mentor to discuss what you’ll be learning in the weeks ahead
 
 Duration: 60 minutes.
 
@@ -42,8 +41,8 @@ Duration: 60 minutes.
 
 During the first week of the module you should:
 
-* read the ECT’s study materials below
-* catch up with the ECT to discuss what they’ll be learning in the weeks ahead
+- read the ECT’s study materials below
+- catch up with the ECT to discuss what they’ll be learning in the weeks ahead
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-1-mentor-materials)
 
@@ -51,8 +50,8 @@ During the first week of the module you should:
 
 For this topic you’ll need to:
 
-* work through the self-study materials below
-* catch up with your mentor
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 45 minutes.
 
@@ -64,8 +63,8 @@ Duration: 45 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with the ECT
+- read the ECT’s study materials below
+- catch up with the ECT
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-2-mentor-materials)
 
@@ -73,8 +72,7 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead a discussion about this topic in your catch-up with them.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -85,9 +83,9 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 ## Week 4: maintaining high behavioural expectations
 
 For this topic you’ll need to:
-  
- * work through the self-study materials below
- * catch up with your mentor
+
+- work through the self-study materials below
+- catch up with your mentor
 
 Duration: 30 minutes.
 
@@ -99,8 +97,8 @@ Duration: 30 minutes.
 
 For this topic you should:
 
-* read the ECT’s study materials below
-* catch up with the ECT 
+- read the ECT’s study materials below
+- catch up with the ECT
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-4-mentor-materials)
 
@@ -108,8 +106,7 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead a discussion about this topic in your catch-up with them.
 
-Duration:  minutes.
-
+Duration: minutes.
 
 ### Mentors
 
@@ -134,7 +131,7 @@ There are no mentor activities this week.
 
 ## Week 7: lesson observations
 
-Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up. 
+Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up.
 
 Duration: 55 minutes.
 
@@ -144,13 +141,13 @@ Duration: 55 minutes.
 
 ### Mentors
 
-Use the materials below for an end of module review with the ECT. 
+Use the materials below for an end of module review with the ECT.
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-7-mentor-materials)
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future. 
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 10 minutes.
 
@@ -161,4 +158,3 @@ Duration: 10 minutes.
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-0-mentor-materials)
-

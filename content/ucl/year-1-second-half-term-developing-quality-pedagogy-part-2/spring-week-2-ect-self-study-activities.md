@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spring-week-2-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -20,8 +19,8 @@ Read the Research and Practice Summary on this week’s topic. As you read, refl
 Think about a lesson that you are going to be teaching soon and have in mind 3 different pupils. These should be pupils who learn at different rates and normally require different levels and types of support to succeed. For each pupil consider:
 
 - The levels of support they need
-- Barriers to learning 
-- Your prior contact with family 
+- Barriers to learning
+- Your prior contact with family
 - Their likely prior knowledge of the topic
 
 ### Theory to Practice: 20 mins
@@ -38,55 +37,31 @@ You are going to use some of the strategies of Dylan Wiliam, as described in the
 
 ####Lesson part: introducing learning intentions
 
-
-
 ##### Ideas for your script
 
 - Who can tell me what our learning intentions mean?
 
-
-
-
 ####Lesson part: Asking and responding to questions
-
-
-
 
 #####Ideas for your script
 
 - Would someone like to agree with C’s answer there, and give a reason?
 
-
-
-
 ####Lesson part: Giving instructions
-
-
-
 
 #####Ideas for your script
 
 - Now you have heard the instruction from me, tell your partner in your own words what it is I want you to do
 
-
-
-
 ####Lesson part: Setting up peer- and self-assessment
-
-
-
 
 #####Ideas for your script
 
-- What were the 3 best parts of the work? 
+- What were the 3 best parts of the work?
 - What one thing would make it better?
-
-
-
 
 You are going to share your scripts with your mentor in your next meeting.
 
 ### Next Steps: 5 mins
 
 To prepare for your next mentor meeting, write in your Learning Log any questions you want to ask your mentor that relate to this session’s learning intentions.
-

@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 1"
 ---
 
-
 ## Module audit
 
 ### Mentor materials content
@@ -93,4 +92,3 @@ Agree with your mentee how you will use the outcomes from the audit to inform yo
 Remind your mentee that their next session will be an ECT training session.
 
 During their next self-directed study, your mentee will use the time to collect evidence about their current normal practice.
-

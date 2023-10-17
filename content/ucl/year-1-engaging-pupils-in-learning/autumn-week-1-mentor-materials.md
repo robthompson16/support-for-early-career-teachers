@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 1"
 ---
 
-
 ## Module audit
 
 ### Learning intentions
@@ -30,13 +29,11 @@ You will need to brief your mentee in advance of the session so that they have a
 - a selection of pupils’ work
 - notes from independent reading and professional learning activities
 
-
 ### Research and practice summary
 
 There is no Research and Practice Summary for this session, in which you are working with your mentee to audit their current knowledge and practice in relation to the ECF. Research and practice summaries in subsequent sessions will support you and your mentee in continuing their learning in relation to this content.
 
 If you wish to refresh your knowledge of the Module 2 content at this stage, you may choose to read ahead so that you can engage with the research and practice summaries for each of the remaining Module 2 sessions.
-
 
 ### Meeting activities
 
@@ -73,4 +70,3 @@ Agree with your mentee how you will use the outcomes from the audit to inform yo
 In particular, give attention to those statements where your mentee considers their knowledge or practice to be ‘emerging’ and share some examples of how the programme will support them in moving to ‘developing’ and then on to ‘secure’.
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
-

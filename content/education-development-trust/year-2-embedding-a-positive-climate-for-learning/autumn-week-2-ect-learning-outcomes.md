@@ -16,20 +16,17 @@ next_path: "/education-development-trust/year-2-embedding-a-positive-climate-for
 
 | Learn how to                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Communicate a belief in the academic potential of all pupils, by:                                                                                   |
+| Communicate a belief in the academic potential of all pupils, by:                                                                                       |
 | 1a Using intentional and consistent language that promotes challenge and aspiration.                                                                    |
 | 1c Creating a positive environment where making mistakes and learning from them and the need for effort and perseverance are part of the daily routine. |
-| Motivate pupils, by:                                                                                                                                |
+| Motivate pupils, by:                                                                                                                                    |
 | 7o Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.                                                |
-
-
 
 ### In your notepad
 
 #### Key questions
-1. What are intrinsic and extrinsic motivation and what might these look like in the classroom? 
-2. If pupils are largely motivated by extrinsic reasons, does this mean that they will not do as well? 
+
+1. What are intrinsic and extrinsic motivation and what might these look like in the classroom?
+2. If pupils are largely motivated by extrinsic reasons, does this mean that they will not do as well?
 3. How can you support pupils to be more intrinsically motivated?
 4. How are success and motivation linked?
-
-

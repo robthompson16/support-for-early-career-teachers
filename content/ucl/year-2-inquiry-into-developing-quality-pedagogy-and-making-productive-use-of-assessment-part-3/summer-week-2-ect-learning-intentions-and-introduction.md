@@ -26,22 +26,20 @@ How valid are the inferences you made? In this week’s self-study time, you sho
 
 Finally, you are going to create an account of the impact on you of engaging in practitioner inquiry.
 
-
-
 ### A note on evidence and workload
-Schools are already data-rich environments. 
+
+Schools are already data-rich environments.
 
 Practitioner inquiries first of all make
 use of what we call here ‘naturally occurring’ evidence. They are in the pupils’
 work and your assessment of it. They are in the words and reactions of the pupils
-and what you have heard or seen of this. 
+and what you have heard or seen of this.
 
 When we refer to evidence-collection, in
 the main we mean look at what the pupils have done, and listen to what they are
-saying. 
+saying.
 
 A practitioner inquiry invites you to be more systematic about how you do
 this looking and listening, so you might deliberately ask a few questions of a few
 pupils for five minutes at the start of breaktime, or you might share lunch with
-a colleague and quiz them about how they approach a problem in their own class. 
-
+a colleague and quiz them about how they approach a problem in their own class.

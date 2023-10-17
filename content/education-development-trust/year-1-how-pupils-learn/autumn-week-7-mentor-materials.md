@@ -4,7 +4,6 @@ heading: "Mentor materials"
 caption: "Autumn week 7"
 ---
 
-
 ## Review and looking forward
 
 ### Intended outcomes
@@ -32,7 +31,6 @@ Learn how to build on pupils’ prior knowledge, by:
 - Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known)
 - Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content
 - Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed
-
 
 ### Activities
 
@@ -72,4 +70,3 @@ Ask the ECT to share their responses. Support the ECT to come up with an action 
 - Which colleagues could the ECT go to, to learn about X?
 - What might be the focus of further reading?
 - What might ECTs need to work on in terms of their classroom practice moving forward? How could they be supported to do this?
-

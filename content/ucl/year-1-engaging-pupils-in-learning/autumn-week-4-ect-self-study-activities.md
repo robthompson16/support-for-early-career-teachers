@@ -4,7 +4,6 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-4-ect-research-and-practice-summary"
 ---
 
-
 ### Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
@@ -30,4 +29,3 @@ Consider your lesson plans for the forthcoming week and identify one context whe
 ### Next Steps: 5 mins
 
 Bring your planning from this session to your next mentor meeting. Be ready to discuss this activity with your mentor, including raising any questions that have come to mind while completing this task.
-

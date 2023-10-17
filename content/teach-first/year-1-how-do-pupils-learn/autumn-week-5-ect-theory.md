@@ -27,14 +27,12 @@ Where the mental model is less developed (diagram 2), the knowledge may exist in
   </figcaption>
 </figure>
 
-
 <figure>
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Diagram-2.jpg" alt="Diagram showing an uneven spacing of dots with some connections missing, resulting in some isolated dots. This represents a less developed mental model of a topic." />
   <figcaption>
     Diagram 2
   </figcaption>
 </figure>
-
 
 The information organised into diagram 1 will be more securely stored in the long-term memory, and pupils will be able to recall it more quickly when needed. Not only will this help with a pupil’s ability to process new information, but secure subject knowledge will support with the levels of engagement and motivation experienced by the pupil. When a pupil understands what is being taught to them quickly, feels confident in giving answers, and experiences success, this will likely lead to an increase in confidence, motivation and enjoyment in the learning. It is therefore important to think carefully about the key knowledge and foundational concepts that you want pupils to master before moving on, ensuring that pupils have secure prior knowledge to which they can link their learning.
 
@@ -55,29 +53,25 @@ An example of a memory that has high retrieval and high storage strength is your
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Retreival-and-storage-strength.jpg" alt="Diagram displaying the relationship between retrieval and storage strength. With the bottom of both scales resulting in knowledge that is not easily retrieved and not easily retained. The top of both scales resulting in knowledge that is easily retrieved and easily retained." />
 </figure>
 
-
 ##Retrieval practice in action
 
 ####Retrieval of prior learning - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eekjJznYXSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning - Early Years [AD]](https://youtu.be/k7fPhpvgueM)
- 
+
 ####Retrieval of prior learning - Primary - Alanah Harris at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/os1zwmdWAoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning - Primary - Alanah Harris at Reach Academy [AD]](https://youtu.be/caFVwDvNQTE)
- 
+
 ####Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XzeqRoQ01PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- 
-If you require an audio description over the video, please watch this version: [Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy [AD]](https://youtu.be/T56Wwrzb4bQ )
+If you require an audio description over the video, please watch this version: [Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy [AD]](https://youtu.be/T56Wwrzb4bQ)
 
 In the classroom you may teach a lesson on a concept or topic and assess it at the end of the lesson with a large success rate. A couple of weeks later, the same assessment is likely to lead to a much lower success rate, as the memory has moved from being highly retrievable to less so. The memory that the pupils have of the learning had an initially high retrieval strength, but it was not thoroughly embedded in the long-term memory and therefore had a low storage strength.
 
@@ -89,17 +83,15 @@ This principle should be applied to the learning of any key knowledge or concept
 
 In the next section we will explore effective strategies that will support the retrieval of key information.
 
-
-
 ### Reflection
+
 Have you experienced your pupils showing a high retrieval rate at the end of the
-lesson but low storage rate when you returned to the concept later in the term? 
+lesson but low storage rate when you returned to the concept later in the term?
 
 What
-was the context? 
+was the context?
 
-Did it affect all pupils equally? 
-
+Did it affect all pupils equally?
 
 ## Building mental models
 
@@ -137,10 +129,8 @@ Listen again to teacher Lee Donaghy talk about how he used retrieval practice to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JxdC9wxm-rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Further on in my teaching of the module ‘USA 1945-75’ with my year 10 GCSE history class, we came to focus on the Civil Rights Movement of the 1950s and 1960s. When completing their assessments on the previous topic of the Red Scare, many of my pupils had struggled to recall and therefore use their contextual knowledge when answering questions as I had not been systematic enough in my use of retrieval. I reflected that I therefore needed to be more systematic both in identifying the key items of knowledge in this new topic that would underpin pupils’ understanding, and in my use of regular retrieval practice throughout the topic to encode this knowledge in their long-term memories.
 
@@ -164,23 +154,21 @@ Developing a well-curated retrieval quiz is something you will explore with your
 
 As pupils become more secure in their knowledge and their mental model becomes more developed, you should be able to increase the intervals between the spaced practice and increase the level of challenge of the retrieval task.
 
-
-
 ### Activity
+
 Look at the medium-term plan for either your current or an upcoming unit of work.
 
 Using the knowledge and examples shared in this session as a guide, build small opportunities
 into your plan for spaced practice and retrieval practice to strengthen pupils’ long-term
-memory. 
+memory.
 
 This will be used as part of your next training session, where you will share
 elements of your plan and your rationale behind them.
 
 If you have already included opportunities for spaced and retrieval practice into your planning documents, prepare to discuss your answers to the following questions at your next training session:
 
-* where have you incorporated spaced practice and why?
-* where have you incorporated retrieval practice and why?
-
+- where have you incorporated spaced practice and why?
+- where have you incorporated retrieval practice and why?
 
 ## Research into how pupils learn
 
@@ -194,10 +182,8 @@ Listen again to Ben Riley, CEO of Deans for Impact, talking about why it is impo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_dQ9KnC7PF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 {details}
 Video transcript.
-
 
 Hi, I’m Benjamin Riley, the founder of Deans for Impact, and today I want to talk about mental models. So what does that mean? My friend the cognitive scientist, Dan Willingham, once said:
 
@@ -208,6 +194,5 @@ And when we talk about what a mental model is, it’s the model that a teacher h
 It turns out that presenting information to pupils in multiple ways, which is called dual coding, is an effective way to present information and is more likely for that information to be retained. So, if you’re a novice teacher starting your career and you happen to run into a veteran teacher who feels passionately about learning styles, what I would suggest you not do, is say “Hey! I watched a video once which said you’re wrong!” – that won’t go down very well. But instead, you might say: “Well you know, I’ve actually investigated this idea around dual coding, which is similar but a little bit different and I wonder if we might explore that together because I think it’s important to present information to students in a variety of ways. Sure, they may say they have preferences; visually, audio, but I actually think it’s a matter of equitable instruction and make sure that they, that all students get all the information all ways. And let’s talk about perhaps ways in which we can do that together”. What you’re doing here is trying to not just debunk someone’s mistaken mental model but build a new mental model with your fellow teachers, and for yourself, that is more likely to work with students. After all, that’s really what educating is, it’s not about disabusing people of mistaken notions so much as it is building up new knowledge and doing so effectively.
 
 So, I hope that this brief chat about mental models will help you do that, and I hope it will help you to think about how it is your students best think and learn.
-
 
 {/details}

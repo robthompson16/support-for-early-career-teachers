@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-10-ect-reflect"
 ---
 
-
 Ms Silva feels that her pupils are now more open to challenge and will sometimes try to work without scaffolding. However, they still prefer to work with teacher or peer support and may be reluctant to work on their own. Ms Silva finds pupils engage well in helping her solve a tricky problem on the board, but when she says, “your turn”, there are some blank faces. How can she get pupils to adopt behaviours that support independent practice?
 
 ## Key idea
@@ -54,9 +53,8 @@ Teachers should not set independent tasks when pupils have very little knowledge
 
 Effective monitoring during independent practice is often non-verbal – for example, the teacher standing and visibly scanning the classroom. While the importance of reinforcing behaviours with public praise is well known (IES, 2008), during independent practice there is a risk of this distracting pupil attention. There are also benefits of collaborative learning (Kirschner et al., 2018; Rosenshine, 2012), however Ms Silva might prioritise getting independent practice right first to make it more likely collaborative practice succeeds.
 
-
-
 ### Key takeaways
+
 <span style="font-weight: 400;">
   Ms Silva can promote behaviours that support independent practice if she
   understands that:
@@ -65,7 +63,6 @@ Effective monitoring during independent practice is often non-verbal – for exa
 - to practise independently, pupils need enough support and clear behavioural expectations. Teachers also need to check pupil understanding of support and expectations 
 - pupils need to be held to account to practise independently
 
-
 ### Further reading
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013) Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement,_ 14(1), 4–58. [bit.ly/ecf-dun2](http://bit.ly/ecf-dun2)
@@ -73,17 +70,15 @@ Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2
 {details}
 References.
 
-
-
 <span style="font-weight: 400;">Coe, R. (2013). </span>
 <i>
-  <span style="font-weight: 400;">
-    Improving Education: A triumph of hope over experience
-  </span>
+<span style="font-weight: 400;">
+Improving Education: A triumph of hope over experience
+</span>
 </i>
 <span style="font-weight: 400;">. Centre for Evaluation and Monitoring.  </span>
 <a href="http://bit.ly/ecf-coe2" target="_blank" rel="noopener">
-  <span style="font-weight: 400;">bit.ly/ecf-coe2</span>
+<span style="font-weight: 400;">bit.ly/ecf-coe2</span>
 </a>
 
 <span style="font-weight: 400;">
@@ -101,10 +96,10 @@ References.
 
 <span style="font-weight: 400;">Deans for Impact (2019). </span>
 <i>
-  <span style="font-weight: 400;">The Science of Early Learning.</span>
+<span style="font-weight: 400;">The Science of Early Learning.</span>
 </i>
 <a href="http://bit.ly/ecf-dea3" target="_blank" rel="noopener">
-  <span style="font-weight: 400;"> bit.ly/ecf-dea3</span>
+<span style="font-weight: 400;"> bit.ly/ecf-dea3</span>
 </a>
 
 <span style="font-weight: 400;">
@@ -126,15 +121,15 @@ References.
 
 <span style="font-weight: 400;">Institute of Education Sciences (2008). </span>
 <i>
-  <span style="font-weight: 400;">
-    Reducing Behavior Problems in the Elementary School Classroom.
-  </span>
+<span style="font-weight: 400;">
+Reducing Behavior Problems in the Elementary School Classroom.
+</span>
 </i>
 <span style="font-weight: 400;">
-   
-  <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
-    bit.ly/ecf-ies
-  </a>
+
+<a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
+bit.ly/ecf-ies
+</a>
 </span>
 <span style="font-weight: 400;"> </span>
 
@@ -156,7 +151,7 @@ References.
 
 <span style="font-weight: 400;">Lemov, D. (2015). </span>
 <i>
-  <span style="font-weight: 400;">Teach Like a Champion 2.0</span>
+<span style="font-weight: 400;">Teach Like a Champion 2.0</span>
 </i>
 <span style="font-weight: 400;">.  Jossey-Bass. 2</span>
 <span style="font-weight: 400;">nd</span>
@@ -198,4 +193,3 @@ References.
   </a>
 </span>
  {/details}
-

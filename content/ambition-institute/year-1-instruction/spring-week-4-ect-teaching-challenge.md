@@ -6,7 +6,6 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-4-ect-reflect"
 ---
 
-
 Ms McShane finds it hard to ensure all pupils understand the new ideas she teaches. She has noticed that many have gaps in prior knowledge, even if they have covered related topics in previous years, or the topic is one she taught them herself. Others struggle to link new ideas to their existing knowledge. How can she check and build upon pupil prior knowledge to help them understand new ideas?
 
 ## Key idea
@@ -44,15 +43,14 @@ An effective starting point for teachers is to identify what pupils already know
 
 If pupils have lots of prior knowledge and are reminded of this, it can prevent them from looking for new or better problem solutions (Simonsmeier et al., 2018) – like a driver going into autopilot: they stop thinking hard and therefore don’t develop their mental model.
 
-
-
 ### Key takeaways
-Ms McShane can begin to improve her instruction by understanding that:
-- drawing on existing mental models helps us to learn new information and solve new problems more effectively 
-- weak prior knowledge can lead to misconceptions. Ms McShane must make the effort to diagnose what her pupils do know, don’t know and misunderstand 
-- Ms McShane can build on this by reviewing pupil prior knowledge and introducing new material in steps while asking lots of questions 
-- by carefully activating pupil prior knowledge and challenging pupils’ incorrect beliefs, she can support pupils to develop accurate mental models
 
+Ms McShane can begin to improve her instruction by understanding that:
+
+- drawing on existing mental models helps us to learn new information and solve new problems more effectively
+- weak prior knowledge can lead to misconceptions. Ms McShane must make the effort to diagnose what her pupils do know, don’t know and misunderstand
+- Ms McShane can build on this by reviewing pupil prior knowledge and introducing new material in steps while asking lots of questions
+- by carefully activating pupil prior knowledge and challenging pupils’ incorrect beliefs, she can support pupils to develop accurate mental models
 
 ### Further reading
 
@@ -60,7 +58,6 @@ Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2018)
 
 {details}
 References.
-
 
 Byrom, J., Stephens-Wood, P., Riley, M., &amp; Counsell, C., (1998). _Changing Minds: Britain 1500-1750._ Oxford: Pearson.
 
@@ -73,4 +70,3 @@ Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., &amp; Schneider, M. (2
 Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco: Jossey-Bass.
 
 {/details}
-

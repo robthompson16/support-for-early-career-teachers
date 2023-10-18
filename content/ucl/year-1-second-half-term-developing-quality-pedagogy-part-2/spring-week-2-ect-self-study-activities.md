@@ -35,27 +35,27 @@ You are going to use some of the strategies of Dylan Wiliam, as described in the
 - 5.2 seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching
 - 5.7 pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential
 
-####Lesson part: introducing learning intentions
+#### Lesson part: introducing learning intentions
 
 ##### Ideas for your script
 
 - Who can tell me what our learning intentions mean?
 
-####Lesson part: Asking and responding to questions
+#### Lesson part: Asking and responding to questions
 
-#####Ideas for your script
+##### Ideas for your script
 
 - Would someone like to agree with C’s answer there, and give a reason?
 
-####Lesson part: Giving instructions
+#### Lesson part: Giving instructions
 
-#####Ideas for your script
+##### Ideas for your script
 
 - Now you have heard the instruction from me, tell your partner in your own words what it is I want you to do
 
-####Lesson part: Setting up peer- and self-assessment
+#### Lesson part: Setting up peer- and self-assessment
 
-#####Ideas for your script
+##### Ideas for your script
 
 - What were the 3 best parts of the work?
 - What one thing would make it better?

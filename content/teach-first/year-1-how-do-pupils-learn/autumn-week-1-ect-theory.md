@@ -14,7 +14,7 @@ An important factor in learning is memory. Over the past 25 years, significant b
 
 Listen to the module expert Ben Riley, the Executive Director of Deans for Impact, as he explains what we know about how pupils learn best, and the role that memory plays in this process.
 
-####How pupils learn – Benjamin Riley
+#### How pupils learn – Benjamin Riley
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FMlIBrKpKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -114,7 +114,7 @@ Learning involves a lasting change in pupils’ capabilities or understanding. I
 
 As you have already explored, an effective way to avoid overloading the working memory is to be able to draw on information from your long-term memory. When introducing a new concept or idea, building on prior knowledge that is already stored in the long-term memory can mean that you reduce the risk of overloading the working memory, as the pupil can apply some of their prior knowledge to help them understand the new content. As Ben Riley mentioned in his video, pupils may have different levels of prior knowledge around a topic. As such, trying to build on this can be a challenge for teachers.
 
-####Building on prior knowledge
+#### Building on prior knowledge
 
 When you are deciding how to introduce new knowledge, carefully consider the three questions below to help pupils use their prior knowledge to support their understanding:
 

@@ -34,7 +34,7 @@ Learn how to build on pupils’ prior knowledge, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Welcome the ECT to the final mentor topic in this module. Offer praise where appropriate for the hard word undertaken in the module.
 
@@ -43,7 +43,7 @@ Welcome the ECT to the final mentor topic in this module. Offer praise where app
 
 Pose the question: Who did you choose to observe and why? What was the focus of the observation?
 
-###Questions for reflection (20 minutes)
+### Questions for reflection (20 minutes)
 
 Ask the ECT to reflect on the following questions related to their focus area of the observation(s)
 
@@ -52,13 +52,13 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What did you learn?
 - How did X affect the pupil’s learning?
 
-###Implications for practice (10 minutes)
+### Implications for practice (10 minutes)
 
 In light of the previous discussion, focus now on what the ECT will do as a consequence.
 
 Pose the question: What will you do differently in your practice as a consequence of this observation?
 
-###Review of the module (20 minutes)
+### Review of the module (20 minutes)
 
 Look through all the statements that have been covered by module 2. The ECT will have considered two key questions as part of this activity:
 

@@ -16,7 +16,7 @@ Discussion
 
 To have planned for and practised using the graduated approach to support a pupil.
 
-### Stimulus
+###  Stimulus
 In the online study materials, your teacher was introduced to an approach that puts the pupil at the heart of any adaptations to practice – the graduated approach.
 
 The graduated approach follows an ‘assess, plan, do, review’ cycle. It is designed to help teachers quickly assess where adaptations to practice are supporting pupil’s learning, and crucially where they aren’t.

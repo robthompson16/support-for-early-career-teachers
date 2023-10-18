@@ -20,7 +20,7 @@ Learn how to stimulate pupil thinking and check for understanding, by:
 
 ### Activities
 
-###Reflecting on learning (5 minutes)
+### Reflecting on learning (5 minutes)
 
 This topic is about understanding that pupils need to think hard about what it is we are trying to teach them.
 Remind the ECT that when we teach effectively, we transform pupils’ knowledge, capabilities and beliefs about learning.
@@ -31,7 +31,7 @@ Pose the question: Have you ever been taught something so effectively that it tr
 
 Follow up question: Did it involve thinking hard about what you were trying to learn?
 
-###Learning happens when people have to think hard (10 minutes)
+### Learning happens when people have to think hard (10 minutes)
 
 Read together the following extract from Coe:
 
@@ -50,7 +50,7 @@ Questions for reflection:
 - Do you think by choosing the easier option they are saying ‘I am not interested in learning?’
 - How can we as teachers influence them to not always choose the easier option?
 
-###Poor proxies for learning (10 minutes)
+### Poor proxies for learning (10 minutes)
 
 Guidance for mentors:
 
@@ -70,7 +70,7 @@ Suggested dialogue for mentors: Professor Robert Coe came up with the idea of �
 
 The key learning point here is that we must not assume that because our classroom is quiet and students are busy, that the learning we intended has definitely taken place. If learning isn’t the things above, then what is it? It’s when our pupils have to think hard!
 
-###What are your students thinking hard about? (25 minutes)
+### What are your students thinking hard about? (25 minutes)
 
 Guidance for mentors:
 

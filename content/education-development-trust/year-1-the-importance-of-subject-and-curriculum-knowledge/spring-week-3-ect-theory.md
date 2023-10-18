@@ -111,7 +111,7 @@ Video script.
 </span>
  {/details}
 
-####Systematic synthetic phonics
+#### Systematic synthetic phonics
 
 Watch this video of a literacy expert explaining systematic synthetic phonics programmes.
 

@@ -8,7 +8,7 @@ caption: "Autumn week 6"
 
 ### Activities
 
-###Reviewing the module (15 minutes)
+### Reviewing the module (15 minutes)
 
 Using the self-directed study Activity 7.4: ‘Reflecting on learning’, ask the ECT to share their reflections on learning across the module, by asking:
 
@@ -17,7 +17,7 @@ Using the self-directed study Activity 7.4: ‘Reflecting on learning’, ask th
 - What further ideas would they like to try?
 - How have their classroom practice and approaches to lesson planning developed?
 
-###Identifying next steps (15 minutes)
+### Identifying next steps (15 minutes)
 
 Work with your ECT to identify their next steps from this module.
 

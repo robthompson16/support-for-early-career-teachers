@@ -23,7 +23,7 @@ Learn how to increase likelihood of material being retained, by:
 
 ### Activities
 
-###Interviewing/observing a colleague (20 minutes)
+### Interviewing/observing a colleague (20 minutes)
 
 In this Block, the ECT has not had an opportunity to observe any colleagues so the mentor should organise a 15–20 minute slot when they and the ECT will either observe a colleague’s lesson together or interview a more experienced colleague.
 
@@ -35,7 +35,7 @@ The focus of either the interview or observation is to consider how the more exp
 
 If an observation is chosen, it should be planned for a time when the teacher is using one of the techniques explored in this Block such as practice, retrieval or repetition activities. This might be at the start, end or middle of the lesson.
 
-###Reflection on interview/observation (15 minutes)
+### Reflection on interview/observation (15 minutes)
 
 Pose the following questions:
 
@@ -43,7 +43,7 @@ Pose the following questions:
 - What has it made you think about your own practice?
 - What are you interested to find out more about?
 
-###Feedback from the lesson observation (10 minutes)
+### Feedback from the lesson observation (10 minutes)
 
 The mentor should feedback on the lesson observation of the ECT that they did since the last topic, looking at challenge:
 
@@ -51,7 +51,7 @@ The mentor should feedback on the lesson observation of the ECT that they did si
 - What could be better?
 - What will the ECT do next?
 
-###Reviewing this module (15 minutes)
+### Reviewing this module (15 minutes)
 
 Using the final self-directed study activity for this module, ask ECTs to share their reflections on learning across the module.
 

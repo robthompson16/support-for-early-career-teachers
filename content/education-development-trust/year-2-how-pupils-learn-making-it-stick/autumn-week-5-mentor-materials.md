@@ -17,7 +17,7 @@ Learn how to increase likelihood of material being retained, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Ask the ECT whether they have used any of the activities that were discussed in the last topic (repetition, practice, retrieval).
 
@@ -25,13 +25,13 @@ Ask the ECT whether they have used any of the activities that were discussed in 
 - What worked well?
 - What will they do differently next time?
 
-###Activating the key idea (5 minute)
+### Activating the key idea (5 minute)
 
 Pose the question: Why do we want pupils to experience success with challenging work?
 
 The aim is of course that eventually pupils will complete challenging tasks independently but they are still novices and so they may not be able to yet. If pupils failed every time they did challenging work, their levels of motivation would drop. This might mean that they give up and do not want to try again. By experiencing success with challenging work, pupils are able to know what the ‘best’ looks like and what they are striving towards. This can be motivating.
 
-###Designing practice, generation and retrieval tasks with enough support so pupils experience a high success rate with challenging work (20 minutes)
+### Designing practice, generation and retrieval tasks with enough support so pupils experience a high success rate with challenging work (20 minutes)
 
 Ask the ECT to share the challenging work that they would like pupils to be able to complete. Explain to the ECT that there are different ways that they could build up to the challenging task so that when pupils do it, they will have a high success rate. Some of the ways are by the activation tasks that you do prior to introducing the challenging work.
 
@@ -68,7 +68,7 @@ Some ideas could include:
 - Use flashcards to activate prior knowledge so pupils have to retrieve it from their memory
 - Use class discussion, questioning pupils on important aspects of the knowledge they will need.
 
-###Increasing challenge with practice and retrieval as knowledge becomes more secure (e.g. by removing scaffolding, lengthening spacing or introducing interacting elements (15 minutes)
+### Increasing challenge with practice and retrieval as knowledge becomes more secure (e.g. by removing scaffolding, lengthening spacing or introducing interacting elements (15 minutes)
 
 Ask the ECT how they would adapt each of the above activities to increase the level of challenge as pupils’ knowledge becomes more secure.
 

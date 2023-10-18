@@ -66,21 +66,21 @@ Theory to Practice 40 mins
 
    Support their reflections and plan together how they will apply their learning to their own practice over the next few lessons
 
-###Learning intention: Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.
+### Learning intention: Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.
 
 #### Possible foci for observation or discussion
 
 - What approach to teaching systematic synthetic phonics works best for you in your class? For example, teacher modelling of segmenting and blending orally and in writing.
 - How is systematic synthetic phonics used to support the teaching of spelling? For example, explicit use of phonics to support the teaching of spelling.
 
-###Learning intention: Supporting younger pupils to become fluent readers and to write fluently and legibly.
+### Learning intention: Supporting younger pupils to become fluent readers and to write fluently and legibly.
 
 #### Possible foci for observation or discussion
 
 - How is handwriting taught? Is a specific programme used to teach handwriting systematically? E.g. Review children’s writing outcomes together and consider progression in handwriting.
 - How are parents/carers involved in supporting younger pupils' reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
 
-###Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
+### Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
 
 #### Possible foci for observation or discussion
 

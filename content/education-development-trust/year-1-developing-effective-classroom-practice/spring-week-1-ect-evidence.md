@@ -32,14 +32,14 @@ Consider the following example:
 - how do they make sure that pupils master the content before moving on?
 - how has the teacher built up to the more complex task of writing your own sentences?
 
-####Teaching sentence structure
+#### Teaching sentence structure
 Start by introducing the rules of a simple sentence.
 
 Show a sentence on the board: 'The boy threw the ball.'
 
 Read the sentence together.
 
-#####Model aloud my thinking as I identify the subject of the paragraph
+##### Model aloud my thinking as I identify the subject of the paragraph
 “OK so we know that a simple sentence needs to contain a verb, a subject and an object. I am going to look at the sentence here and identify these things.
 
 "Hmmm, so I know that a verb is a doing word. So the verb in this sentence must be ‘threw’. Am I right? Yes, ‘throw’ is a doing word so that is a verb.
@@ -50,7 +50,7 @@ Read the sentence together.
 
 “The boy threw the ball.”
 
-#####Check for understanding ‒ questioning
+##### Check for understanding ‒ questioning
 Teacher: "Michael what three things do I need to include in my simple sentence?"
 
 Michael: "A verb, an object and a subject."
@@ -69,7 +69,7 @@ Jakob: "The subject is doing the verb and the object is receiving?"
 
 Teacher: "Excellent."
 
-#####Task 1
+##### Task 1
 
 <ol>
 <li>Handout sheet with simple sentence examples.</li>
@@ -209,7 +209,7 @@ The table below shows the different strategies you can use to make abstract idea
 
 “The pictures in front of you show each stage of the evaporation cycle.”
 
-###Using concrete examples to make abstract ideas accessible
+### Using concrete examples to make abstract ideas accessible
 How do objects help to make abstract ideas accessible?
 
 How might this relate to your subject? Is there a physical representation of an abstract idea?
@@ -329,7 +329,7 @@ pupils?
 4. Facilitate a discussion on types of discrimination pupils have heard about
    or seen and generate a class list.
 
-####Activity 3
+#### Activity 3
 
 1. Present a newspaper report about discrimination on the board.
 2. Read it aloud and teacher identifies why this person has been treated

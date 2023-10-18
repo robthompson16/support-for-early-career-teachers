@@ -25,7 +25,7 @@ At the start of the module, you together analysed your mentee’s development ne
 
 ### Meeting activities
 
-###Review and Plan 5 mins
+### Review and Plan 5 mins
 
 - Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
 - what they did
@@ -34,7 +34,7 @@ At the start of the module, you together analysed your mentee’s development ne
 
 1. Clarify the Learning Intentions for this session with your mentee.
 
-###Theory to Practice 40 mins
+### Theory to Practice 40 mins
 
 Self-Assessment:
 
@@ -74,7 +74,7 @@ You might find it useful to translate this into ‘goal statements’ e.g.,
 
 ‘By the end of the year\_ \_I will improve pupil outcomes by making more effective use of pupil groupings. I will develop high expectations for all groups, make greater use of changing groups and ensure that groupings are based on subject-specific criteria.’
 
-###Next Steps 5 mins
+### Next Steps 5 mins
 
 Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
 

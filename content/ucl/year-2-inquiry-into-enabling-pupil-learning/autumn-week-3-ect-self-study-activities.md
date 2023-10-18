@@ -51,7 +51,7 @@ The sources you analyse will contain much more data than you need for your inqui
 
 The data you find might be true for a particular time in the past – are they still true now? For example, is a pupil’s past behaviour record reliable evidence of their behaviour patterns now?
 
-#####Manageability
+##### Manageability
 
 For a short inquiry such as this, you must be selective: don’t attempt to analyse all possible sources. Look first for the naturally occurring data: those which are available to you as a normal part of your job.
 
@@ -67,13 +67,13 @@ Your question may have been something like:
 
 When collecting evidence of pupils’ attitudes in a short inquiry, it is helpful to bear these three rules in mind when asking your questions:
 
-#####Are they valid?
+##### Are they valid?
 Only ask the questions that you need the answers to for your inquiry.
 
-#####Are they reliable?
+##### Are they reliable?
 Make sure your pupils understand the questions and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…
 
-#####Is it manageable?
+##### Is it manageable?
 Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. When can you collect pupil voice data? Can you do it in your lesson by a show of hands, or by speaking to a small group for 3 minutes while their classmates get on with independent learning? Do you need 5 minutes of a break time? Don't use up more of your – or their – time than is strictly necessary.
 
 Sam decided to give his class a short, hand-up survey. Because he wanted to be sure he understood those findings and could rely on them, he then interviewed a small, representative sample of pupils in focus groups over three morning breaks.

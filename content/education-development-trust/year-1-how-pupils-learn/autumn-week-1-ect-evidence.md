@@ -224,7 +224,7 @@ Some things you can do to reduce distractions include:
 - For more complicated tasks, write the steps which pupils need to remember on the board and leave them there so pupils can refer back to them during the task.
 - Use short, clear explanations and examples to demonstrate your points - plan these in advance so they are high quality and concise.
 
-####Reducing distractions
+#### Reducing distractions
 
 Watch this video of a GCSE Biology lesson. A science teacher is trying to teach their class about DNA and chromosomes.
 
@@ -250,7 +250,7 @@ Teacher: Right, let’s go back to the start…
 
 {/details}
 
-####Reducing distractions
+#### Reducing distractions
 
 Watch this video of the same GCSE Biology content being taught differently by the teacher.
 

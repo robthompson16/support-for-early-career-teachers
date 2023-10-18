@@ -20,7 +20,7 @@ Learn how to building on pupils’ prior knowledge by:
 
 ### Activities
 
-###Reflection on learning (5 minutes)
+### Reflection on learning (5 minutes)
 
 Ask the ECT whether they have taught the section of the lesson that they scripted in the last topic.
 
@@ -28,7 +28,7 @@ Ask the ECT whether they have taught the section of the lesson that they scripte
 - What went well?
 - What will they do differently next time?
 
-###Exploring the key ideas of the topic (10 minutes)
+### Exploring the key ideas of the topic (10 minutes)
 
 Pose the question: What is a misconception?
 
@@ -51,7 +51,7 @@ There are two parts to this:
 - Understanding that misconceptions can form when introducing new material based on weak or shallow prior knowledge
 - Understanding that misconceptions might already exist and need to be addressed before they are embedded further.
 
-###Avoiding misconceptions forming (20 minutes)
+### Avoiding misconceptions forming (20 minutes)
 
 The best thing a teacher can do is to anticipate misconceptions that might arise, and plan to prevent them forming in the first place.
 
@@ -89,7 +89,7 @@ Possible misconceptions they might form:
 - You always get to swipe your own bar-codes (if you use the self-service)
 - You always use up all of the ingredients you buy (if you’re cooking for a group).
 
-###Uncovering emerging misconceptions (20 minutes)
+### Uncovering emerging misconceptions (20 minutes)
 
 Now that the ECT is aware that misconceptions may form as they introduce new content, work together to develop some strategies that they can use to encourage pupils to share emerging understanding and points of confusion so that they can address the misconceptions as they are forming.
 

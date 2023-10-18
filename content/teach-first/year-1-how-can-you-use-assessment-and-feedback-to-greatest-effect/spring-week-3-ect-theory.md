@@ -36,7 +36,7 @@ One straightforward method of tracking data during the independent practice is b
 
 An example of this tracker might be as follows:
 
-####Potential error
+#### Potential error
 
 Codes:
 
@@ -63,13 +63,13 @@ Codes:
 
 To demonstrate how to monitor pupil work effectively for misconceptions by circulating, watch the following clips of teachers in action.
 
-####Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy
+#### Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdR9CZ_Ga7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/cVOkjP6EcK0)
 
-####Monitoring independent practice - Primary at Reach Academy
+#### Monitoring independent practice - Primary at Reach Academy
 
 In this KS4 Maths lesson, you can see the teacher monitoring pupil work with a focus on anticipating a common misconception around decimals and the interior angles of a quadrilateral.
 
@@ -77,13 +77,13 @@ In this KS4 Maths lesson, you can see the teacher monitoring pupil work with a f
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Primary at Reach Academy [AD]](https://youtu.be/98ptG8Smv-0)
 
-####Monitoring independent practice - Secondary at Reach Academy
+#### Monitoring independent practice - Secondary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPuB1MbeQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Secondary at Reach Academy [AD]](https://youtu.be/j54awoEwUIY)
 
-####Monitoring independent practice – Specialist setting - Ellen Tinkham School
+#### Monitoring independent practice – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBeoTfWC0Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ If you require an audio description over the video, please watch this version: [
 
 ### Monitoring pupils' work for misconceptions
 
-####Activity
+#### Activity
 Select an upcoming lesson plan to review.
 
 Identify a moment in the lesson where pupils would engage in independent practice.
@@ -108,7 +108,7 @@ When monitoring pupil work across the lesson, you are constantly making decision
 
 A recent synthesis of information by the [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/feedback/#closeSignup) (EEF) concluded that, on average, the provision of high-quality feedback led to an improvement of eight additional months of progress over the course of a year. However, providing effective feedback can be challenging, and the research also highlighted that when feedback is not given well it can have a negative impact on pupil progress.
 
-####When should you give feedback?
+#### When should you give feedback?
 Research studies into feedback do make a distinction between a ‘mistake’ and an ‘error’.
 
 Mistake: something a student can do, and does normally do correctly,
@@ -136,7 +136,7 @@ Whilst monitoring your pupils you may notice errors occurring. When this happens
 
 As a teacher you will use the information from your assessments to inform the decisions you make. You may notice that there is a common error occurring, and it is therefore appropriate to stop the whole class to ensure that the misconception does not become ingrained. It can sometimes feel daunting to stop the class during independent practice, but by doing so, it will save you time when marking pupil work as you will not need to write the same comment repeatedly. It will also mean you will not need to plan to undo new errors in thinking in subsequent lessons.
 
-####Reflection
+#### Reflection
 Reflect on the last time you stopped the class to address a common error.
 
 What information
@@ -146,7 +146,7 @@ The next section of this module will support you by giving further feedback stra
 
 ### When should you give feedback?
 
-####Reflection
+#### Reflection
 Reflect on your answers to the following questions and note down your thoughts:
 
 - what is the difference between a mistake and an error?

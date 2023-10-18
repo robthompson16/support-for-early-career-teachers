@@ -31,7 +31,7 @@ How do we do this?
 
 It is important to identify the key ideas in a subject. They are the important concepts from which other subject concepts are linked or inferred (Ball et al., 2008), the ones that provide the foundation upon which everything else builds. We know that students learn new ideas by reference to ideas they already know (Deans for Impact, 2015). Mastering the big ideas of a subject will make other knowledge and skills accessible, helping pupils unpick new ideas and think deeply and critically about the subject you are teaching.
 
-####A planning meeting
+#### A planning meeting
 
 Watch this video of a Year 5 teaching team (2 teachers) planning their next term topic on the Vikings.
 

@@ -17,7 +17,7 @@ Learn how to help pupils apply knowledge and skills to other contexts, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 In the last topic, the mentor and ECT explored two statements from the ECF:
 
@@ -30,7 +30,7 @@ Review and recap each of these statements.
 
 Pose the question: How have you used the ideas from the last topic in your teaching this week?
 
-###Ensure pupils have relevant domain-specific knowledge before being asked to think critically within a subject (15 minutes)
+### Ensure pupils have relevant domain-specific knowledge before being asked to think critically within a subject (15 minutes)
 
 Guidance to mentors:
 
@@ -46,7 +46,7 @@ Pose the questions:
 2. Why do pupils need to develop domain-specific knowledge before being asked to think critically?
 3. Can you give an example from your subject area?
 
-###Interleave concrete and abstract examples (30 minutes)
+### Interleave concrete and abstract examples (30 minutes)
 
 Guidance to mentors:
 

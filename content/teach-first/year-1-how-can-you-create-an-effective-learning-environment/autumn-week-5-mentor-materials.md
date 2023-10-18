@@ -70,7 +70,7 @@ Over the following weeks, I worked with Pupil A’s father and the SENDCo to ide
 
 This pupil is in year 6. He joined the school halfway through year 4 and comes from a have a challenging background. His parents are separated and have been for the duration of his time at our school. Both parents hold very different views on behaviour and as a result have different expectations of their child which can confuse him as it muddles the boundaries we try to set at school. His mother is approachable and willing to try and support him in school but often makes excuses for his lack of engagement or disruptive behaviour, often blaming the lesson for not being engaging or challenging enough for him, whereas their father is very strict and holds extremely high expectations of him. He sees his father every other weekend and I always notice a difference in his behaviour after spending time with his father. I have no contact with his father as his mother is his primary carer. He has very low self-esteem and resilience.
 
-### The incident
+###  The incident
 
 The pupil regularly demonstrates challenging behaviour across a range of settings throughout the day. On one occasion, I was teaching long division, explaining the steps and asking pupils to attempt further questions on their whiteboards. Whilst I was teaching, I could see he was not tracking me or following my explanation. When asked to complete examples on his whiteboard, he rested his head on his arms and ignored my request.
 

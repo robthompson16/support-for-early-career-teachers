@@ -34,7 +34,7 @@ This involves the teacher and pupils doing a task together. This is where you be
 
 This is the stage where pupils practise new material without adult support. When first setting up independent practice, you may still provide tasks that scaffold pupils’ learning but over time these should be removed to allow pupils to work entirely independently. Rosenshine (2012) recognises that this is vital for pupils to become fluent or automatic in information retrieval or completing a procedure. During this stage, the teacher monitors pupil practice to identify and address misconceptions to individual pupils or the whole class. They also encourage pupils to use metacognitive strategies to monitor their own learning and develop their ability to self-regulate.
 
-####Key messages about this process
+#### Key messages about this process
 Whilst these stages have been separated into three groups, the process of building
 pupil independence should be viewed as a continuum whereby support gradually reduces
 as pupils become more proficient.
@@ -97,7 +97,7 @@ Examples and non-examples will be explored further in your next training session
 
 Ashley Philipson shares an example of when she has used an example and a non-example to teach an abstract concept.
 
-####Using a concrete example by Ashley Philipson
+#### Using a concrete example by Ashley Philipson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/skBKiNtKejA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -116,7 +116,7 @@ After I explained the concept using concrete examples, I checked pupils’ under
 
 {/details}
 
-####Using a non-example by Ashley Philipson
+#### Using a non-example by Ashley Philipson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNEy08QiU7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -152,7 +152,7 @@ In this case pupils will have a deeper understanding of more than just that one 
 
 {/details}
 
-####Using a non example to expose misconceptions
+#### Using a non example to expose misconceptions
 
 As Ashley states, non-examples are a great way to show what something isn’t; therefore, they are an effective way of exposing potential pitfalls and explaining how to avoid them. Listen to Elizabeth Arkle talk about when she has used a non-example to develop pupils’ reasoning skills by encouraging them to identify and explain common misconceptions.
 
@@ -203,7 +203,7 @@ In simple terms, cognition is the thinking you do when completing a task. Teache
 
 Below is an example of a teacher using ‘Think Aloud’ to model their cognitive process by engaging their prior knowledge when performing a forward roll safely in PE. This has been taken from the [Metacognition and Self-regulated Learning Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (EEF, 2017):
 
-####Using the 'think aloud' model: example 1
+#### Using the 'think aloud' model: example 1
 
 Preparing for the roll: _“I don’t want to hurt my neck and want to do this neatly. So first, to protect my neck, I need to tuck my chin to my chest like this.”_
 
@@ -229,7 +229,7 @@ Below is an example of a teacher using ‘Think Aloud’ to model their metacogn
 
 ‘The main reason why the League of Nations could not stop aggression in the 1930s was because the USA was not a member. Do you agree?’
 
-####Planning
+#### Planning
 
 “How am I going to approach answering this? Well firstly, I must ensure I understand the question. To do that, I am first going to read it. (teacher models reading it). Then I am going to underline key words that help me understand how I should answer the question. I can see at the end, it asks, ‘Do you agree?’, so what does that mean? It means I am going to have to give an opinion.
 
@@ -292,7 +292,7 @@ To ensure ‘Think Aloud’ is successful, you should:
 
 Look at the following scripts of a teacher using ‘Think Aloud’ to model using adjectives in a sentence. Identify which one is more effective and why.
 
-####Example 1:
+#### Example 1:
 “I want to describe what the emperor penguin looks like. How will I start my sentence?
 Hmm, I’ll start with ‘The’ – as it’s the beginning of a sentence I must use a capital
 letter” (_teacher scribes as they speak_) “emperor penguin – now I am going
@@ -324,13 +324,13 @@ Watch the videos below and answer the following questions in your notepad:
 - what did the teacher focus their narration on and why do you think this was?
 - how might this impact pupils’ learning?
 
-####Think Aloud – Early Years - Maria Craster at One Degree Academy
+#### Think Aloud – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNrEYWQZ8B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Think Aloud – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/Y-ZO9yPfx3w)
 
-####Think Aloud – Primary – Alanah Harris at Reach Academy
+#### Think Aloud – Primary – Alanah Harris at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lAQCn7BQ-80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

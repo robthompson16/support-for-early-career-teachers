@@ -17,7 +17,7 @@ Learn how to develop as a professional by:
 
 ### Activities
 
-###Reflecting on year 1 (10 minutes)
+### Reflecting on year 1 (10 minutes)
 
 Guidance to mentors:
 Welcome the ECT back. If you are a new mentor, this is an opportunity to get to know the ECT and find out how the last year went and set goals for the year ahead.
@@ -30,7 +30,7 @@ Ask the ECT:
 - What was the biggest challenge?
 - Did they find anything more difficult than they anticipated?
 
-###Planning how you will work together (10 minutes)
+### Planning how you will work together (10 minutes)
 
 Mentor guidance:
 This is an opportunity to set out how you will work together and establish or further your professional relationship.
@@ -41,7 +41,7 @@ Together, decide on 2 or more key expectations that will help you work together.
 - the ECT will come to the mentor with any concerns
 - how you will raise any issues with each other.
 
-###Setting goals for the year ahead (10 minutes)
+### Setting goals for the year ahead (10 minutes)
 
 Explain that in this second year the ECT will be building on the learning from year 1. They will cover:
 

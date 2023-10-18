@@ -18,7 +18,7 @@ Learn how to support pupils to build increasingly complex mental models, by:
 
 ### Activities
 
-###Welcome to module 10 (25 minutes)
+### Welcome to module 10 (25 minutes)
 
 Suggested dialogue for mentors:
 
@@ -74,7 +74,7 @@ What are some of the different ways teachers can make explicit links between new
 4. Take steps to address common misconceptions.
 5. Plan opportunities for multiple exposures.
 
-###Drawing explicit links between new content and the core concepts and principles of the subject (25 minutes)
+### Drawing explicit links between new content and the core concepts and principles of the subject (25 minutes)
 
 Guidance to mentors:
 

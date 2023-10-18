@@ -16,7 +16,7 @@ Learn how to avoid overloading working memory by:
 
 ### Activities
 
-###Reflecting on learning (5 minutes)
+### Reflecting on learning (5 minutes)
 
 Ask the ECT whether they used any of the activities you explored in the last topic for pupils to share emerging understanding.
 
@@ -24,7 +24,7 @@ Ask the ECT whether they used any of the activities you explored in the last top
 - What went well?
 - What will they do differently next time?
 
-###Why do we need to sequence content to help pupils learn? (10 minutes)
+### Why do we need to sequence content to help pupils learn? (10 minutes)
 
 Explain to the ECT that the purpose of this topic is to think about how they sequence knowledge and content in a lesson or over a series of lessons to ensure that pupils secure foundational knowledge before encountering more complex content.
 
@@ -38,7 +38,7 @@ Mentor notes:
 - Secure prior knowledge frees up working memory so pupils can think about more complex ideas.
 - There is a danger that pupils will develop misconceptions about complex ideas if they have insecure prior knowledge.
 
-###Understanding foundational vs complex content (35 minutes)
+### Understanding foundational vs complex content (35 minutes)
 
 Share the following definitions with the ECT:
 
@@ -79,7 +79,7 @@ Learn that:
 
 ### Activities
 
-###Reflecting on learning (5 minutes)
+### Reflecting on learning (5 minutes)
 
 The mentor should ask the ECT whether they have started teaching the topic that they planned together in the last topic.
 
@@ -87,7 +87,7 @@ The mentor should ask the ECT whether they have started teaching the topic that 
 - What worked well?
 - Would they use this approach again?
 
-###Key idea of the topic (10 minutes)
+### Key idea of the topic (10 minutes)
 
 Give the ECT the following instruction: Draw a dog.
 
@@ -99,19 +99,19 @@ Note, the ECT’s artistic ability will be a factor here! If they are already ve
 
 Pose the question: How does breaking complex material into smaller steps help pupils learn?
 
-####Notes for mentor:
+#### Notes for mentor:
 
 - Remember that our working memory capacity is limited.
 - When it becomes overloaded, for example by too many pieces of information, we are unable to learn.
 - Smaller steps allow pupils to experience success and it is important for pupils to experience success with complex material, otherwise they might just give up in the future.
 
-###Breaking complex material into smaller steps (20 minutes)
+### Breaking complex material into smaller steps (20 minutes)
 
 Ask the ECT to think about some complex material that they know they will need to ask pupils to complete soon. This might be understanding a complex concept or a task that involves multiple, complex parts. For younger pupils it could be a routine or set of instructions that they need to follow.
 
 Pose the question: What do you want pupils to do/learn?
 
-####Notes for mentor:
+#### Notes for mentor:
 
 - Remember that our working memory capacity is limited.
 - When it becomes overloaded, for example by too many pieces of information, we are unable to learn.

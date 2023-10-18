@@ -23,7 +23,7 @@ Effective worked examples often share the following features:
 
 Partially completed examples are worked examples that have had some steps left blank for pupils to complete. They allow the teacher to direct the pupil to where the practise needs to take place. The idea behind a partially completed example is that you are directing pupils to where you want them to focus their thinking.
 
-####Worked examples - Benjamin Riley
+#### Worked examples - Benjamin Riley
 Listen to Ben Riley from Deans for Impact talk about why worked examples can be so effective in reducing the risk of overloading the working memory. He also talks through a worked example of how to solve a crossword puzzle, modelling how he would share his thought process aloud as he would do with his pupils.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dhJkSX-BBUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ So, thanks for listening and try out a worked example with your students when yo
 
 In this section you will hear from teachers explaining why they have found worked and partially complete examples useful for focusing pupil thinking and sharing their expert knowledge. You can also see examples of teachers using worked examples in action in their classroom. Select videos to view that are most appropriate to your phase.
 
-####Using worked examples
+#### Using worked examples
 Hear from English Teacher Joseph Craven as he talks through how he incorporated a worked example into an end of unit lesson to support pupils to effectively answer an exam question.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyduPIjvdvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -122,7 +122,7 @@ Priestley clearly intends the inspector to be juxtaposed with Birling. The two a
 
 Perhaps Priestley intends for the inspector to be defined through his function rather than his ego, something of which Birling seems incapable.
 
-####Using partially completed examples
+#### Using partially completed examples
 Hear from Secondary Geography teacher Ashley Philipson as she explains how she used a partially completed example to support her pupils to explain the formation of coastal erosion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PnRptiWuKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -145,13 +145,13 @@ To see worked and partially completed examples in action in the classroom, click
 - What did the teacher want the pupils to learn?
 - How did the worked or partially complete example support this?
 
-####Worked and partially completed examples - Early Years
+#### Worked and partially completed examples - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqWkozeHa2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Worked and partially completed examples – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/WFb14eEu-oY)
 
-####Worked and partially completed examples - Primary
+#### Worked and partially completed examples - Primary
 
 In this KS2 lesson, the teacher builds on the pupils’ prior knowledge of decimals. In writing the sentence for the pupils, the teacher partially completes the example, directing pupil thinking towards the missing numbers and the relationship between them.
 
@@ -187,7 +187,7 @@ Year 4 place value lesson introducing tenths. Children often enjoy looking for y
   height="975"
 />
 
-####Worked and partially completed examples - Secondary
+#### Worked and partially completed examples - Secondary
 
 In this KS4 lesson, the teacher uses a worked example to demonstrate how to fully answer an exam question. He has created the answer himself and is now talking his pupils through it and sharing his expert reasoning.
 

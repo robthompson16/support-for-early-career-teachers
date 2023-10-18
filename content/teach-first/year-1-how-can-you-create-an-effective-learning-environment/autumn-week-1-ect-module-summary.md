@@ -8,7 +8,7 @@ Watch the video below to hear Reuben Moore, Executive Director of Programme Deve
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgX9QgM2oyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-###Effective learning environments
+### Effective learning environments
 
 The 2014 Sutton Trust report, ‘What Makes Great Teaching’, highlights the importance of effective classroom environments:
 

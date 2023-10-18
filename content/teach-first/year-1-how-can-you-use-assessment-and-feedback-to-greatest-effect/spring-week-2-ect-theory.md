@@ -27,7 +27,7 @@ In the following videos, teachers have explained how they maximised some of thes
 
 Select the video(s) that you feel are appropriate to your development. You can make notes in your notebook if you wish.
 
-####Planned assessment opportunities - Early Years
+#### Planned assessment opportunities - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XbnDpntOks8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ This evidence is only recorded when it is necessary. My knowledge of the childre
 
 {/details}
 
-####Planned assessment opportunities - Primary
+#### Planned assessment opportunities - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G76i_hc6wWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -123,7 +123,7 @@ An example of this would be:
 I find it helpful to anticipate potential misconceptions and be conscious and explicit
 about them when I teach.  {/details}
 
-####Planned assessment opportunities - Secondary
+#### Planned assessment opportunities - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xnfGkXTXMGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -209,7 +209,7 @@ A hinge point question is designed to be a quick and accurate snapshot of unders
 
 In the clip below, you will see a primary teacher ask a hinge question around money. From the way he has designed the task and asked the question, it is evident that he has anticipated the class may have a misconception around coin size. In asking this question, and through the subsequent class discussion, he is attempting to address this misconception before independent practice begins.
 
-####Anticipating misconceptions - Reach Academy
+#### Anticipating misconceptions - Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bifSUpxDS7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

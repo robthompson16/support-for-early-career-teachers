@@ -12,7 +12,7 @@ caption: "Spring week 3"
 
 Observation
 
-### Outcome:
+###  Outcome:
 To have planned and practised the monitoring of pupil work for misconceptions during independent practice.
 
 ### Stimulus
@@ -36,7 +36,7 @@ Observe your teacher as they circulate and subsequently act on the information i
 - Could they pick out examples of success that they had observed, and who had specific mistakes/errors?
 - How did they respond when they spotted an example of a mistake/error? (e.g. stopping the class/individual correction). Did you agree with their feedback decision?
 
-### Praise, probe and set precise actions
+###  Praise, probe and set precise actions
 The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas

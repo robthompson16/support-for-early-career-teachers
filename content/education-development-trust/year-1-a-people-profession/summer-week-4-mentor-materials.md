@@ -25,11 +25,11 @@ Learn how to build effective working relationships, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 Start the session by asking the ECT what they learned from their observation of a teaching assistant working with a teacher. For example, did they notice how the teacher and teaching assistant worked together to support each other, and the impact this had on the learning of all pupils in the class.
 
-###Working with teaching assistants (TAs) (15 minutes)
+### Working with teaching assistants (TAs) (15 minutes)
 
 Together with the ECT read [Handout 6.2](/assets/materials/edt-Block-6-mentor-handout-6.2.pdf), which summarises evidence from research about teaching assistants. Discuss with the ECT what they think the key points are in the article.
 
@@ -40,7 +40,7 @@ In relation to the ECT’s current practice discuss:
 - How do they ensure that they do not reduce their support or input to the pupils who are supported by the TA?
 - How do they evaluate how successfully they work with the TA based on pupil learning?
 
-###Ideas for developing effective working with TAs (25 minutes)
+### Ideas for developing effective working with TAs (25 minutes)
 
 The ECT may have already engaged with Activity 6.5 in the self-directed study materials, where there are ideas for working effectively with teaching assistants. In this part of the session, mentors should support the ECT to plan to try out some of the ideas in practice.
 

@@ -64,20 +64,20 @@ Answers might include:
 
 Look at the following example:
 
-####Potential misconception: thinking the nucleus is the brain of the cell.
+#### Potential misconception: thinking the nucleus is the brain of the cell.
 
-#####Assessment which will check understanding:  
+##### Assessment which will check understanding:  
 Pupils will answer a multiple choice exit ticket to identify misconception.
 
-#####Decision this will support
+##### Decision this will support
 I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
 
-####Potential misconception: not recognising or being able to explain that the cell membrane and cell wall are different things.
+#### Potential misconception: not recognising or being able to explain that the cell membrane and cell wall are different things.
 
-#####Assessment which will check understanding:
+##### Assessment which will check understanding:
 Hinge question during the lesson.
 
-#####Decision this will support:
+##### Decision this will support:
 I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
 
 The ECT should select one misconception from their list and decide how they are going to check pupils' understanding of this. Together with the mentor they should plan the assessment.

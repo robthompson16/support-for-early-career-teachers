@@ -40,14 +40,14 @@ watch, consider what prior knowledge the teachers are assuming that the pupils a
 have. Do you agree with the steps they have chosen? How have the teachers avoided overloading
 the working memory?
 
-####Introducing new knowledge to pupils - Reach Academy
+#### Introducing new knowledge to pupils - Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CM9jeyC2BdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: <a href="https://youtu.be/Y8wvI_3pUAg" target="_blank" rel="noopener">Introducing new knowledge to pupils - Reach Academy [AD]</a>
 <br>
 
-####Breaking down complex tasks – Early Years - Maria Craster at One Degree Academy
+#### Breaking down complex tasks – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBynqRpjwyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -55,7 +55,7 @@ If you require an audio description over the video, please watch this version: [
 
 <br>
 
-####Breaking down complex tasks – Primary - Shauna Warnock at One Degree Academy
+#### Breaking down complex tasks – Primary - Shauna Warnock at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXRCZ-SoRaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -63,7 +63,7 @@ If you require an audio description over the video, please watch this version: [
 
 <br>
 
-####Breaking down complex tasks – Specialist setting - Ellen Tinkham School
+#### Breaking down complex tasks – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m12qNCnKHLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -96,7 +96,7 @@ Combining a verbal explanation with a relevant diagram or visual representation 
 
 This course took advantage of this principle when you were introduced to the Willingham model of the mind. As the concept is not linear and relies on the relationship between the different elements of the mind, if this model was explained using only text, the concept would have been harder to explain and understand.
 
-####Combining verbal and graphical representation – John Hutchinson
+#### Combining verbal and graphical representation – John Hutchinson
 
 Listen to teacher Jon Hutchinson talk about how he has learnt to effectively combine verbal explanations and graphical representation in order to support teaching and learning.
 
@@ -115,7 +115,7 @@ In the video, Jon shared some examples of how his school has combined verbal exp
 
 See some phase specific examples in action:
 
-####Combining verbal and graphical representation - Early Years
+#### Combining verbal and graphical representation - Early Years
 
 This Early Years teacher is using graphics to support her explanation of how to do ‘good sitting’ on the carpet.
 
@@ -123,7 +123,7 @@ This Early Years teacher is using graphics to support her explanation of how to 
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Early Years [AD]](https://youtu.be/ACQe5bDwYtM)
 
-####Combining verbal and graphical representation - Primary
+#### Combining verbal and graphical representation - Primary
 
 This KS2 teacher uses a timeline to help place the Vikings in their historical context.
 
@@ -131,7 +131,7 @@ This KS2 teacher uses a timeline to help place the Vikings in their historical c
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Primary [AD]](https://youtu.be/8i5Y_F_07ds)
 
-####Combining verbal and graphical representation - Secondary
+#### Combining verbal and graphical representation - Secondary
 
 See how the teacher helps organise pupil thinking and makes connections using a diagram in this KS3 science lesson.
 
@@ -139,7 +139,7 @@ See how the teacher helps organise pupil thinking and makes connections using a 
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Secondary [AD]](https://youtu.be/cSblnDhG2rA)
 
-####Combining verbal and graphical representations - Specialist setting
+#### Combining verbal and graphical representations - Specialist setting
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8W_nYqvHhP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

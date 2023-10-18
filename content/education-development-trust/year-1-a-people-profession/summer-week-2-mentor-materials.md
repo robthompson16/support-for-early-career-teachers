@@ -24,7 +24,7 @@ Learn how to build effective working relationships, by:
 
 ### Activities
 
-###Reflecting on learning (20 minutes)
+### Reflecting on learning (20 minutes)
 
 Reflect on the progress the ECT has made throughout Year 1 in terms of relationships with parents, carers and families. Before starting the discussion, it may be useful to cover some guidelines to help frame the conversation:
 
@@ -56,7 +56,7 @@ The mentor should remind the ECT that:
 - It is all right to draw a conversation to a close and say that you will be back in touch at a later date.
 - Support is always available from colleagues, e.g. to join conversations with the ECT.
 
-###Building effective working relationships with parents (30 mins)
+### Building effective working relationships with parents (30 mins)
 
 Guidance for mentors:
 
@@ -150,7 +150,7 @@ Learn how to build trusting relationships, by:
 
 ### Activities
 
-###Reflecting on learning (15 minutes)
+### Reflecting on learning (15 minutes)
 
 The ECT should reflect on their first year of teaching and what they have learned so far about building trusting relationships with pupils.
 
@@ -178,7 +178,7 @@ Some key points for the conversation include:
 - Proactively highlighting successes to parents/carers (rather than only communicating negatives)
 - Providing opportunities for all pupils to succeed.
 
-###Building trusting relationships with pupils (15 minutes)
+### Building trusting relationships with pupils (15 minutes)
 
 The ECT should feed back their reflections from the lesson observation agreed in the last topic and identify two or three strategies used by the teacher that they can use in their own practice, focusing on:
 
@@ -187,7 +187,7 @@ The ECT should feed back their reflections from the lesson observation agreed in
 - Their approaches to managing behaviour
 - Evidence of mutual trust and respect between pupil and teacher.
 
-###Consistent responses to behaviour (15 minutes)
+### Consistent responses to behaviour (15 minutes)
 
 Thinking back to module 1, the ECT should:
 
@@ -217,7 +217,7 @@ The conversation could also focus on the ECT’s consistent responses to good be
 
 For more detail around this, look back at Activity 1.4 in the self-directed study materials from module 1.
 
-###Building trusting relationships with pupils (10 minutes)
+### Building trusting relationships with pupils (10 minutes)
 
 In advance of next topic, the ECT and the mentor should agree a time when the ECT will collect evidence from pupils to learn about their views of what characterises a positive relationship with teachers. This information can be recorded using the adaptable handout on pupil voice prompts, asking pupils to write down three words that characterise effective relationships of a teacher with their pupils, adapting the question appropriately for pupils’ ages. The intention is for the ECT to learn about what works well for pupils in building a relationship of trust and mutual respect, so the focus is on all teachers, not on themselves.
 

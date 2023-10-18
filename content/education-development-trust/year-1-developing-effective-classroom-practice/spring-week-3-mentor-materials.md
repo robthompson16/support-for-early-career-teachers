@@ -18,7 +18,7 @@ Learn how to make good use of expositions, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 The ECT should have taught the lesson that was used in the previous topic to explore scaffolding. The beginning of this topic is a good time to reflect upon how it went.
 
@@ -34,7 +34,7 @@ You might ask whether they were aware of the expositions they made since the las
 
 Note: The ideas of abstract and concrete will be revisited in module 4: The importance of subject and curriculum knowledge.
 
-###Starting expositions at the point of current pupil understanding (10 minutes)
+### Starting expositions at the point of current pupil understanding (10 minutes)
 
 Guidance for mentors:
 
@@ -62,7 +62,7 @@ For a lesson that the ECT plans to teach in the next week where a difficult conc
 
 Pose the question: For the lesson you have chosen, what is the right starting point for the exposition?
 
-###Using graphical representations (15 minutes)
+### Using graphical representations (15 minutes)
 
 Read the following information together:
 
@@ -72,11 +72,11 @@ Read the following information together:
 
 Pose the question: Thinking about the exposition you are planning, what graphical representation could you use alongside your verbal explanation to support students in their understanding?
 
-###Using concrete representations of abstract ideas (15 minutes)
+### Using concrete representations of abstract ideas (15 minutes)
 
 Share the following definitions with the ECT:
 
-####What is an abstract idea?
+#### What is an abstract idea?
 
 An abstract idea or concept is one that can be difficult to grasp and/or vague. Often the definition of the abstract idea or concept is itself full of vague terms.
 
@@ -84,7 +84,7 @@ An abstract idea is one that is removed from what you can see in front of you â€
 
 Expecting pupils to understand what an abstract idea is from its definition alone is insufficient to support their understanding. It might help pupils to understand an abstract concept through a concrete example: a beach is a concrete example of the concept of erosion.
 
-####What is a concrete representation?
+#### What is a concrete representation?
 
 Concrete representations are used to support students to understand ideas that are abstract. A concrete representation of an abstract idea could be:
 
@@ -95,7 +95,7 @@ Concrete representations are used to support students to understand ideas that a
 
 Pose the question:You can use concrete representations with your expositions to make them clearer and more understandable for pupils. Thinking about the exposition you are planning, what concrete representations could you use?
 
-###Bringing it all together (5 minutes)
+### Bringing it all together (5 minutes)
 
 Suggested dialogue for mentors: Now that you have looked at the range of ways you could create an effective exposition, what will your final version look like? What is the narrative explanation going to cover? Will you include visuals? Will making it concrete help?
 
@@ -123,7 +123,7 @@ Learn how to model effectively, by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 The ECT should have taught the lesson that was used in the previous topic to explore scaffolding. The beginning of this topic is a good time to reflect upon how it went.
 
@@ -139,7 +139,7 @@ You might ask whether they were aware of the expositions they made since the las
 
 Note: The ideas of abstract and concrete will be revisited in module 4: The importance of subject and curriculum knowledge.
 
-###Starting expositions at the point of current pupil understanding (10 minutes)
+### Starting expositions at the point of current pupil understanding (10 minutes)
 
 Guidance for mentors:
 
@@ -167,7 +167,7 @@ For a lesson that the ECT plans to teach in the next week where a difficult conc
 
 Pose the question: For the lesson you have chosen, what is the right starting point for the exposition?
 
-###Using graphical representations (15 minutes)
+### Using graphical representations (15 minutes)
 
 Read the following information together:
 
@@ -177,11 +177,11 @@ Read the following information together:
 
 Pose the question: Thinking about the exposition you are planning, what graphical representation could you use alongside your verbal explanation to support students in their understanding?
 
-###Using concrete representations of abstract ideas (15 minutes)
+### Using concrete representations of abstract ideas (15 minutes)
 
 Share the following definitions with the ECT:
 
-####What is an abstract idea?
+#### What is an abstract idea?
 
 An abstract idea or concept is one that can be difficult to grasp and/or vague. Often the definition of the abstract idea or concept is itself full of vague terms.
 
@@ -189,7 +189,7 @@ An abstract idea is one that is removed from what you can see in front of you â€
 
 Expecting pupils to understand what an abstract idea is from its definition alone is insufficient to support their understanding. It might help pupils to understand an abstract concept through a concrete example: a beach is a concrete example of the concept of erosion.
 
-####What is a concrete representation?
+#### What is a concrete representation?
 
 Concrete representations are used to support students to understand ideas that are abstract. A concrete representation of an abstract idea could be:
 
@@ -200,7 +200,7 @@ Concrete representations are used to support students to understand ideas that a
 
 Pose the question:You can use concrete representations with your expositions to make them clearer and more understandable for pupils. Thinking about the exposition you are planning, what concrete representations could you use?
 
-###Bringing it all together (5 minutes)
+### Bringing it all together (5 minutes)
 
 Suggested dialogue for mentors: Now that you have looked at the range of ways you could create an effective exposition, what will your final version look like? What is the narrative explanation going to cover? Will you include visuals? Will making it concrete help?
 

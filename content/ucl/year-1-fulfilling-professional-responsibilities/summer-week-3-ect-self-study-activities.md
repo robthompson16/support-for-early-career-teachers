@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-3-ect-research-and-practice-summary"
 ---
 
-### Review: 10 mins
+###  Review: 10 mins
 
 Read the research and practice summary on this week’s topic. As you read, reflect on:
 
@@ -14,7 +14,7 @@ Read the research and practice summary on this week’s topic. As you read, refl
 
 As you work through the activities in this week’s self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
 
-### Theory to Practice: 30 mins
+###  Theory to Practice: 30 mins
 
 Analyse artefact and reflection – Find a piece of research evidence that interests you and then critically consider its credibility and applicability to your own context. To help you do this, there is guidance below for each of the stages.
 

@@ -13,7 +13,7 @@ next_path: "/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-3-ect-r
 
 ### Learning Intentions for this session
 
-####In addition to your personal focus, you will learn that:
+#### In addition to your personal focus, you will learn that:
 
 - Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
 - Teachers are key role models, who can influence the attitudes, values and behaviours of their pupil.

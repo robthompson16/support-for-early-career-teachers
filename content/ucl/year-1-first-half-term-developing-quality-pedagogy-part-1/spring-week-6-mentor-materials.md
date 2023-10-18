@@ -34,7 +34,7 @@ As this session is an opportunity for reflection, there is no research summary �
 
 Throughout the session, try to refer explicitly to the Learning Intentions and encourage your mentee to record key points in their Learning Log. Tailor your use of the Theory to Practice activities below in response to the Review and Plan section of this session.
 
-###Review and Plan 5 mins
+### Review and Plan 5 mins
 
 Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
 
@@ -44,7 +44,7 @@ Start this session by briefly following up the actions that the mentee set at th
 
 Clarify the Learning Intentions for this session with your mentee.
 
-###Theory to Practice 40 mins
+### Theory to Practice 40 mins
 
 Discussion with mentor<:
 
@@ -101,7 +101,7 @@ You might find it useful to translate this into ‘goal statements’ e.g.:
 
 ‘By the end of the year I will improve pupil outcomes by making more effective of use of pupil groupings. I will develop high expectations for all groups, make greater use of changing groups and ensure that groupings are based on subject specific criteria.’
 
-###Next Steps 5 mins
+### Next Steps 5 mins
 
 Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
 

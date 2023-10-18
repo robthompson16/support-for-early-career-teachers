@@ -28,7 +28,7 @@ Learn how to make good use of expositions, by:
 
 ### Activities
 
-###Introduction to the module (5 minutes)
+### Introduction to the module (5 minutes)
 
 Welcome the ECT to this module.
 
@@ -42,7 +42,7 @@ Help connect the ECT into the theme of this module with some of these questions:
 - What did they say/do that made you notice?
 - When they experienced cognitive overload, did the content get learnt? (By learnt we mean a lasting change, so the material is in the long-term memory)
 
-###Reviewing the evidence (20 minutes)
+### Reviewing the evidence (20 minutes)
 
 Guidance to mentors:
 
@@ -79,13 +79,13 @@ What are some of the techniques you read about that a teacher can use to ensure 
 - Taking your time with new material – don’t rush and give pupils time to process
 - Use memory aids like writing on the whiteboard so pupils don’t need to use working memory when attempting tasks.
 
-###Adapting a lesson to reduce the cognitive load (30 minutes)
+### Adapting a lesson to reduce the cognitive load (30 minutes)
 
 Explain to the ECT that one way of reducing cognitive load is to carefully consider how they introduce new material.
 
 Open [Handout 2.1](/assets/materials/edt-Block-2-mentor-handout-2.1.pdf) and read through the techniques together.
 
-####Discussion:
+#### Discussion:
 
 Consider a lesson your ECT will be teaching in the next week or so, in which pupils will be required to engage with some particularly complex or difficult learning which might represent a significant cognitive load. Think about:
 
@@ -93,7 +93,7 @@ Consider a lesson your ECT will be teaching in the next week or so, in which pup
 - How will this be presented?
 - How much information will they need to keep in working memory throughout the task(s)?
 
-####Planning together:
+#### Planning together:
 
 - Look at the upcoming lesson and identify some new learning, which might be difficult or complex for the students.
 - Go through Handout 2.1 and together choose one of the approaches to trial in the lesson.

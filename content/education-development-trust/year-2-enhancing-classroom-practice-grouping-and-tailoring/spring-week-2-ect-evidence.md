@@ -75,7 +75,7 @@ Structured team learning
   individually and then combine your scores to see which team has improved
   the most since last time"
 
-#### In your notepad
+####  In your notepad
 
 Answer the following questions:
 
@@ -256,7 +256,7 @@ Different schools will have different approaches to homework. The most important
 
 ### Potential benefits of homework
 
-####Short-term:
+#### Short-term:
 
 - Better retention of facts and knowledge
 - Increased understanding
@@ -264,7 +264,7 @@ Different schools will have different approaches to homework. The most important
 - Improved critical thinking skills
 - Possibility of extending the curriculum
 
-####Long term:
+#### Long term:
 
 - Development of better study habits
 - Development of better attitudes towards school

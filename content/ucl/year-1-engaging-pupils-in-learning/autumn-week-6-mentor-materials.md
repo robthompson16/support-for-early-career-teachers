@@ -139,21 +139,21 @@ Last week, your mentee thought in depth about one topic. The topic will have bee
 
 Here is a brief example from Key Stage 3 science that might help get you started
 
-###Curriculum point: Entry to Year 7
+### Curriculum point: Entry to Year 7
 
-####How is science characterised?
+#### How is science characterised?
 
 Science involves experiments, testing hypotheses. Biology, Physics and chemistry are together.
 
-###Curriculum point: Enrichment Week
+### Curriculum point: Enrichment Week
 
-####How is science characterised?
+#### How is science characterised?
 
 Science helps solves real-world problems and is related to technology and politics.
 
-###Curriculum point: Year 9
+### Curriculum point: Year 9
 
-####How is science characterised?
+#### How is science characterised?
 
 There are specialist areas of science that people focus upon in teams. These teams collaborate and peer review is important. We broadly divide biology, physics and chemistry, although there are lots of overlaps.
 

@@ -20,11 +20,11 @@ Learn how to develop as a professional by:
 
 ### Activities
 
-###Reflecting on learning (10 minutes)
+### Reflecting on learning (10 minutes)
 
 To start the topic, ask the ECT what they have done since last time you met and what they have gained from it. The rest of the topic will provide opportunities to reflect on progress across the whole year and look ahead to the second year of the programme.
 
-###Building effective relationships (20 minutes)
+### Building effective relationships (20 minutes)
 
 Looking ahead to next year, ask the ECT to identify who they need to:
 
@@ -55,7 +55,7 @@ Things to try with colleagues:
 - Talk to relevant colleagues about individual pupils and ask for strategies that work.
 - Talk to pastoral leads to get advice and strategies on behaviour.
 
-###Reflecting on progress made (20 minutes)
+### Reflecting on progress made (20 minutes)
 
 Using [Handout 6.5](/assets/materials/edt-Block-6-mentor-handout-6.5.pdf), ask the ECT to reflect on which statements ring true for them at the end of their first year as a qualified teacher. They can add further statements to the handout if they wish.
 
@@ -71,7 +71,7 @@ Guidance for mentors:
 - Mentors may need to challenge the ECT’s perceptions of both their strengths and their areas for development, and to help them focus on these as part of looking ahead to Year 2.
 - Remind the ECT that teachers are always learning and even the areas of strength can be developed further. We will think about this more as we go through the next year of the programme.
 
-###Looking ahead (10 minutes)
+### Looking ahead (10 minutes)
 
 End the topic (and the year) by asking the ECT what has stood out for them this year.
 

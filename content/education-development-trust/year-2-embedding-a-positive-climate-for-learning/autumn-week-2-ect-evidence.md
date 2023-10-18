@@ -117,7 +117,7 @@ questions below:
 
 Often, the policy for pupil rewards will be set at school rather than classroom level. While there may well be significant freedom for you as a teacher within this, what is rewarded and how will be closely linked to the culture and values of the school. The following video explains one school’s approach to this issue.
 
-####Extrinsic motivation
+#### Extrinsic motivation
 
 Watch this video of a school leader talking about how they support development of intrinsic motivation
 
@@ -146,7 +146,7 @@ I like to openly discuss motivation with my pupils and talk about my own persona
 
 {/details}
 
-###In your notepad
+### In your notepad
 
 - what does the school leader do to support motivation in their school?
 - are there any strategies you think might work particularly well? Why?

@@ -10,7 +10,6 @@ In this module you’ll look at how to gather evidence about the impact your tea
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss one of your development areas.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -36,7 +35,6 @@ There are no mentor activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss the impact your inquiry has had on you.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -48,7 +46,6 @@ Use the materials below as a platform to discuss the impact their inquiry has ha
 
 There are no activities this week.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -58,7 +55,6 @@ There are no activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this moudle’s practitioner inquiry.
 
-Duration: minutes.
 
 ### Mentors
 

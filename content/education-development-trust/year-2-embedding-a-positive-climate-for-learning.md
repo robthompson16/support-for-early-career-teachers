@@ -23,7 +23,6 @@ Watch the video introduction to this module.
 
 During the first week of the module you should catch up with your mentor to discuss what you’ll be learning in the weeks ahead.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -81,7 +80,6 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -91,7 +89,6 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

@@ -2,6 +2,12 @@ footer.govuk-footer role='contentinfo'
   .govuk-width-container
     .govuk-footer__meta
       .govuk-footer__meta-item.govuk-footer__meta-item--grow
+        h2.govuk-visually-hidden Support links
+        ul.govuk-footer__inline-list
+          li.govuk-footer__inline-list-item
+            == link_to("Accessibility", "/accessibility", class: "govuk-footer__link")
+          li.govuk-footer__inline-list-item
+            == link_to("Privacy", "https://www.gov.uk/government/organisations/department-for-education/about/personal-information-charter", class: "govuk-footer__link")
 
         svg.govuk-footer__licence-logo[
           role="presentation"

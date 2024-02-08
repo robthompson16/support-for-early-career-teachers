@@ -6,11 +6,12 @@ caption: "Summer week 2"
 
 ## Discussion - developing a coherent curriculum
 
-Duration: 60 minutes
+Duration: 60 minutes.
 
 ### Outcome
 
-By the end of this session your ECT will have:  
+By the end of this session your ECT will have:
+
 - understood why powerful analogies, illustrations and demonstrations can help pupils to learn key concepts   
 - identified 3 or 4 powerful analogies, illustrations or demonstrations within their subject area   
 - considered where and how to incorporate these analogies, illustrations and demonstrations into their teaching   
@@ -18,12 +19,9 @@ By the end of this session your ECT will have:
 ### Reference materials
 
 - [Identifying concepts, knowledge, and skills](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-2-ect-session-overview/) 
-
 - [Sequencing teaching and learning](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-3-ect-session-overview/) 
-
-- [Helping pupils to master important concepts, knowledge, and skills – part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/) 
-
-- [Helping pupils to master important concepts, knowledge, and skills – part 2](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-5-ect-session-overview/) 
+- [Helping pupils to master important concepts, knowledge, and skills - part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/) 
+- [Helping pupils to master important concepts, knowledge, and skills - part 2](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-5-ect-session-overview/) 
 
 ### Key questions and talking points
 

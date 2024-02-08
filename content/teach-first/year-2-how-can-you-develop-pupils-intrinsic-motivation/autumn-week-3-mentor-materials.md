@@ -4,9 +4,9 @@ heading: "Mentor materials"
 caption: "Autumn week 3"
 ---
 
-## Discussion – deconstructing and integrating the learning from the training session with an expert colleague
+## Discussion - deconstructing and integrating the learning from the training session with an expert colleague
 
-Duration: 60 minutes
+Duration: 60 minutes.
 
 We recommend attending this week’s training session with an expert colleague for reference. 
 
@@ -24,4 +24,4 @@ Use these discussion prompts to deconstruct the training session and help your E
 
 5. Reflect on your learning from both training sessions this half term. What will you now integrate into your own practice? 
 
-Consider the identified area for development and discuss how your ECT can integrate and apply what they’ve learnt in their practice. 
+Consider the identified area for development and discuss how your ECT can integrate and apply what they have learnt in their practice. 

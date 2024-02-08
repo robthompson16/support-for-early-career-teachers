@@ -6,11 +6,12 @@ caption: "Spring week 2"
 
 ## Training session - anticipating and addressing common misconceptions
 
-Duration: 90 minutes
+Duration: 90 minutes.
 
 ### Session objectives
 
 By the end of the session early career teachers (ECTs) will have:
+
 - identified common misconceptions in their subject  
 - identified strategies for anticipating and addressing misconceptions  
 - identified 2 strategies they’ll implement to anticipate and address misconceptions 
@@ -35,12 +36,10 @@ Facilitator to explain the purpose of the training session, session outcomes and
 
 1. Explain why misconceptions need to be identified and addressed to help pupils adjust their mental models and incorporate the correct information. 
 2. Explore how 2 of the following strategies can be used to help prevent pupils from developing misconceptions or address misconceptions: 
-
-- examples and non-examples 
-- analogies 
-- concept cartoons 
-- models 
-
+    - examples and non-examples 
+    - analogies 
+    - concept cartoons 
+    - models 
 3. Provide a quick recap on the strategies from Year 1. 
 4. Exemplify each strategy through a subject-specific example, such as through a concept in which misconceptions often occur. 
 

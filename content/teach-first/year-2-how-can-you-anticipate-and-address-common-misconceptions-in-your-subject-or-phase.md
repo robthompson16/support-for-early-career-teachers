@@ -6,6 +6,7 @@ caption: "Year 2"
 
 ### ECTs
 In this module you'll:
+
 - revisit some self-study materials from Year 1
 - take part in 2 training sessions
 - meet with your mentor and decide how to integrate learning into your teaching
@@ -19,9 +20,7 @@ Revisit the following self-study materials.
 Duration: 45 minutes.
 
 - [Planning for effective assessment](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-session-overview/)  
-
 - [Monitoring misconceptions](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-ect-session-overview/)   
-
 - [Helping pupils master important concepts, knowledge and skills - part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/)   
 
 
@@ -30,6 +29,7 @@ Duration: 45 minutes.
 ### ECTs
 
 You'll:
+
 - attend a training session arranged by your school’s induction tutor (90 minutes) 
 - meet your mentor to discuss the materials you reviewed in Week 1, and decide on a related area of focus for your professional development this half term (60 minutes) 
 
@@ -37,9 +37,9 @@ You'll:
 
 Use the materials below to arrange a training session on anticipating and addressing common misconceptions. 
 
-Duration: 90 minutes
+Duration: 90 minutes.
 
-[View induction tutor materials](https://support-for-early-career-teachers/teach-first/year-2-how-can-you-anticipate-and-address-common-misconceptions-in-your-subject-or-phase/spring-week-2-induction-tutor-materials.md.md)
+[View induction tutor materials](/teach-first/year-2-how-can-you-anticipate-and-address-common-misconceptions-in-your-subject-or-phase/spring-week-2-induction-tutor-materials/)
 
 ### Mentors
 
@@ -50,7 +50,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers/teach-first/year-2-how-can-you-anticipate-and-address-common-misconceptions-in-your-subject-or-phase/spring-week-2-mentor-materials.md.md)
+[View mentor materials](/teach-first/year-2-how-can-you-anticipate-and-address-common-misconceptions-in-your-subject-or-phase/spring-week-2-mentor-materials)
 
 ## Week 3
 
@@ -74,7 +74,8 @@ Duration: 60 minutes.
 
 We recommend attending this week’s training session with an expert colleague for reference. 
 
-Use the materials below to: 
+Use the materials below to:
+
 - deconstruct the learning from the training session 
 - plan how your ECT will integrate what they learned into their teaching 
 

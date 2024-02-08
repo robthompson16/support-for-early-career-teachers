@@ -6,7 +6,7 @@ caption: "Autumn week 2"
 
 ## Training session - developing pupils' intrinsic motivation
 
-Duration: 90 minutes
+Duration: 90 minutes.
 
 ### Session objectives
 
@@ -46,10 +46,10 @@ As this is the first training session of the year, ask teachers to introduce the
 
 1. Explain how supporting pupils to be successful in their learning can help increase motivation. 
 2. Explore how 2 of the following strategies can support pupils to be successful in their learning, and therefore feel more motivated: 
-- teaching in small steps 
-- planning effective explanations and tasks 
-- using mnemonics to support evaluation 
-- using concrete representation of abstract ideas 
+    - teaching in small steps 
+    - planning effective explanations and tasks 
+    - using mnemonics to support evaluation 
+    - using concrete representation of abstract ideas 
 3. Provide a quick recap on the strategy from Year 1. 
 4. Exemplify the strategy through a subject-specific example. This could be done by providing an example and non-example of how this would be done effectively. 
 5. Activity: Get ECTs to analyse the example discussing what makes it effective or how it could be improved. Or, give ECTs a new example and ask them to exemplify the strategy using their learning from the session. 

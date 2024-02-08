@@ -10,7 +10,8 @@ Duration: 90 minutes
 
 ### Session objectives
 
-By the end of the session early career teachers (ECTs) will have: 
+By the end of the session early career teachers (ECTs) will have:
+
 - understood that engagement can be a poor proxy for learning  
 - explored the importance of ensuring pupils’ thinking is focused on what you want them to learn 
 - identified strategies to make abstract concepts meaningful 
@@ -22,6 +23,7 @@ By the end of the session early career teachers (ECTs) will have:
 #### Introduction (10 minutes) 
 
 Settling task: Ask ECTs to reflect on:
+
 - how do you remember complex or new information? 
 - what techniques or strategies do you use? 
 
@@ -37,6 +39,7 @@ Explain the purpose of the training session, session outcomes and the related ea
 #### Strategies to make explanations memorable (5 minutes)
 
 Introduce key strategies that will support in making explanations memorable. We suggest: 
+
 - analogies 
 - metaphors 
 - mnemonics 

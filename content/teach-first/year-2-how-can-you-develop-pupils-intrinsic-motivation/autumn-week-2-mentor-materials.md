@@ -6,7 +6,7 @@ caption: "Autumn week 2"
 
 ## Discussion - how to develop pupils' intrinsic motivation
 
-Duration: 60 minutes
+Duration: 60 minutes.
 
 ### Outcome
 

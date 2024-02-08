@@ -42,6 +42,16 @@ Revisit how to help pupils journey from needing extrinsic motivation to being mo
 
 Consider the subject-specific skills you teach. Identify strategies to help pupils develop knowledge and skills.
 
+## Year 2: Spring term
+
+### [How can you use meaningful and memorable explanations?](/teach-first/year-2-how-can-you-use-meaningful-and-memorable-explanations/) 
+
+Explore ways to model concepts and make abstract concepts concrete. 
+
+### [How can you anticipate and address common misconceptions in your subject or phase?](/teach-first/year-2-how-can-you-anticipate-and-address-common-misconceptions-in-your-subject-or-phase/) 
+
+Identifying common misconceptions and supporting pupils to avoid them. 
+
 ## Year 2: Summer term
 
 ### [How can you use structured talk to develop pupils’ literacy?](/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy) 

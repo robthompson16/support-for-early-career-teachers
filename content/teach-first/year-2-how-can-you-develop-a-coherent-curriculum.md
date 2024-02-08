@@ -6,6 +6,7 @@ caption: "Year 2"
 
 ### ECTs
 In this module you'll:
+
 - revisit some self-study materials from Year 1
 - take part in 2 training sessions
 - meet with your mentor and decide how to integrate learning into your teaching
@@ -19,12 +20,9 @@ Revisit the following self-study materials.
 Duration: 45 minutes.
 
 - [Identifying concepts, knowledge, and skills](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-2-ect-session-overview/) 
-
 - [Sequencing teaching and learning](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-3-ect-session-overview/) 
-
-- [Helping pupils to master important concepts, knowledge, and skills – part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/) 
-
-- [Helping pupils to master important concepts, knowledge, and skills – part 2](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-5-ect-session-overview/)  
+- [Helping pupils to master important concepts, knowledge, and skills - part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/) 
+- [Helping pupils to master important concepts, knowledge, and skills - part 2](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-5-ect-session-overview/)  
 
 
 ## Week 2
@@ -32,6 +30,7 @@ Duration: 45 minutes.
 ### ECTs
 
 You'll:
+
 - attend a training session arranged by your school’s induction tutor (90 minutes) 
 - meet your mentor to discuss the materials you reviewed in Week 1, and decide on a related area of focus for your professional development this half term (60 minutes) 
 
@@ -39,7 +38,7 @@ You'll:
 
 Use the materials below to arrange a training session on developing a coherent curriculum. 
 
-Duration: 90 minutes
+Duration: 90 minutes.
 
 [View induction tutor materials](/teach-first/year-2-how-can-you-develop-a-coherent-curriculum/summer-week-2-induction-tutor-materials/)
 
@@ -77,6 +76,7 @@ Duration: 60 minutes.
 We recommend attending this week’s training session with an expert colleague for reference. 
 
 Use the materials below to: 
+
 - deconstruct the learning from the training session 
 - plan how your ECT will integrate what they learned into their teaching 
 

@@ -6,11 +6,12 @@ caption: "Spring week 2"
 
 ## Discussion - anticipating and addressing common misconceptions in the ECT’s subject or phase
 
-Duration: 60 minutes
+Duration: 60 minutes.
 
 ### Outcome
 
 By the end of this session your ECT will have:
+
 - identified 2 or 3 common misconceptions in their subject  
 - examined the foundational knowledge pupils would need to have to avoid these misconceptions occurring  
 - observed a modelled demonstration of how to effectively introduce one of these misconceptions  

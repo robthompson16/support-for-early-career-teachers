@@ -11,6 +11,7 @@ Duration: 90 minutes
 ### Session objectives
 
 By the end of the session early career teachers (ECTs) will have: 
+
 - identified skills and their component parts in their subject  
 - identified strategies to help pupils develop knowledge and skills as they develop expertise 
 - identified 2 strategies to implement that will support pupils to develop key skills in their subject 
@@ -40,11 +41,11 @@ Explain the purpose of the training session, session outcomes and the related EC
 #### Developing subject-specific key skills (55 minutes)
 
 1. Explain how strategies (such as modelling and combining verbal and graphical representations) can help pupils to develop knowledge and master key skills. 
-2. Explore how 2 of the following strategies can provide cognitive support, and support pupils to use and build on prior knowledge to develop key skills: 
-- Think Aloud or demonstrations 
-- worked examples 
-- combining verbal and graphical representations (sometimes referred to as ‘dual coding’) 
-3. Exemplify each strategy through subject-specific examples. 
+2. Explore how 2 of the following strategies can provide cognitive support, and support pupils to use and build on prior knowledge to develop key skills:
+    - Think Aloud or demonstrations 
+    - worked examples 
+    - combining verbal and graphical representations (sometimes referred to as ‘dual coding’)
+3. Exemplify each strategy through subject-specific examples.
 4. Activity: Ask ECTs to consider the impact that the strategy can have on learning, for example by asking ECTs to analyse effective and ineffective examples of using Think Aloud, demonstrations or worked examples. Or, ask them to script and share their own example of how Think Aloud or worked examples can be used to teach a key skill. ECTs could share their example with a partner and provide feedback to each other.  
 
 #### Next steps and close (10 minutes)

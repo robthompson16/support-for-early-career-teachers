@@ -11,15 +11,17 @@ Duration: 90 minutes
 ### Session objectives
 
 By the end of the session early career teachers (ECTs) will: 
+
 - know how developing talk supports literacy within a subject or phase  
 - have identified strategies to develop talk within their subject or phase  
-- have practiced incorporating identified strategies into their teaching practice   
+- have practised incorporating identified strategies into their teaching practice   
 
 ### Session structure
 
 #### Introduction (10 minutes) 
 
 Settling task: As ECTs arrived have the settling task presented. Ask ECTs to reflect on: 
+
 - what does ‘talk’ currently look like in your classroom? 
 - how do you currently support pupils to engage in purposeful talk?
 
@@ -35,15 +37,15 @@ Facilitator to explain the purpose of the training session, session outcomes and
 
 1. Recap on disciplinary literacy from Year 1 of the programme. 
 2. Link this to domain-specific talk; for example evaluating looks and sounds that are different in different subjects. Provide an example specific to the subject of the ECTs you’re working with. 
-3. Ask ECTs to reflect on other areas where talk might be specific to their subject (for example: reasoning, arguing, vocabulary). 
+3. Ask ECTs to reflect on other areas where talk might be specific to their subject (for example, reasoning, arguing, vocabulary). 
 
 #### High quality and structured talk (10 minutes)
 
 1. Explain the importance of quality of talk over quantity of talk. 
 2. Explain and model the importance of setting up a ‘talk culture’. For example: 
-- setting clear ‘talk norms’ or guidelines with your pupils 
-- ensuring talk activities have a clear goal 
-- where appropriate assigning roles for talk (for example the summariser and questioner), and the importance of changing these cognitive roles so pupils are not always assigned to the same one 
+    - setting clear ‘talk norms’ or guidelines with your pupils 
+    - ensuring talk activities have a clear goal 
+    - where appropriate assigning roles for talk (for example, the summariser and questioner), and the importance of changing these cognitive roles so pupils are not always assigned to the same one 
 
 #### Strategies for using structured talk to develop literacy – Dialogic questioning (25 minutes)
 
@@ -75,7 +77,7 @@ Facilitator to explain the purpose of the training session, session outcomes and
 
 - 3o Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.   
 
-- 3r Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g., requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary). 
+- 3r Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (for example, requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary). 
 
 #### Classroom practice  
 

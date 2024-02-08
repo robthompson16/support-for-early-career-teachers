@@ -10,7 +10,8 @@ Duration: 60 minutes
 
 ### Outcome
 
-By the end of this session your ECT will have:  
+By the end of this session your ECT will have:
+
 - explained what disciplinary literacy means and why it’s so important 
 - identified how to develop pupils’ comprehension in a specific subject 
 - identified how to develop writing in a specific subject 
@@ -20,7 +21,6 @@ By the end of this session your ECT will have:
 ### Reference materials
 
 - [Developing high-quality oral language](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-topic-overview/) 
-
 - [Developing reading and writing](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-developing-high-quality-reading-and-writing-skills-topic-overview/) 
 
 ### Key questions and talking points

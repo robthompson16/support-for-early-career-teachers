@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-2-ect-theory"
 ---
 
-### Higher Expectations
+### High Expectations
 
 1.5 A culture of mutual trust and respect supports effective relationships.
 

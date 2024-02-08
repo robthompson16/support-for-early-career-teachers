@@ -18,9 +18,9 @@ Revisit the following self-study materials.
 
 Duration: 45 minutes.
 
-- [Developing high-quality oral language](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-topic-overview/) 
+- [Developing high-quality oral language](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-topic-overview/) 
 
-- [Developing reading and writing](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-developing-high-quality-reading-and-writing-skills-topic-overview/) 
+- [Developing reading and writing](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-developing-high-quality-reading-and-writing-skills-topic-overview/) 
 
 
 ## Week 2
@@ -37,7 +37,7 @@ Use the materials below to arrange a training session on developing pupils’ li
 
 Duration: 90 minutes
 
-[View induction tutor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy/summer-week-2-induction-tutor-materials/)
+[View induction tutor materials](/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy/summer-week-2-induction-tutor-materials/)
 
 ### Mentors
 
@@ -48,7 +48,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy/summer-week-2-mentor-materials/)
+[View mentor materials](/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy/summer-week-2-mentor-materials/)
 
 ## Week 3
 
@@ -78,7 +78,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
 
 ## Weeks 4, 5 and 6
 

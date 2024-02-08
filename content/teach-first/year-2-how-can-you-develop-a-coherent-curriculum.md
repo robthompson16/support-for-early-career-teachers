@@ -18,13 +18,13 @@ Revisit the following self-study materials.
 
 Duration: 45 minutes.
 
-- [Identifying concepts, knowledge, and skills](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-2-ect-session-overview/) 
+- [Identifying concepts, knowledge, and skills](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-2-ect-session-overview/) 
 
-- [Sequencing teaching and learning](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-3-ect-session-overview/) 
+- [Sequencing teaching and learning](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-3-ect-session-overview/) 
 
-- [Helping pupils to master important concepts, knowledge, and skills – part 1](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/) 
+- [Helping pupils to master important concepts, knowledge, and skills – part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/) 
 
-- [Helping pupils to master important concepts, knowledge, and skills – part 2](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-5-ect-session-overview/)  
+- [Helping pupils to master important concepts, knowledge, and skills – part 2](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-5-ect-session-overview/)  
 
 
 ## Week 2
@@ -41,7 +41,7 @@ Use the materials below to arrange a training session on developing a coherent c
 
 Duration: 90 minutes
 
-[View induction tutor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-a-coherent-curriculum/summer-week-2-induction-tutor-materials/)
+[View induction tutor materials](/teach-first/year-2-how-can-you-develop-a-coherent-curriculum/summer-week-2-induction-tutor-materials/)
 
 ### Mentors
 
@@ -52,7 +52,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-a-coherent-curriculum/summer-week-2-mentor-materials/)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-a-coherent-curriculum/summer-week-2-mentor-materials/)
 
 ## Week 3
 
@@ -82,7 +82,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
 
 ## Weeks 4, 5 and 6
 

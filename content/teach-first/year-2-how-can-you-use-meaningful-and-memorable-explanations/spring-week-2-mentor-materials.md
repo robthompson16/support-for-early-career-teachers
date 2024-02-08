@@ -19,9 +19,9 @@ By the end of this session your ECT will have:
 
 ### Reference materials
 
-- [Planning for effective assessment](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-session-overview/)  
-- [Monitoring misconceptions](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-ect-session-overview/)   
-- [Helping pupils master important concepts, knowledge and skills - part 1](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/)   
+- [Planning for effective assessment](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-session-overview/)  
+- [Monitoring misconceptions](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-ect-session-overview/)   
+- [Helping pupils master important concepts, knowledge and skills - part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/)   
 
 ### Key questions and talking points
 

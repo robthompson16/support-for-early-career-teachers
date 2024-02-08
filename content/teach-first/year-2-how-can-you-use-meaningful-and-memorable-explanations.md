@@ -18,11 +18,11 @@ Revisit the following self-study materials.
 
 Duration: 45 minutes.
 
-- [Considering how to introduce new knowledge to pupils](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-do-pupils-learn/autumn-week-2-ect-session-overview/) 
+- [Considering how to introduce new knowledge to pupils](/teach-first/year-1-how-do-pupils-learn/autumn-week-2-ect-session-overview/) 
 
-- [Helping pupils remember](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-session-overview/) 
+- [Helping pupils remember](/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-session-overview/) 
 
-- [Explanations and modelling](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-session-overview/) 
+- [Explanations and modelling](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-session-overview/) 
 
 
 ## Week 2
@@ -39,7 +39,7 @@ Use the materials below to arrange a training session on using meaningful and me
 
 Duration: 90 minutes
 
-[View induction tutor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-use-meaningful-and-memorable-explanations/spring-week-2-induction-tutor-materials.md)
+[View induction tutor materials](/teach-first/year-2-how-can-you-use-meaningful-and-memorable-explanations/spring-week-2-induction-tutor-materials.md)
 
 ### Mentors
 
@@ -50,7 +50,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-use-meaningful-and-memorable-explanations/spring-week-2-mentor-materials.md)
+[View mentor materials](/teach-first/year-2-how-can-you-use-meaningful-and-memorable-explanations/spring-week-2-mentor-materials.md)
 
 ## Week 3
 
@@ -80,7 +80,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
 
 ## Weeks 4, 5 and 6
 

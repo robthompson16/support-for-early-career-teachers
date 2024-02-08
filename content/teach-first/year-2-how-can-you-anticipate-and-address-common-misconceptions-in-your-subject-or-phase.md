@@ -18,11 +18,11 @@ Revisit the following self-study materials.
 
 Duration: 45 minutes.
 
-- [Planning for effective assessment](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-session-overview/)  
+- [Planning for effective assessment](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-session-overview/)  
 
-- [Monitoring misconceptions](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-ect-session-overview/)   
+- [Monitoring misconceptions](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-ect-session-overview/)   
 
-- [Helping pupils master important concepts, knowledge and skills - part 1](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/)   
+- [Helping pupils master important concepts, knowledge and skills - part 1](/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-4-ect-session-overview/)   
 
 
 ## Week 2
@@ -80,7 +80,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
 
 ## Weeks 4, 5 and 6
 

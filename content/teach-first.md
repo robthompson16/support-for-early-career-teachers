@@ -34,20 +34,20 @@ In this module you’ll learn how to design a carefully sequenced and coherent s
 
 ## Year 2: Autumn term
 
-### [How can you develop pupils’ intrinsic motivation?](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/) 
+### [How can you develop pupils’ intrinsic motivation?](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/) 
 
 Revisit how to help pupils journey from needing extrinsic motivation to being motivated to work intrinsically. 
 
-### [How can you support pupils to develop subject-specific skills?](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-support-pupils-to-develop-subject-specific-skills/) 
+### [How can you support pupils to develop subject-specific skills?](/teach-first/year-2-how-can-you-support-pupils-to-develop-subject-specific-skills/) 
 
 Consider the subject-specific skills you teach. Identify strategies to help pupils develop knowledge and skills.
 
 ## Year 2: Summer term
 
-### [How can you use structured talk to develop pupils’ literacy?](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy) 
+### [How can you use structured talk to develop pupils’ literacy?](/teach-first/year-2-how-can-you-use-structured-talk-to-develop-pupils-literacy) 
 
 Explore the importance of talk in developing oral language and improved literacy. 
 
-### [How can you develop a coherent curriculum?](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-a-coherent-curriculum)
+### [How can you develop a coherent curriculum?](/teach-first/year-2-how-can-you-develop-a-coherent-curriculum)
 
 Recap the importance of foundational concepts, sequencing, prior knowledge and building mental models. 

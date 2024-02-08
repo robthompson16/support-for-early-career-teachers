@@ -18,9 +18,9 @@ Revisit the following self-study materials.
 
 Duration: 45 minutes.
 
-- [Developing pupils’ intrinsic motivation](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-6-ect-session-overview/)
-- [Further developing prior knowledge](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-3-ect-session-overview/) 
--[Providing additional scaffolds](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-4-ect-session-overview/) 
+- [Developing pupils’ intrinsic motivation](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-6-ect-session-overview/)
+- [Further developing prior knowledge](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-3-ect-session-overview/) 
+-[Providing additional scaffolds](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-4-ect-session-overview/) 
 
 ## Week 2
 
@@ -38,7 +38,7 @@ Use the materials below to:
 
 Duration: 60 minutes
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-2-mentor-materials/)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-2-mentor-materials/)
 
 ### Induction tutors
 
@@ -46,7 +46,7 @@ Use the materials below to arrange a training session on developing pupils’ in
 
 Duration: 90 minutes.
 
-[View induction tutor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-2-induction-tutor-materials)
+[View induction tutor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-2-induction-tutor-materials)
 
 ## Week 3
 
@@ -79,7 +79,7 @@ Use the materials below to:
 
 Duration: 60 minutes.
 
-[View mentor materials](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
+[View mentor materials](/teach-first/year-2-how-can-you-develop-pupils-intrinsic-motivation/autumn-week-3-mentor-materials)
 
 ## Weeks 4, 5 and 6
 

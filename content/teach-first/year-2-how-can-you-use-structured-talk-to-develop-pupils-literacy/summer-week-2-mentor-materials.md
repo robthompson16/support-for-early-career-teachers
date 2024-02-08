@@ -19,9 +19,9 @@ By the end of this session your ECT will have:
 
 ### Reference materials
 
-- [Developing high-quality oral language](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-topic-overview/) 
+- [Developing high-quality oral language](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-topic-overview/) 
 
-- [Developing reading and writing](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-developing-high-quality-reading-and-writing-skills-topic-overview/) 
+- [Developing reading and writing](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-1-ect-developing-high-quality-reading-and-writing-skills-topic-overview/) 
 
 ### Key questions and talking points
 

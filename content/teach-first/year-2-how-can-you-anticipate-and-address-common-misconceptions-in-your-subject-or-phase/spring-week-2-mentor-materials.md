@@ -20,9 +20,9 @@ By the end of this session your ECT will have:
 
 ### Reference materials
 
-- [Considering how to introduce new knowledge to pupils](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-do-pupils-learn/autumn-week-2-ect-session-overview/) 
-- [Helping pupils remember](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-session-overview/) 
-- [Explanations and modelling](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-session-overview/) 
+- [Considering how to introduce new knowledge to pupils](/teach-first/year-1-how-do-pupils-learn/autumn-week-2-ect-session-overview/) 
+- [Helping pupils remember](/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-session-overview/) 
+- [Explanations and modelling](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-session-overview/) 
 
 ### Key questions and talking points
 

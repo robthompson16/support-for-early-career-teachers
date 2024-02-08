@@ -19,9 +19,9 @@ By the end of this session your ECT will have:
 
 ### Reference materials
 
-- [Developing pupils’ intrinsic motivation](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-6-ect-session-overview/) 
-- [Further developing prior knowledge](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-3-ect-session-overview/) 
-- [Providing additional scaffolds](https://support-for-early-career-teachers.education.gov.uk/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-4-ect-session-overview/)
+- [Developing pupils’ intrinsic motivation](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-6-ect-session-overview/) 
+- [Further developing prior knowledge](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-3-ect-session-overview/) 
+- [Providing additional scaffolds](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-4-ect-session-overview/)
 
 ### Key questions and talking points
 
